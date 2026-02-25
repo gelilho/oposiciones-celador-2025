@@ -2,3 +2,7 @@
 *.swp
 *.swo
 *~
+
+# Podcasts - too large for git
+podcasts/*.mp3
+podcasts/*.wav

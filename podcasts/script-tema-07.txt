@@ -1,0 +1,81 @@
+Tema 7. Farmacia hospitalaria y esterilizacion.
+
+Hola, bienvenido de nuevo a tu podcast de oposiciones para celador. Hoy nos enfrentamos al Tema 7, que es uno de los mas densos y con mas datos concretos que te pueden preguntar. Hablamos de farmacia hospitalaria y esterilizacion. Hay muchas cifras, muchos metodos, muchas clasificaciones, asi que estate muy atento. Empezamos.
+
+Vamos primero con la farmacia hospitalaria. La farmacia hospitalaria es el servicio del hospital responsable de la seleccion, preparacion, control, dispensacion e informacion de medicamentos y productos sanitarios. Esta regulada por el Real Decreto Legislativo 1/2015, que aprueba el texto refundido de la Ley de garantias y uso racional de los medicamentos y productos sanitarios.
+
+Ojo con esto. El titular de la farmacia hospitalaria tiene que ser obligatoriamente un farmaceutico especialista en farmacia hospitalaria. Y como se consigue esa especialidad. Pues a traves del sistema FIR, que es el Farmaceutico Interno Residente. Es parecido al MIR de los medicos. El farmaceutico aprueba un examen nacional y luego se forma como residente durante cuatro anos en un hospital.
+
+Ahora, a nivel nacional, el organismo que regula los medicamentos es la AEMPS, la Agencia Espanola de Medicamentos y Productos Sanitarios. Esto cae mucho. La AEMPS es un organismo autonomo adscrito al Ministerio de Sanidad, y se encarga de garantizar la calidad, seguridad, eficacia y correcta informacion de los medicamentos y productos sanitarios en Espana. Es la AEMPS la que autoriza la comercializacion de medicamentos, la que retira del mercado los que tienen problemas, y la que emite alertas de seguridad.
+
+En cuanto al personal que trabaja en la farmacia hospitalaria, ademas del farmaceutico especialista que la dirige, encontramos otros farmaceuticos adjuntos, tecnicos en farmacia, auxiliares y celadores. El celador en farmacia tiene funciones de apoyo logistico, como el transporte de medicamentos, la reposicion de los carros de medicacion, y la carga y descarga de suministros farmaceuticos.
+
+Y aqui viene un concepto fundamental, el sistema de dispensacion por dosis unitaria, tambien llamado sistema de unidosis. Este sistema consiste en que la farmacia prepara la medicacion de cada paciente de forma individualizada, para un periodo de veinticuatro horas, y la coloca en un cajon del carro de unidosis con el nombre del paciente. Asi, cada enfermera sabe exactamente que medicacion le corresponde a cada paciente. El celador es el encargado de transportar estos carros de unidosis desde la farmacia hasta las plantas de hospitalizacion. Esto cae siempre.
+
+Las ventajas del sistema unidosis son muchas. Reduce errores de medicacion, permite un mejor control del consumo, disminuye el despilfarro y mejora la trazabilidad del medicamento desde la farmacia hasta el paciente.
+
+Otro concepto que te van a preguntar es el de medicamento generico. Un medicamento generico es aquel que tiene la misma composicion cualitativa y cuantitativa en principio activo y la misma forma farmaceutica que el medicamento de referencia, y cuya bioequivalencia ha sido demostrada. Se denomina utilizando la Denominacion Comun Internacional, que son las siglas DCI, seguido del nombre del laboratorio fabricante, y lleva las siglas EFG, que significan Equivalente Farmaceutico Generico. Por ejemplo, ibuprofeno Cinfa EFG. El principio activo es ibuprofeno, el laboratorio es Cinfa, y EFG indica que es generico.
+
+Bien, ahora pasamos a la segunda gran parte de este tema, que es la esterilizacion. Y aqui es donde hay mas datos que memorizar, asi que mucha atencion.
+
+Antes de hablar de esterilizacion, necesitamos entender cuatro conceptos fundamentales que mucha gente confunde.
+
+Primero, asepsia. La asepsia es la ausencia de microorganismos patogenos. Es un estado, no un proceso. Cuando decimos que un campo quirurgico es aseptico, significa que esta libre de germenes.
+
+Segundo, antisepsia. La antisepsia es el proceso de destruccion de microorganismos que estan sobre tejidos vivos, es decir, sobre la piel o las mucosas del paciente. Los productos que se usan se llaman antisepticos. Por ejemplo, la clorhexidina o la povidona yodada.
+
+Tercero, desinfeccion. La desinfeccion es la destruccion de microorganismos sobre superficies inertes, es decir, sobre objetos y superficies, no sobre personas. Los productos que se usan se llaman desinfectantes. Por ejemplo, la lejia.
+
+Y cuarto, esterilizacion. La esterilizacion es la destruccion total de todos los microorganismos, incluidas las esporas. Es el nivel maximo de eliminacion microbiana. Despues de la esterilizacion no queda nada vivo.
+
+No confundas antisepsia con desinfeccion. Antisepsia es sobre tejidos vivos, desinfeccion es sobre objetos. Y la esterilizacion va un paso mas alla, eliminando absolutamente todo, incluidas las esporas, que son las formas de resistencia mas dificiles de eliminar.
+
+Ahora vamos con los metodos de esterilizacion. Aqui hay muchos datos, asi que toma nota mental.
+
+Primer metodo, el autoclave, que utiliza calor humedo, concretamente vapor de agua a presion. Este es el metodo mas utilizado en los hospitales. Ojo, calor humedo, no seco. El autoclave funciona a dos combinaciones principales de temperatura y tiempo. Primera combinacion, ciento veintiun grados centigrados durante quince a veinte minutos. Segunda combinacion, ciento treinta y cuatro grados centigrados durante tres a siete minutos. A mas temperatura, menos tiempo. El indicador biologico del autoclave es el Geobacillus stearothermophilus. Este nombre te lo tienes que aprender si o si, porque lo preguntan constantemente. Geobacillus stearothermophilus para el autoclave. Recuerdalo, autoclave igual a calor humedo igual a Geobacillus stearothermophilus.
+
+Segundo metodo, el Poupinel, que tambien se llama horno de calor seco o estufa Poupinel. Este metodo utiliza calor seco, sin vapor, solo aire caliente. Las combinaciones son, ciento setenta grados centigrados durante una hora, o ciento ochenta grados centigrados durante treinta minutos. El indicador biologico del Poupinel es el Bacillus subtilis. Ojo, no confundas los indicadores. Autoclave con calor humedo usa Geobacillus stearothermophilus. Poupinel con calor seco usa Bacillus subtilis.
+
+Truco para recordar. La ese de seco te lleva a subtilis. La hache de humedo te lleva a stearothermophilus, que tambien tiene hache. Es un truco un poco forzado pero funciona.
+
+Tercer metodo, el oxido de etileno. Este es un metodo quimico que utiliza un gas toxico. Se usa para material termosensible, es decir, material que no soporta las altas temperaturas del autoclave o del Poupinel, como los plasticos, las gomas, o los dispositivos electronicos. El oxido de etileno es muy eficaz pero tiene el inconveniente de que es toxico y cancerigeno, por lo que requiere un periodo de aireacion posterior para que el material pierda los residuos del gas antes de poder usarse.
+
+Cuarto metodo, STERRAD, que es el sistema de gas plasma de peroxido de hidrogeno. Este es un metodo mas moderno que tambien sirve para material termosensible. Utiliza peroxido de hidrogeno, que es agua oxigenada, que se convierte en plasma mediante radiacion electromagnetica. Es mas rapido que el oxido de etileno y no deja residuos toxicos, por lo que no necesita periodo de aireacion. Se esta imponiendo como alternativa al oxido de etileno.
+
+Ahora vamos con una clasificacion que cae siempre en los examenes, la clasificacion de Spaulding. Esta clasificacion divide el instrumental sanitario en tres categorias segun el riesgo de infeccion.
+
+Articulos criticos. Son los que entran en contacto con tejidos esteriles o con el sistema vascular. Ejemplos, el instrumental quirurgico, las agujas, los cateteres intravasculares, los implantes. Estos articulos requieren esterilizacion obligatoria.
+
+Articulos semicriticos. Son los que entran en contacto con mucosas o piel no intacta, pero sin penetrar en tejidos esteriles. Ejemplos, los endoscopios, los tubos endotraqueales, los termometros rectales. Estos articulos requieren al menos desinfeccion de alto nivel.
+
+Articulos no criticos. Son los que solo entran en contacto con piel intacta. Ejemplos, los fonendoscopios, las cunas, los manguitos de tension, las bandejas. Estos articulos requieren limpieza y desinfeccion de nivel bajo o intermedio.
+
+Recuerda, critico con esterilizacion, semicritico con desinfeccion de alto nivel, no critico con limpieza. Esto cae siempre.
+
+La central de esterilizacion del hospital es el lugar donde se procesa todo el material. Esta central se organiza en tres zonas claramente diferenciadas con un flujo unidireccional del material.
+
+La zona sucia o zona de recepcion es donde llega el material contaminado y donde se realiza la limpieza y descontaminacion inicial.
+
+La zona limpia o zona de preparacion es donde se inspecciona, se clasifica, se empaqueta y se prepara el material para la esterilizacion.
+
+La zona esteril o zona de almacenamiento es donde se guarda el material ya esterilizado hasta que se distribuye a los servicios.
+
+El flujo siempre va de sucio a limpio a esteril, nunca al reves. Esto evita la contaminacion cruzada.
+
+Para terminar este tema, vamos a hablar de la higiene de manos, que es fundamental en la lucha contra las infecciones nosocomiales. La Organizacion Mundial de la Salud, la OMS, establecio los cinco momentos para la higiene de manos.
+
+Momento uno, antes del contacto con el paciente. Momento dos, antes de realizar una tecnica aseptica. Momento tres, despues del riesgo de exposicion a liquidos corporales. Momento cuatro, despues del contacto con el paciente. Y momento cinco, despues del contacto con el entorno del paciente.
+
+Esto cae siempre. Cinco momentos, cinco. Y el celador tambien debe cumplirlos, porque tambien tiene contacto con pacientes y con su entorno.
+
+En cuanto a los tipos de lavado de manos, tenemos tres. El lavado de manos rutinario o higienico, que se hace con agua y jabon durante al menos cuarenta a sesenta segundos. El lavado de manos antiseptico, que se hace con un jabon antiseptico como la clorhexidina. Y el lavado de manos quirurgico, que es el mas exhaustivo, dura de tres a cinco minutos, se hace con jabon antiseptico y abarca hasta los codos. Este ultimo lo realizan los cirujanos y el personal que entra al quirofano.
+
+Ademas, existe la friccion con solucion hidroalcoholica, que es una alternativa rapida y eficaz al lavado con agua y jabon cuando las manos no estan visiblemente sucias. Dura entre veinte y treinta segundos.
+
+Vamos a repasar los puntos clave del tema. La farmacia hospitalaria esta regulada por el Real Decreto Legislativo 1/2015. El titular debe ser farmaceutico especialista via FIR. La AEMPS es el organismo autonomo del Ministerio de Sanidad que regula los medicamentos. El sistema de dosis unitaria prepara la medicacion individualizada por paciente para veinticuatro horas. El medicamento generico se nombra con la DCI mas el laboratorio mas EFG.
+
+En esterilizacion, asepsia es ausencia de germenes, antisepsia es sobre tejidos vivos, desinfeccion es sobre objetos, y esterilizacion elimina todo incluidas esporas. El autoclave usa calor humedo a ciento veintiun grados quince a veinte minutos o ciento treinta y cuatro grados tres a siete minutos, con indicador Geobacillus stearothermophilus. El Poupinel usa calor seco a ciento setenta grados una hora o ciento ochenta grados treinta minutos, con indicador Bacillus subtilis. El oxido de etileno es un gas toxico para material termosensible. El STERRAD usa gas plasma de peroxido de hidrogeno.
+
+Clasificacion de Spaulding. Critico se esteriliza, semicritico desinfeccion de alto nivel, no critico limpieza. La central de esterilizacion tiene tres zonas, sucia, limpia y esteril. Y los cinco momentos de higiene de manos de la OMS son antes del contacto con el paciente, antes de tecnica aseptica, despues de riesgo de exposicion a fluidos, despues del contacto con el paciente, y despues del contacto con el entorno del paciente.
+
+Menudo tema, verdad. Pero si lo repasas con calma y asocias los datos, lo vas a clavar en el examen. Nos vemos en el proximo episodio. Animo y a seguir estudiando.

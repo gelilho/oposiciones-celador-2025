@@ -1,0 +1,93 @@
+Tema 6. Almacen y suministros en el ambito hospitalario.
+
+Hola, bienvenido a un nuevo episodio de tu podcast de oposiciones para celador. Hoy vamos a meternos de lleno en el Tema 6, que trata sobre el almacen y los suministros hospitalarios. Este es un tema que puede parecer sencillo, pero ojo, tiene mucha chicha y cae bastante en los examenes. Asi que concentrate bien, que empezamos.
+
+Vamos a arrancar con lo mas basico. Que es un suministro. Pues mira, un suministro es el proceso mediante el cual se provee de materiales y productos a un centro sanitario para que pueda funcionar correctamente. Y aqui lo primero que tienes que distinguir son dos tipos de suministro, que es algo que preguntan mucho. Tenemos el suministro externo y el suministro interno.
+
+El suministro externo es el que va desde el proveedor hasta el almacen del hospital. Es decir, una empresa externa le vende material al hospital, y ese material llega al almacen general. Ese es el circuito externo, proveedor a almacen.
+
+El suministro interno es el que va desde el almacen del hospital hasta los distintos servicios y unidades del centro. Por ejemplo, del almacen general a la planta de cirugia, o del almacen a urgencias. Eso es el circuito interno, almacen a servicios.
+
+Recuerda que esta distincion es fundamental. Externo es de fuera hacia el almacen, interno es del almacen hacia dentro del hospital. No los confundas.
+
+Ahora, para que el suministro funcione bien, el hospital tiene que planificar. Y eso se hace a traves de lo que se llama el plan de necesidades anual. Este plan se elabora normalmente a principio de ano y recoge todo lo que el hospital va a necesitar durante los proximos doce meses. Se basa en el consumo historico, es decir, en lo que se ha gastado en anos anteriores, y tambien en las previsiones de actividad. Ademas, se establecen los llamados pactos de consumo, que son acuerdos entre el servicio de suministros y las distintas unidades del hospital sobre la cantidad de material que cada servicio puede solicitar en un periodo determinado. Esto evita el despilfarro y permite una mejor gestion de los recursos. Esto cae siempre, asi que apuntatelo bien.
+
+Vamos ahora con una clasificacion muy importante del material. Tenemos que distinguir entre material fungible y material inventariable.
+
+El material fungible es aquel que se consume con el uso. Se gasta, desaparece, no lo puedes reutilizar. Ejemplos clasicos son las gasas, los guantes, las jeringas, las vendas, el papel higienico, los reactivos de laboratorio. Una vez que lo usas, se acabo, va a la basura.
+
+El material inventariable es aquel que se puede reutilizar, que tiene una vida util mas larga y que se registra en un inventario. Ejemplos son las camas, las sillas de ruedas, los monitores, las camillas, el mobiliario clinico. Este material no se consume con el uso, se mantiene en el tiempo.
+
+Ojo con esto, a veces en los examenes te ponen ejemplos tramposos. Un fonendoscopio es inventariable, unos guantes de latex son fungibles. Una bomba de infusion es inventariable, un cateter es fungible. Piensa siempre en si el objeto se gasta con el uso o no.
+
+Dentro del material inventariable, tenemos dos subcategorias. El material inventariable fijo, que no se mueve del sitio, como una cama empotrada o un equipo de rayos. Y el material inventariable movil, que si se puede desplazar, como una silla de ruedas o una camilla.
+
+Bien, pasemos ahora a la recepcion de mercancias, que es donde el celador tiene un papel protagonista. Cuando un proveedor trae material al hospital, hay un proceso que hay que seguir. Lo primero es comprobar que lo que llega coincide con lo que se habia pedido. Y para eso se usa el albaran. El albaran es el documento que acompana a la mercancia y que detalla que productos se entregan, en que cantidades y en que condiciones. El celador, o el responsable de almacen, tiene que cotejar el albaran con la nota de pedido y verificar que todo esta correcto, tanto en cantidad como en estado del material. Si hay algun problema, se anota en el albaran y se comunica.
+
+Ademas del albaran, hay otros documentos importantes. La nota de pedido o vale de pedido es el documento con el que un servicio del hospital solicita material al almacen. Lo rellena el responsable de la unidad y lo envia al almacen. La hoja de cargo es el documento que registra a que servicio se le entrega el material. Es una especie de justificante de que el almacen ha servido determinados productos a una unidad concreta. Esto es importante para el control del gasto.
+
+Ahora vamos con algo que les encanta preguntar en los examenes. Los metodos de valoracion de existencias. Aqui tienes que conocer tres siglas fundamentales. FIFO, LIFO y FEFO.
+
+FIFO viene del ingles First In, First Out. Primero en entrar, primero en salir. Esto significa que el material que llego primero al almacen es el primero que se distribuye. Es el metodo mas habitual en los hospitales y el mas logico, porque evita que el material se quede antiguo en las estanterias. Imaginate una estanteria de gasas. Las que llegaron hace tres meses se ponen delante, y las nuevas detras. Asi, siempre se usan primero las mas antiguas.
+
+LIFO es justo lo contrario. Last In, First Out. Ultimo en entrar, primero en salir. Este metodo se usa poco en sanidad porque puede provocar que material antiguo se quede sin usar y caduque.
+
+Y luego tenemos FEFO, que es First Expired, First Out. Primero en caducar, primero en salir. Este metodo es especialmente importante para medicamentos y productos que tienen fecha de caducidad. No importa cuando llego al almacen, lo que importa es cuando caduca. El que caduca antes, sale antes. En farmacia hospitalaria, FEFO es fundamental.
+
+Esto cae siempre. Recuerda, FIFO por fecha de entrada, FEFO por fecha de caducidad, LIFO por ultimo en llegar. En sanidad lo mas habitual es FIFO para material general y FEFO para productos con caducidad.
+
+Vamos ahora con los niveles de stock, que es otro tema estrella de los examenes. El stock es la cantidad de material almacenado en un momento determinado. Y hay varios niveles que tienes que conocer.
+
+El stock de seguridad o stock minimo es la cantidad minima de un producto que debe haber siempre en el almacen para evitar roturas de stock. Es decir, es un colchon de seguridad. Si baja de ese nivel, tenemos un problema porque podemos quedarnos sin material. Este stock tiene en cuenta posibles retrasos en los proveedores o picos inesperados de demanda.
+
+El stock maximo es la cantidad maxima de un producto que el almacen puede o debe almacenar. Superarlo significaria un sobrestock, que genera costes adicionales de almacenamiento y riesgo de caducidad.
+
+El punto de pedido es el nivel de stock en el cual hay que hacer un nuevo pedido al proveedor. Es un nivel intermedio entre el stock de seguridad y el stock maximo. Cuando las existencias bajan hasta el punto de pedido, se lanza una nueva orden de compra para que el material llegue antes de que se alcance el stock minimo.
+
+Y luego tenemos el stock optimo, que es la cantidad ideal de material que deberia haber en el almacen para satisfacer la demanda sin generar costes innecesarios. Ni mucho ni poco, lo justo.
+
+No confundas stock de seguridad con punto de pedido. El stock de seguridad es el nivel minimo, la reserva de emergencia. El punto de pedido es el momento en que hay que pedir mas material, y siempre esta por encima del stock de seguridad.
+
+Pasemos ahora a los inventarios. Un inventario es el recuento y registro de todos los bienes y materiales que tiene el almacen. Hay varios tipos de inventario.
+
+El inventario periodico se realiza en intervalos regulares de tiempo, por ejemplo, una vez al mes, una vez al trimestre o una vez al ano. El mas tipico es el inventario anual.
+
+El inventario rotativo o ciclico se hace de forma continua, contando diferentes grupos de productos en distintos momentos. Asi no hay que parar toda la actividad del almacen para hacer un recuento general. Hoy cuentas las gasas, manana los guantes, pasado los cateteres.
+
+El inventario perpetuo o permanente es un sistema informatizado que actualiza las existencias en tiempo real con cada entrada y salida de material. Es el sistema mas eficiente y el que tienden a usar los hospitales modernos con gestion informatizada.
+
+Y aqui viene otro concepto muy importante que cae mucho en examenes. El analisis ABC, tambien llamado analisis de Pareto. Este analisis clasifica los articulos del almacen en tres categorias segun su valor e importancia.
+
+Los articulos de categoria A son pocos en cantidad pero representan mucho valor. Concretamente, los articulos A son aproximadamente el veinte por ciento de los articulos del almacen, pero suponen el ochenta por ciento del valor total. Esto se conoce como la regla del ochenta veinte o principio de Pareto. Son los articulos mas caros o mas criticos, como los protesis, los implantes o ciertos medicamentos.
+
+Los articulos de categoria B son intermedios. Representan alrededor del treinta por ciento de los articulos y el quince por ciento del valor.
+
+Los articulos de categoria C son muchos en cantidad pero de poco valor individual. Representan el cincuenta por ciento de los articulos pero solo el cinco por ciento del valor. Son cosas como gasas, guantes, papel.
+
+La conclusion practica es que hay que prestar mas atencion y control a los articulos A, porque aunque son pocos, representan la mayor parte del gasto. Es logico, no vas a vigilar igual un paquete de gasas que una protesis de cadera.
+
+Recuerda la regla de Pareto. Veinte por ciento de los articulos, ochenta por ciento del valor. Esos son los A. Esto cae siempre.
+
+Ahora vamos con las funciones del celador en el almacen, que es donde te examinas tu. El celador de almacen tiene las siguientes funciones principales.
+
+Primera, carga y descarga de mercancias. El celador es el encargado de recibir los bultos y paquetes que traen los proveedores, descargarlos de los vehiculos y llevarlos al almacen. Tambien carga material para enviar a otros centros si es necesario.
+
+Segunda, distribucion interna. El celador reparte el material desde el almacen a las distintas unidades y servicios del hospital. Lleva los pedidos internos a cada planta, a cada servicio.
+
+Tercera, reposicion de material. El celador se encarga de reponer el material en los puntos de consumo. Por ejemplo, reponer gasas y guantes en los dispensadores de las plantas de hospitalizacion, o material en las consultas.
+
+Cuarta, colocacion y ordenacion del material en el almacen. El celador ayuda a organizar el material en las estanterias, siguiendo el metodo establecido, normalmente FIFO o FEFO.
+
+Quinta, control basico de existencias. Aunque no es su responsabilidad principal, el celador colabora en la vigilancia de los niveles de stock y avisa cuando un producto esta a punto de agotarse.
+
+Sexta, tramitacion de documentacion basica. El celador maneja los vales de pedido, los albaranes y las hojas de cargo bajo la supervision del responsable de almacen.
+
+Ojo con esto. El celador no decide que se compra, no negocia con proveedores, no autoriza pedidos. Su funcion es operativa, de manejo fisico del material y de apoyo logistico. Las decisiones de compra y gestion las toman los responsables de suministros y los directivos.
+
+En cuanto a las condiciones del almacen, hay que tener en cuenta que el almacen hospitalario debe cumplir ciertas condiciones. Debe estar limpio y ordenado, con buena ventilacion y temperatura adecuada. Algunos productos necesitan condiciones especiales, como la cadena de frio para ciertos medicamentos o hemoderivados. El almacen debe tener acceso facil para la carga y descarga, con muelles de descarga si es posible. Y debe tener un sistema de seguridad contra incendios y contra robos.
+
+Para terminar, vamos a repasar los puntos clave que mas caen en los examenes.
+
+Suministro externo es de proveedor a almacen. Suministro interno es de almacen a servicios. Material fungible se consume con el uso. Material inventariable se reutiliza y se registra. FIFO, primero en entrar primero en salir. FEFO, primero en caducar primero en salir. LIFO, ultimo en entrar primero en salir. Stock de seguridad es la reserva minima. Punto de pedido es cuando hay que pedir mas. Analisis ABC de Pareto, el veinte por ciento de los articulos supone el ochenta por ciento del valor. El albaran acompana a la mercancia. El vale de pedido lo emite el servicio que necesita material. La hoja de cargo registra a quien se entrega el material. Y el celador se encarga de la carga, descarga, distribucion, reposicion y ordenacion del material.
+
+Y con esto terminamos el Tema 6. Repasalo bien, haz esquemas con los tipos de stock y los metodos de valoracion, y sobre todo no confundas FIFO con FEFO. Nos vemos en el siguiente episodio. Mucho animo con el estudio.

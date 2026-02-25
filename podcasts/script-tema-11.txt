@@ -1,0 +1,103 @@
+Bienvenido al podcast de oposiciones de celador. Tema once. Conceptos de informatica.
+
+Este tema puede parecer diferente al resto, pero sale mucho en examen y tiene datos muy concretos que, si los memorizas, son puntos faciles. Vamos con ello.
+
+Empezamos con un poco de historia. El padre de la informatica es Charles Babbage. Babbage diseno la maquina analitica en el siglo diecinueve. Recuerda este nombre porque siempre lo preguntan.
+
+La primera computadora electromecanica fue la Mark uno, en mil novecientos cuarenta y cuatro. Electromecanica, no electronica. Ojo con esto. La primera computadora electronica fue la ENIAC, en mil novecientos cuarenta y cinco. Electronica, un ano despues. La trampa clasica es intercambiar electromecanica y electronica. Mark uno, mil novecientos cuarenta y cuatro, electromecanica. ENIAC, mil novecientos cuarenta y cinco, electronica.
+
+El primer ordenador personal, el primer PC de IBM, aparecio en mil novecientos ochenta y uno. Mil novecientos ochenta y uno, recuerdalo.
+
+Ahora vamos con el codigo binario y las unidades de informacion. Esto es fundamental.
+
+El bit es la unidad mas pequena de informacion. Solo puede tener dos valores, cero o uno. El bit es la unidad teorica mas importante de la informatica.
+
+Un nibble son cuatro bits. Un byte son ocho bits. El byte es la unidad practica mas importante. Ocho bits forman un byte.
+
+A partir de aqui, todo va multiplicando por mil veinticuatro. Un kilobyte son mil veinticuatro bytes. Un megabyte son mil veinticuatro kilobytes. Un gigabyte son mil veinticuatro megabytes. Un terabyte son mil veinticuatro gigabytes. Y un petabyte son mil veinticuatro terabytes.
+
+Ojo con una trampa muy importante. Mb con be minuscula significa megabits. MB con be mayuscula significa megabytes. Son diferentes. Internet se mide en megabits. El almacenamiento se mide en megabytes. Un byte son ocho bits, asi que ocho megabits son un megabyte.
+
+Ahora hardware y software. El hardware es la parte fisica del ordenador, lo que puedes tocar. El software es la parte logica, los programas.
+
+Vamos con los componentes principales del hardware. La placa base, tambien llamada placa madre o motherboard, es la pieza principal donde se conectan todos los componentes. Incluye el zocalo para el procesador, las ranuras de memoria o slots, el chipset, los conectores y la BIOS.
+
+La CPU o procesador es el cerebro del ordenador. Esta formada por dos partes. La Unidad de Control, que dirige las operaciones, y la Unidad Aritmetico Logica, la ALU, que realiza los calculos. Juntas forman el microprocesador. Su velocidad se mide en megahercios. CPU igual a UC mas ALU igual a microprocesador.
+
+La memoria RAM es una memoria volatil, lo que significa que pierde su contenido cuando se apaga el ordenador. Es de lectura y escritura. Temporal. La memoria ROM es una memoria permanente, de solo lectura. Contiene el firmware y la rutina de arranque o BIOS. No se borra al apagar.
+
+Recuerda la diferencia. RAM, volatil, temporal, lectura y escritura. ROM, permanente, solo lectura, firmware.
+
+El chipset se divide en dos partes. El puente norte gestiona los componentes rapidos: la CPU, la memoria RAM y los graficos. El puente sur gestiona los perifericos y el almacenamiento. Norte es lo rapido e importante. Sur es lo complementario.
+
+Vamos con el almacenamiento. El disco duro es el dispositivo principal de almacenamiento. Se organiza en pistas y sectores. Los tipos de conexion son IDE y SCSI. Hoy en dia tambien hay discos SSD, que son de estado solido y mucho mas rapidos.
+
+La memoria flash se usa en dispositivos USB y tarjetas de memoria. El disquete tiene una capacidad de uno coma cuarenta y cuatro megabytes. Uno coma cuarenta y cuatro megabytes, dato clasico de examen. El CD ROM almacena setecientos megabytes. El DVD almacena cuatro coma siete gigabytes. La cinta magnetica se usa para copias de seguridad.
+
+Ahora los conectores. Esto cae siempre en examen, asi que aprende los colores y los pines.
+
+El conector PS dos tiene dos colores. El verde es para el raton. El lila o morado es para el teclado. Verde raton, lila teclado. No los confundas, es una trampa clasica.
+
+El conector paralelo, tambien llamado LPT uno, tiene veinticinco pines en dos hileras. Se usaba para impresoras.
+
+El conector serie, tambien llamado COM, tiene nueve pines o veinticinco pines.
+
+El conector VGA tiene quince pines distribuidos en tres hileras. Quince pines, tres hileras. No dos hileras, que eso es el serie. Tres hileras. Se usa para conectar el monitor.
+
+El USB es el Universal Serial Bus, el conector mas universal. Y el FireWire, tambien conocido como IEEE mil trescientos noventa y cuatro, se usa para transferencia rapida de datos.
+
+Pasamos a los perifericos. Se clasifican en cuatro tipos.
+
+Los perifericos de entrada son los que meten informacion en el ordenador. Ejemplos: el teclado, con distribucion QWERTY, que es la mas comun. El raton. El escaner. La webcam. El microfono.
+
+Los perifericos de salida son los que sacan informacion. Ejemplos: el monitor, cuya unidad minima de imagen es el pixel. La impresora. Los altavoces.
+
+Los perifericos de entrada y salida, o E barra S, sirven para ambas cosas. Ejemplos: el disco duro, la memoria USB, la pantalla tactil.
+
+Los perifericos de comunicacion sirven para conectar ordenadores entre si. La tarjeta de red o NIC. El modem. Y aqui vienen tres dispositivos que siempre confunden.
+
+El hub o concentrador es el mas basico. Trabaja en la capa uno. Simplemente retransmite la senial a todos los puertos. No es inteligente.
+
+El switch o conmutador trabaja en la capa dos. Dirige la senial solo al puerto correcto usando la direccion MAC. Es mas inteligente que el hub.
+
+El router o encaminador trabaja en la capa tres. Dirige el trafico entre redes diferentes usando direcciones IP. Es el mas inteligente de los tres. Hub, switch, router, de menos a mas inteligente.
+
+La comunicacion inalambrica. El Bluetooth opera en la frecuencia de dos coma cuatro gigahercios. Dos coma cuatro gigahercios, dato de examen. El WiFi puede usar dos coma cuatro y cinco gigahercios. El infrarrojo necesita linea de vision directa.
+
+Terminamos con las impresoras. Se clasifican de varias formas.
+
+Por metodo de impresion, las de impacto usan un mecanismo fisico que golpea. Ejemplos: la impresora de margarita y la impresora matricial o de agujas. Las de sin impacto no golpean. Ejemplos: la impresora de inyeccion de tinta, que usa cartuchos. La impresora laser, que usa toner y tambor. Toner mas tambor igual a laser. Y la impresora termica, que usa papel termosensible especial.
+
+La velocidad de las impresoras se mide en paginas por minuto, ppm.
+
+Un detalle mas sobre la impresora laser. Funciona con un tambor fotosensible y toner, que es un polvo fino. El proceso es: carga, exposicion, revelado, transferencia y fusion. Es la mas rapida y la de mejor calidad para texto.
+
+Vamos a repasar los datos clave del tema once.
+
+Charles Babbage: padre de la informatica.
+Mark uno: mil novecientos cuarenta y cuatro, electromecanica.
+ENIAC: mil novecientos cuarenta y cinco, electronica.
+Primer PC IBM: mil novecientos ochenta y uno.
+Bit: cero o uno, unidad teorica mas importante.
+Byte: ocho bits, unidad practica mas importante.
+Nibble: cuatro bits.
+Kilobyte: mil veinticuatro bytes. Y asi sucesivamente.
+Mb minuscula: megabits. MB mayuscula: megabytes.
+CPU: Unidad de Control mas ALU, igual a microprocesador.
+RAM: volatil, lectura y escritura.
+ROM: permanente, solo lectura, BIOS.
+Puente norte: CPU, RAM, graficos.
+Puente sur: perifericos, almacenamiento.
+PS dos: verde raton, lila teclado.
+VGA: quince pines, tres hileras.
+Paralelo LPT uno: veinticinco pines.
+Disquete: uno coma cuarenta y cuatro megabytes.
+Hub: capa uno, retransmite todo.
+Switch: capa dos, dirige por MAC.
+Router: capa tres, dirige por IP.
+Bluetooth: dos coma cuatro gigahercios.
+Laser: toner mas tambor.
+Inyeccion: cartuchos de tinta.
+Velocidad impresora: paginas por minuto.
+
+Esto ha sido el tema once. Memoriza los numeros, los colores de los conectores y las diferencias entre RAM y ROM, hub switch y router. Son puntos faciles si los tienes claros. Mucho animo.
