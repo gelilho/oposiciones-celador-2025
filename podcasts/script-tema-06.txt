@@ -1,93 +1,191 @@
-Tema 6. Almacen y suministros en el ambito hospitalario.
+Bienvenido al podcast de oposiciones de celador. Hoy vamos con el Tema 6 completo: Los suministros, el almacen y la distribucion de pedidos. Este es un tema que tiene mucha carga de datos, siglas, conceptos y tablas, asi que vamos a ir punto por punto sin dejarnos nada. Preparate porque vamos a cubrir absolutamente todo lo que necesitas saber para el examen. Concentrate, coge tu cafe o tu agua, y arrancamos.
 
-Hola, bienvenido a un nuevo episodio de tu podcast de oposiciones para celador. Hoy vamos a meternos de lleno en el Tema 6, que trata sobre el almacen y los suministros hospitalarios. Este es un tema que puede parecer sencillo, pero ojo, tiene mucha chicha y cae bastante en los examenes. Asi que concentrate bien, que empezamos.
+Empezamos con el concepto de suministro. El suministro es el proceso de aprovisionamiento de materiales, productos y equipos necesarios para el funcionamiento de un centro sanitario. Esto abarca desde la deteccion de necesidades hasta la distribucion final a los servicios. Es decir, todo el recorrido que hace el material desde que se detecta que falta algo hasta que llega a la mano del profesional que lo va a usar.
 
-Vamos a arrancar con lo mas basico. Que es un suministro. Pues mira, un suministro es el proceso mediante el cual se provee de materiales y productos a un centro sanitario para que pueda funcionar correctamente. Y aqui lo primero que tienes que distinguir son dos tipos de suministro, que es algo que preguntan mucho. Tenemos el suministro externo y el suministro interno.
+Ahora bien, hay dos tipos de suministro y esto es fundamental que lo tengas claro porque lo preguntan mucho. Tenemos el suministro externo y el suministro interno.
 
-El suministro externo es el que va desde el proveedor hasta el almacen del hospital. Es decir, una empresa externa le vende material al hospital, y ese material llega al almacen general. Ese es el circuito externo, proveedor a almacen.
+El suministro externo es el que va desde los proveedores externos hasta el almacen del hospital. Por ejemplo, cuando una empresa vende material quirurgico al hospital y se lo entrega en el almacen. El origen es el proveedor externo, el destino es el almacen del hospital. Este tipo de suministro esta regulado por la Ley de Contratos del Sector Publico, e incluye procesos de licitaciones, concursos y adjudicaciones.
 
-El suministro interno es el que va desde el almacen del hospital hasta los distintos servicios y unidades del centro. Por ejemplo, del almacen general a la planta de cirugia, o del almacen a urgencias. Eso es el circuito interno, almacen a servicios.
+El suministro interno es el que va desde el almacen del hospital hasta los servicios y unidades del centro. Por ejemplo, cuando el almacen distribuye guantes a una planta de hospitalizacion. El origen es el almacen del hospital, el destino son los servicios y las unidades. Este se gestiona mediante vales de pedido internos.
 
-Recuerda que esta distincion es fundamental. Externo es de fuera hacia el almacen, interno es del almacen hacia dentro del hospital. No los confundas.
+Grabatelo bien: externo es de fuera hacia el almacen, interno es del almacen hacia los servicios. Si en el examen te preguntan por la relacion hospital-proveedor, eso es suministro externo. Si te preguntan por la relacion almacen-servicio, eso es suministro interno. No los confundas nunca.
 
-Ahora, para que el suministro funcione bien, el hospital tiene que planificar. Y eso se hace a traves de lo que se llama el plan de necesidades anual. Este plan se elabora normalmente a principio de ano y recoge todo lo que el hospital va a necesitar durante los proximos doce meses. Se basa en el consumo historico, es decir, en lo que se ha gastado en anos anteriores, y tambien en las previsiones de actividad. Ademas, se establecen los llamados pactos de consumo, que son acuerdos entre el servicio de suministros y las distintas unidades del hospital sobre la cantidad de material que cada servicio puede solicitar en un periodo determinado. Esto evita el despilfarro y permite una mejor gestion de los recursos. Esto cae siempre, asi que apuntatelo bien.
+Pasamos ahora al plan de necesidades. El plan de necesidades es un documento que recoge las previsiones de consumo de materiales para un periodo determinado, que generalmente es anual. Se elabora al inicio del ejercicio presupuestario, es decir, a principio de ano. Es como el mapa de ruta de todo lo que el hospital va a necesitar comprar y distribuir durante los proximos doce meses.
 
-Vamos ahora con una clasificacion muy importante del material. Tenemos que distinguir entre material fungible y material inventariable.
+El plan de necesidades tiene varios elementos que tienes que conocer. Primero, el catalogo de productos, que es el listado codificado de todos los articulos utilizados en el centro. Cada producto tiene su codigo unico. Segundo, los pactos de consumo, que son acuerdos entre el almacen y los servicios sobre las cantidades maximas de consumo periodico. Estos pactos establecen limites para evitar la acumulacion innecesaria y el despilfarro. Esto es clave para el examen: los pactos de consumo son acuerdos almacen-servicio sobre cantidades maximas periodicas. Tercero, el presupuesto, que es la dotacion economica asignada para la adquisicion de suministros. Y cuarto, el calendario de entregas, que define la frecuencia y los dias de distribucion a cada servicio.
 
-El material fungible es aquel que se consume con el uso. Se gasta, desaparece, no lo puedes reutilizar. Ejemplos clasicos son las gasas, los guantes, las jeringas, las vendas, el papel higienico, los reactivos de laboratorio. Una vez que lo usas, se acabo, va a la basura.
+Ahora te voy a detallar las cinco fases del suministro, que es el ciclo completo por el que pasa el material. Fase uno: deteccion de necesidades, es decir, los servicios comunican lo que necesitan. Fase dos: tramitacion del pedido, que es la solicitud formal al proveedor. Fase tres: recepcion de mercancias, que es la entrada en el almacen. Fase cuatro: almacenamiento, que incluye la clasificacion y la ubicacion del material. Y fase cinco: distribucion, que es la entrega a los servicios solicitantes. Cinco fases: deteccion, tramitacion, recepcion, almacenamiento y distribucion. Aprendetelas en orden.
 
-El material inventariable es aquel que se puede reutilizar, que tiene una vida util mas larga y que se registra en un inventario. Ejemplos son las camas, las sillas de ruedas, los monitores, las camillas, el mobiliario clinico. Este material no se consume con el uso, se mantiene en el tiempo.
+Vamos ahora con la clasificacion del material, que tiene varias dimensiones. Esto es importante porque en el examen te pueden preguntar por cualquiera de estas clasificaciones.
 
-Ojo con esto, a veces en los examenes te ponen ejemplos tramposos. Un fonendoscopio es inventariable, unos guantes de latex son fungibles. Una bomba de infusion es inventariable, un cateter es fungible. Piensa siempre en si el objeto se gasta con el uso o no.
+Primera clasificacion: segun la durabilidad. Aqui distinguimos entre material fungible y material inventariable. El material fungible es el que se consume con el uso, no es reutilizable. Ejemplos: gasas, jeringas, guantes, suturas y reactivos de laboratorio. Su control se hace por consumo. El material inventariable es de uso duradero, no se consume, se amortiza con el tiempo. Ejemplos: camas, monitores, sillas de ruedas y electrocardiografos. Su control se hace por inventario, con numero de etiqueta. Truco para el examen: si el objeto se gasta al usarlo, es fungible. Si se mantiene y puedes ponerle una etiqueta con numero de inventario, es inventariable.
 
-Dentro del material inventariable, tenemos dos subcategorias. El material inventariable fijo, que no se mueve del sitio, como una cama empotrada o un equipo de rayos. Y el material inventariable movil, que si se puede desplazar, como una silla de ruedas o una camilla.
+Segunda clasificacion: segun la naturaleza. Tenemos material sanitario y material no sanitario. El material sanitario incluye medicamentos, material quirurgico, material de curas, protesis y reactivos de laboratorio. El material no sanitario incluye material de oficina, limpieza, lenceria, alimentacion y mantenimiento.
 
-Bien, pasemos ahora a la recepcion de mercancias, que es donde el celador tiene un papel protagonista. Cuando un proveedor trae material al hospital, hay un proceso que hay que seguir. Lo primero es comprobar que lo que llega coincide con lo que se habia pedido. Y para eso se usa el albaran. El albaran es el documento que acompana a la mercancia y que detalla que productos se entregan, en que cantidades y en que condiciones. El celador, o el responsable de almacen, tiene que cotejar el albaran con la nota de pedido y verificar que todo esta correcto, tanto en cantidad como en estado del material. Si hay algun problema, se anota en el albaran y se comunica.
+Tercera clasificacion: segun el uso. Tenemos material de uso clinico, que es el directamente relacionado con la asistencia al paciente. Material de uso general, que es comun a todas las areas, como papeleria y limpieza. Y material de uso especifico, que es propio de un servicio concreto, como el material de radiologia o de laboratorio.
 
-Ademas del albaran, hay otros documentos importantes. La nota de pedido o vale de pedido es el documento con el que un servicio del hospital solicita material al almacen. Lo rellena el responsable de la unidad y lo envia al almacen. La hoja de cargo es el documento que registra a que servicio se le entrega el material. Es una especie de justificante de que el almacen ha servido determinados productos a una unidad concreta. Esto es importante para el control del gasto.
+Y ademas hay otras clasificaciones que tambien debes conocer. Material esteril o no esteril. Material de un solo uso o reutilizable. Material con caducidad o sin caducidad. Y material peligroso, que requiere equipos de proteccion individual, o no peligroso. Todas estas clasificaciones pueden aparecer en el examen, asi que tenlas presentes.
 
-Ahora vamos con algo que les encanta preguntar en los examenes. Los metodos de valoracion de existencias. Aqui tienes que conocer tres siglas fundamentales. FIFO, LIFO y FEFO.
+Ahora entramos en un bloque muy importante: los tipos de almacenes en el hospital. Vamos a verlos todos uno por uno.
 
-FIFO viene del ingles First In, First Out. Primero en entrar, primero en salir. Esto significa que el material que llego primero al almacen es el primero que se distribuye. Es el metodo mas habitual en los hospitales y el mas logico, porque evita que el material se quede antiguo en las estanterias. Imaginate una estanteria de gasas. Las que llegaron hace tres meses se ponen delante, y las nuevas detras. Asi, siempre se usan primero las mas antiguas.
+Primer tipo: el almacen general. Su ubicacion es en una zona de facil acceso para vehiculos de carga y descarga, preferiblemente en planta baja. Su funcion es la recepcion, almacenamiento y distribucion de material no sanitario y material sanitario fungible, ojo, excepto medicamentos. Depende del Servicio de Suministros o de Gestion Economica. El responsable es el Jefe de almacen, que suele depender de la Subdireccion de Gestion o de Servicios Generales. El contenido incluye material de oficina, limpieza, lenceria, material sanitario fungible general, mobiliario y equipamiento diverso. Recuerda: el almacen general no tiene medicamentos, eso va a farmacia.
 
-LIFO es justo lo contrario. Last In, First Out. Ultimo en entrar, primero en salir. Este metodo se usa poco en sanidad porque puede provocar que material antiguo se quede sin usar y caduque.
+Segundo tipo: el almacen de farmacia. Su funcion es el almacenamiento y dispensacion de medicamentos y productos farmaceuticos. Depende del Servicio de Farmacia Hospitalaria. El responsable es el Farmaceutico titular. Y tiene varias particularidades muy importantes para el examen. Primero, control exhaustivo de estupefacientes y psicotropos, que se registran en un libro de registro oficial. Segundo, cadena de frio para medicamentos termolabiles, que deben conservarse entre 2 y 8 grados centigrados. Tercero, dispensacion mediante el sistema de dosis unitaria, que es el famoso carro unidosis. Cuarto, control de caducidades especialmente riguroso. Y quinto, condiciones ambientales controladas. El sistema de dosis unitaria es la dispensacion individualizada por paciente y toma desde farmacia. Esto cae mucho en los examenes.
 
-Y luego tenemos FEFO, que es First Expired, First Out. Primero en caducar, primero en salir. Este metodo es especialmente importante para medicamentos y productos que tienen fecha de caducidad. No importa cuando llego al almacen, lo que importa es cuando caduca. El que caduca antes, sale antes. En farmacia hospitalaria, FEFO es fundamental.
+Tercer tipo: la estafeta o servicio de correo interno. Su funcion es la recepcion, clasificacion y distribucion de correspondencia y paqueteria, tanto interna como externa. El contenido incluye correo postal, paquetes, muestras biologicas entre centros, documentacion administrativa y mensajeria interna. El responsable es habitualmente celadores o personal de servicios generales. Aqui el celador tiene un papel protagonista: se encarga del reparto de correspondencia a los distintos servicios y plantas del hospital.
 
-Esto cae siempre. Recuerda, FIFO por fecha de entrada, FEFO por fecha de caducidad, LIFO por ultimo en llegar. En sanidad lo mas habitual es FIFO para material general y FEFO para productos con caducidad.
+Y ademas hay otros almacenes especificos que debes conocer. El almacen de lenceria o lavanderia, donde se guarda la ropa hospitalaria limpia y sucia. El almacen de mantenimiento, con piezas de repuesto y herramientas. Los sub-almacenes de planta, que son pequenos almacenes en cada unidad de enfermeria para tener material a mano. Y el almacen de gases medicinales, donde se guardan las bombonas de oxigeno y protoxido de nitrogeno, y que tiene normas especificas de seguridad. Todos estos almacenes son susceptibles de aparecer en un examen, asi que no los ignores.
 
-Vamos ahora con los niveles de stock, que es otro tema estrella de los examenes. El stock es la cantidad de material almacenado en un momento determinado. Y hay varios niveles que tienes que conocer.
+Pasamos al proceso de recepcion de mercancias, donde el celador tiene un papel fundamental. Te voy a detallar todos los pasos del proceso, uno por uno. Paso uno: llegada del proveedor. El transportista se presenta en el muelle de descarga. Paso dos: descarga. Los celadores realizan la descarga fisica de la mercancia. Esto es funcion directa del celador. Paso tres: verificacion del albaran de entrega. Aqui se comprueba que el albaran corresponde al pedido realizado, se verifica que los datos del albaran coinciden en producto, cantidad, lote y caducidad, y se comprueba el estado fisico de los bultos, que no esten danados, mojados, y que los precintos esten intactos. Paso cuatro: cotejo albaran-pedido, es decir, comparar el albaran con la nota de pedido u orden de compra. Paso cinco: firma del albaran. Si todo esta correcto, se firma el albaran conforme. Un ejemplar queda para el proveedor y otro para el almacen. Paso seis: registro de entrada, que es la anotacion en el sistema informatico de gestion de almacen. Y paso siete: ubicacion, que es la colocacion del material en su lugar correspondiente segun la organizacion del almacen. Siete pasos: llegada, descarga, verificacion del albaran, cotejo con el pedido, firma, registro y ubicacion.
 
-El stock de seguridad o stock minimo es la cantidad minima de un producto que debe haber siempre en el almacen para evitar roturas de stock. Es decir, es un colchon de seguridad. Si baja de ese nivel, tenemos un problema porque podemos quedarnos sin material. Este stock tiene en cuenta posibles retrasos en los proveedores o picos inesperados de demanda.
+Ahora vamos con los documentos implicados en la recepcion, que es otra tabla que tienes que conocer al completo. Primer documento: la nota de pedido u orden de compra. La emite el hospital, concretamente el departamento de compras, y su funcion es solicitar mercancia al proveedor. Segundo documento: el albaran de entrega. Lo emite el proveedor, acompana a la mercancia y detalla su contenido. Tercer documento: la factura. La emite tambien el proveedor y es el documento contable para el pago. Cuarto documento: el parte de recepcion. Lo emite el almacen y registra internamente la entrada de mercancia. Y quinto documento: la nota de devolucion. La emite tambien el almacen y se usa cuando se rechaza mercancia defectuosa.
 
-El stock maximo es la cantidad maxima de un producto que el almacen puede o debe almacenar. Superarlo significaria un sobrestock, que genera costes adicionales de almacenamiento y riesgo de caducidad.
+Atencion especial al albaran, porque es uno de los documentos mas preguntados. El albaran acompana la mercancia del proveedor. Se verifica al recibir. Si hay discrepancias, se anota. Esto lo tienes que tener grabado a fuego.
 
-El punto de pedido es el nivel de stock en el cual hay que hacer un nuevo pedido al proveedor. Es un nivel intermedio entre el stock de seguridad y el stock maximo. Cuando las existencias bajan hasta el punto de pedido, se lanza una nueva orden de compra para que el material llegue antes de que se alcance el stock minimo.
+Y ahora los motivos de rechazo de mercancia. Hay siete motivos principales. Primero: mercancia no solicitada o diferente a la pedida. Segundo: cantidad inferior o superior a la pedida. Tercero: embalaje danado, roto o mojado. Cuarto: producto caducado o con caducidad corta. Quinto: temperatura inadecuada, es decir, cadena de frio rota. Sexto: falta de albaran o albaran incorrecto. Y septimo: falta de etiquetado o etiquetado ilegible. Cualquiera de estos motivos justifica rechazar la mercancia, y pueden preguntarte por todos ellos.
 
-Y luego tenemos el stock optimo, que es la cantidad ideal de material que deberia haber en el almacen para satisfacer la demanda sin generar costes innecesarios. Ni mucho ni poco, lo justo.
+Entramos ahora en la organizacion del almacen, un bloque denso pero muy importante. Empezamos con los principios generales de organizacion del almacen. Son cinco. Primero: aprovechamiento optimo del espacio, usando estanterias, palets y sistemas de almacenamiento vertical. Segundo: accesibilidad, colocando los materiales de mayor rotacion en las zonas mas accesibles. Tercero: orden y limpieza, que es fundamental para la localizacion rapida y la conservacion del material. Cuarto: seguridad, con prevencion de riesgos laborales como caidas de objetos, problemas con cargas e incendios. Y quinto: zonificacion, con areas diferenciadas para recepcion, almacenamiento, preparacion de pedidos y expedicion.
 
-No confundas stock de seguridad con punto de pedido. El stock de seguridad es el nivel minimo, la reserva de emergencia. El punto de pedido es el momento en que hay que pedir mas material, y siempre esta por encima del stock de seguridad.
+Y ahora viene uno de los bloques estrella del tema: los sistemas de rotacion de stock. Aqui tienes que dominar tres sistemas: FIFO, LIFO y FEFO.
 
-Pasemos ahora a los inventarios. Un inventario es el recuento y registro de todos los bienes y materiales que tiene el almacen. Hay varios tipos de inventario.
+Empezamos con FIFO: First In, First Out. El primero en entrar es el primero en salir. Este es el sistema mas utilizado en sanidad. Garantiza que los productos mas antiguos se distribuyen primero. Es fundamental para productos con caducidad. Los productos nuevos se colocan detras o debajo, y los antiguos delante o encima. Evita caducidades y deterioro. FIFO es el rey del almacen hospitalario.
 
-El inventario periodico se realiza en intervalos regulares de tiempo, por ejemplo, una vez al mes, una vez al trimestre o una vez al ano. El mas tipico es el inventario anual.
+Segundo sistema: LIFO. Last In, First Out. El ultimo en entrar es el primero en salir. El material mas reciente se distribuye primero. No es recomendado para productos con caducidad. Su uso es limitado en sanidad; es mas habitual en sectores industriales con productos no perecederos. En el examen, si te preguntan que sistema no se recomienda para productos con caducidad, la respuesta es LIFO.
 
-El inventario rotativo o ciclico se hace de forma continua, contando diferentes grupos de productos en distintos momentos. Asi no hay que parar toda la actividad del almacen para hacer un recuento general. Hoy cuentas las gasas, manana los guantes, pasado los cateteres.
+Tercer sistema: FEFO. First Expired, First Out. El primero en caducar es el primero en salir. Es una variante del FIFO aplicada especificamente a productos con fecha de caducidad. Se prioriza la salida del producto que antes caduca, independientemente de cuando entro al almacen. Muy utilizado en farmacia hospitalaria. La diferencia entre FIFO y FEFO es sutil pero importante: FIFO mira la fecha de entrada, FEFO mira la fecha de caducidad. En un examen pueden preguntarte esto como pregunta trampa.
 
-El inventario perpetuo o permanente es un sistema informatizado que actualiza las existencias en tiempo real con cada entrada y salida de material. Es el sistema mas eficiente y el que tienden a usar los hospitales modernos con gestion informatizada.
+Ahora las condiciones ambientales del almacen, con datos concretos que tienes que memorizar. Temperatura: el almacen general debe estar entre 15 y 25 grados centigrados. Los medicamentos termolabiles se conservan en nevera entre 2 y 8 grados centigrados. Los congelados a menos 20 grados centigrados. Humedad: entre el 40 y el 65 por ciento de humedad relativa, y se mide con un higrometro. Iluminacion: suficiente para trabajar, pero hay que proteger los productos fotosensibles de la luz directa. Ventilacion: adecuada para evitar la acumulacion de gases u olores. Y limpieza: programa de limpieza periodico, libre de plagas. Estos datos numericos son muy preguntados: 15 a 25 grados para el almacen general, 2 a 8 grados para termolabiles, menos 20 para congelados, 40 a 65 por ciento de humedad, y el higrometro es el aparato que mide la humedad.
 
-Y aqui viene otro concepto muy importante que cae mucho en examenes. El analisis ABC, tambien llamado analisis de Pareto. Este analisis clasifica los articulos del almacen en tres categorias segun su valor e importancia.
+Y ahora los sistemas de ubicacion dentro del almacen. Hay tres. Ubicacion fija: cada producto tiene una posicion asignada permanente. Ventaja: facil localizacion. Inconveniente: desaprovecha espacio. Ubicacion aleatoria, tambien llamada caotica: el producto se ubica en cualquier hueco libre. Ventaja: mayor aprovechamiento del espacio. Inconveniente: requiere sistema informatico para saber donde esta cada cosa. Y ubicacion mixta: combina ambas. Los productos de alta rotacion tienen posicion fija, y el resto se ubica de forma aleatoria. Este sistema mixto es el mas equilibrado.
 
-Los articulos de categoria A son pocos en cantidad pero representan mucho valor. Concretamente, los articulos A son aproximadamente el veinte por ciento de los articulos del almacen, pero suponen el ochenta por ciento del valor total. Esto se conoce como la regla del ochenta veinte o principio de Pareto. Son los articulos mas caros o mas criticos, como los protesis, los implantes o ciertos medicamentos.
+Pasamos a la gestion de stocks, otro bloque fundamental con muchos conceptos que tienes que dominar. Te voy a dar la definicion de cada concepto uno por uno.
 
-Los articulos de categoria B son intermedios. Representan alrededor del treinta por ciento de los articulos y el quince por ciento del valor.
+Stock: es la cantidad de material almacenado en un momento dado.
 
-Los articulos de categoria C son muchos en cantidad pero de poco valor individual. Representan el cincuenta por ciento de los articulos pero solo el cinco por ciento del valor. Son cosas como gasas, guantes, papel.
+Stock maximo: es la cantidad maxima de un producto que se debe almacenar. Superarlo implica costes excesivos de almacenamiento.
 
-La conclusion practica es que hay que prestar mas atencion y control a los articulos A, porque aunque son pocos, representan la mayor parte del gasto. Es logico, no vas a vigilar igual un paquete de gasas que una protesis de cadera.
+Stock minimo: es la cantidad minima por debajo de la cual existe riesgo de rotura de stock, es decir, riesgo de desabastecimiento.
 
-Recuerda la regla de Pareto. Veinte por ciento de los articulos, ochenta por ciento del valor. Esos son los A. Esto cae siempre.
+Stock de seguridad: es la cantidad extra mantenida para cubrir imprevistos, como retrasos del proveedor o aumentos inesperados de demanda. Es un colchon de seguridad. Esto lo preguntan mucho: el stock de seguridad sirve para cubrir imprevistos en el suministro.
 
-Ahora vamos con las funciones del celador en el almacen, que es donde te examinas tu. El celador de almacen tiene las siguientes funciones principales.
+Punto de pedido: es el nivel de stock en el que se debe realizar un nuevo pedido al proveedor. Y aqui viene una formula que tienes que memorizar: Punto de pedido es igual a Stock de seguridad mas, entre parentesis, Consumo medio diario multiplicado por Plazo de entrega. Es decir, punto de pedido igual a stock de seguridad mas consumo medio diario por plazo de entrega. Esta formula es clasica de examen.
 
-Primera, carga y descarga de mercancias. El celador es el encargado de recibir los bultos y paquetes que traen los proveedores, descargarlos de los vehiculos y llevarlos al almacen. Tambien carga material para enviar a otros centros si es necesario.
+Stock optimo: es el nivel ideal que equilibra los costes de almacenamiento con el riesgo de desabastecimiento. Ni mucho ni poco.
 
-Segunda, distribucion interna. El celador reparte el material desde el almacen a las distintas unidades y servicios del hospital. Lleva los pedidos internos a cada planta, a cada servicio.
+Rotura de stock: es la situacion en la que se agota un producto. Debe evitarse siempre, especialmente en sanidad, donde quedarse sin material puede tener consecuencias graves para los pacientes.
 
-Tercera, reposicion de material. El celador se encarga de reponer el material en los puntos de consumo. Por ejemplo, reponer gasas y guantes en los dispensadores de las plantas de hospitalizacion, o material en las consultas.
+Rotacion de stock: es el numero de veces que el stock se renueva en un periodo. Una alta rotacion indica eficiencia en la gestion.
 
-Cuarta, colocacion y ordenacion del material en el almacen. El celador ayuda a organizar el material en las estanterias, siguiendo el metodo establecido, normalmente FIFO o FEFO.
+Ahora los costes asociados al almacenamiento, que son cuatro. Coste de adquisicion: es el precio del producto. Coste de almacenamiento: incluye espacio, personal, seguros, deterioro y caducidad. Coste de pedido: es la gestion administrativa de cada pedido. Y coste de rotura: son las consecuencias de quedarse sin stock, como compras urgentes mas caras y retrasos asistenciales. Es importante entender que la gestion de stocks busca minimizar la suma de todos estos costes.
 
-Quinta, control basico de existencias. Aunque no es su responsabilidad principal, el celador colabora en la vigilancia de los niveles de stock y avisa cuando un producto esta a punto de agotarse.
+Y ahora la clasificacion ABC, basada en el principio de Pareto. Esta clasificacion divide los articulos del almacen en tres categorias segun su valor. Categoria A: el 20 por ciento de los articulos supone el 80 por ciento del valor del almacen. Estos articulos requieren un control exhaustivo. Categoria B: el 30 por ciento de los articulos supone el 15 por ciento del valor. Control medio. Categoria C: el 50 por ciento de los articulos supone el 5 por ciento del valor. Control simplificado. Resumiendo: A es 20-80, B es 30-15, C es 50-5. La regla de Pareto del 80-20 se aplica a los articulos de categoria A. En el examen, si te preguntan que porcentaje de articulos supone el 80 por ciento del valor, la respuesta es el 20 por ciento, y esos son los de categoria A.
 
-Sexta, tramitacion de documentacion basica. El celador maneja los vales de pedido, los albaranes y las hojas de cargo bajo la supervision del responsable de almacen.
+Vamos ahora con la distribucion de pedidos, que es el circuito interno de distribucion del material. El sistema de pedido sigue un circuito establecido con seis pasos. Paso uno: deteccion de la necesidad por el servicio o la unidad. Paso dos: cumplimentacion del vale de pedido, que es la hoja de solicitud, por personal autorizado del servicio, que habitualmente es el supervisor o supervisora de enfermeria. Paso tres: autorizacion del pedido por el responsable. Paso cuatro: preparacion del pedido en almacen, lo que se conoce como picking. Paso cinco: distribucion y entrega al servicio solicitante, y aqui intervienen los celadores. Y paso seis: recepcion y conformidad por el servicio receptor, que firma la recepcion.
 
-Ojo con esto. El celador no decide que se compra, no negocia con proveedores, no autoriza pedidos. Su funcion es operativa, de manejo fisico del material y de apoyo logistico. Las decisiones de compra y gestion las toman los responsables de suministros y los directivos.
+Los documentos de distribucion interna son cuatro, y te los voy a detallar todos. Primero: el vale de pedido o hoja de peticion. Es la solicitud formal del servicio al almacen. Incluye el servicio solicitante, los productos, las cantidades, la fecha y la firma del responsable. Segundo: la hoja de cargo. Es el documento que registra la salida de material del almacen y el servicio que lo recibe. Sirve para imputar costes a cada servicio. Tercero: el albaran interno. Acompana la mercancia en la distribucion interna, de almacen a servicio. Y cuarto: el vale de devolucion. Se usa para retornar material no utilizado o defectuoso al almacen.
 
-En cuanto a las condiciones del almacen, hay que tener en cuenta que el almacen hospitalario debe cumplir ciertas condiciones. Debe estar limpio y ordenado, con buena ventilacion y temperatura adecuada. Algunos productos necesitan condiciones especiales, como la cadena de frio para ciertos medicamentos o hemoderivados. El almacen debe tener acceso facil para la carga y descarga, con muelles de descarga si es posible. Y debe tener un sistema de seguridad contra incendios y contra robos.
+Atencion a la diferencia entre estos documentos. El vale de pedido lo emite el servicio que necesita material, es la solicitud. La hoja de cargo la emite el almacen, registra a quien se entrega el material y sirve para imputar el coste. El albaran interno acompana fisicamente al material. Y el vale de devolucion va en sentido contrario, del servicio de vuelta al almacen.
 
-Para terminar, vamos a repasar los puntos clave que mas caen en los examenes.
+Ahora los sistemas de distribucion, que son cuatro. Primer sistema: peticion individualizada. Cada servicio solicita segun sus necesidades puntuales. Es mas flexible pero genera mas trabajo administrativo. Segundo sistema: reposicion por niveles, tambien conocido como doble cajetin o sistema PAR. Cada servicio tiene un stock fijo asignado que se llama nivel PAR, y el almacen repone hasta ese nivel de forma periodica. Reduce las peticiones y simplifica la gestion. Tercer sistema: intercambio de carros. Carros completos preparados en almacen se intercambian por los vacios o usados del servicio. Y cuarto sistema: dosis unitaria, que se aplica en farmacia. La medicacion se dispensa de forma individualizada por paciente y toma. Es el sistema del carro unidosis.
 
-Suministro externo es de proveedor a almacen. Suministro interno es de almacen a servicios. Material fungible se consume con el uso. Material inventariable se reutiliza y se registra. FIFO, primero en entrar primero en salir. FEFO, primero en caducar primero en salir. LIFO, ultimo en entrar primero en salir. Stock de seguridad es la reserva minima. Punto de pedido es cuando hay que pedir mas. Analisis ABC de Pareto, el veinte por ciento de los articulos supone el ochenta por ciento del valor. El albaran acompana a la mercancia. El vale de pedido lo emite el servicio que necesita material. La hoja de cargo registra a quien se entrega el material. Y el celador se encarga de la carga, descarga, distribucion, reposicion y ordenacion del material.
+Y la frecuencia de distribucion varia segun el tipo de material. La distribucion diaria se aplica a la medicacion del carro unidosis y al material urgente. La distribucion semanal se aplica al material fungible general y al material de oficina. La distribucion mensual se aplica a lenceria y material de reposicion. Y la distribucion bajo demanda se aplica al material inventariable y a equipos especiales, que se piden cuando se necesitan.
 
-Y con esto terminamos el Tema 6. Repasalo bien, haz esquemas con los tipos de stock y los metodos de valoracion, y sobre todo no confundas FIFO con FEFO. Nos vemos en el siguiente episodio. Mucho animo con el estudio.
+Pasamos al inventario, que es otro bloque clasico de examen. El inventario es el recuento y verificacion de las existencias reales del almacen, comparandolas con los registros del sistema informatico. El objetivo es saber si lo que dice el ordenador coincide con lo que hay realmente en las estanterias.
+
+Hay tres tipos de inventario que tienes que conocer perfectamente. Primer tipo: inventario periodico. Es el recuento completo de todos los articulos del almacen en una fecha concreta. Se realiza generalmente de forma anual, al cierre del ejercicio, el 31 de diciembre. Segundo tipo: inventario rotativo o ciclico. Es el recuento parcial por zonas o familias de productos, de forma escalonada. Se hace de forma continua a lo largo del ano, cada semana o cada mes se cuenta una seccion diferente. Y tercer tipo: inventario perpetuo o permanente. Es el registro continuo de entradas y salidas mediante sistema informatico. El stock teorico se actualiza en tiempo real. Es continuo y automatizado.
+
+Y luego estan las diferencias de inventario, que se producen cuando el stock real no coincide con el registrado. Diferencia positiva: hay mas stock real que el registrado. Puede deberse a errores de registro de salidas, es decir, se registro que salio material que en realidad no salio. Diferencia negativa: hay menos stock real que el registrado. Puede deberse a hurtos, perdidas, roturas o errores de registro de entradas. Todas las diferencias deben investigarse y regularizarse.
+
+Llegamos ahora al bloque mas importante para ti como aspirante a celador: las funciones del celador en el almacen. Segun el Estatuto de Personal No Sanitario, la Orden de 5 de julio de 1971, y la normativa vigente, el celador tiene las siguientes funciones principales en el almacen. Te las voy a leer todas, una por una.
+
+Primera: carga y descarga de mercancias. Recepcion de vehiculos de proveedores, descarga fisica de bultos, paquetes y materiales. Segunda: traslado de mercancias. Movimiento de materiales dentro del almacen y del almacen a los servicios. Tercera: distribucion de pedidos. Reparto de material a las distintas unidades y servicios segun los vales de pedido. Cuarta: colocacion y organizacion. Ubicacion del material en estanterias y zonas de almacenamiento segun criterios establecidos. Quinta: control visual de stock. Comunicar al responsable cuando detecte niveles bajos de existencias. Sexta: verificacion basica en recepcion. Comprobar el estado fisico de bultos y la correspondencia con el albaran en cuanto a numero de bultos. Septima: transporte de correspondencia, es decir, funcion de estafeta. Reparto de correo y paqueteria interna. Octava: transporte de documentacion. Traslado de documentos, historias clinicas y resultados de pruebas entre servicios. Novena: mantenimiento del orden y limpieza de las zonas de trabajo. Y decima: manejo de carretillas, transpaletas y otros medios de transporte de material.
+
+Diez funciones del celador en almacen. Aprende a identificarlas en un examen tipo test.
+
+Y ahora, igualmente importante, lo que no es funcion del celador. Primero: la gestion administrativa de pedidos, es decir, la tramitacion e informatizacion. Eso no lo hace el celador. Segundo: la decision sobre productos a comprar o cantidades. Tercero: la negociacion con proveedores. Cuarto: la valoracion economica del stock. Y quinto: la firma de conformidad de albaranes, que la hace el responsable de almacen, no el celador. Si en el examen te ponen alguna de estas opciones como funcion del celador, es incorrecta. El celador tiene funciones operativas y fisicas, no administrativas ni de gestion.
+
+En cuanto a los equipos y herramientas del celador en almacen, hay cinco que debes conocer. La transpaleta manual o electrica, que se usa para mover palets. La carretilla elevadora, que requiere formacion especifica y autorizacion para su manejo. Ojo con esto, es una pregunta trampa clasica: el celador puede manejar transpaletas, pero para la carretilla elevadora necesita formacion y autorizacion especifica. Los carritos de transporte, para distribucion de material a servicios. El montacargas o ascensor de servicio, para transporte entre plantas. Y los equipos de proteccion individual o EPIs: guantes de carga, calzado de seguridad y faja lumbar.
+
+Pasamos al ultimo bloque de contenido: la gestion informatizada del almacen. En muchos hospitales del Sistema Nacional de Salud se utiliza SAP como sistema de gestion empresarial. La codificacion de productos hace que cada articulo tenga un codigo unico. Se usan codigos de barras y codigos QR para facilitar la lectura y el registro. Los lectores de codigo de barras se emplean para registrar entradas, salidas e inventarios. La gestion automatizada permite que el sistema calcule los puntos de pedido, genere alertas de stock minimo y controle las caducidades. Y la trazabilidad permite el seguimiento completo del producto desde su entrada hasta su consumo final.
+
+Bien, ahora vamos con el repaso final de datos clave para el examen. Te voy a repasar los veinte conceptos mas preguntados, uno por uno, y despues las preguntas tipo test frecuentes.
+
+Concepto uno: FIFO es el sistema de rotacion mas utilizado en sanidad. Primero en entrar, primero en salir.
+
+Concepto dos: FEFO, First Expired First Out, se usa especificamente para productos con caducidad, sobre todo en farmacia.
+
+Concepto tres: LIFO no se recomienda para productos con caducidad.
+
+Concepto cuatro: el stock de seguridad es el colchon para imprevistos como retrasos del proveedor o picos de demanda.
+
+Concepto cinco: la formula del punto de pedido. Punto de pedido igual a stock de seguridad mas consumo medio diario multiplicado por plazo de entrega. Memoriza esta formula.
+
+Concepto seis: la rotura de stock es el desabastecimiento, y es una situacion a evitar siempre.
+
+Concepto siete: el albaran acompana la mercancia del proveedor y se verifica al recibirla.
+
+Concepto ocho: el vale de pedido es la solicitud interna del servicio al almacen.
+
+Concepto nueve: la hoja de cargo es el registro de salida de material que imputa el coste al servicio receptor.
+
+Concepto diez: material fungible se consume con el uso, como gasas y jeringas. Material inventariable es de uso duradero, como camas y monitores.
+
+Concepto once: el inventario periodico es el recuento total, generalmente anual. El rotativo es parcial por zonas. El perpetuo es continuo e informatizado.
+
+Concepto doce: la clasificacion ABC basada en Pareto. A es el 20 por ciento de los articulos con el 80 por ciento del valor. B es el 30 por ciento con el 15 por ciento. C es el 50 por ciento con el 5 por ciento.
+
+Concepto trece: el almacen general guarda material general. El almacen de farmacia guarda medicamentos. La estafeta gestiona correo y paqueteria.
+
+Concepto catorce: las funciones del celador en almacen son carga, descarga, traslado, distribucion y colocacion. No la gestion administrativa.
+
+Concepto quince: el sistema de dosis unitaria es la dispensacion individualizada por paciente desde farmacia.
+
+Concepto dieciseis: los pactos de consumo son acuerdos entre almacen y servicio sobre cantidades maximas periodicas.
+
+Concepto diecisiete: el sistema de reposicion por niveles, tambien llamado PAR o doble cajetin, significa que el almacen repone hasta un nivel fijo preestablecido.
+
+Concepto dieciocho: la temperatura del almacen general debe estar entre 15 y 25 grados. Para medicamentos termolabiles entre 2 y 8 grados. Para congelados menos 20 grados.
+
+Concepto diecinueve: la humedad relativa debe estar entre el 40 y el 65 por ciento, y se mide con higrometro.
+
+Y concepto veinte: el celador en almacen puede manejar transpaletas, pero para la carretilla elevadora necesita formacion y autorizacion especifica.
+
+Y ahora vamos con las preguntas tipo test frecuentes. Voy a leer la pregunta y despues la respuesta correcta.
+
+Pregunta: El sistema FIFO consiste en... Respuesta correcta: el primero en entrar es el primero en salir.
+
+Pregunta: El stock de seguridad sirve para... Respuesta correcta: cubrir imprevistos en el suministro.
+
+Pregunta: El albaran es un documento que... Respuesta correcta: acompana la mercancia del proveedor y detalla su contenido.
+
+Pregunta: La funcion del celador en almacen incluye... Respuesta correcta: carga, descarga y distribucion de material.
+
+Pregunta: El inventario rotativo se caracteriza por... Respuesta correcta: recuento parcial por zonas de forma escalonada.
+
+Pregunta: En sanidad, el sistema de rotacion de stock mas utilizado es... Respuesta correcta: FIFO.
+
+Pregunta: El punto de pedido se calcula... Respuesta correcta: stock de seguridad mas consumo medio diario multiplicado por plazo de entrega.
+
+Y para terminar, te hago un resumen rapido de las preguntas trampa mas habituales de este tema.
+
+Primera trampa: confundir FIFO con FEFO. Recuerda, FIFO se basa en la fecha de entrada, FEFO se basa en la fecha de caducidad. FIFO es el mas usado en general, FEFO se aplica especificamente a productos con caducidad como los medicamentos.
+
+Segunda trampa: confundir stock de seguridad con punto de pedido. El stock de seguridad es la reserva minima de emergencia. El punto de pedido es el nivel en el que hay que pedir mas. El punto de pedido siempre esta por encima del stock de seguridad.
+
+Tercera trampa: poner como funcion del celador la gestion administrativa, la negociacion con proveedores o la firma de albaranes. El celador no hace eso. Sus funciones son fisicas y operativas.
+
+Cuarta trampa: confundir el albaran con el vale de pedido. El albaran lo emite el proveedor y acompana la mercancia. El vale de pedido lo emite el servicio del hospital y es una solicitud interna al almacen.
+
+Quinta trampa: decir que LIFO es adecuado para productos con caducidad. No lo es. LIFO no se recomienda para productos perecederos.
+
+Sexta trampa: preguntar por la carretilla elevadora. El celador puede usarla, pero necesita formacion especifica y autorizacion. No basta con ser celador para manejarla.
+
+Septima trampa: confundir el almacen general con el de farmacia. El almacen general almacena material general y fungible sanitario excepto medicamentos. Los medicamentos van siempre al almacen de farmacia, bajo responsabilidad del farmaceutico.
+
+Octava trampa: los datos numericos. La temperatura del almacen general es de 15 a 25 grados, no de 10 a 20 ni de 20 a 30. La cadena de frio para termolabiles es de 2 a 8 grados. La humedad relativa es del 40 al 65 por ciento. Si te cambian estos numeros en las opciones de respuesta, fijate bien.
+
+Novena trampa: la clasificacion ABC. Recuerda que A es el 20 por ciento de articulos con el 80 por ciento del valor, B es el 30 por ciento con el 15 por ciento, y C es el 50 por ciento con el 5 por ciento. Si te mezclan estos porcentajes, que es habitual, tira de la regla de Pareto: 20 por ciento de articulos, 80 por ciento del valor, esos son los A.
+
+Y decima trampa: la estafeta. La estafeta es el servicio de correo interno del hospital, y es una funcion tipica del celador. Si en el examen te preguntan quien se encarga del reparto de correspondencia, la respuesta es el celador.
+
+Y con esto hemos cubierto absolutamente todo el Tema 6 al completo: el concepto de suministro y sus tipos, el plan de necesidades, la clasificacion del material en todas sus dimensiones, los tipos de almacenes, el proceso de recepcion de mercancias con todos sus pasos y documentos, la organizacion del almacen, los sistemas FIFO LIFO y FEFO, las condiciones ambientales, los sistemas de ubicacion, la gestion de stocks con todos sus conceptos y formulas, la clasificacion ABC de Pareto, la distribucion de pedidos con sus sistemas y documentos, los inventarios, las funciones del celador, la gestion informatizada y todos los datos clave para el examen. No te has perdido ni un solo dato. Ahora repasa este episodio las veces que necesites, haz fichas con los conceptos clave, y sobre todo practica con preguntas tipo test. Mucho animo y nos vemos en el siguiente tema.

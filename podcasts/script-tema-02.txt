@@ -1,77 +1,199 @@
-Bienvenido de nuevo al podcast de preparacion de oposiciones para celador. Hoy vamos con el Tema 2, la unidad del paciente y el aparataje. Este tema es muy tecnico, tiene muchos numeros y medidas, asi que estate muy atento porque en el examen te van a preguntar datos concretos. Vamos a ello.
+Bienvenido al podcast de oposiciones de celador. Hoy vamos con el Tema 2 completo: la unidad del paciente, el mobiliario y el aparataje sanitario. Este tema esta cargadisimo de numeros, medidas y datos que caen en examen, asi que vamos a repasarlo absolutamente todo sin dejarnos nada. Vamos alla.
 
-Empecemos por definir que es la unidad del paciente. La unidad del paciente es el conjunto formado por el espacio fisico, el mobiliario y el material que se asigna a cada enfermo durante su estancia en el hospital. Es su espacio individual dentro de la habitacion. Incluye la cama, la mesilla, la silla, el armario, la mesa auxiliar, la luz individual y todo lo que necesite.
+Empezamos con la definicion de unidad del paciente. La unidad del paciente es el conjunto formado por el espacio fisico, que puede ser una habitacion entera o parte de ella, el mobiliario y el material que utiliza el paciente durante su estancia hospitalaria. Hay tantas unidades como camas exista en la habitacion. Si en una habitacion hay 2 camas, hay 2 unidades de paciente.
 
-Primer dato importante. En una habitacion de hospital puede haber como maximo 4 camas. Maximo 4. En la practica lo mas habitual son habitaciones de 1, 2 o 3 camas, pero el maximo son 4. Este dato cae en examen.
+Los elementos que componen la unidad del paciente son los siguientes. La cama hospitalaria, que es el elemento principal. La mesilla de noche, que es extensible y regulable en altura. La mesa de cama o bandeja, que es regulable y se usa para la alimentacion. El sillon de descanso, que es reclinable. El armario ropero, que tiene perchas y una manta de repuesto. El soporte de suero, tambien llamado pie de gotero, que es regulable en altura. El biombo, que sirve para preservar la intimidad del paciente. El escabel, que es una banqueta o taburete para acceder a la cama. El timbre de llamada, que esta conectado al control de enfermeria. Las tomas de oxigeno y vacio, que estan en el cabecero o en la pared. La lampara, que esta fijada a la pared. Y la papelera, que tiene tapa y pedal.
 
-Las distancias minimas son fundamentales. La distancia minima entre camas debe ser de 1 metro 20 centimetros. Uno veinte entre cama y cama. Y la distancia minima entre la cama y la pared debe ser de 1 metro 10 centimetros. Uno diez hasta la pared. Recuerda, 1.20 entre camas, 1.10 a la pared.
+Ahora la distribucion fisica y la normativa. Maximo 4 camas por habitacion. Cuando hay 4 camas se llama habitacion de sobreaforo o crujia. La distancia entre camas debe ser como minimo 1 metro 20 centimetros. La distancia de la cama a la pared debe ser como minimo 1 metro 10 centimetros. Nunca se debe colocar la cama bajo una ventana ni cerca de la puerta. La altura de los techos debe ser como minimo 2 metros 50 centimetros. La anchura de las puertas debe ser como minimo 1 metro 5 centimetros, para que pase una cama o camilla. Y la anchura de los pasillos debe ser como minimo 2 metros 20 centimetros. Todos estos numeros caen en examen: 4 camas maximo, 1,20 entre camas, 1,10 a la pared, 2,50 techos, 1,05 puertas, 2,20 pasillos.
 
-Ahora las condiciones ambientales de la habitacion. La temperatura debe estar entre 20 y 22 grados centigrados. La humedad relativa entre el 40 y el 60 por ciento. Estos dos datos, temperatura 20 a 22 y humedad 40 a 60, se repiten en varios temas, incluyendo quirofano, asi que aprendetelos bien.
+Hay tipos especiales de unidad del paciente segun el servicio. En Geriatria, la ducha tiene suelo antideslizante, hay asideros y agarraderas en el bano y la habitacion, y el mobiliario es sin aristas. En Pediatria, la decoracion es alegre e infantil, hay cuna o cama con barandillas altas y zona de juegos. En UCI, hay monitorizacion continua, mayor espacio, aparataje especifico y aislamiento. En la unidad de Aislamiento, la habitacion es individual, puede tener presion positiva para pacientes inmunodeprimidos o presion negativa para pacientes infecciosos, y tiene esclusa de entrada. Y en Psiquiatria, no hay elementos peligrosos, la cama es rigida y fijada al suelo, y las ventanas tienen rejas.
 
-Los techos deben tener una altura minima de 2 metros 50 centimetros. Las puertas deben tener un ancho minimo de 1 metro 05 centimetros, que es un poco mas de un metro para que puedan pasar las camas y sillas de ruedas sin problema. Y los pasillos deben tener un ancho minimo de 2 metros 20 centimetros. Dos veinte de pasillo. Techos 2.50, puertas 1.05, pasillos 2.20.
+Pasamos a las caracteristicas de la habitacion hospitalaria. Empezamos con la iluminacion. Debe disponer de iluminacion natural, que son las ventanas, e iluminacion artificial. Hay tres tipos de iluminacion artificial. La general, que ilumina toda la habitacion. La auxiliar o individual, que es una lampara en el cabecero para lectura o examen del paciente. Y la de emergencia, que es un piloto nocturno que se activa automaticamente si falla el suministro electrico.
 
-El color de las paredes. Blanco mate. No blanco brillo, que produce deslumbramiento. Blanco mate, porque es un color neutro que refleja bien la luz sin molestar a los pacientes. Si te preguntan por el acabado de las paredes, la respuesta es blanco mate.
+La ventilacion. La ventilacion natural consiste en abrir ventanas de 10 a 15 minutos al dia. En los sistemas de ventilacion con circuito cerrado o climatizada, no se deben abrir las ventanas porque el aire se renueva mediante el sistema centralizado. Y siempre hay que evitar corrientes de aire directas sobre el paciente.
 
-Muy bien, vamos ahora con la cama hospitalaria, que es el elemento central de la unidad del paciente. Las medidas estandar de la cama hospitalaria son las siguientes. Anchura, entre 80 y 90 centimetros. Longitud, entre 190 y 200 centimetros. Y altura, 70 centimetros del suelo. Ochenta a noventa de ancho, ciento noventa a doscientos de largo, setenta de alto. Estos numeros caen mucho en examen. La altura de 70 centimetros es importante porque facilita que el personal sanitario trabaje sin tener que agacharse demasiado.
+Las paredes y los suelos. Las paredes deben ser de color blanco mate, sin brillo, para evitar reflejos molestos. Atencion: blanco mate, no blanco brillo. Los suelos deben ser de facil limpieza y antideslizantes. Los materiales deben ser lavables e ignifugos.
 
-Ahora las articulaciones de la cama. Esto es un clasico de los examenes. Las camas articuladas pueden tener diferentes numeros de articulaciones, y cada articulacion divide la cama en un numero de segmentos. La regla es sencilla. Una cama con 1 articulacion tiene 2 segmentos. Una cama con 2 articulaciones tiene 3 segmentos. Una cama con 3 articulaciones tiene 4 segmentos. Siempre es el numero de articulaciones mas uno. Una articulacion, dos segmentos. Dos articulaciones, tres segmentos. Tres articulaciones, cuatro segmentos. Es como una regla matematica muy sencilla. N articulaciones, N mas 1 segmentos.
+La temperatura. En la habitacion del paciente, entre 20 y 22 grados centigrados. En los pasillos, entre 20 y 21 grados. Y en las consultas, entre 21 y 23 grados.
 
-Pasamos a la ropa de cama. El orden en que se coloca la ropa de cama es importantisimo. Desde abajo hacia arriba, el orden es el siguiente. Primero el colchon, que va sobre el somier. Sobre el colchon se pone la sabana bajera. Sobre la sabana bajera se pone el hule o cubrecolchon impermeable. Sobre el hule va la entremetida o traversa. Despues la sabana encimera. Luego la manta. Encima la colcha. Y por ultimo la almohada con su funda.
+La humedad. La humedad relativa optima es del 40 al 60 por ciento. En pacientes con afecciones respiratorias, la humedad se reduce al 10 a 20 por ciento. La humedad se mide con un higrometro. Atencion: higrometro, no termometro ni barometro. Pregunta trampa.
 
-Vamos a repetirlo. Colchon, bajera, hule, entremetida, encimera, manta, colcha, almohada. Ocho elementos en ese orden. Esto cae siempre en examen. Aprendetelo como una lista.
+El ruido segun la normativa de la OMS. En el interior por la noche, maximo 40 decibelios. En el interior de dia, maximo 30 decibelios. Y en habitaciones de tratamiento, maximo 35 decibelios.
 
-Ahora bien, hay dos detalles sobre las sabanas que me gustaria que recordases. La sabana bajera se coloca con el lado largo en el sentido longitudinal de la cama y con el derecho de la tela hacia arriba. En cambio, la sabana encimera se coloca con el lado ancho en sentido transversal y con el reves de la tela hacia arriba, para que cuando se doble por la cabecera, quede el derecho hacia fuera y se vea bonita. Bajera, largo y derecho. Encimera, ancho y reves. No confundas esto.
+Ahora pasamos al mobiliario hospitalario. La mesilla de noche es extensible y regulable en altura, permite guardar objetos personales del paciente, y suele tener cajon superior y compartimento inferior. El armario ropero tiene perchas para la ropa del paciente y debe contener una manta de repuesto. Generalmente es de una sola puerta. La papelera tiene tapa y pedal de apertura. Y la lampara esta fijada a la pared, en el cabecero de la cama, para iluminacion individual sin molestar a otros pacientes.
 
-Ahora vamos con los tipos de camas, que es un apartado largo pero muy importante. Voy a ir una por una.
+Vamos ahora con la cama hospitalaria, que es el elemento mas importante de todo este tema. Las dimensiones estandar son las siguientes. Ancho, de 80 a 90 centimetros. Largo, de 190 a 200 centimetros. Alto sin colchon, 70 centimetros. Y alto con colchon, en un rango regulable de 48 a 80 centimetros. Estos numeros los tienes que tener grabados: 80 a 90 de ancho, 190 a 200 de largo, 70 de alto.
 
-La cama rigida o de somier rigido. Se utiliza en psiquiatria y para ciertos pacientes que necesitan una superficie totalmente plana y firme. No tiene articulaciones.
+Las ruedas. La cama tiene 4 o 5 ruedas. Si son 5, una de ellas es central. Son de material de goma, que es silencioso y no dana el suelo. Tienen sistema de doble frenado, que bloquea la rueda y el giro.
 
-La cama articulada. Esta es la mas utilizada en los hospitales. La mas usada. Si te preguntan cual es la cama mas frecuente en el hospital, la respuesta es la articulada. Puede tener entre 2 y 4 segmentos dependiendo del numero de articulaciones.
+El somier. Puede ser rigido, que es una sola pieza y no permite posiciones articuladas. O puede ser articulado, que esta dividido en segmentos. Con 1 articulacion hay 2 segmentos. Con 2 articulaciones hay 3 segmentos, y este es el mas habitual. Con 3 articulaciones hay 4 segmentos, que da mayor versatilidad. La regla es facil: segmentos es igual a articulaciones mas 1.
 
-La cama de Judet o cama ortopedica. Ojo con esta. Esta cama la monta el celador. El celador. Es una cama metalica con un marco o cuadro balcanico que permite colgar poleas y pesas para las tracciones oseas. Si te preguntan quien monta la cama de Judet, la respuesta es el celador. Esto cae siempre.
+El cabecero y el piecero. El cabecero es extraible y desmontable. Esto es fundamental porque se necesita retirar para maniobras de reanimacion o RCP. Pregunta tipica de examen: por que es extraible el cabecero? Para la reanimacion. El piecero es extensible y se adapta a la estatura del paciente.
 
-La cama electrocircular o cama de Circ-O-Lectric. Esta cama permite girar al paciente 180 grados, de posicion supina a posicion prona y viceversa, sin necesidad de movilizarlo manualmente. Es como un sandwich circular que gira. 180 grados.
+El colchon. El material es latex, semirrigido. La capacidad de carga normal es de hasta 140 kilos. Los colchones especiales o bariatricos soportan hasta 350 kilos.
 
-La cama Roto Rest. Esta cama rota lateralmente de forma continua para prevenir ulceras por presion y complicaciones respiratorias. Esta en constante movimiento, balanceandose de un lado a otro.
+Ahora la ropa de cama y su orden de colocacion. Esto es fundamental para examen, tienes que memorizar el orden exacto. Primero, el colchon con su funda de colchon. Segundo, la sabana bajera. Tercero, el hule o empapador. Cuarto, la sabana entremetida, tambien llamada travesera. Quinto, la sabana encimera. Sexto, la manta. Septimo, la colcha. Y octavo, la almohada con su funda. La regla mnemotecnica es Co Ba Hu En Enci Man Col Al. Colchon, Bajera, Hule, Entremetida, Encimera, Manta, Colcha, Almohada.
 
-La cama Clinitron o cama de aire fluidificado. Esto cae siempre en examen. La cama Clinitron se utiliza para pacientes quemados. Quemados, grabatelo. Funciona con un colchon que contiene microesferas de silicona que se fluidifican con aire caliente, creando un efecto de flotacion que minimiza la presion sobre la piel. Clinitron igual a quemados.
+El doblado de sabanas. La sabana bajera se dobla a lo largo, con el derecho dentro, es decir, la parte buena hacia el colchon. La sabana encimera se dobla a lo ancho, con el reves dentro, la parte buena hacia el paciente. Y la sabana entremetida se dobla a lo ancho y a lo largo, con el derecho dentro, y se coloca a la altura de la pelvis.
 
-La cama de Stryker. Esta cama tambien permite girar al paciente, pero ojo con esto, no se puede usar en pacientes obesos. No obesos. Si te preguntan en que tipo de pacientes esta contraindicada la cama Stryker, la respuesta es en los obesos.
+Pasamos a los tipos de camas. Hay muchos tipos y todos caen en examen, asi que vamos uno por uno.
 
-La cama bariatrica. Esta si que es para pacientes obesos. Soporta hasta 500 kilogramos de peso. Quinientos kilos. Es mas ancha y mas resistente que una cama normal. Bariatrica, 500 kilos. Facil de recordar.
+La cama rigida. No permite posicion Fowler, puede estar fijada al suelo. Se usa en Psiquiatria.
 
-La incubadora. No es exactamente una cama pero se considera dentro de este apartado. La incubadora mantiene al neonato a una temperatura constante de entre 36 y 37 grados centigrados. Treinta y seis a treinta y siete grados, que es la temperatura corporal normal. Simula las condiciones del utero materno.
+La cama articulada. Tiene 2 o 3 articulaciones y es la mas utilizada en los hospitales. Es de uso general.
 
-Vamos ahora con los colchones. El colchon mas preguntado es el colchon antiescaras. El colchon antiescaras funciona mediante un sistema de celdas de aire que se inflan y desinflan alternativamente. El ciclo completo dura 4 minutos. Cuatro minutos. Cada 4 minutos las celdas cambian de presion, alternando las zonas de apoyo del paciente para prevenir ulceras por presion. Si te preguntan cada cuanto tiempo cambia el ciclo del colchon antiescaras, la respuesta es 4 minutos.
+La cama ortopedica o de Judet. Tiene un marco de Balkan, que es una barra metalica superior, con poleas y pesas. Dato importantisimo: la coloca el celador. Es la unica cama cuyo montaje es funcion especifica del celador. Se usa para fracturas y tracciones.
 
-El colchon de agua. Tiene una capacidad aproximada de 100 litros de agua. Cien litros. Se utiliza tambien para prevenir ulceras por presion. 100 litros, recuerdalo.
+La cama electrocircular o CircOlectric. Gira 180 grados con motor electrico y permite cualquier posicion. Se usa para grandes quemados y politraumatizados.
 
-Pasamos a las camillas. La camilla mas especial es la camilla de palas, tambien llamada camilla de cuchara o camilla de tijera. Ojo con esto porque es una pregunta clasica. La camilla de palas se utiliza solo para movilizar al paciente, nunca para trasladarlo. Solo movilizar, nunca trasladar. Se usa para recoger al paciente del suelo y colocarlo en otra camilla o en la cama, pero no se transporta al paciente sobre ella por los pasillos. Solo movilizar, nunca trasladar. Aprendetelo.
+La cama Roto Rest. Gira constantemente de forma automatica con oscilacion lateral. Se usa para la prevencion de ulceras por presion o UPP.
 
-La camilla de canasta, tambien llamada camilla Neil Robertson o camilla de rescate. Sus medidas son 217 centimetros de largo, 62 centimetros de ancho y 19 centimetros de alto. Y soporta un peso maximo de 270 kilogramos. 217 por 62 por 19, y 270 kilos de peso maximo. Se utiliza en rescates y evacuaciones.
+La cama Clinitron o de levitacion. Es un tanque con esferas de silicio fluidificadas por aire caliente. Se usa para grandes quemados y ulceras por presion graves.
 
-La silla de ruedas. El peso estandar de una silla de ruedas es de 17.4 kilogramos. Diecisiete con cuatro. Cuando el paciente esta sentado en la silla, las caderas deben estar a unos 100 grados de flexion, y las rodillas a 90 grados. Caderas 100, rodillas 90. Cien y noventa. Recuerda que las caderas estan un poco mas abiertas que las rodillas.
+La cama Gatch o de sedestacion. Permite pasar de decubito supino a posicion sentado. Para pacientes que necesitan incorporarse.
 
-Y por ultimo la grua. La grua de movilizacion de pacientes soporta entre 150 y 180 kilogramos de peso. Ciento cincuenta a ciento ochenta kilos. Tiene un brazo que se eleva aproximadamente 1 metro de altura, y el brazo puede girar 360 grados. Ciento cincuenta a ciento ochenta kilos, un metro de altura y 360 grados de giro. Si te preguntan cuanto peso soporta la grua, es entre 150 y 180 kilos.
+La cama Stryker o Foster. Permite posicion prona y supina con giro controlado. Atencion: no usar en pacientes obesos. Se usa para lesiones de columna vertebral.
 
-Vamos a hacer el repaso final de este tema con todos los numeros clave.
+La cama de laterizacion. Oscila 62 grados, 300 veces al dia, cada 4 a 5 minutos. Se usa para prevencion de UPP.
 
-Unidad del paciente. Maximo 4 camas por habitacion. Distancia entre camas 1.20 metros, distancia a la pared 1.10 metros.
+La cama Egerton Stoke Mandeville. Permite alineacion de vertebras e inclinacion hasta 90 grados. Se usa para lesiones medulares y vertebrales.
 
-Habitacion. Temperatura 20 a 22 grados, humedad 40 a 60 por ciento. Techos 2.50 metros, puertas 1.05 metros, pasillos 2.20 metros. Color blanco mate.
+La cama libro. Permite angulacion lateral, se abre como un libro. Para lesiones especificas laterales.
 
-Cama. 80 a 90 de ancho, 190 a 200 de largo, 70 de alto en centimetros. Articulaciones, 1 articulacion 2 segmentos, 2 articulaciones 3 segmentos, 3 articulaciones 4 segmentos.
+La cama bariatrica. Esta reforzada y soporta de 400 a 500 kilos. Se usa para obesidad morbida.
 
-Ropa de cama. Colchon, bajera, hule, entremetida, encimera, manta, colcha, almohada. Bajera largo y derecho, encimera ancho y reves.
+Y la incubadora. Es para preterminos, es decir, bebes nacidos antes de las 27 semanas o con peso inferior a 2.500 gramos. La temperatura se controla entre 36 y 37 grados centigrados. Se usa en neonatologia.
 
-Tipos de camas. Rigida en psiquiatria. Articulada la mas usada. Judet la monta el celador. Electrocircular gira 180 grados. Clinitron para quemados. Stryker no para obesos. Bariatrica hasta 500 kilos. Incubadora 36 a 37 grados.
+Repasemos las asociaciones rapidas cama y patologia. Fracturas y tracciones, cama ortopedica de Judet. Psiquiatria, cama rigida. Grandes quemados, cama electrocircular o Clinitron. Columna vertebral, cama Stryker o Foster. Prevencion de UPP, cama Roto Rest, de laterizacion, o colchon antiescaras. Obesidad morbida, cama bariatrica. Prematuros, incubadora. Lesiones medulares, Egerton Stoke Mandeville.
 
-Colchon antiescaras, ciclo de 4 minutos. Colchon de agua, 100 litros.
+Ahora los accesorios de la cama. El trapecio, tambien llamado triangulo de Balkan o estribo. Es una barra con asa triangular para que el paciente se incorpore por si mismo. Se fija al marco de Balkan.
 
-Camilla de palas, solo movilizar nunca trasladar. Camilla de canasta, 217 por 62 por 19, 270 kilos.
+Las barandillas laterales. Tienen una altura minima de 80 centimetros y sobresalen al menos 45 centimetros por encima del colchon. Sirven para proteccion contra caidas.
 
-Silla de ruedas, 17.4 kilos, caderas 100 grados, rodillas 90 grados.
+El arco de proteccion o arco de cama. Es una estructura metalica semicircular que evita el peso de la ropa sobre el paciente. Se usa en quemados y fracturas.
 
-Grua, 150 a 180 kilos, 1 metro de altura, 360 grados de giro.
+Las cunas tope. Son pequenas cunas de espuma para evitar desplazamientos del paciente.
 
-Si te sabes todos estos numeros, este tema lo tienes controlado. Son muchos datos pero con repeticion se quedan grabados. Nos vemos en el siguiente episodio con el Tema 3, movilizacion y posiciones. Animo y a por ello.
+La ferula antirrotacion. Evita la rotacion externa del pie. Se usa en fracturas de cadera.
+
+El soporte de bolsa de diuresis. Es un gancho lateral para la bolsa de orina. Siempre debe estar por debajo del nivel de la vejiga. Siempre por debajo.
+
+Y el soporte de pies o tope podal. Evita el pie equino y mantiene el pie en angulo recto.
+
+Pasamos a los colchones especiales. El colchon de latex es el estandar, semirrigido, hasta 140 kilos. El colchon de espuma es ligero, para uso general. El colchon de goma o tubos tiene celdas o tubos de aire. El colchon de esferas fluidificado tiene esferas de silicio con aire, es el de la cama Clinitron. El colchon antiescaras o alternating tiene celdas que se inflan y desinflan alternativamente cada 4 minutos. Cuatro minutos, ese dato cae seguro. El colchon de agua contiene aproximadamente 100 litros de agua. Y el colchon de agua mas poliuretano contiene de 10 a 12 litros de agua a 30 grados centigrados, y es mas manejable que el de agua pura.
+
+Ahora el aparataje sanitario. Empezamos con los aparatos de exploracion y diagnostico.
+
+El estetoscopio o fonendoscopio. Sirve para la auscultacion de sonidos corporales del corazon, pulmones y abdomen.
+
+El estetoscopio de Pinard. Es una trompetilla obstetrica para la auscultacion del latido fetal. Atencion: Pinard es para el feto, no para auscultacion cardiaca general.
+
+El esfigmomanometro. Sirve para la medicion de la presion arterial o tension arterial.
+
+El otoscopio. Para la exploracion del oido, el conducto auditivo externo y el timpano.
+
+El rinoscopio. Para la exploracion de las fosas nasales.
+
+El pelvimetro. Para la medicion de los diametros de la pelvis. Se usa en obstetricia.
+
+El depresor lingual. Para la exploracion de la faringe y la garganta. Baja la lengua.
+
+El martillo de reflejos. Para la exploracion de reflejos osteotendinosos.
+
+La lanceta. Para hacer una pequena incision para extraccion de sangre capilar.
+
+Y el optotipo. Es un panel para medir la agudeza visual.
+
+Seguimos con los aparatos de endoscopia. El broncoscopio sirve para la exploracion visual del arbol bronquial. Y el laringoscopio sirve para la exploracion de la laringe y para la intubacion endotraqueal. El laringoscopio consta de 5 partes: mango, pala, bombilla, conexion electrica y pilas. 5 partes, dato de examen.
+
+Los aparatos de reanimacion y soporte vital. El ambu o balon resucitador sirve para la ventilacion manual en parada respiratoria o soporte ventilatorio. El desfibrilador proporciona una descarga electrica para revertir arritmias graves como la fibrilacion ventricular o la taquicardia ventricular sin pulso. Y el pulsioximetro mide la saturacion de oxigeno, que se abrevia SpO2, en sangre mediante un sensor digital.
+
+Los aparatos de registro bioelectrico. El electrocardiografo, que se abrevia ECG o EKG, registra la actividad electrica del corazon. El electroencefalografo, que se abrevia EEG, registra la actividad electrica cerebral. Atencion: ECG es corazon, EEG es cerebro. No los confundas. Y el ecografo produce imagenes por ultrasonidos. No usa radiacion ionizante.
+
+Los aparatos de proteccion radiologica. El dosimetro mide la dosis de radiacion acumulada por el trabajador. El mandil plomado sirve para proteccion frente a radiaciones ionizantes. El grosor es de 0,5 milimetros en la parte frontal y 0,25 milimetros en el mandil completo o envolvente. Y el negatoscopio es un panel luminoso para visualizar radiografias. Atencion: negatoscopio es para radiografias, no para ecografias.
+
+Las siglas que debes conocer. SpO2 es la saturacion parcial de oxigeno y se mide con el pulsioximetro. ECG o EKG es el electrocardiograma. EEG es el electroencefalograma. Y TA es la tension arterial y se mide con el esfigmomanometro.
+
+Pasamos a las camillas. Hay varios tipos.
+
+La camilla de canasta o de rescate, tambien llamada Nell Robertson. Sus dimensiones son 217 por 62 por 19 centimetros. Soporta una carga maxima de 270 kilos. Es rigida y se usa para rescate en lugares de dificil acceso como montana o medio maritimo. Permite el izado vertical.
+
+La camilla de ambulancia. Sus dimensiones son 191 por 57 por 20 centimetros, pesa 35 kilos. Tiene respaldo reclinable hasta 75 grados, patas plegables y ruedas.
+
+La camilla de palas, tambien llamada de tijera o de cuchara. Pesa solo 7 kilos y soporta 300 kilos. Se abre por la mitad longitudinal. Dato clave: solo sirve para movilizar, nunca para trasladar. Hay que retirarla despues de colocar al paciente en otra superficie. Solo movilizar, nunca trasladar.
+
+El tablero espinal. Es rigido y plano. Se usa para inmovilizacion de la columna completa, con cinturones de fijacion y collarines.
+
+El colchon de vacio. Se adapta al cuerpo del paciente. Se extrae el aire para que se moldee al cuerpo y lograr una inmovilizacion total.
+
+La camilla fija o de reconocimiento. No tiene ruedas y se usa en consultas medicas para exploracion.
+
+La camilla movil. Tiene ruedas y se usa para transporte intrahospitalario.
+
+Y la camilla mortuoria. No tiene equipamiento especial y se usa para el traslado de cadaveres.
+
+Ahora la silla de ruedas. La posicion correcta del paciente es la siguiente. Cabeza y cuello en posicion vertical, alineados con el tronco. Caderas en flexion de 100 grados. Muslos en ligera abduccion, es decir, separados. Hombros en ligera rotacion interna. El angulo entre cadera y rodillas es de 90 grados. Y el tobillo en angulo de 90 grados, con el pie en posicion neutra.
+
+Los datos tecnicos de la silla de ruedas. El espacio lateral a cada trocanter debe ser de 1,2 a 2,5 centimetros a cada lado. El peso aproximado es de 17,4 kilos. Y el tipo de asiento recomendado es rigido, porque proporciona mejor distribucion de presiones.
+
+Otros equipos y elementos. La grua de movilizacion tiene una capacidad de carga de 150 a 180 kilos, una altura de elevacion de aproximadamente 1 metro, y un gancho con giro de 360 grados. Su funcion es la transferencia de pacientes de cama a sillon, de cama a banera, y similares.
+
+Los dispositivos de ayuda a la deambulacion. Los andadores son una estructura metalica de 4 apoyos, que pueden ser fijos, articulados o con ruedas. El baston ingles o Lofstrand tiene apoyo en antebrazo mediante abrazadera y permite soltar la mano sin caerse. Y el bipedestador es un dispositivo que permite al paciente mantener la posicion de bipedestacion, es decir, de pie.
+
+El equipamiento quirurgico y de consulta. La mesa de operaciones es articulada y permite multiples posiciones con fijacion del paciente. La mesa de Mayo, tambien llamada mesa de ciguena, es una bandeja metalica sobre pie con ruedas donde se coloca el instrumental quirurgico esteril. El escabel es un taburete o banqueta que sirve como escalon para acceder a la cama o mesa de exploracion. El comodo, tambien llamado cuna, es un recipiente para las deposiciones del paciente encamado. La lampara escialitica es la lampara sin sombras que se usa en el quirofano para iluminacion del campo quirurgico. Y el optotipo es el panel con letras o simbolos para medir la agudeza visual.
+
+Los carros hospitalarios. El carro de paradas contiene material de soporte vital avanzado: desfibrilador, ambu, laringoscopio, farmacos de emergencia, material de intubacion y vias venosas. Siempre debe estar accesible y revisado periodicamente. Y el carro de medicacion unidosis tiene cajones individuales por paciente con la medicacion prescrita para cada toma, es el sistema de dosis unitaria.
+
+Las funciones del celador relacionadas con este tema. El celador se encarga del montaje de la cama ortopedica o de Judet con su marco de Balkan. Realiza el traslado de pacientes en cama, camilla y silla de ruedas. Maneja las gruas para movilizacion de pacientes. Colabora en la colocacion del paciente en diferentes posiciones. Transporta aparataje y equipos entre servicios. Asegura que las camas y camillas estan frenadas durante las transferencias. Y atencion: no es funcion del celador hacer camas, eso es funcion de la auxiliar de enfermeria o TCAE, pero si colabora en el cambio de ropa con paciente encamado.
+
+Repasemos quien hace que con las camas. Hacer la cama, la auxiliar de enfermeria o TCAE. Montar la cama ortopedica de Judet, el celador. Colaborar en el cambio de ropa con paciente encamado, el celador colabora con la auxiliar. Trasladar camas y camillas, el celador. Manejar la grua, el celador.
+
+Vamos con el repaso final de todos los datos numericos que debes memorizar para el examen.
+
+Maximo camas por habitacion: 4. Distancia entre camas: 1,20 metros. Distancia cama a pared: 1,10 metros. Altura de techos: minimo 2,50 metros. Anchura de puertas: minimo 1,05 metros. Anchura de pasillos: 2,20 metros. Ancho de la cama: 80 a 90 centimetros. Largo de la cama: 190 a 200 centimetros. Alto sin colchon: 70 centimetros. Alto con colchon: 48 a 80 centimetros. Temperatura de la habitacion: 20 a 22 grados. Temperatura de pasillos: 20 a 21 grados. Temperatura de consultas: 21 a 23 grados. Humedad relativa: 40 a 60 por ciento. Humedad en afecciones respiratorias: 10 a 20 por ciento. Ruido interior noche segun la OMS: 40 decibelios. Ruido interior dia: 30 decibelios. Ruido en habitacion de tratamiento: 35 decibelios. Ventilacion natural: 10 a 15 minutos. Barandillas: altura minima 80 centimetros, sobresalen 45 centimetros. Colchon antiescaras: ciclo de 4 minutos. Colchon de agua: 100 litros. Colchon de agua con poliuretano: 10 a 12 litros a 30 grados. Colchon carga normal: 140 kilos. Colchon carga especial: 350 kilos. Cama bariatrica: 400 a 500 kilos. Cama de laterizacion: 62 grados, 300 veces al dia, cada 4 a 5 minutos. Incubadora: menos de 27 semanas o menos de 2.500 gramos, temperatura 36 a 37 grados. Electrocircular: gira 180 grados. Mandil plomado frontal: 0,5 milimetros. Mandil plomado completo: 0,25 milimetros. Camilla de canasta Nell Robertson: 217 por 62 por 19 centimetros, carga 270 kilos. Camilla de ambulancia: 191 por 57 por 20 centimetros, peso 35 kilos, respaldo 75 grados. Camilla de palas: 7 kilos de peso, carga 300 kilos, solo movilizar. Silla de ruedas peso: 17,4 kilos. Espacio trocanter: 1,2 a 2,5 centimetros. Caderas en silla de ruedas: 100 grados. Grua carga: 150 a 180 kilos. Grua altura: 1 metro. Grua gancho: 360 grados. Laringoscopio: 5 partes.
+
+Y finalmente las preguntas trampa mas frecuentes del tema 2.
+
+Primera. La cama ortopedica de Judet la monta la enfermera. Falso. La monta el celador.
+
+Segunda. La camilla de palas sirve para trasladar al paciente. Falso. Solo sirve para movilizar, nunca para trasladar.
+
+Tercera. La sabana bajera se dobla a lo ancho. Falso. Se dobla a lo largo, con el derecho dentro.
+
+Cuarta. La sabana encimera se dobla a lo largo. Falso. Se dobla a lo ancho, con el reves dentro.
+
+Quinta. La sabana entremetida se coloca a la altura del pecho. Falso. Se coloca a la altura de la pelvis.
+
+Sexta. La cama rigida se usa en traumatologia. Falso. Se usa en psiquiatria.
+
+Septima. La cama Stryker o Foster se puede usar en pacientes obesos. Falso. Esta contraindicada en obesos.
+
+Octava. La cama Clinitron usa aire frio. Falso. Usa esferas de silicio fluidificadas por aire caliente. Se usa para grandes quemados.
+
+Novena. El cabecero de la cama es fijo. Falso. Es extraible y desmontable, para poder hacer maniobras de reanimacion.
+
+Decima. La humedad se mide con un termometro. Falso. Se mide con un higrometro.
+
+Undecima. El pulsioximetro mide la tension arterial. Falso. Mide la saturacion de oxigeno, SpO2.
+
+Duodecima. El estetoscopio de Pinard se usa para auscultacion cardiaca general. Falso. Es para auscultacion fetal.
+
+Decimotercera. El esfigmomanometro mide la frecuencia cardiaca. Falso. Mide la tension arterial.
+
+Decimocuarta. El negatoscopio sirve para ver ecografias. Falso. Sirve para visualizar radiografias.
+
+Decimoquinta. El EEG registra la actividad electrica del corazon. Falso. Registra la actividad electrica cerebral. El del corazon es el ECG.
+
+Decimosexta. En habitaciones con ventilacion con circuito cerrado se deben abrir las ventanas. Falso. No se deben abrir.
+
+Decimoseptima. Las paredes deben ser de color blanco brillante. Falso. Deben ser de blanco mate, para evitar reflejos.
+
+Decimoctava. Las ruedas de la cama son de plastico. Falso. Son de goma, silenciosas y con doble frenado.
+
+Decimonovena. La cama Roto Rest permanece estatica. Falso. Gira constantemente de forma automatica para prevenir UPP.
+
+Y vigesima. Hacer la cama es funcion del celador. Falso. Es funcion de la auxiliar de enfermeria o TCAE. El celador colabora en el cambio de ropa cuando el paciente esta encamado, pero no hace la cama.
+
+Y el orden de la ropa de cama una vez mas. Colchon con funda, bajera, hule o empapador, entremetida, encimera, manta, colcha, almohada con funda. Co Ba Hu En Enci Man Col Al.
+
+Esto es todo para el Tema 2. Como has visto, esta cargadisimo de datos numericos, asi que te recomiendo que los repases con fichas rapidas hasta que los tengas automatizados. Nos vemos en el siguiente tema. Mucho animo!

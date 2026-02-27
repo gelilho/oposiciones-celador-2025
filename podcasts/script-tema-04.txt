@@ -1,81 +1,325 @@
-Bienvenido una vez mas al podcast de preparacion de oposiciones para celador. Hoy vamos con el Tema 4, el quirofano. Este tema tiene muchos conceptos especificos del area quirurgica que tienes que dominar. Las zonas, las condiciones ambientales, la vestimenta, las funciones del celador antes durante y despues de la intervencion, y el famoso check-list de la OMS. Vamos a ello.
+Bienvenido al podcast de oposiciones de celador. Hoy vamos con el Tema 4 completo: El Area Quirurgica, Normas de Actuacion y el Celador de Quirofano. Este es un tema largo, denso, lleno de datos numericos, clasificaciones, tablas, posiciones quirurgicas y preguntas trampa. Asi que ponte comodo porque vamos a repasar absolutamente todo lo que necesitas saber. No vamos a dejarnos nada. Cada dato, cada numero, cada ley, cada tabla. Todo.
 
-Lo primero, vamos a aclarar que es el Bloque Quirurgico, que se abrevia BQ. El Bloque Quirurgico es el area del hospital que incluye los quirofanos propiamente dichos y la URPA. La URPA es la Unidad de Recuperacion Post-Anestesica, es decir, el area donde el paciente despierta despues de la anestesia y se recupera antes de volver a planta. El Bloque Quirurgico son los quirofanos mas la URPA.
+Empezamos por el principio. Bloque uno. El Bloque Quirurgico. Definicion y estructura.
 
-Ahora bien, hay un dato negativo que cae mucho en examen. Que no forma parte del Bloque Quirurgico? No forman parte del BQ la cirugia menor ambulatoria, las salas de endoscopias ni la hemodinamica. Aunque en esos lugares tambien se realizan procedimientos invasivos, no se consideran parte del Bloque Quirurgico. Si te preguntan si la sala de endoscopias forma parte del BQ, la respuesta es no. Si te preguntan si la hemodinamica forma parte del BQ, la respuesta es no. Solo los quirofanos y la URPA.
+El Bloque Quirurgico, que se abrevia BQ, es el espacio del hospital en el que se agrupan los quirofanos junto con los locales de apoyo, las instalaciones y los equipamientos necesarios para realizar los procedimientos quirurgicos previstos. Y todo eso garantizando las condiciones de seguridad, calidad y eficiencia adecuadas. Fijate en esas tres palabras: seguridad, calidad y eficiencia. Son las tres condiciones que debe garantizar el BQ.
 
-Ahora vamos con las zonas del Bloque Quirurgico. Son tres zonas y cada una tiene dos nombres, un nombre por color y un nombre descriptivo. Preparate porque esto cae seguro.
+Ahora, que incluye el Bloque Quirurgico? Incluye cuatro elementos. Primero, los quirofanos, es decir, las salas de operaciones. Segundo, la URPA, que es la Unidad de Recuperacion PostAnestesica, tambien conocida como sala de despertar o sala de reanimacion. Apuntate esos tres nombres porque cualquiera de los tres puede aparecer en examen: URPA, sala de despertar, sala de reanimacion. Tercero, los locales de apoyo, que incluyen almacenes, despachos y vestuarios. Y cuarto, los pasillos de circulacion.
 
-La primera zona es la zona negra, tambien llamada zona sucia o zona de acceso general. Es la zona de acceso mas exterior, por donde entra el personal y los pacientes. Es donde estan los vestuarios, los despachos, los aseos. No se requiere vestimenta especial para estar en esta zona. Zona negra, sucia, acceso general.
+Pero atencion, aqui viene un dato negativo que cae constantemente en examenes. Que NO incluye el Bloque Quirurgico? No incluye las salas de cirugia menor ambulatoria. No incluye las salas de endoscopias. No incluye las salas de hemodinamica. Y no incluye las salas de partos, aunque tengan quirofano propio, se consideran aparte. Cuatro cosas que NO estan dentro del BQ. Cirugia menor ambulatoria, endoscopias, hemodinamica y partos. Si te preguntan en examen si la sala de endoscopias forma parte del BQ, la respuesta es no. Si te preguntan si la hemodinamica forma parte del BQ, la respuesta es no. Falso, falso, falso y falso.
 
-La segunda zona es la zona gris, tambien llamada zona limpia o zona de acceso limitado. Aqui ya se requiere vestimenta quirurgica. Es donde estan los pasillos de acceso a los quirofanos, la zona de lavado quirurgico, los almacenes de material esteril. Solo puede acceder personal autorizado y vestido adecuadamente. Zona gris, limpia, acceso limitado.
+Vamos con la ubicacion del Bloque Quirurgico. El BQ debe estar proximo a la UCI, la Unidad de Cuidados Intensivos. Debe ser facilmente accesible desde Urgencias. Debe tener proximidad a la Central de Esterilizacion. Debe tener comunicacion con el Servicio de Anatomia Patologica. Y debe tener acceso a la zona de suministros. Cinco criterios de ubicacion. Proximidad a UCI, accesibilidad desde Urgencias, proximidad a la Central de Esterilizacion, comunicacion con Anatomia Patologica y acceso a suministros.
 
-La tercera zona es la zona blanca, tambien llamada zona esteril o zona de acceso restringido. Esta es la zona mas interna, el quirofano propiamente dicho. Aqui las condiciones de asepsia son maximas. Solo accede el personal estrictamente necesario para la intervencion. Zona blanca, esteril, acceso restringido.
+Ahora los principios de organizacion del BQ. Aqui hay un dato clave que cae en examen. Los quirofanos NO deben asignarse de forma fija a una especialidad quirurgica concreta. Se busca maximizar la polivalencia. Polivalencia y flexibilidad para optimizar el uso de los recursos. Si te preguntan en examen que los quirofanos deben asignarse fijamente a cada especialidad, eso es FALSO.
 
-Te lo resumo de forma sencilla. Negra sucia general, gris limpia limitado, blanca esteril restringido. De fuera hacia dentro, negro gris blanco. De mayor a menor acceso.
+Y ahora vienen un monton de datos numericos. Preparate.
 
-Las condiciones ambientales del quirofano. La temperatura debe estar entre 20 y 24 grados centigrados. Ojo, en la habitacion del paciente era 20 a 22, pero en el quirofano es 20 a 24, un poquito mas de rango por la parte alta. La humedad relativa es del 40 al 60 por ciento, igual que en la habitacion. El aire debe renovarse entre 15 y 20 veces por hora. Quince a veinte renovaciones por hora. Y la presion debe ser positiva. Presion positiva. Esto significa que la presion del aire dentro del quirofano es mayor que fuera, de manera que cuando se abre una puerta, el aire sale del quirofano hacia fuera, no entra de fuera hacia dentro. Asi se evita que entren microorganismos del exterior. Presion positiva, el aire siempre sale, nunca entra.
+Las dimensiones minimas recomendadas del quirofano estandar son de 40 a 60 metros cuadrados. Para quirofanos especiales, como los de cirugia cardiaca o trasplantes, las dimensiones van de 60 a 70 metros cuadrados. La altura minima es de 3 metros.
 
-Temperatura 20 a 24, humedad 40 a 60, aire 15 a 20 renovaciones por hora, presion positiva. Cuatro datos que tienes que tener claros.
+Las paredes del quirofano deben ser lisas, sin juntas, lavables y resistentes a productos de limpieza. El suelo debe ser antideslizante, conductor de electricidad para evitar la acumulacion de electricidad estatica, y tambien sin juntas. Ojo con lo del suelo conductor de electricidad, porque mucha gente piensa que deberia ser aislante, pero no, es conductor para evitar chispas por acumulacion de electricidad estatica, que podrian ser peligrosas con gases anestesicos inflamables.
 
-La vestimenta quirurgica. En el quirofano todo el mundo lleva gorro, mascarilla, bata quirurgica, calzas o cubre-zapatos y guantes. Pero hay un dato sobre la mascarilla que cae mucho en examen. La mascarilla quirurgica debe cambiarse cada 2 horas como maximo. Cada 2 horas. Si llevas mas de 2 horas con la misma mascarilla, se considera que ha perdido su capacidad de filtracion y hay que sustituirla. Y ademas, la mascarilla nunca se debe llevar al cuello, colgada debajo de la barbilla. Nunca al cuello. Si te la quitas, te la quitas del todo y la tiras. No te la dejas colgando al cuello porque se contamina y luego al volver a subirla introduces microorganismos en la zona quirurgica.
+Temperatura del quirofano: entre 20 y 24 grados centigrados. Humedad relativa: entre 40 y 60 por ciento. La presion es positiva, lo que significa que el aire sale del quirofano cuando se abre la puerta, nunca entra de fuera hacia dentro. Esto evita que entren microorganismos del exterior. Renovacion del aire: entre 15 y 20 renovaciones por hora. Y la iluminacion combina luz general con la lampara esciailitica, que es la lampara quirurgica que luego veremos en detalle.
 
-Mascarilla cada 2 horas y nunca al cuello. Dos reglas de oro.
+Te repito los numeros: 40 a 60 metros cuadrados el quirofano estandar, 60 a 70 el especial, 3 metros de altura minima, 20 a 24 grados de temperatura, 40 a 60 por ciento de humedad, presion positiva, 15 a 20 renovaciones de aire por hora.
 
-Ahora una regla fundamental del quirofano que te van a preguntar seguro. Si en cualquier momento tienes duda de si algo esta esteril o contaminado, se considera contaminado. Regla de la duda. En caso de duda, contaminado. Siempre. No se arriesga. Si no estas seguro de que un instrumento, un campo quirurgico o cualquier material esta esteril, se considera contaminado y se retira. Esta regla es basica en asepsia quirurgica.
+Antes de pasar a las zonas, vamos a hablar de la CMA, la Cirugia Mayor Ambulatoria. La CMA son unidades autonomas que pueden estar dentro o fuera del hospital. El paciente ingresa y es dado de alta el mismo dia de la intervencion. No requiere hospitalizacion nocturna. Tiene su propio quirofano, su propia URPA y una zona de readaptacion al medio. Los criterios de seleccion del paciente son: clasificacion ASA I o ASA II, que significa bajo riesgo anestesico; tener un acompanyante responsable; tener el domicilio cercano al hospital; y tener un telefono de contacto. Cuatro criterios: ASA I-II, acompanyante responsable, domicilio cercano y telefono de contacto. Ingreso y alta el mismo dia, sin hospitalizacion nocturna, unidad autonoma.
 
-Vamos con las funciones del celador en el quirofano. Se dividen en tres momentos. Antes de la intervencion, durante la intervencion y despues de la intervencion.
+Pasamos ahora al bloque dos: las zonas del Bloque Quirurgico y los circuitos de circulacion. Esto es absolutamente fundamental en examen.
 
-Antes de la intervencion, el celador tiene que preparar el quirofano asegurandose de que el mobiliario esta en su sitio, que la mesa quirurgica funciona correctamente, que hay ropa limpia disponible. Recibe al paciente en la zona de transfer o zona de intercambio, que es el punto donde el paciente pasa de la cama de planta a la camilla quirurgica. Verifica la identidad del paciente, comprueba que lleva la pulsera identificativa, y traslada al paciente hasta el quirofano.
+La organizacion del BQ se basa en un sistema de zonas de restriccion progresiva para mantener la asepsia. Se establecen tres zonas principales mas la zona operatoria.
 
-Durante la intervencion, las funciones del celador son mas limitadas. Puede permanecer en el quirofano si se le necesita, por ejemplo para ayudar a colocar al paciente en la posicion quirurgica adecuada. Puede salir a buscar material o documentacion si el cirujano o la enfermera lo solicitan. Pero en general, durante la intervencion el celador suele estar fuera del quirofano, disponible por si se le necesita.
+Primera zona: la zona de acceso general, tambien llamada zona negra o zona sucia. Es la zona de transicion entre el exterior del hospital y el area quirurgica. Se ubica en la entrada al BQ. Incluye los vestuarios, tanto masculinos como femeninos, con taquillas. Incluye la admision quirurgica, que es donde se recibe a los pacientes. Incluye la zona de transfer de camillas, donde se intercambia la camilla de planta por la camilla quirurgica. E incluye los despachos administrativos. La vestimenta en esta zona es ropa de calle. Aqui es donde el personal se cambia y se pone el pijama quirurgico. Su funcion es servir de filtro de personas y materiales antes de acceder al area limpia. El paciente llega aqui desde la planta de hospitalizacion en camilla o en silla de ruedas. Zona negra, zona sucia, zona de acceso general. Es la puerta de entrada.
 
-Despues de la intervencion, el celador traslada al paciente desde el quirofano hasta la URPA. Ayuda a pasar al paciente de la mesa quirurgica a la camilla de traslado. Y participa en la limpieza y recogida del quirofano, retirando la ropa sucia, los residuos y dejando el quirofano preparado para la siguiente intervencion.
+Segunda zona: la zona de acceso limitado, tambien llamada zona gris o zona limpia. Es la zona intermedia entre la zona negra y la zona esteril. Incluye los pasillos de circulacion interna. Incluye la zona preoperatoria, que tambien se llama antequirofano o preanestesia. Incluye la URPA, la Unidad de Recuperacion PostAnestesica. Incluye los almacenes de material limpio y esteril. Incluye la zona de lavado quirurgico de manos. E incluye los despachos y salas de descanso del personal. La vestimenta obligatoria aqui es pijama quirurgico mas gorro mas calzas mas mascarilla. Solo accede personal autorizado con la vestimenta adecuada. La circulacion esta controlada y se minimizan los movimientos.
 
-Ahora vamos con algo muy importante que cae en muchos examenes. El Check-list de Seguridad Quirurgica de la OMS. Tambien se conoce como Listado de Verificacion Quirurgica. Fue implementado por la Organizacion Mundial de la Salud como parte de su programa La Cirugia Segura Salva Vidas.
+Tercera zona: la zona de acceso restringido, tambien llamada zona blanca o zona esteril. Esta es el interior de los quirofanos. Es el nivel maximo de restriccion. Incluye los quirofanos propiamente dichos. La vestimenta es pijama quirurgico mas gorro mas calzas mas mascarilla. Pero ademas, el equipo quirurgico lleva bata esteril y guantes esteriles. La presion es positiva respecto al pasillo. Las puertas deben estar siempre cerradas. Y solo puede haber el personal imprescindible para la intervencion.
 
-El check-list tiene 3 fases. Tres fases. Aprendetelas por su nombre en ingles porque asi es como aparecen en los examenes.
+Cuarta zona: la zona operatoria. Atencion porque esta no es una zona fisica independiente, sino el espacio inmediato alrededor de la mesa de operaciones y el campo quirurgico esteril. Incluye la mesa de operaciones, la mesa de instrumental que es la mesa de Mayo, y el area cubierta por los panyos esteriles. Solo accede el equipo esteril: cirujano, ayudantes y enfermera instrumentista. Todo lo que se encuentre en esta zona debe estar esterilizado.
 
-La primera fase es el Sign In, que se realiza antes de la induccion anestesica. Es decir, antes de que el paciente se duerma. En esta fase se comprueba la identidad del paciente, el procedimiento previsto, el sitio quirurgico, que esta marcado si es necesario, las alergias, el riesgo de hemorragia, y que el equipo de anestesia esta preparado. Sign In, antes de la anestesia.
+Ahora te hago la tabla resumen completa de las zonas, fila por fila. Zona de acceso general, color negra, nombre sucia, nivel de acceso libre, vestimenta ropa de calle y cambio a pijama. Zona de acceso limitado, color gris, nombre limpia, nivel de acceso personal autorizado, vestimenta pijama mas gorro mas calzas mas mascarilla. Zona de acceso restringido, color blanca, nombre esteril, nivel de acceso solo imprescindibles, vestimenta igual que gris pero el equipo quirurgico anade bata esteril y guantes. Zona operatoria, sin color asignado, nombre campo esteril, nivel de acceso solo equipo esteril, vestimenta bata esteril y guantes esteriles.
 
-La segunda fase es el Time Out, que se realiza antes de la incision cutanea. Es decir, justo antes de que el cirujano haga el primer corte. En esta fase todo el equipo se detiene un momento y se confirma en voz alta quien es el paciente, que intervencion se va a realizar, y en que sitio. Se revisan los posibles problemas criticos de cada miembro del equipo. Se confirma que se ha administrado la profilaxis antibiotica. Time Out, antes de la incision, todo el equipo se para y confirma.
+Resumido: negra sucia general, gris limpia limitado, blanca esteril restringido, operatoria campo esteril.
 
-La tercera fase es el Sign Out, que se realiza antes de que el paciente salga del quirofano. Se confirma que el procedimiento se ha realizado correctamente, se recuenta el instrumental, las gasas y las agujas para asegurarse de que no se ha dejado nada dentro del paciente, se revisan las muestras quirurgicas, y se establece el plan de cuidados postoperatorios. Sign Out, antes de que el paciente salga del quirofano.
+Ahora los circuitos de circulacion. Se establecen circuitos diferenciados para evitar la contaminacion cruzada. Hay un circuito limpio, que es la entrada de material esteril, personal y pacientes. Y hay un circuito sucio, que es la salida de residuos, ropa sucia, instrumental usado y piezas anatomicas. El principio fundamental es que lo limpio y lo sucio NUNCA deben cruzarse. Nunca.
 
-Sign In antes de la anestesia, Time Out antes de la incision, Sign Out antes de salir del quirofano. Tres fases. Si te preguntan cuantas fases tiene el check-list de la OMS, son tres. Si te preguntan cuando se realiza el Time Out, es antes de la incision cutanea.
+Existen tres tipos de disenyos de pasillos. Primero, el pasillo unico o de doble direccion, donde hay un solo pasillo y se diferencia temporalmente el uso limpio del sucio. Segundo, el pasillo doble, con un pasillo limpio y otro sucio. Y tercero, el pasillo triple, con un pasillo limpio central y dos pasillos sucios laterales. Este ultimo es el ideal pero el mas costoso.
 
-Vamos ahora con el mobiliario del quirofano. Hay dos mesas auxiliares que tienes que conocer.
+Pasamos al bloque tres: la vestimenta quirurgica. Aqui vamos punto por punto.
 
-La mesa de Mayo, tambien llamada mesa cigüena. Es una mesa pequena con un soporte alto que se situa directamente sobre el paciente durante la intervencion. En ella se colocan los instrumentos que el cirujano necesita de forma inmediata. Se llama cigüena por la forma de su soporte, que se parece al cuello de una cigüena. Mesa de Mayo igual a mesa cigüena.
+El pijama quirurgico. Los colores son verde, azul o azul verdoso. Se usan estos colores porque evitan el deslumbramiento por contraste con las luces quirurgicas. El pijama consta de pantalon y casaca, que es una camisa de manga corta. El pantalon debe ir por dentro de las calzas. La casaca debe ir por dentro del pantalon. Debe cambiarse si se mancha o humedece. Y es de uso exclusivo dentro del BQ, no se puede salir con el fuera del bloque quirurgico.
 
-La mesa auxiliar, tambien llamada mesa rinonera por su forma de rinon o media luna. Es una mesa mas grande que se situa al lado del campo quirurgico y en ella se coloca el instrumental adicional que puede necesitarse durante la intervencion. Mesa auxiliar igual a rinonera.
+El gorro quirurgico. Debe cubrir todo el cabello completamente, incluyendo las patillas. Si el profesional tiene barba, debe cubrirla con gorro de barba. Su uso es obligatorio en zona gris y zona blanca. Es de material desechable. Y la razon es que el pelo es fuente de microorganismos, especialmente Staphylococcus.
 
-La lampara escialtica o lampara quirurgica. Es la lampara que ilumina el campo operatorio. Se llama escialtica porque produce una luz que no genera sombras, del griego scialitico, sin sombra. Esto permite al cirujano trabajar sin que sus manos o instrumentos proyecten sombras sobre la zona de intervencion.
+Las calzas o cubrezapatos. Cubren el calzado completamente. Son de material impermeable y antideslizante. Se colocan en el vestuario, es decir, en la zona negra, antes de acceder a la zona gris. Su funcion es evitar la entrada de suciedad del exterior al BQ. Como alternativa se pueden usar zuecos exclusivos del quirofano, que son lavables y autoclavables.
 
-Para terminar, vamos a repasar brevemente la clasificacion de las cirugias, que tambien puede aparecer en examen.
+La mascarilla quirurgica. Cubre nariz y boca completamente. Debe quedar ajustada al contorno facial sin dejar huecos. Aqui viene un dato importantisimo: debe cambiarse cada 2 horas o cuando se humedezca, porque la humedad reduce su eficacia filtrante. Y otro dato fundamental: no se debe bajar al cuello. Si se retira, se desecha y se pone una nueva. No se puede tocar por la parte frontal porque esta contaminada. Su funcion es filtrar los microorganismos expulsados al hablar, toser o respirar. Es obligatoria en zona gris cuando hay material esteril abierto y siempre en zona blanca.
 
-Segun la urgencia, las cirugias se clasifican en cirugia de emergencia, que se realiza de forma inmediata porque la vida del paciente esta en peligro. Cirugia urgente, que debe realizarse en las siguientes horas pero no es tan inmediata como la emergencia. Cirugia programada o electiva, que se planifica con antelacion y no es urgente.
+La bata quirurgica esteril. Solo la utiliza el equipo quirurgico, es decir, el cirujano, los ayudantes y la enfermera instrumentista. Se coloca despues del lavado quirurgico de manos. Atencion: es esteril por la parte delantera, desde el pecho hasta el nivel de la mesa, y las mangas, desde el codo hasta los punyos. Pero la espalda de la bata NO se considera esteril. Esto es una pregunta trampa clasica. Si te dicen que la espalda de la bata es esteril, es FALSO. Los punyos de la bata se cubren con los guantes esteriles. Y las manos enguantadas deben mantenerse por encima de la cintura y por debajo de los hombros. Esa es la zona de seguridad: entre la cintura y los hombros.
 
-Segun el riesgo, se clasifican en cirugia mayor y cirugia menor. La cirugia mayor requiere anestesia general y hospitalizacion. La cirugia menor puede hacerse con anestesia local y sin hospitalizacion.
+Los guantes esteriles. Solo los usa el equipo quirurgico. Se colocan despues de la bata esteril. La tecnica de colocacion puede ser cerrada, donde las manos no salen de los punyos de la bata, o abierta. Se recomienda el doble guante en ciertos procedimientos de riesgo biologico o cirugia ortopedica. Deben cambiarse si se perforan o cada 2 horas en intervenciones largas.
 
-Segun la finalidad, se clasifican en cirugia curativa, que pretende curar la enfermedad. Cirugia paliativa, que no cura pero alivia sintomas. Cirugia diagnostica, que se realiza para obtener un diagnostico, como una biopsia. Cirugia reparadora o reconstructiva, que busca restaurar la forma o funcion de una parte del cuerpo. Y cirugia estetica, que busca mejorar el aspecto fisico.
+Pasamos al bloque cuatro: las normas de actuacion en el quirofano. Esto son reglas que tienes que conocer una por una.
 
-Bien, vamos con el repaso final rapido de este tema.
+Normas de asepsia y comportamiento. Son catorce normas y vamos con todas.
 
-Bloque Quirurgico incluye quirofanos y URPA. No incluye cirugia menor, endoscopias ni hemodinamica.
+Norma uno: las puertas del quirofano deben permanecer cerradas en todo momento durante la intervencion. Cerradas siempre.
 
-Tres zonas. Negra, sucia, acceso general. Gris, limpia, acceso limitado. Blanca, esteril, acceso restringido.
+Norma dos: movimiento minimo. Hay que limitar el numero de personas y los desplazamientos dentro del quirofano. Cada movimiento genera corrientes de aire y particulas en suspension.
 
-Condiciones. Temperatura 20 a 24 grados. Humedad 40 a 60 por ciento. Aire 15 a 20 renovaciones por hora. Presion positiva.
+Norma tres: hablar lo imprescindible. La conversacion innecesaria aumenta la dispersion de microorganismos.
 
-Mascarilla cada 2 horas y nunca al cuello.
+Norma cuatro: nunca pasar entre la mesa de instrumental y el campo quirurgico, que es zona esteril.
 
-Regla de la duda. En caso de duda, contaminado.
+Norma cinco: considerar esteril solo lo que se ve esteril. Si no se ha presenciado la apertura del material, hay que considerarlo contaminado.
 
-Funciones del celador. Antes, durante y despues de la intervencion.
+Norma seis: en caso de duda sobre la esterilidad de un material, considerarlo contaminado. Este es un principio fundamental. Si tienes duda, esta contaminado. Punto.
 
-Check-list OMS. 3 fases. Sign In antes de la anestesia. Time Out antes de la incision. Sign Out antes de salir del quirofano.
+Norma siete: no tocar nada esteril si no se esta esterilmente vestido, es decir, con bata y guantes esteriles.
 
-Mesa de Mayo igual a cigüena. Mesa auxiliar igual a rinonera. Lampara escialtica, sin sombras.
+Norma ocho: el personal no esteril debe mantener una distancia minima de 30 centimetros del campo esteril. 30 centimetros. Dato numerico clave.
 
-Muy bien, este tema es mas conceptual que numerico pero tiene muchos detalles que hay que recordar. Practica con test y veras como enseguida lo dominas. En el proximo y ultimo episodio de esta serie vamos con el Tema 5, el mortuorio. Animo, que ya queda poco.
+Norma nueve: el personal no esteril nunca debe pasar por encima de un campo esteril.
+
+Norma diez: las manos del equipo esteril deben mantenerse entre la cintura y los hombros. Esa es la zona de seguridad.
+
+Norma once: los materiales esteriles se colocan sobre superficies esteriles. Nunca sobre superficies no esteriles.
+
+Norma doce: notificar inmediatamente cualquier rotura de la tecnica esteril. Si se contamina un guante, una bata o cualquier cosa, se avisa de inmediato.
+
+Norma trece: no correr ni hacer movimientos bruscos dentro del quirofano.
+
+Norma catorce: el numero de personas debe ser el minimo imprescindible.
+
+Y ahora las normas especificas del celador. El celador debe llevar vestimenta completa, que incluye pijama, gorro, calzas y mascarilla, antes de entrar en la zona gris. No debe tocar material esteril. No debe cruzar zonas esteriles. Solo debe comunicarse con el equipo quirurgico cuando sea necesario. Debe permanecer disponible pero sin estorbar. Y no debe apoyarse en las paredes ni sentarse sobre equipos.
+
+Bloque cinco: las funciones del celador de quirofano. Vamos a dividirlas en antes, durante y despues de la intervencion, y luego el check-list.
+
+Antes de la intervencion, empezamos con la recepcion quirurgica del paciente. Punto uno: comprobar la identidad del paciente. Hay que verificar la pulsera identificativa, que debe incluir nombre completo, numero de historia clinica y fecha de nacimiento. Tres datos en la pulsera.
+
+Punto dos: verificar la historia clinica. Hay que asegurarse de que acompanya al paciente y esta completa. Debe incluir el consentimiento informado firmado, las pruebas preoperatorias y la hoja de anestesia.
+
+Punto tres: verificar que el paciente llega en condiciones adecuadas. Debe estar en ayunas, con un minimo de 6 a 8 horas para solidos y 2 horas para liquidos claros. Debe haberse retirado las protesis dentales, las joyas, el esmalte de unyas, las lentillas y el audifono, todo entregado a la familia o custodiado. Debe llevar el camison del hospital. Y debe tener administrada la premedicacion si ha sido prescrita.
+
+Punto cuatro: el rasurado de la zona quirurgica. Se realiza si es necesario y no se ha hecho en planta. Se debe realizar lo mas proximo posible a la intervencion, idealmente en la zona preoperatoria. Y se prefiere la maquinilla electrica, tambien llamada clipper, frente a la cuchilla, para minimizar las microlesiones cutaneas.
+
+En la preparacion preoperatoria, el celador debe ayudar al paciente a colocarse en la camilla quirurgica. Debe abrigar al paciente para prevenir la hipotermia. Debe mantener un trato amable, tranquilizador y respetuoso con el paciente, porque muchos llegan con ansiedad. Y debe proteger la intimidad del paciente en todo momento.
+
+El traslado del paciente. El celador recoge al paciente en la planta de hospitalizacion o en admision quirurgica. Lo traslada en camilla o silla de ruedas segun su estado. Siempre acompanyado de la historia clinica completa. El traslado se hace con el paciente correctamente identificado. Se utiliza la camilla quirurgica, haciendo el transfer en la zona negra. Se elevan las barandillas de seguridad de la camilla. Se traslada con los pies por delante, y el celador va a la cabecera. En el ascensor se entra primero con los pies y se sale primero con la cabecera. Y el celador nunca deja solo al paciente durante el traslado. Nunca.
+
+Durante la intervencion, el celador ayuda en el posicionamiento del paciente en la mesa de operaciones cuando lo indique el equipo quirurgico, transfiriendo al paciente de la camilla a la mesa. Permanece disponible en la zona gris, no dentro del quirofano salvo requerimiento expreso. Acude cuando el equipo quirurgico lo solicite. Traslada muestras biologicas como biopsias y piezas anatomicas al Servicio de Anatomia Patologica cuando se lo indiquen. Traslada hemoderivados desde el banco de sangre si se requieren. Traslada material o equipamiento adicional que se necesite durante la intervencion. Y avisa a los familiares si el equipo medico lo solicita.
+
+Despues de la intervencion, el celador realiza el traslado del paciente a la URPA o a la UCI si su estado lo requiere. Cuando el paciente se recupera de la anestesia y recibe el alta de la URPA, lo traslada a la planta de hospitalizacion. Ayuda en la limpieza del quirofano entre intervenciones: retira la ropa sucia y los residuos en bolsas adecuadas segun el tipo de residuo, ayuda a reponer material, limpia superficies junto con el personal de limpieza, y prepara el quirofano para la siguiente intervencion. Y se asegura de que la camilla esta limpia y preparada para el siguiente paciente.
+
+Ahora el Listado de Verificacion Quirurgica de la OMS, el famoso check-list. La OMS lo establecio en 2008 con el nombre de Surgical Safety Checklist para reducir errores y complicaciones quirurgicas. El celador participa en los aspectos de identificacion del paciente. Tiene 3 fases.
+
+Fase uno: Sign In. Se realiza antes de la induccion anestesica. Se confirma la identidad del paciente. Se confirma el sitio quirurgico y el procedimiento. Se verifica que el consentimiento informado esta firmado. Se comprueba que el sitio quirurgico esta marcado, si aplica. Se verifica que el pulsioximetro esta colocado y funcionando. Se revisan las alergias conocidas. Se evalua si hay via aerea dificil o riesgo de aspiracion. Y se evalua si hay riesgo de hemorragia mayor de 500 mililitros. Dato numerico: hemorragia mayor de 500 ml.
+
+Fase dos: Time Out. Se realiza antes de la incision cutanea. Es la pausa quirurgica. Se hace la presentacion de todos los miembros del equipo con nombre y funcion. Se confirma el paciente, el sitio quirurgico y el procedimiento. Se verifica que la profilaxis antibiotica se ha administrado en los ultimos 60 minutos. Se revisan los eventos criticos previstos: el cirujano comenta los pasos criticos, la duracion y la perdida sanguinea esperada; el anestesista comenta las particularidades del paciente; la enfermera confirma la esterilidad y el equipamiento disponible. Y se verifican las imagenes diagnosticas disponibles.
+
+Fase tres: Sign Out. Se realiza antes de que el paciente salga del quirofano. Se registra el nombre del procedimiento realizado. Se hace el recuento de gasas, agujas e instrumental, que debe estar completo. Se verifica el etiquetado correcto de las muestras biologicas. Se registran los problemas con el equipamiento. Y se establecen las indicaciones para el postoperatorio y la recuperacion.
+
+Sign In antes de la anestesia, Time Out antes de la incision, Sign Out antes de salir del quirofano. Tres fases, aprendidas en ingles.
+
+Bloque seis: la mesa de operaciones. Vamos con sus caracteristicas generales. Se ubica en el centro del quirofano, accesible por todos los lados, 360 grados. Es radiotransparente, lo que significa que permite realizar radiografias durante la intervencion sin mover al paciente. El material es de fibra de carbono o equivalente. Es conductora de electricidad, conectada a tierra para evitar la acumulacion de electricidad estatica, porque hay riesgo de chispa con gases anestesicos inflamables. Tiene mandos hidraulicos o electricos que permiten multiples posiciones y movimientos. El tablero operatorio esta acolchado para proteger al paciente de lesiones por presion. Y es facil de limpiar y desinfectar.
+
+Tipos de base. Hay dos. La base fija, que esta anclada al suelo, es mas estable, y el tablero se desliza sobre ella. Y la base movil, que tiene ruedas, permite desplazar toda la mesa y tiene sistema de frenado.
+
+Las partes de la mesa. La base o pedestal, que es el soporte principal. La columna, que une la base con el tablero y contiene los mecanismos hidraulicos. El tablero, que es la superficie donde se coloca al paciente, compuesto por secciones articuladas: seccion cefalica para la cabeza, seccion dorsal para el tronco, seccion pelvica, y seccion de extremidades inferiores, que puede dividirse en dos para la posicion de litotomia. Y los accesorios: perneras, soportes de brazo, cabezal, arco de anestesia, cinturon de seguridad, hombreras y topes laterales.
+
+Ahora las posiciones quirurgicas principales. Esto es fundamental para el celador porque participa en el posicionamiento. Vamos a ver todas, una por una, con su descripcion y su uso.
+
+Decubito supino. El paciente esta boca arriba, con los brazos en cruz o a lo largo del cuerpo. Se usa para cirugia abdominal, toracica y de cara. Es la posicion mas habitual.
+
+Trendelenburg. Es un decubito supino con la cabeza mas baja que los pies, con una inclinacion de 15 a 30 grados. Se usa para cirugia pelvica, para tratar el shock y para operar varices. Clave: cabeza mas baja que los pies.
+
+Anti-Trendelenburg, tambien llamado Trendelenburg inverso. Es decubito supino pero con la cabeza mas alta que los pies. Es justo lo contrario del Trendelenburg. Se usa para cirugia de vesicula y de tiroides. Clave: cabeza mas alta que los pies.
+
+Litotomia, tambien llamada posicion ginecologica. Es un decubito supino con las piernas colocadas en perneras, elevadas y separadas. Se usa para cirugia ginecologica, urologica y perineal.
+
+Decubito prono. El paciente esta boca abajo. Se usa para cirugia de columna vertebral y de la region dorsal.
+
+Decubito lateral, tambien llamado Sims quirurgico. El paciente esta de lado, ya sea derecho o izquierdo. Se usa para cirugia renal y toracica lateral.
+
+Fowler, que es la posicion sentada. El paciente esta semisentado, con una inclinacion de 45 a 90 grados. Se usa para neurocirugia de la fosa posterior y para cirugia de hombro.
+
+Kraske, tambien llamada posicion de navaja. Es un decubito prono con flexion de la mesa a nivel de la cadera. Se usa para cirugia rectal y sacra.
+
+Roser, tambien llamada Rose. Es un decubito supino con la cabeza colgando fuera de la mesa. Se usa para intubacion dificil y para cirugia de amigdalas.
+
+Te las repito rapido: decubito supino boca arriba, Trendelenburg cabeza mas baja, anti-Trendelenburg cabeza mas alta, litotomia piernas en perneras, decubito prono boca abajo, decubito lateral de lado, Fowler semisentado, Kraske prono con flexion en cadera, Roser cabeza colgando.
+
+Para el celador es importante saber que el posicionamiento del paciente se realiza en equipo, bajo la direccion del cirujano, y el celador participa activamente en la movilizacion. Se deben evitar lesiones por presion, estiramiento nervioso o compromiso vascular.
+
+Bloque siete: instrumental y equipamiento del quirofano. Vamos con cada uno.
+
+La mesa de Mayo, tambien llamada mesa de ciquenya. Es una mesa pequena, auxiliar, con una bandeja metalica rectangular. Se situa sobre el paciente, a la altura de su cuerpo, sin apoyarse en el. En ella se coloca el instrumental de uso mas frecuente durante la intervencion. La prepara y controla la enfermera instrumentista. Esta montada sobre un pie con ruedas y un brazo articulado en forma de cuello de ciquenya, de ahi su nombre alternativo. Y dato importante: el celador NO toca esta mesa porque es esteril.
+
+La mesa auxiliar, tambien llamada mesa rinyonera. Es mas grande que la de Mayo. Tiene forma semicircular o de rinyonera. Contiene el material complementario: instrumental adicional, suturas, gasas, compresas y soluciones. Se situa fuera del campo esteril pero cerca del equipo quirurgico. Tambien es esteril y el celador tampoco la toca.
+
+La lampara esciailitica o lampara quirurgica. Produce luz focal intensa sin sombras. El nombre esciailitica viene del griego y significa sin sombra. Esta suspendida del techo mediante un riel o brazo articulado, por lo que no ocupa espacio en el suelo. Sus caracteristicas son: no produce sombras gracias a multiples fuentes de luz convergentes; no genera calor excesivo, es luz fria; la intensidad es regulable; el color de la luz es similar a la luz natural para distinguir los tejidos correctamente; se puede orientar en cualquier direccion; y tiene un mango esterilizable para que el cirujano la pueda mover. Puede tener una lampara auxiliar satelite para el ayudante. Si en examen te dicen que la lampara esciailitica produce sombras focalizadas, eso es FALSO. Esciailitica significa sin sombras.
+
+El carro de anestesia. Se situa en la cabecera del paciente, donde trabaja el anestesiologo. Contiene la maquina de anestesia con ventilador y vaporizadores de gases anestesicos. Contiene la monitorizacion: ECG, pulsioximetria, capnografia, presion arterial y temperatura. Sistema de aspiracion. Material de intubacion que incluye laringoscopio, tubos endotraqueales y mascarillas laringeas. Farmacos anestesicos y de emergencia. Y un desfibrilador accesible.
+
+Otros equipos del quirofano. El monitor multiparametrico, que muestra las constantes vitales del paciente: frecuencia cardiaca, tension arterial, saturacion de oxigeno, CO2 y temperatura. El bisturi electrico, tambien llamado electrocauterio o electrobisturi, que corta y coagula tejidos mediante corriente electrica de alta frecuencia y necesita una placa de retorno colocada en el paciente. El aspirador quirurgico, que aspira sangre y liquidos del campo operatorio. La torre de laparoscopia, que incluye monitor, insuflador de CO2, fuente de luz, camara y grabador, para cirugia minimamente invasiva. El negatoscopio o pantalla para visualizar imagenes diagnosticas. El calentador de fluidos, que previene la hipotermia calentando sueros y sangre. Y la manta termica, que tambien previene la hipotermia del paciente.
+
+Bloque ocho: clasificacion de las cirugias. Hay cuatro formas de clasificarlas y vamos con todas.
+
+Segun la urgencia, hay tres tipos principales mas uno adicional. Cirugia programada o electiva, que es planificada con antelacion, con lista de espera quirurgica, y el plazo es de dias, semanas o meses. Cirugia urgente, que requiere intervencion en un plazo corto por riesgo para el paciente, en un plazo de 6 a 24 horas. Cirugia emergente, que supone riesgo vital inmediato y requiere intervencion inmediata, en menos de 6 horas. Y la cirugia diferida, que se pospone hasta que las condiciones del paciente mejoren.
+
+Segun el riesgo, hay dos tipos. Cirugia mayor, que requiere anestesia general o regional, tiene alto riesgo, requiere hospitalizacion y afecta a organos vitales o grandes cavidades. Y cirugia menor, que usa anestesia local, tiene bajo riesgo, son procedimientos superficiales y puede ser ambulatoria.
+
+Segun la finalidad, hay siete tipos. Te los voy a dar todos con su finalidad y un ejemplo. Cirugia curativa: eliminar o reparar la causa de la enfermedad, ejemplo apendicectomia o colecistectomia. Cirugia paliativa: aliviar sintomas sin curar la enfermedad, ejemplo derivacion biliar en cancer pancreatico. Cirugia diagnostica o exploradora: confirmar un diagnostico, ejemplo biopsia o laparoscopia diagnostica. Cirugia reparadora o reconstructiva: restaurar funcion o apariencia de tejidos danyados, ejemplo injertos o reimplante de miembros. Cirugia estetica o cosmetica: mejorar la apariencia fisica, ejemplo rinoplastia o liposuccion. Cirugia de trasplante: sustituir un organo enfermo por uno sano, ejemplo trasplante renal o hepatico. Y cirugia de amputacion: extirpar una extremidad o parte de ella, ejemplo amputacion de miembro inferior.
+
+Segun el grado de contaminacion, seguimos la clasificacion de Altemeier. Tiene cuatro categorias con sus tasas de infeccion. Cirugia limpia: sin apertura de tracto digestivo, respiratorio ni urinario, sin inflamacion, con cierre primario, y la tasa de infeccion es menor del 2 por ciento. Cirugia limpia-contaminada: apertura controlada de tracto digestivo, respiratorio o urinario sin contaminacion significativa, con una tasa de infeccion del 5 al 10 por ciento. Cirugia contaminada: herida traumatica reciente, apertura de viscera con vertido, inflamacion aguda sin pus, con una tasa de infeccion del 10 al 20 por ciento. Y cirugia sucia-infectada: herida traumatica antigua, perforacion visceral, absceso, pus, con una tasa de infeccion mayor del 20 por ciento.
+
+Te repito las tasas de infeccion de Altemeier: limpia menos del 2 por ciento, limpia-contaminada 5 a 10 por ciento, contaminada 10 a 20 por ciento, sucia-infectada mas del 20 por ciento.
+
+Bloque nueve: asepsia y antisepsia en el quirofano. Aqui empezamos con cuatro conceptos fundamentales que tienes que diferenciar perfectamente.
+
+Asepsia: conjunto de procedimientos destinados a evitar la llegada de microorganismos a un medio. Es la prevencion de la contaminacion. Ausencia de germenes. Se previene, no se elimina.
+
+Antisepsia: procedimientos destinados a destruir los microorganismos presentes en tejidos vivos, como piel y mucosas, mediante agentes quimicos que se llaman antisepticos. Se aplica en tejidos vivos.
+
+Esterilizacion: eliminacion de todas las formas de vida microbiana, incluidas las esporas. Todas. Es el nivel maximo de eliminacion.
+
+Desinfeccion: eliminacion de microorganismos patogenos de superficies y objetos inanimados. No elimina esporas. Se aplica a objetos, no a tejidos vivos.
+
+La tabla comparativa. Antisepsia se aplica en tejidos vivos como piel y mucosas y elimina microorganismos patogenos. Desinfeccion se aplica en objetos inanimados y superficies y elimina microorganismos patogenos pero no esporas. Esterilizacion se aplica en instrumental quirurgico y elimina todos los microorganismos incluidas las esporas.
+
+Ahora el lavado quirurgico de manos. Este es el lavado que realiza el equipo quirurgico, es decir, cirujano, ayudantes e instrumentista, antes de colocarse la bata y los guantes esteriles. Te voy a dar la tecnica paso a paso.
+
+Paso uno: retirar joyas, anillos, relojes y pulseras. Paso dos: las unyas deben estar cortas, limpias y sin esmalte. Paso tres: abrir el grifo, que debe ser de accionamiento con codo, pie o sensor, nunca con la mano. Paso cuatro: mojar manos y antebrazos. Paso cinco: aplicar jabon antiseptico, que puede ser clorhexidina al 4 por ciento o povidona yodada. Paso seis: frotar sistematicamente unyas, dedos con especial atencion a los espacios interdigitales, palmas, dorso, munyecas y antebrazos hasta el codo. Paso siete: utilizar cepillo esteril, pero solo para las unyas, no para la piel. Paso ocho: la duracion es de 3 a 5 minutos. El primer lavado del dia es mas largo, de 5 minutos, y los lavados sucesivos son de 3 minutos. Paso nueve: aclarar con agua corriente desde los dedos hacia los codos, para que el agua escurra del area mas limpia a la menos limpia. Paso diez: mantener las manos por encima de los codos durante todo el proceso. Paso once: secar con compresa esteril, nunca con toalla comun. Paso doce: no tocar nada no esteril despues del lavado.
+
+Y aqui un dato importantisimo para el celador: el celador NO realiza el lavado quirurgico de manos porque no es parte del equipo esteril. El celador realiza el lavado higienico de manos, que es frecuente pero no es el quirurgico. Si en examen te dicen que el celador realiza el lavado quirurgico, es FALSO.
+
+El campo esteril. Se crea cubriendo al paciente y las zonas circundantes con panyos esteriles, tambien llamados tallas. Solo queda expuesta la zona quirurgica, el sitio de incision. Todo lo que se coloque dentro del campo esteril debe ser esteril. Los bordes de un envoltorio esteril no se consideran esteriles, y existe la regla del borde de 2,5 centimetros. Los panyos esteriles no deben arrastrarse sobre superficies no esteriles. Y una vez colocados, no se reposicionan, porque mover un panyo puede contaminar el campo.
+
+Metodos de esterilizacion. Vamos con todos.
+
+Calor humedo o autoclave: usa vapor de agua a presion. Dos opciones: 121 grados centigrados durante 15 a 20 minutos, o 134 grados centigrados durante 3 a 7 minutos. Es el metodo de referencia y el mas utilizado.
+
+Calor seco o Poupinel: usa aire caliente. 170 grados centigrados durante 1 hora. Es menos eficaz y esta en desuso.
+
+Oxido de etileno, abreviado ETO: es un gas. Se usa para material termosensible como plasticos, camaras y endoscopios. Requiere aireacion posterior porque es toxico.
+
+Plasma de peroxido de hidrogeno, comercialmente conocido como Sterrad: funciona a baja temperatura. Se usa para instrumental delicado.
+
+Radiaciones ionizantes, concretamente rayos gamma: su uso es industrial, para material desechable.
+
+Bloque diez: tipos de anestesia. Conceptos basicos para el celador.
+
+Anestesia general: perdida completa de conciencia, dolor y movilidad. Se realiza con intubacion orotraqueal. El paciente queda inconsciente.
+
+Anestesia regional: bloqueo nervioso de una zona amplia. El paciente esta consciente. Dentro de la anestesia regional hay tres tipos. La raquidea o intradural, que consiste en una inyeccion en el espacio subaracnoideo, a nivel de L3-L4. La epidural, que es una inyeccion en el espacio epidural, sin atravesar la duramadre. Y el bloqueo nervioso periferico, que es una inyeccion junto a nervios concretos.
+
+Anestesia local: infiltracion de anestesico en la zona quirurgica. El paciente esta consciente.
+
+Sedacion: farmacos para reducir ansiedad y dolor, sin perdida total de conciencia. El paciente esta semiconsciente.
+
+Para el celador es clave saber esto: en anestesia general el paciente sale dormido y requiere mas vigilancia durante el traslado, especialmente de la via aerea y las conexiones de monitorizacion. En anestesia regional o local, el paciente puede colaborar en la movilizacion.
+
+Bloque once: la URPA, la Unidad de Recuperacion PostAnestesica.
+
+Tambien llamada sala de despertar o sala de reanimacion. Esta ubicada dentro del BQ o contigua a el. Si te dicen en examen que la URPA esta fuera del bloque quirurgico, eso es FALSO. Su funcion es la vigilancia y recuperacion del paciente inmediatamente despues de la anestesia. La estancia media es de 1 a 3 horas.
+
+Los criterios de alta se evaluan mediante la escala de Aldrete modificada, que valora cinco parametros: actividad motora, respiracion, circulacion medida por la presion arterial, conciencia y saturacion de oxigeno. Cinco parametros de la escala de Aldrete.
+
+El celador traslada al paciente del quirofano a la URPA y, cuando se le indica, de la URPA a la planta.
+
+Bloque doce: la limpieza del quirofano. Hay cuatro tipos de limpieza.
+
+Limpieza numero uno: la limpieza inicial o de inicio de jornada. Consiste en la limpieza de superficies horizontales al comenzar el dia, antes de la primera intervencion.
+
+Limpieza numero dos: la limpieza entre intervenciones, tambien llamada limpieza intermedia. Se realiza despues de cada cirugia y antes de la siguiente. Incluye la retirada de ropa sucia y material desechable, la limpieza de la mesa de operaciones y superficies manchadas, la limpieza del suelo si hay manchas de sangre o fluidos, y la reposicion de material.
+
+Limpieza numero tres: la limpieza final, tambien llamada terminal o exhaustiva. Se realiza al finalizar la jornada quirurgica. Incluye la limpieza de todas las superficies: suelo, paredes hasta 2 metros de altura, lamparas, mobiliario y equipos. Se realiza con agua y detergente mas desinfectante. Se hace de arriba abajo y de dentro hacia fuera. Y se deja secar al aire.
+
+Limpieza numero cuatro: la limpieza especial. Se realiza tras cirugia contaminada o sucia, o cuando el paciente tiene una infeccion por microorganismos multiresistentes.
+
+La funcion del celador en la limpieza es colaborar con el personal de limpieza, retirar bolsas de residuos, retirar ropa sucia, reponer material y limpiar la camilla.
+
+Muy bien. Ahora vamos con la parte mas importante de cara al examen. Los datos clave, las preguntas trampa y los resumenes que tienes que llevar grabados a fuego.
+
+Empezamos con los datos numericos y cuantitativos. Mascarilla: cambiar cada 2 horas o cuando se humedezca. Distancia del personal no esteril al campo esteril: minimo 30 centimetros. Temperatura del quirofano: 20 a 24 grados centigrados. Humedad relativa: 40 a 60 por ciento. Renovaciones de aire: 15 a 20 por hora. Superficie del quirofano estandar: 40 a 60 metros cuadrados. Altura minima del quirofano: 3 metros. Lavado quirurgico de manos: 3 a 5 minutos. Autoclave: 121 grados durante 15 a 20 minutos, o 134 grados durante 3 a 7 minutos. Check-list de la OMS: 3 fases, Sign In, Time Out y Sign Out. Ayunas prequirurgicas: 6 a 8 horas para solidos, 2 horas para liquidos claros.
+
+Los colores de las zonas. Negra es igual a sucia, acceso general, vestuarios. Gris es igual a limpia, acceso limitado, pasillos y URPA. Blanca es igual a esteril, acceso restringido, quirofanos. La zona operatoria es el campo esteril, la mesa quirurgica.
+
+Ahora las frases trampa habituales en examenes. Esto es oro para el examen, presta mucha atencion.
+
+Frase trampa numero uno: el BQ incluye la sala de endoscopias. Esto es FALSO. El BQ no incluye endoscopias, ni cirugia menor, ni hemodinamica, ni partos.
+
+Frase trampa numero dos: los quirofanos deben asignarse fijamente a cada especialidad. Esto es FALSO. Se maximiza la polivalencia.
+
+Frase trampa numero tres: la mascarilla se puede bajar al cuello y volver a subir. Esto es FALSO. Si se baja, se desecha y se pone una nueva.
+
+Frase trampa numero cuatro: la espalda de la bata quirurgica se considera esteril. Esto es FALSO. Solo la parte delantera y las mangas se consideran esteriles.
+
+Frase trampa numero cinco: en caso de duda sobre la esterilidad, se debe comprobar. Esto es FALSO. En caso de duda, se considera contaminado. No se comprueba, se descarta.
+
+Frase trampa numero seis: la URPA esta fuera del bloque quirurgico. Esto es FALSO. La URPA esta dentro o contigua al BQ.
+
+Frase trampa numero siete: la mesa de Mayo se situa lejos del paciente. Esto es FALSO. La mesa de Mayo se situa sobre el paciente.
+
+Frase trampa numero ocho: el celador realiza el lavado quirurgico de manos. Esto es FALSO. El celador realiza el lavado higienico, no el quirurgico.
+
+Frase trampa numero nueve: la lampara esciailitica produce sombras focalizadas. Esto es FALSO. Esciailitica significa sin sombras.
+
+Frase trampa numero diez: la presion en el quirofano es negativa. Esto es FALSO. La presion es positiva. El aire sale al abrir la puerta, no entra.
+
+Diez preguntas trampa. Diez respuestas que son todas FALSO. Aprendetelas.
+
+Ahora las funciones especificas del celador, formato resumen para tipo test. Que SI hace el celador: traslado de pacientes, comprobar identidad, verificar historia clinica, rasurado si es necesario, ayudar en el posicionamiento, trasladar muestras biologicas, retirar residuos, colaborar en la limpieza y permanecer disponible.
+
+Que NO hace el celador: lavado quirurgico de manos, tocar instrumental esteril, administrar medicacion, realizar curas, ni decidir la posicion del paciente, que eso lo decide el cirujano.
+
+El equipo quirurgico versus el personal circulante. El equipo quirurgico es esteril e incluye al cirujano, los ayudantes de cirugia y la enfermera o enfermero instrumentista. Ellos llevan bata esteril y guantes esteriles. El personal circulante es no esteril e incluye a la enfermera o enfermero circulante, al anestesiologo y al celador. Ellos llevan pijama, gorro, calzas y mascarilla, pero sin bata ni guantes esteriles.
+
+Las mesas del quirofano. Mesa de Mayo, tambien llamada ciquenya, es la del instrumental mas usado, se situa sobre el paciente y es esteril. Mesa auxiliar, tambien llamada rinyonera, es la del material complementario, se situa cerca del campo y es esteril. Mesa de operaciones, se situa en el centro del quirofano, es radiotransparente y conductora de electricidad.
+
+Las posiciones quirurgicas clave para el examen. Trendelenburg: cabeza mas baja que los pies. Anti-Trendelenburg: cabeza mas alta que los pies. Litotomia: piernas en perneras elevadas, para ginecologia y urologia. Kraske: decubito prono con flexion a nivel de la cadera, para cirugia rectal.
+
+El check-list de la OMS, las tres fases. Fase uno, Sign In, antes de la anestesia. Fase dos, Time Out, antes de la incision, que es la pausa quirurgica. Fase tres, Sign Out, antes de que el paciente salga del quirofano.
+
+Las cuatro reglas de oro de la esterilidad. Regla uno: si no lo has visto abrir, no es esteril. Regla dos: si tienes duda, esta contaminado. Regla tres: si no estas esteril, no lo toques. Regla cuatro: si lo esteril toca lo no esteril, queda contaminado.
+
+Los circuitos de circulacion. Lo limpio y lo sucio nunca se cruzan. Hay tres tipos de pasillos: pasillo unico, pasillo doble y pasillo triple. El pasillo triple es el ideal pero el mas costoso.
+
+Y por ultimo, la CMA, Cirugia Mayor Ambulatoria. Es una unidad autonoma. Ingreso y alta el mismo dia. Sin hospitalizacion nocturna. Para pacientes de bajo riesgo, ASA I-II.
+
+Bien, vamos a cerrar con un repaso relampago final de todo el tema.
+
+BQ: quirofanos mas URPA, no incluye endoscopias, hemodinamica, cirugia menor ambulatoria ni partos. Ubicacion cerca de UCI, accesible desde Urgencias. Quirofano estandar 40 a 60 metros cuadrados, especial 60 a 70, altura 3 metros. Paredes lisas sin juntas, suelo antideslizante y conductor. Temperatura 20 a 24 grados, humedad 40 a 60 por ciento, presion positiva, 15 a 20 renovaciones de aire por hora. Quirofanos polivalentes, no asignados a una especialidad fija.
+
+Zonas: negra sucia general, gris limpia limitado, blanca esteril restringido, operatoria es el campo esteril. Circuitos: limpio y sucio nunca se cruzan. Pasillos: unico, doble y triple.
+
+Vestimenta: pijama verde o azul, gorro que cubre todo el pelo, calzas en vestuario, mascarilla cada 2 horas y nunca al cuello, bata esteril solo equipo quirurgico con la espalda no esteril, guantes esteriles despues de la bata, manos entre cintura y hombros.
+
+Catorce normas de asepsia: puertas cerradas, movimiento minimo, hablar lo imprescindible, no pasar entre mesa y campo, esteril solo si lo ves, duda igual a contaminado, no tocar sin vestimenta esteril, 30 cm de distancia, no pasar por encima del campo, manos entre cintura y hombros, esteril sobre esteril, notificar roturas, no correr, minimo imprescindible de personas.
+
+Celador: comprueba identidad con pulsera, verifica historia clinica, confirma ayunas 6 a 8 horas solidos y 2 horas liquidos, rasurado con clipper, traslada con pies por delante, transfer en zona negra, barandillas arriba, nunca deja solo al paciente, ayuda en posicionamiento, permanece en zona gris, traslada muestras y hemoderivados, traslada a URPA o UCI, colabora en limpieza.
+
+Check-list OMS 2008: Sign In antes anestesia, Time Out antes incision, Sign Out antes de salir. Hemorragia mayor de 500 ml en Sign In, profilaxis antibiotica en ultimos 60 minutos en Time Out, recuento de gasas agujas e instrumental en Sign Out.
+
+Mesa de operaciones: centro quirofano, radiotransparente, conductora, base fija o movil, secciones cefalica dorsal pelvica y extremidades. Posiciones: decubito supino, Trendelenburg, anti-Trendelenburg, litotomia, decubito prono, decubito lateral, Fowler, Kraske, Roser.
+
+Instrumental: mesa de Mayo o ciquenya sobre el paciente, mesa auxiliar o rinyonera con material complementario, lampara esciailitica sin sombras desde el techo, carro de anestesia en cabecera, bisturi electrico con placa de retorno, torre de laparoscopia, monitor multiparametrico.
+
+Clasificacion de cirugias: por urgencia programada urgente emergente y diferida; por riesgo mayor y menor; por finalidad curativa paliativa diagnostica reparadora estetica trasplante y amputacion; por contaminacion segun Altemeier limpia menos del 2 por ciento, limpia-contaminada 5 a 10, contaminada 10 a 20, sucia-infectada mas del 20.
+
+Asepsia previene, antisepsia destruye en tejidos vivos, desinfeccion en objetos sin esporas, esterilizacion elimina todo incluidas esporas. Autoclave 121 grados 15 a 20 minutos o 134 grados 3 a 7 minutos. Poupinel 170 grados 1 hora. ETO gas para termosensibles. Sterrad plasma baja temperatura. Rayos gamma uso industrial.
+
+Lavado quirurgico 3 a 5 minutos, manos por encima de codos, secar con compresa esteril. El celador no hace lavado quirurgico, hace higienico. Campo esteril con panyos, bordes no esteriles, no reposicionar.
+
+Anestesia: general inconsciente con intubacion, regional consciente con raquidea epidural o bloqueo periferico, local consciente con infiltracion, sedacion semiconsciente.
+
+URPA dentro del BQ, estancia 1 a 3 horas, escala de Aldrete con cinco parametros: actividad motora, respiracion, circulacion, conciencia y saturacion de oxigeno.
+
+Limpieza: inicial al empezar, intermedia entre cirugias, terminal al acabar la jornada de arriba abajo y de dentro hacia fuera, y especial tras cirugia contaminada o microorganismos multiresistentes.
+
+CMA: autonoma, ingreso y alta mismo dia, sin noche, ASA I-II, acompanyante, domicilio cercano, telefono.
+
+Diez preguntas trampa, todas falsas: BQ incluye endoscopias falso; quirofanos asignados fijos falso; mascarilla al cuello falso; espalda bata esteril falso; duda se comprueba falso; URPA fuera del BQ falso; mesa Mayo lejos del paciente falso; celador lavado quirurgico falso; esciailitica con sombras falso; presion negativa falso.
+
+Cuatro reglas de oro: no lo viste abrir no es esteril, duda igual contaminado, no esteril no toques, esteril toca no esteril ya contaminado.
+
+Y con esto hemos terminado el Tema 4 completo, el Area Quirurgica. Ha sido largo, denso, lleno de datos, pero ahora lo tienes todo. Practica con test, repasa los numeros y las preguntas trampa, y veras como lo dominas. Mucho animo con la preparacion y nos vemos en el siguiente tema.

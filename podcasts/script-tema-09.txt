@@ -1,67 +1,225 @@
-Tema 9. El celador en el servicio de psiquiatria.
+Bienvenido al podcast de oposiciones de celador. Hoy vamos con el Tema 9 completo: Psiquiatria y la actuacion del celador con el enfermo mental. Este es un tema extenso, con mucha legislacion, muchos datos concretos, numeros, plazos, protocolos y tipos de trastornos que tienes que dominar. Asi que ponte comodo porque vamos a repasar absolutamente todo, sin dejarnos nada. Cada tabla, cada dato, cada ley, cada trampa de examen. Vamos alla.
 
-Hola, bienvenido de nuevo a tu podcast de oposiciones para celador. Hoy nos metemos con el Tema 9, que trata sobre psiquiatria. Este es un tema delicado y muy importante, donde el celador tiene funciones muy especificas y donde hay datos legales que tienes que conocer perfectamente. Vamos a ello.
+Empezamos por los conceptos fundamentales. Y aqui lo primero que tienes que grabar a fuego es la definicion de salud de la Organizacion Mundial de la Salud, la OMS. La OMS, en su Constitucion de 1948, definio la salud como un estado de completo bienestar fisico, mental y social, y no solamente la ausencia de afecciones o enfermedades. Fijate en tres cosas de esta definicion. Primera, incluye la salud mental como componente esencial, no solo lo fisico. Segunda, es un concepto positivo de salud, habla de bienestar, no solo de no estar enfermo. Y tercera, incorpora la dimension social. Es decir, si te preguntan en el examen que es la salud segun la OMS, la respuesta tiene que incluir esos tres pilares: fisico, mental y social. Y tiene que decir que no es solamente la ausencia de enfermedad. Si alguna opcion dice solo fisico y mental, o dice solo ausencia de enfermedad, esa opcion es incorrecta. Recuerda: OMS, 1948, completo bienestar fisico, mental y social.
 
-Empecemos por el principio. Que es la salud mental. La Organizacion Mundial de la Salud, la OMS, definio en 1948 la salud como un estado de completo bienestar fisico, mental y social, y no solamente la ausencia de afecciones o enfermedades. Fijate bien en esta definicion porque cae mucho. No dice solo fisico, dice fisico, mental y social. Y no dice solo ausencia de enfermedad, sino bienestar completo. Es decir, puedes no tener ninguna enfermedad diagnosticada y aun asi no estar sano si no tienes bienestar mental o social.
+Ahora vamos con la salud mental en concreto. Segun la OMS, la salud mental es un estado de bienestar en el que la persona es consciente de sus capacidades, puede afrontar las presiones normales de la vida, trabajar productivamente y contribuir a su comunidad. Fijate que la salud mental no es simplemente la ausencia de un trastorno mental. Puedes no tener ningun diagnostico psiquiatrico y aun asi no tener una buena salud mental. Y ojo, muy importante, la enfermedad mental no implica incapacidad total ni permanente. Esto es algo que puede aparecer como pregunta trampa. El hecho de tener una enfermedad mental no significa que la persona no pueda funcionar en la vida o que sea incapaz para siempre.
 
-Recuerda, la OMS en 1948, bienestar fisico, mental y social. No solo ausencia de enfermedad. Esto cae siempre.
+Pasamos ahora a definir que es una enfermedad o trastorno mental. Es una alteracion de tipo emocional, cognitivo o del comportamiento en la que se ven afectados procesos psicologicos basicos. Y aqui te voy a enumerar todos esos procesos basicos que menciona la definicion: emocion, motivacion, cognicion, conciencia, conducta, percepcion, sensacion, aprendizaje y lenguaje. Todo esto puede verse afectado en un trastorno mental, y el resultado es que la persona tiene dificultades para adaptarse a su entorno.
 
-Ahora, en el marco legal espanol, la normativa clave para la salud mental es la Ley General de Sanidad 14/1986. Y dentro de esta ley, el articulo 20 es fundamental. Este articulo establece dos principios importantisimos.
+Perfecto. Ahora vamos con el segundo gran bloque, que es el marco legal de la atencion psiquiatrica. Y aqui hay muchas leyes y articulos que tienes que conocer.
 
-Primero, la equiparacion del enfermo mental al resto de pacientes. Esto significa que el paciente psiquiatrico tiene los mismos derechos que cualquier otro paciente. No se le puede discriminar, no se le puede tratar de forma diferente en cuanto a sus derechos.
+La norma estrella es la Ley General de Sanidad 14/1986, y dentro de ella el articulo 20. Este articulo es absolutamente fundamental para la reforma psiquiatrica en Espana. Te voy a detallar todo lo que establece este articulo porque en el examen puede caer cualquier apartado.
 
-Y segundo, la hospitalizacion psiquiatrica se realizara en las unidades de psiquiatria de los hospitales generales. Esto es clave. No en manicomios, no en instituciones psiquiatricas aisladas, sino en unidades integradas dentro de los hospitales generales. Este principio rompio con el modelo antiguo de los manicomios o instituciones psiquiatricas cerradas, que marginaban y aislaban a los enfermos mentales de la sociedad. La Ley General de Sanidad aposto por un modelo de integracion, donde el paciente mental recibe atencion en el mismo hospital que cualquier otro paciente.
+Punto primero del articulo 20: la equiparacion del enfermo mental al resto de enfermos. La asistencia en salud mental se prestara en el ambito comunitario, potenciando los recursos asistenciales a nivel ambulatorio, los sistemas de hospitalizacion parcial y la atencion a domicilio, con el fin de reducir al maximo la hospitalizacion. Esto es clave: el modelo es comunitario, ambulatorio, se busca reducir la hospitalizacion al minimo.
 
-Recuerda, LGS 14/1986, articulo 20, equiparacion del enfermo mental y hospitalizacion en hospitales generales, no en manicomios. Esto cae siempre.
+Punto segundo: la hospitalizacion se realizara en unidades psiquiatricas de hospitales generales. Se suprime el antiguo modelo de manicomio o hospital psiquiatrico como institucion aislada y segregada. Esto es importantisimo. No mas manicomios. Los pacientes psiquiatricos ingresan en el mismo hospital que cualquier otro paciente, en una unidad especializada pero dentro de un hospital general.
 
-Ahora vamos con un tema legal muy importante, el internamiento involuntario. Cuando un paciente con un trastorno mental necesita ser hospitalizado pero no quiere o no puede dar su consentimiento, se aplica el articulo 763 de la Ley de Enjuiciamiento Civil, la LEC. Este articulo regula el internamiento no voluntario por razon de trastorno psiquico.
+Punto tercero: desarrollo de servicios de rehabilitacion y reinsercion social necesarios para una adecuada atencion integral del enfermo mental.
 
-El procedimiento es el siguiente. Cuando se produce un internamiento involuntario urgente, el responsable del centro sanitario debe comunicarlo al juez competente en un plazo maximo de veinticuatro horas. A partir de ahi, el juez tiene un plazo de setenta y dos horas para ratificar o no ese internamiento. Es decir, el medico puede ordenar el ingreso urgente, pero un juez tiene que confirmar que ese ingreso es correcto en un maximo de setenta y dos horas. Si el juez no lo ratifica, el paciente debe ser dado de alta inmediatamente.
+Punto cuarto: los servicios de salud mental y de atencion psiquiatrica del sistema sanitario general cubriran tambien la atencion a los problemas de salud mental de la poblacion infantil y del anciano. Se consideraran de modo especial aquellos problemas referidos a la psiquiatria infantil y la psicogeriatria. Aqui tienes dos terminos que debes recordar: psiquiatria infantil y psicogeriatria.
 
-Los plazos son fundamentales. Veinticuatro horas para comunicar al juez, setenta y dos horas para la ratificacion judicial. Articulo 763 de la LEC. Esto cae siempre.
+Y punto quinto, que refuerza el segundo: la hospitalizacion de los pacientes se realizara en las unidades psiquiatricas de los hospitales generales.
 
-Ojo con esto. El internamiento involuntario no es un castigo. Es una medida terapeutica y de proteccion que se aplica cuando el paciente supone un riesgo para si mismo o para los demas, y no es capaz de tomar decisiones sobre su salud.
+Los principios de la reforma psiquiatrica que nacen de este articulo y de toda la transformacion son los siguientes. Te los enumero todos. Desinstitucionalizacion, que significa el cierre progresivo de manicomios y hospitales psiquiatricos. Integracion en el sistema sanitario general, es decir, no segregacion del enfermo mental. Atencion comunitaria, con prioridad a la atencion ambulatoria y domiciliaria. Hospitalizacion minima, solo cuando sea estrictamente necesaria y en unidades de hospitales generales. Rehabilitacion y reinsercion social. Voluntariedad del tratamiento, siendo el internamiento involuntario la excepcion. Y respeto a los derechos del paciente.
 
-En cuanto a los dispositivos de atencion a la salud mental, existen varios niveles. Las Unidades de Salud Mental, que son dispositivos ambulatorios donde se atiende a los pacientes en consulta sin necesidad de ingreso. Las Unidades de Hospitalizacion Psiquiatrica, que estan dentro de los hospitales generales para ingresos agudos. Los Hospitales de Dia, donde el paciente acude durante el dia para recibir tratamiento pero vuelve a dormir a su casa. Las Comunidades Terapeuticas, que son dispositivos de media y larga estancia para pacientes que necesitan rehabilitacion mas prolongada. Y las Viviendas Supervisadas, para pacientes que han alcanzado cierto grado de autonomia pero todavia necesitan apoyo.
+Ahora vamos con todas las otras normas relevantes en salud mental, porque en el examen te pueden preguntar por cualquiera de ellas. Te las repaso una a una.
 
-Sobre los trastornos mentales principales, sin entrar en detalle clinico porque eso no es funcion del celador, conviene conocer las categorias generales. Los trastornos psicoticos como la esquizofrenia, los trastornos del animo como la depresion y el trastorno bipolar, los trastornos de ansiedad, los trastornos de la conducta alimentaria como la anorexia y la bulimia, los trastornos de personalidad, y las adicciones o trastornos por consumo de sustancias. El celador no diagnostica ni trata, pero debe conocer que tipos de pacientes puede encontrar para adaptar su comportamiento.
+La Constitucion Espanola de 1978. Tienes que recordar dos articulos. El articulo 17, que reconoce el derecho a la libertad. Esto es relevante porque el internamiento involuntario supone una restriccion de la libertad, por eso requiere autorizacion judicial. Y el articulo 43, que reconoce el derecho a la proteccion de la salud.
 
-Ahora vamos con lo que mas te afecta a ti como celador. Las funciones especificas del celador en el servicio de psiquiatria. Son muchas y muy importantes.
+La Ley General de Sanidad 14/1986, con su articulo 20, que ya hemos visto en detalle: equiparacion del enfermo mental y atencion comunitaria.
 
-Primera, vigilancia. El celador en psiquiatria tiene una funcion de vigilancia permanente. Debe estar atento a los movimientos de los pacientes, a cambios en su comportamiento, a posibles situaciones de riesgo. Esta vigilancia debe ser discreta y respetuosa, no se trata de espiar al paciente sino de garantizar su seguridad.
+La Ley 41/2002 de autonomia del paciente. Esta ley regula el consentimiento informado y la autonomia del paciente. Y ojo, incluye a los pacientes psiquiatricos. Los pacientes psiquiatricos tambien tienen derecho a la informacion y al consentimiento informado, con las particularidades que establece la ley.
 
-Segunda, control de accesos. El celador controla quien entra y quien sale de la unidad de psiquiatria. Las unidades de psiquiatria suelen ser unidades cerradas, donde las puertas estan controladas para evitar fugas. El celador es el encargado de abrir y cerrar las puertas, de comprobar que los visitantes estan autorizados y de vigilar que ningun paciente salga sin autorizacion.
+La Ley de Enjuiciamiento Civil, la LEC, en su articulo 763, que regula el internamiento no voluntario. Esto lo vamos a ver en detalle ahora mismo.
 
-Tercera, acompanamiento de pacientes. El celador acompana a los pacientes cuando tienen que salir de la unidad, por ejemplo, para ir a hacerse una prueba diagnostica, para ir al patio, o para trasladarse a otro servicio. Nunca se deja solo a un paciente psiquiatrico fuera de la unidad.
+El Convenio de Oviedo de 1997, que es un convenio internacional sobre la proteccion de los derechos humanos y la dignidad del ser humano en relacion con la biologia y la medicina. Protege los derechos humanos en biomedicina.
 
-Cuarta, prevencion de autolesiones y suicidio. El celador debe estar especialmente atento a las conductas autolesivas. Debe vigilar que los pacientes no tengan objetos con los que puedan hacerse dano, como objetos cortantes, cinturones, cordones, cristales. Esta funcion es critica y requiere una observacion constante.
+La Ley 39/2006, que es la Ley de Dependencia. Muchos enfermos mentales graves son personas dependientes y por tanto pueden beneficiarse de las prestaciones de esta ley.
 
-Quinta, colaboracion en la contencion mecanica. Y aqui es donde vamos a detenernos un poco mas, porque la contencion mecanica es un tema estrella en los examenes de oposiciones para celador.
+Y la Estrategia en Salud Mental del Sistema Nacional de Salud, que es el plan estrategico nacional para la salud mental.
 
-La contencion mecanica es la restriccion de los movimientos de un paciente mediante dispositivos fisicos, como correas o cinturones de sujecion. Es una medida excepcional y de ultimo recurso. Se aplica solo cuando el paciente supone un peligro inminente para si mismo o para los demas, y cuando han fracasado todas las demas medidas, como la contencion verbal o la contencion farmacologica.
+Muy bien. Ahora entramos en uno de los bloques mas importantes del tema, el internamiento involuntario. Esto cae practicamente siempre en los examenes, asi que prestame mucha atencion.
 
-Ojo con esto. La contencion mecanica siempre requiere prescripcion medica. El celador no decide contener a un paciente, eso lo decide el medico. El celador ejecuta la contencion bajo las ordenes del medico. En situaciones de urgencia extrema, si no hay medico presente, se puede iniciar la contencion pero hay que comunicarlo inmediatamente al medico para que la ratifique.
+El internamiento no voluntario por razon de trastorno psiquico esta regulado en el articulo 763 de la Ley de Enjuiciamiento Civil, la LEC. Este articulo fue modificado por la Ley Organica 8/2015.
 
-Para realizar una contencion mecanica se necesitan al menos cinco personas. Cinco, no menos. Una persona por cada extremidad del paciente, brazo derecho, brazo izquierdo, pierna derecha, pierna izquierda, y una persona mas para sujetar la cabeza y coordinar la maniobra. Esta quinta persona suele ser un profesional sanitario que da las instrucciones.
+Te voy a explicar todos los requisitos uno por uno. Primer requisito: como regla general, se necesita autorizacion judicial previa. Es decir, antes de internar a alguien contra su voluntad, un juez tiene que autorizarlo. Esa es la regla general.
 
-El paciente se coloca en posicion de decubito supino, es decir, boca arriba. No boca abajo, que es prono, porque hay riesgo de asfixia. Recuerda, siempre decubito supino, boca arriba.
+Pero existe una excepcion muy importante: el internamiento urgente. Cuando razones de urgencia lo requieran, se puede realizar el internamiento sin autorizacion judicial previa. Pero ojo, esto no significa que el juez no intervenga. Lo que pasa es que interviene despues. El responsable del centro debe comunicarlo al juzgado competente lo antes posible y siempre dentro de las veinticuatro horas siguientes. Y a partir de esa comunicacion, el juez debe ratificar o revocar el internamiento en un plazo maximo de setenta y dos horas. Estos plazos son oro puro para el examen. Veinticuatro horas para comunicar al juzgado, setenta y dos horas para la ratificacion o revocacion judicial desde que se le comunica al juez.
 
-Una vez contenido el paciente, hay que realizar revisiones periodicas. Segun los protocolos, la revision debe hacerse cada quince a treinta minutos para comprobar el estado del paciente, verificar que las sujeciones no estan demasiado apretadas, comprobar la circulacion sanguinea en las extremidades, ofrecer agua al paciente, y valorar si se puede retirar la contencion.
+Tercer requisito: debe existir un informe del facultativo del centro donde se produzca el internamiento. No basta con la decision del medico de urgencias, tiene que haber un informe escrito.
 
-Recuerda los puntos clave de la contencion mecanica. Es excepcional y de ultimo recurso. Requiere prescripcion medica. Se necesitan al menos cinco personas. El paciente va en decubito supino, boca arriba. Y revision cada quince a treinta minutos. Esto cae siempre.
+Cuarto requisito: el juez examinara personalmente al internado y oira el dictamen de un facultativo designado por el tribunal. Es decir, el juez no solo lee papeles, tiene que ver al paciente en persona y ademas escuchar la opinion de un medico que el propio tribunal designe.
 
-En relacion con las camas utilizadas en psiquiatria, se utilizan las llamadas camas rigidas. Son camas especiales que no tienen partes moviles ni articulaciones que el paciente pueda manipular o con las que pueda hacerse dano. Son mas bajas que las camas normales para evitar lesiones por caidas, y estan disenadas para poder fijar las sujeciones de la contencion mecanica de forma segura.
+Quinto requisito: el internamiento se mantendra solo el tiempo estrictamente necesario.
 
-Otra situacion importante en psiquiatria es el protocolo de fuga. Si un paciente se fuga de la unidad, el celador debe actuar siguiendo un protocolo establecido. Lo primero es comunicar inmediatamente la fuga al personal de enfermeria y al medico responsable. Se avisa a seguridad y a la supervision. Se revisan las camaras de vigilancia si las hay. Se da aviso a las fuerzas de seguridad si es necesario, especialmente si el paciente tiene un internamiento involuntario. Y se documenta todo lo sucedido.
+Sexto: se revisara periodicamente, cada seis meses como maximo en la mayoria de legislaciones autonomicas.
 
-El celador no persigue al paciente fuera del hospital, eso corresponde a las fuerzas de seguridad. Pero si debe intentar contener la situacion dentro del recinto hospitalario si es posible hacerlo de forma segura.
+Y septimo: el internado, su representante legal, el Ministerio Fiscal o cualquier persona con interes legitimo pueden solicitar en cualquier momento el cese del internamiento.
 
-Hablemos tambien de la relacion terapeutica con el paciente psiquiatrico. Aunque el celador no tiene funciones terapeuticas como tales, su actitud y su forma de relacionarse con los pacientes influyen en el ambiente terapeutico de la unidad. El celador debe tratar al paciente con respeto, empatia y dignidad. Debe evitar actitudes autoritarias, provocadoras o de confrontacion. Debe usar un tono de voz calmado y un lenguaje claro y sencillo. Debe mantener una actitud de escucha activa. Y debe evitar hacer juicios de valor sobre el paciente o su enfermedad. La relacion con el paciente psiquiatrico debe estar basada en la confianza, la paciencia y la comprension. Esto no solo es una cuestion etica, sino que tambien contribuye a reducir la agitacion y los episodios de violencia.
+El esquema temporal del internamiento urgente es asi: se produce el internamiento urgente, se comunica al juzgado en un maximo de veinticuatro horas, y el juez ratifica o revoca en un maximo de setenta y dos horas desde la comunicacion.
 
-Ademas, el celador debe conocer las tecnicas de desescalada verbal, que son estrategias de comunicacion para calmar a un paciente agitado sin recurrir a la contencion fisica. Mantener la calma, hablar en tono bajo, no invadir el espacio personal del paciente, ofrecer opciones, mostrar comprension. La contencion verbal siempre debe intentarse antes que la contencion mecanica.
+Ahora vamos con los tres tipos de internamiento que existen. Primero, el internamiento voluntario: el paciente acepta libremente el ingreso. Puede solicitar el alta en cualquier momento, salvo que el medico considere que necesita internamiento involuntario, en cuyo caso se solicitara autorizacion judicial. Segundo, el internamiento involuntario ordinario: se realiza con autorizacion judicial previa. El juez evalua la necesidad antes del internamiento. Y tercero, el internamiento involuntario urgente: se realiza sin autorizacion previa. Se comunica al juzgado en veinticuatro horas y el juez ratifica o revoca en setenta y dos horas.
 
-Vamos con el repaso final del tema. La OMS definio la salud en 1948 como bienestar fisico, mental y social, no solo ausencia de enfermedad. La LGS 14/1986 en su articulo 20 establece la equiparacion del enfermo mental y la hospitalizacion en hospitales generales, no en manicomios. El internamiento involuntario se regula en el articulo 763 de la LEC, con veinticuatro horas para comunicar al juez y setenta y dos horas para la ratificacion judicial.
+Vamos ahora con los dispositivos de atencion en salud mental. Aqui hay una tabla completa con todos los dispositivos que forman la red de salud mental, y te los voy a repasar uno a uno porque cualquiera puede caer en el examen.
 
-El celador en psiquiatria vigila, controla accesos, acompana pacientes, previene autolesiones y colabora en la contencion mecanica. La contencion mecanica es excepcional, requiere prescripcion medica, se necesitan cinco personas, el paciente en decubito supino boca arriba, y revision cada quince a treinta minutos. Las camas en psiquiatria son rigidas por seguridad. Y ante una fuga, comunicar inmediatamente al equipo sanitario y a seguridad.
+Primero, el Centro de Salud Mental, tambien llamado Unidad de Salud Mental Comunitaria. Es el dispositivo de atencion ambulatoria. Aqui se hacen las consultas, el tratamiento y el seguimiento de los pacientes. Es el eje de la asistencia en salud mental. Recuerda esto: el CSM, Centro de Salud Mental, es el eje de la asistencia. Es ambulatorio y comunitario.
 
-Y con esto terminamos el Tema 9 de psiquiatria. Es un tema sensible pero muy importante para tu trabajo como celador. Recuerda que el respeto al paciente y su dignidad deben guiar siempre tu actuacion. Nos vemos en el siguiente episodio. Mucho animo y a seguir.
+Segundo, la Unidad de Hospitalizacion Breve, tambien llamada Unidad de Agudos. Es donde se hospitalizan las crisis agudas. Se encuentra dentro de los hospitales generales. El regimen es de internamiento breve.
+
+Tercero, el Hospital de Dia. Es una hospitalizacion parcial diurna. El paciente va durante el dia para realizar programas de rehabilitacion y actividades terapeuticas, pero vuelve a su casa a dormir. El regimen es parcial, diurno.
+
+Cuarto, la Unidad de Media Estancia. Aqui la hospitalizacion dura semanas o meses. Sirve para la estabilizacion y la rehabilitacion de pacientes que necesitan mas tiempo. El regimen es de internamiento medio.
+
+Quinto, la Unidad de Larga Estancia. Para pacientes cronicos que requieren cuidados prolongados. El regimen es de internamiento prolongado.
+
+Sexto, las comunidades terapeuticas. Son dispositivos residenciales donde se practica la convivencia terapeutica y la rehabilitacion intensiva.
+
+Septimo, los pisos o viviendas tuteladas. Son para la reinsercion social y la autonomia supervisada. El paciente vive en un piso pero cuenta con apoyo profesional. El regimen es comunitario.
+
+Octavo, los Centros de Rehabilitacion Psicosocial, las siglas son CRPS. Aqui se trabaja la rehabilitacion, las habilidades sociales y la insercion laboral. El regimen es ambulatorio.
+
+Noveno, la psiquiatria infantil y de la adolescencia. Es la atencion especializada a menores con trastornos mentales. Puede funcionar en varios regimenes.
+
+Y decimo, la psicogeriatria. Es la atencion a personas mayores con trastornos mentales. Tambien puede funcionar en varios regimenes.
+
+Bien, ahora entramos en los principales trastornos mentales. El celador no diagnostica ni trata, pero necesita conocer los tipos de pacientes con los que va a trabajar para adaptar su comportamiento. Te voy a explicar todos los trastornos que aparecen en el temario.
+
+Empezamos por los trastornos psicoticos. El mas representativo es la esquizofrenia. La esquizofrenia es el trastorno mental grave mas representativo. Presenta dos tipos de sintomas. Los sintomas positivos, que son los que anaden algo que no deberia estar: alucinaciones, sobre todo auditivas, que es lo que se conoce como oir voces; delirios, que son ideas falsas e irrebatibles, como delirios de persecucion o de grandiosidad; y desorganizacion del pensamiento y la conducta. Y los sintomas negativos, que son los que quitan algo que deberia estar: aplanamiento afectivo, alogia que es pobreza del habla, abulia que es falta de voluntad, anhedonia que es la incapacidad para sentir placer, y aislamiento social. La esquizofrenia suele debutar en adultos jovenes, entre los quince y los treinta y cinco anos, y tiene un curso cronico con brotes.
+
+Otro trastorno psicotico es el trastorno delirante, tambien conocido como paranoia. Se caracteriza por ideas delirantes persistentes y sistematizadas. A diferencia de la esquizofrenia, el funcionamiento de la persona esta relativamente conservado fuera del area delirante. Los tipos de trastorno delirante son: persecutorio, celotipico, erotomania, de grandiosidad y somatico.
+
+Pasamos a los trastornos del estado de animo, tambien llamados trastornos afectivos. Aqui tenemos la depresion mayor. Se caracteriza por tristeza persistente, perdida de interes que se llama anhedonia, alteraciones del sueno y del apetito, fatiga, sentimientos de culpa e inutilidad. Y muy importante para el celador: la depresion tiene riesgo de suicidio, por lo que requiere vigilancia especial. Tambien hay que estar atentos a la ideacion suicida y la desesperanza.
+
+El otro gran trastorno del animo es el trastorno bipolar. Se caracteriza por la alternancia de episodios maniacos y episodios depresivos. Los episodios maniacos cursan con euforia, hiperactividad, desinhibicion, grandiosidad e insomnio. Hay dos tipos: el trastorno bipolar tipo uno, que tiene episodios maniacos completos, y el tipo dos, que tiene episodios hipomaniacos, que son menos intensos, combinados con episodios depresivos.
+
+Ahora los trastornos de ansiedad. Te enumero todos. El trastorno de ansiedad generalizada, conocido como TAG: preocupacion excesiva y persistente. El trastorno de panico: crisis de angustia recurrentes e inesperadas, con taquicardia, disnea, sensacion de muerte. Las fobias, que son miedos irracionales e intensos. Dentro de las fobias hay varias: la agorafobia, que es el miedo a espacios abiertos o situaciones de dificil escape; la fobia social, que es el miedo a situaciones sociales; y las fobias especificas, como a animales, sangre, alturas y otras. El TOC, Trastorno Obsesivo Compulsivo: obsesiones que son pensamientos intrusivos y compulsiones que son rituales para aliviar la ansiedad. Ojo, actualmente el TOC esta clasificado aparte en el DSM-5, no dentro de los trastornos de ansiedad propiamente. Y el TEPT, Trastorno por Estres Postraumatico: aparece tras un evento traumatico y se manifiesta con reviviscencias, evitacion e hipervigilancia.
+
+Vamos con los trastornos de personalidad. Son patrones inflexibles y desadaptativos de comportamiento, cognicion y experiencia que se apartan de las expectativas culturales. Se agrupan en tres clusters. El Cluster A, que se describe como raros o excentricos, incluye el paranoide, el esquizoide y el esquizotipico. El Cluster B, que se describe como dramaticos o emocionales, incluye el antisocial, el limite o borderline, el histrionico y el narcisista. Y el Cluster C, que se describe como ansiosos o temerosos, incluye el evitativo, el dependiente y el obsesivo-compulsivo de personalidad. Ojo, no confundir el trastorno obsesivo-compulsivo de personalidad del Cluster C con el TOC que es un trastorno de ansiedad. Son cosas diferentes.
+
+Los trastornos de la conducta alimentaria, los TCA. Aqui tenemos la anorexia nerviosa, que se caracteriza por restriccion alimentaria, miedo intenso a engordar y distorsion de la imagen corporal. Y la bulimia nerviosa, que se caracteriza por atracones seguidos de conductas compensatorias como vomitos o uso de laxantes.
+
+Los trastornos por uso de sustancias, es decir, las adicciones. Aqui entran el alcoholismo y las drogodependencias. Un concepto importante es la patologia dual: es la coexistencia de un trastorno mental y un trastorno adictivo en la misma persona. Estos pacientes se atienden tanto en centros especificos de adicciones como en la red de salud mental.
+
+Y por ultimo las demencias, que el DSM-5 llama trastornos neurocognitivos. La mas frecuente es el Alzheimer, que cursa con un deterioro cognitivo progresivo. Tambien existen la demencia vascular, la demencia por cuerpos de Lewy y la demencia frontotemporal. La atencion a estos pacientes se realiza en psicogeriatria.
+
+Perfecto. Ahora entramos en el bloque que mas te afecta como celador. Las funciones del celador en psiquiatria. Te las voy a detallar todas.
+
+Funcion numero uno: vigilancia especial y continua de los pacientes. El celador debe estar atento a posibles intentos de autolesion, suicidio o agresion.
+
+Funcion numero dos: acompanamiento de pacientes en sus desplazamientos dentro y fuera de la unidad, ya sea para consultas, pruebas o paseos terapeuticos.
+
+Funcion numero tres: control de accesos a la unidad de psiquiatria. La puerta generalmente esta cerrada con llave o clave. El celador controla las entradas y salidas de pacientes y visitas.
+
+Funcion numero cuatro: control de objetos peligrosos. El celador debe impedir la entrada de objetos cortantes, punzantes, cinturones, cordones, cristal, medicacion no prescrita, drogas y alcohol. La revision de pertenencias se realiza supervisada por enfermeria.
+
+Funcion numero cinco: colaboracion en la contencion mecanica del paciente agitado, siempre bajo prescripcion medica y supervision de enfermeria.
+
+Funcion numero seis: colaboracion en la administracion de medicacion cuando el paciente se niega. El celador sujeta al paciente mientras enfermeria administra la medicacion. Siempre bajo indicacion medica.
+
+Funcion numero siete: acompanamiento en la higiene del paciente cuando sea necesario por motivos de seguridad.
+
+Funcion numero ocho: observacion y comunicacion. El celador debe informar al personal sanitario de cualquier cambio en la conducta del paciente, ya sea agitacion, aislamiento, tristeza extrema o verbalizacion de ideas suicidas.
+
+Funcion numero nueve: prevencion de fugas. El celador debe ejercer vigilancia especial y conocer el protocolo de fugas.
+
+Funcion numero diez: ayuda en actividades terapeuticas, acompanando a los pacientes a terapia ocupacional, deportes o salidas terapeuticas.
+
+Funcion numero once: distribucion de alimentos en bandeja individualizada. Y ojo aqui: hay que vigilar que el paciente no acumule cubiertos u objetos.
+
+Funcion numero doce: recuento de pacientes. Verificacion periodica del numero de pacientes en la unidad.
+
+Y funcion numero trece: traslado de pacientes a otras unidades o centros, siempre acompanados.
+
+Ahora las funciones especificas de seguridad. Vigilancia permanente en unidades de agudos o puertas cerradas. Recuento de cubiertos tras cada comida, especialmente cuchillos y tenedores. Vigilancia en el bano para asegurar que el paciente no se encierra con objetos peligrosos y que no intenta autolesionarse. Vigilancia nocturna con rondas periodicas para comprobar el estado de los pacientes. Control de ventanas para verificar que estan cerradas o tienen sistema de seguridad. Y control de pertenencias en las visitas para revisar que los visitantes no introducen objetos peligrosos.
+
+Y ahora algo muy importante: lo que no debe hacer el celador en psiquiatria. Primero, el celador no decide la contencion mecanica, eso es prescripcion medica. Segundo, no aplica solo la contencion, necesita supervision de enfermeria. Tercero, no administra medicacion. Cuarto, no diagnostica ni evalua el estado mental del paciente. Quinto, no utiliza la fuerza de forma innecesaria o desproporcionada. Sexto, no realiza juicios de valor sobre el paciente ni sobre su enfermedad. Y septimo, no proporciona informacion clinica a familiares. Todo esto puede ser pregunta de examen, especialmente las preguntas del tipo "cual de estas es funcion del celador" donde te meten como opcion algo que no le corresponde.
+
+Vamos ahora con la contencion mecanica o sujecion mecanica. Este es uno de los temas estrella del examen, asi que vamos a ser muy exhaustivos.
+
+La contencion mecanica, tambien llamada sujecion mecanica, restriccion fisica o inmovilizacion terapeutica, es la limitacion de los movimientos de un paciente mediante dispositivos mecanicos como correas o cinturones para evitar que se dane a si mismo o a otros.
+
+Las caracteristicas fundamentales son las siguientes. Es una medida excepcional y temporal. Requiere prescripcion o indicacion medica, excepto en situacion de emergencia extrema en que se aplica y se comunica inmediatamente al medico. Debe estar justificada y registrada en la historia clinica. Se aplica como ultimo recurso, cuando han fracasado otras medidas como la contencion verbal y la contencion farmacologica. Debe retirarse lo antes posible. Y se aplica con la minima fuerza necesaria.
+
+Las indicaciones para la contencion mecanica son: riesgo inminente de autolesion o suicidio; agresividad que pone en peligro al paciente o a otros; agitacion extrema que impide el tratamiento necesario; riesgo de caidas en pacientes confusos, donde se usan barandillas o cinturon; y para evitar la retirada de dispositivos terapeuticos como sondas, vias o drenajes.
+
+Ahora el protocolo completo de contencion mecanica, paso a paso. Paso uno: indicacion medica. En emergencia puede indicarla la enfermera, pero con comunicacion inmediata al medico. Paso dos: preparacion del material. Se necesita cinturon abdominal, munequeras y tobilleras. Hay que comprobar que estan en buen estado. Paso tres: personal necesario. Se necesitan un minimo de cinco personas. Una por cada extremidad, es decir, cuatro, mas una persona que actua como coordinador y se encarga de la cabeza. El celador participa activamente en esta maniobra. Paso cuatro: la tecnica. Primero, se informa al paciente de lo que se va a hacer, aunque no colabore. Un miembro del equipo dirige y coordina, habitualmente el medico o el enfermero. Se sujeta al paciente en decubito supino, que significa boca arriba. Se fijan las extremidades: munecas y tobillos. Se coloca cinturon abdominal si es necesario. Las sujeciones se fijan a las partes fijas de la cama, al marco, nunca a barandillas moviles. Y debe poder introducirse un dedo entre la sujecion y la piel para asegurar que no esta demasiado apretado. Paso cinco: vigilancia posterior. Revision cada quince a treinta minutos por enfermeria, comprobando circulacion, movilidad, signos vitales y estado emocional. Hay que comprobar que no hay lesiones por presion, cianosis ni edema. Se ofrecen liquidos, alimentos y ayuda para la eliminacion. Y se mantiene la dignidad del paciente con intimidad y ropa adecuada. Paso seis: registro en la historia clinica con indicacion, hora de inicio, hora de fin, incidencias y valoraciones. Y paso siete: la retirada. Se realiza cuando cesa la indicacion. Las sujeciones se retiran de una en una, de forma progresiva.
+
+Ahora los tipos o escalas de contencion, de menor a mayor intensidad. Primero, la contencion verbal o ambiental. Es el primer nivel. Consiste en dialogo, desescalada, ambiente tranquilo, reducir estimulos. Segundo, la contencion farmacologica. Consiste en administrar medicacion sedante, ya sea oral o inyectable. Tercero, la contencion mecanica. Los dispositivos fisicos de sujecion que acabamos de ver. Y cuarto, el aislamiento terapeutico. Consiste en colocar al paciente en una habitacion individual con medidas de seguridad. Recuerda este orden de menor a mayor: verbal, farmacologica, mecanica, aislamiento.
+
+Un dato importante sobre las camas en psiquiatria. En las unidades de psiquiatria se utilizan camas sin articulaciones, llamadas camas rigidas, por motivos de seguridad. Al no tener articulaciones, se evita que el paciente pueda usar las partes moviles como herramienta para autolesionarse o como punto de anclaje. Son mas resistentes y dificiles de desmontar. Pueden carecer de barandillas abatibles o tener barandillas de diseno especial.
+
+Vamos ahora con la relacion con el enfermo mental, la actitud que debe tener el celador. Te enumero todas las pautas. Empatia: comprender la situacion del paciente sin juzgarle. Escucha activa: prestar atencion a lo que dice el paciente y mostrar interes genuino. Respeto: tratar al paciente con dignidad, como a cualquier otro enfermo. Calma y serenidad: no responder a la agresividad con agresividad. No confrontacion: evitar discutir con el paciente delirante o agitado. Firmeza sin autoritarismo: poner limites de forma clara y respetuosa. Comunicacion clara y sencilla: mensajes cortos, directos y comprensibles. Paciencia: los enfermos mentales pueden ser repetitivos, lentos o desconfiados. No dar la razon al delirio pero tampoco negarlo frontalmente. No decir "eso es mentira"; es mejor decir algo como "entiendo que te sientes asi". No prometer lo que no se puede cumplir. Y mantener la distancia terapeutica, que es cercania profesional sin implicacion emocional excesiva.
+
+Ahora, como actuar ante un paciente agitado. Te doy las diez pautas completas. Primera, mantener la calma y no elevar la voz. Segunda, no acercarse bruscamente y mantener distancia de seguridad. Tercera, no dar la espalda al paciente agitado. Cuarta, hablar con tono de voz bajo y tranquilo. Quinta, retirar a otros pacientes de la zona si es posible. Sexta, no tocar al paciente salvo que sea estrictamente necesario para la contencion. Septima, avisar inmediatamente al personal sanitario. Octava, no bloquear la salida del paciente, hay que dejar via de escape tanto para el paciente como para el profesional. Novena, retirar objetos peligrosos del entorno. Y decima, si es necesaria la contencion fisica, esperar refuerzo y actuar de forma coordinada.
+
+Sobre la actuacion ante riesgo de suicidio. Vigilancia constante y estrecha. Retirar todo objeto con el que el paciente pueda autolesionarse: cinturones, cordones, objetos cortantes, cristal, medicacion. Comunicar inmediatamente al personal sanitario cualquier verbalizacion de ideas suicidas. No dejar solo al paciente con riesgo suicida. Y muy importante, esto es una pregunta trampa clasica: vigilar especialmente en los momentos de mejoria aparente. Cuando un paciente que estaba deprimido o con ideas suicidas de repente parece estar mucho mejor, mas tranquilo, esto puede significar que ya ha tomado la decision de suicidarse y se siente aliviado por haber tomado esa decision. Es un signo de alarma, no de mejoria real.
+
+Ahora vamos con el protocolo de fuga. Primero, la prevencion. Control de accesos permanente con la puerta cerrada. Recuento periodico de pacientes. Conocimiento de los pacientes con mayor riesgo de fuga. Y vigilancia en momentos criticos como los cambios de turno, las horas de visita y los traslados.
+
+Y la actuacion cuando se produce una fuga. Te la detallo paso a paso. Paso uno: verificar la ausencia del paciente buscando en todas las dependencias de la unidad. Paso dos: comunicar inmediatamente al supervisor de enfermeria y al medico responsable. Paso tres: comunicacion al servicio de seguridad del hospital. Paso cuatro: comunicacion a la direccion del centro. Paso cinco: si el paciente esta en internamiento involuntario, comunicacion al juzgado correspondiente. Paso seis: comunicacion a la familia o tutores. Paso siete: si es necesario, aviso a las Fuerzas y Cuerpos de Seguridad del Estado. Paso ocho: registro de la incidencia en la historia clinica y en el libro de incidencias de la unidad. Y paso nueve: describir fisicamente al paciente y la ropa que vestia para facilitar la busqueda.
+
+Muy bien. Y ahora vamos con el repaso final de todos los datos clave para el examen. Son treinta puntos que resumen todo el tema y que tienes que dominar.
+
+Punto uno: la OMS en 1948 definio la salud como completo bienestar fisico, mental y social, no solo ausencia de enfermedad.
+
+Punto dos: la Ley General de Sanidad 14/1986, en su articulo 20, establece la equiparacion del enfermo mental, la hospitalizacion en unidades de hospitales generales, no en manicomios, y la atencion comunitaria.
+
+Punto tres: el articulo 763 de la LEC regula el internamiento involuntario. La regla general es autorizacion judicial previa. En el caso urgente, comunicacion al juzgado en veinticuatro horas y ratificacion en setenta y dos horas.
+
+Punto cuatro: internamiento urgente. Sin autorizacion previa, comunicar al juzgado en maximo veinticuatro horas, ratificacion o revocacion en maximo setenta y dos horas.
+
+Punto cinco: la atencion se basa en el modelo comunitario. Ambulatoria, hospitalizacion parcial, domiciliaria. La hospitalizacion es el ultimo recurso.
+
+Punto seis: las funciones principales del celador en psiquiatria son vigilancia, control de accesos, acompanamiento, colaboracion en la contencion mecanica, control de objetos peligrosos y prevencion de fugas.
+
+Punto siete: los objetos peligrosos que hay que controlar son cortantes, punzantes, cinturones, cordones, cristal y medicacion no prescrita.
+
+Punto ocho: recuento de cubiertos tras cada comida.
+
+Punto nueve: en psiquiatria se utilizan camas rigidas, sin articulaciones, por seguridad.
+
+Punto diez: el protocolo de fuga sigue este orden: verificar ausencia, comunicar al supervisor y medico, avisar a seguridad, avisar a direccion, comunicar al juzgado si es internamiento involuntario, avisar a la familia, y si es necesario avisar a la policia.
+
+Punto once: la contencion mecanica es una medida excepcional, temporal y de ultimo recurso.
+
+Punto doce: requiere prescripcion medica, excepto en emergencia extrema, en cuyo caso hay que comunicar inmediatamente al medico.
+
+Punto trece: el personal minimo para una contencion son cinco personas. Una por extremidad mas un coordinador.
+
+Punto catorce: la posicion del paciente contenido es decubito supino, boca arriba.
+
+Punto quince: las sujeciones se fijan a partes fijas de la cama, al marco, nunca a barandillas moviles.
+
+Punto dieciseis: la revision se realiza cada quince a treinta minutos por enfermeria.
+
+Punto diecisiete: debe poder introducirse un dedo entre la sujecion y la piel.
+
+Punto dieciocho: las escalas de contencion de menor a mayor son verbal o ambiental, farmacologica, mecanica y aislamiento.
+
+Punto diecinueve: el registro en la historia clinica es obligatorio.
+
+Punto veinte: la actitud del celador debe ser de empatia, escucha activa, no confrontacion, calma, respeto y firmeza sin autoritarismo.
+
+Punto veintiuno: no se debe dar la razon al delirio, pero tampoco negarlo frontalmente.
+
+Punto veintidos: ante un paciente agitado: calma, no elevar la voz, distancia de seguridad, no dar la espalda y avisar a los sanitarios.
+
+Punto veintitres: ante riesgo de suicidio: vigilancia constante, retirar objetos peligrosos y prestar atencion especial a la mejoria aparente.
+
+Punto veinticuatro: la esquizofrenia se caracteriza por alucinaciones, siendo las auditivas las mas frecuentes, es decir, oir voces, mas delirios mas sintomas negativos.
+
+Punto veinticinco: la depresion tiene riesgo de suicidio, por lo que requiere vigilancia especial.
+
+Punto veintiseis: el trastorno bipolar es la alternancia de episodios maniacos y depresivos.
+
+Punto veintisiete: el celador no decide la contencion, no la aplica solo, no administra medicacion y no diagnostica.
+
+Punto veintiocho: la Ley 41/2002 regula la autonomia del paciente y el consentimiento informado, y es tambien aplicable en psiquiatria.
+
+Punto veintinueve: la patologia dual es la coexistencia de un trastorno mental y un trastorno adictivo.
+
+Y punto treinta: el Centro de Salud Mental, el CSM, es el eje de la asistencia en salud mental. Es ambulatorio y comunitario.
+
+Para terminar, vamos a repasar las preguntas trampa mas habituales de este tema. Primera trampa: te preguntan la definicion de salud de la OMS y te ponen como opcion "bienestar fisico y mental". Falta el social. Siempre son tres: fisico, mental y social. Segunda trampa: te dicen que la hospitalizacion psiquiatrica se realiza en hospitales psiquiatricos. Falso. Se realiza en unidades psiquiatricas de hospitales generales. Tercera trampa: confunden los plazos del internamiento urgente. Recuerda, veinticuatro horas para comunicar, setenta y dos para ratificar. No al reves. Y no confundas con cuarenta y ocho horas, que es un distractor frecuente. Cuarta trampa: te dicen que la contencion mecanica la decide el celador o la enfermera. No. La decide el medico. El celador colabora, pero no decide. Quinta trampa: te dicen que el paciente contenido va en decubito prono. Falso. Va en decubito supino, boca arriba. Prono es boca abajo y hay riesgo de asfixia. Sexta trampa: te dicen que las sujeciones se fijan a las barandillas. Falso. Se fijan a las partes fijas de la cama, al marco. Septima trampa: te dicen que se necesitan cuatro personas para la contencion. Falso. Son cinco: cuatro para las extremidades y una quinta que coordina. Octava trampa: te preguntan el primer nivel de contencion y te ponen la farmacologica. No. El primer nivel es la contencion verbal o ambiental. Novena trampa: te dicen que ante un delirio hay que decirle al paciente que esta mintiendo o que eso no es real. No. No se da la razon al delirio, pero tampoco se niega frontalmente. Decima trampa: un paciente deprimido que de repente mejora mucho es buena senal. Cuidado. Puede ser una mejoria aparente que indica que el paciente ha tomado la decision de suicidarse. Es un signo de alarma.
+
+Y con esto hemos terminado el Tema 9 completo de psiquiatria y la actuacion del celador con el enfermo mental. Hemos visto los conceptos fundamentales de salud y salud mental, toda la legislacion con la Ley General de Sanidad y su articulo 20, el internamiento involuntario con el articulo 763 de la LEC y sus plazos de veinticuatro y setenta y dos horas, todos los dispositivos de la red de salud mental desde el Centro de Salud Mental hasta la psicogeriatria, todos los trastornos mentales principales desde la esquizofrenia hasta las demencias, las trece funciones del celador en psiquiatria, las funciones de seguridad, lo que no debe hacer el celador, el protocolo completo de contencion mecanica con sus siete pasos, las escalas de contencion, la cama rigida, la relacion con el enfermo mental, la actuacion ante el paciente agitado, ante el riesgo de suicidio, el protocolo de fuga, los treinta datos clave para el examen y las diez preguntas trampa. Todo. No nos hemos dejado nada. Ahora a repasar y a machacar estos datos. Mucho animo y nos vemos en el siguiente tema.

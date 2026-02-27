@@ -1,103 +1,441 @@
-Bienvenido al podcast de oposiciones de celador. Tema once. Conceptos de informatica.
+Bienvenido al podcast de oposiciones de celador. Hoy vamos con el Tema 11 completo: Conceptos de Informatica.
 
-Este tema puede parecer diferente al resto, pero sale mucho en examen y tiene datos muy concretos que, si los memorizas, son puntos faciles. Vamos con ello.
+Este tema es uno de los que mas datos concretos tiene. Numeros, siglas, nombres propios, fechas, capacidades, pines de conectores... Es un tema donde si memorizas los datos, te llevas puntos facilisimos en el examen. Asi que vamos a ir punto por punto, sin dejarnos nada. Concentrate, que empezamos.
 
-Empezamos con un poco de historia. El padre de la informatica es Charles Babbage. Babbage diseno la maquina analitica en el siglo diecinueve. Recuerda este nombre porque siempre lo preguntan.
+PRIMERA PARTE: INTRODUCCION E HISTORIA DE LA INFORMATICA
 
-La primera computadora electromecanica fue la Mark uno, en mil novecientos cuarenta y cuatro. Electromecanica, no electronica. Ojo con esto. La primera computadora electronica fue la ENIAC, en mil novecientos cuarenta y cinco. Electronica, un ano despues. La trampa clasica es intercambiar electromecanica y electronica. Mark uno, mil novecientos cuarenta y cuatro, electromecanica. ENIAC, mil novecientos cuarenta y cinco, electronica.
+Lo primero de todo. La propia palabra informatica. Informatica viene de la union de dos palabras: INFORmacion y autoMATICA. Es decir, informatica significa informacion automatica. Es la ciencia que estudia el tratamiento automatico y racional de la informacion mediante maquinas automaticas, que son los ordenadores o computadoras. Este concepto lo preguntan tal cual en examen: informatica igual a informacion automatica.
 
-El primer ordenador personal, el primer PC de IBM, aparecio en mil novecientos ochenta y uno. Mil novecientos ochenta y uno, recuerdalo.
+Ahora, los personajes historicos clave. El padre de la informatica es Charles Babbage. Babbage vivio en el siglo diecinueve y diseno la Maquina Analitica. La Maquina Analitica se considera el primer concepto de ordenador programable de la historia, aunque nunca llego a construirse completamente. Esto lo preguntan mucho: quien es el padre de la informatica, Charles Babbage. Cual fue su invencion, la Maquina Analitica.
 
-Ahora vamos con el codigo binario y las unidades de informacion. Esto es fundamental.
+Junto a Babbage tenemos a Ada Lovelace. Ada Lovelace esta considerada la primera programadora de la historia. Escribio el primer algoritmo para la maquina de Babbage. Si te preguntan quien fue la primera programadora, la respuesta es Ada Lovelace.
 
-El bit es la unidad mas pequena de informacion. Solo puede tener dos valores, cero o uno. El bit es la unidad teorica mas importante de la informatica.
+Y el tercer personaje clave es Alan Turing. Turing es el padre de la ciencia de la computacion teorica y de la inteligencia artificial. Creo la Maquina de Turing, que es un concepto teorico fundamental en computacion. Ademas, Turing descifro la maquina Enigma durante la Segunda Guerra Mundial. Recuerda: Babbage padre de la informatica, Lovelace primera programadora, Turing padre de la computacion teorica y la inteligencia artificial.
 
-Un nibble son cuatro bits. Un byte son ocho bits. El byte es la unidad practica mas importante. Ocho bits forman un byte.
+Ahora vamos con los hitos historicos. Aqui hay fechas que caen constantemente en examen. Voy a darte cada una con su detalle.
 
-A partir de aqui, todo va multiplicando por mil veinticuatro. Un kilobyte son mil veinticuatro bytes. Un megabyte son mil veinticuatro kilobytes. Un gigabyte son mil veinticuatro megabytes. Un terabyte son mil veinticuatro gigabytes. Y un petabyte son mil veinticuatro terabytes.
+Ano mil novecientos cuarenta y cuatro. Se crea la Mark uno, desarrollada por Harvard e IBM, y su creador principal fue Howard Aiken. La Mark uno es la primera computadora electromecanica. Atencion: electromecanica, que funcionaba con reles. No electronica. Electromecanica.
 
-Ojo con una trampa muy importante. Mb con be minuscula significa megabits. MB con be mayuscula significa megabytes. Son diferentes. Internet se mide en megabits. El almacenamiento se mide en megabytes. Un byte son ocho bits, asi que ocho megabits son un megabyte.
+Ano mil novecientos cuarenta y cinco. Se crea la ENIAC, en la Universidad de Pennsylvania, por Mauchly y Eckert. La ENIAC es la primera computadora electronica de proposito general. Pesaba treinta toneladas y tenia dieciocho mil valvulas de vacio. Treinta toneladas, dieciocho mil valvulas. Estos numeros los pueden preguntar.
 
-Ahora hardware y software. El hardware es la parte fisica del ordenador, lo que puedes tocar. El software es la parte logica, los programas.
+Aqui esta la trampa clasica de examen. Mark uno, mil novecientos cuarenta y cuatro, electromecanica. ENIAC, mil novecientos cuarenta y cinco, electronica. La pregunta trampa tipica es intercambiar electromecanica con electronica, o intercambiar las fechas. Mark uno es electromecanica y es un ano antes. ENIAC es electronica y es un ano despues. Grabate esto a fuego.
 
-Vamos con los componentes principales del hardware. La placa base, tambien llamada placa madre o motherboard, es la pieza principal donde se conectan todos los componentes. Incluye el zocalo para el procesador, las ranuras de memoria o slots, el chipset, los conectores y la BIOS.
+Ano mil novecientos cincuenta y uno. Aparece la UNIVAC uno, que es el primer ordenador comercial. No el primero de la historia, sino el primero que se vendio comercialmente.
 
-La CPU o procesador es el cerebro del ordenador. Esta formada por dos partes. La Unidad de Control, que dirige las operaciones, y la Unidad Aritmetico Logica, la ALU, que realiza los calculos. Juntas forman el microprocesador. Su velocidad se mide en megahercios. CPU igual a UC mas ALU igual a microprocesador.
+Ano mil novecientos setenta y uno. Intel lanza el Intel cuatro mil cuatro, que es el primer microprocesador comercial. Intel cuatro mil cuatro, mil novecientos setenta y uno.
 
-La memoria RAM es una memoria volatil, lo que significa que pierde su contenido cuando se apaga el ordenador. Es de lectura y escritura. Temporal. La memoria ROM es una memoria permanente, de solo lectura. Contiene el firmware y la rutina de arranque o BIOS. No se borra al apagar.
+Ano mil novecientos setenta y cinco. Aparece el Altair ocho mil ochocientos, que esta considerado el primer ordenador personal, el primer microcomputador.
 
-Recuerda la diferencia. RAM, volatil, temporal, lectura y escritura. ROM, permanente, solo lectura, firmware.
+Ano mil novecientos setenta y seis. Steve Jobs y Steve Wozniak crean el Apple uno. Jobs y Wozniak, mil novecientos setenta y seis, Apple uno.
 
-El chipset se divide en dos partes. El puente norte gestiona los componentes rapidos: la CPU, la memoria RAM y los graficos. El puente sur gestiona los perifericos y el almacenamiento. Norte es lo rapido e importante. Sur es lo complementario.
+Y ano mil novecientos ochenta y uno. IBM lanza el IBM PC, el Personal Computer. Este es el primer PC de IBM y se convierte en el estandar de la industria. Su sistema operativo era el MS-DOS, creado por Microsoft, de Bill Gates. IBM PC, mil novecientos ochenta y uno, MS-DOS, Microsoft, Bill Gates. Todo esto cae en examen.
 
-Vamos con el almacenamiento. El disco duro es el dispositivo principal de almacenamiento. Se organiza en pistas y sectores. Los tipos de conexion son IDE y SCSI. Hoy en dia tambien hay discos SSD, que son de estado solido y mucho mas rapidos.
+Ahora las generaciones de ordenadores. Hay cinco generaciones y cada una tiene su tecnologia caracteristica.
 
-La memoria flash se usa en dispositivos USB y tarjetas de memoria. El disquete tiene una capacidad de uno coma cuarenta y cuatro megabytes. Uno coma cuarenta y cuatro megabytes, dato clasico de examen. El CD ROM almacena setecientos megabytes. El DVD almacena cuatro coma siete gigabytes. La cinta magnetica se usa para copias de seguridad.
+Primera generacion: del mil novecientos cuarenta al mil novecientos cincuenta y seis. La tecnologia eran las valvulas de vacio, tambien llamadas tubos de vacio. Los ordenadores eran enormes, costosos y lentos. Ejemplos: la ENIAC y la UNIVAC.
 
-Ahora los conectores. Esto cae siempre en examen, asi que aprende los colores y los pines.
+Segunda generacion: del mil novecientos cincuenta y seis al mil novecientos sesenta y tres. La tecnologia eran los transistores. Los ordenadores se hicieron mas pequenos, mas fiables y mas rapidos que los de valvulas.
 
-El conector PS dos tiene dos colores. El verde es para el raton. El lila o morado es para el teclado. Verde raton, lila teclado. No los confundas, es una trampa clasica.
+Tercera generacion: del mil novecientos sesenta y tres al mil novecientos setenta y uno. La tecnologia son los circuitos integrados, tambien llamados chips. Se produjo una miniaturizacion importante. El ejemplo clasico es el IBM trescientos sesenta.
 
-El conector paralelo, tambien llamado LPT uno, tiene veinticinco pines en dos hileras. Se usaba para impresoras.
+Cuarta generacion: del mil novecientos setenta y uno hasta la actualidad. La tecnologia son los microprocesadores, con tecnologia VLSI. Aqui entran los PCs, los portatiles y los smartphones. Ejemplos: el Intel cuatro mil cuatro y el IBM PC.
 
-El conector serie, tambien llamado COM, tiene nueve pines o veinticinco pines.
+Quinta generacion: de la actualidad hacia el futuro. Las tecnologias son la Inteligencia Artificial y la computacion cuantica. Se caracteriza por el procesamiento paralelo masivo y las redes neuronales.
 
-El conector VGA tiene quince pines distribuidos en tres hileras. Quince pines, tres hileras. No dos hileras, que eso es el serie. Tres hileras. Se usa para conectar el monitor.
+Recuerda el orden de tecnologias: valvulas de vacio, transistores, circuitos integrados, microprocesadores, inteligencia artificial y computacion cuantica. Este orden lo preguntan mucho.
 
-El USB es el Universal Serial Bus, el conector mas universal. Y el FireWire, tambien conocido como IEEE mil trescientos noventa y cuatro, se usa para transferencia rapida de datos.
+SEGUNDA PARTE: SISTEMA BINARIO Y UNIDADES DE MEDIDA
 
-Pasamos a los perifericos. Se clasifican en cuatro tipos.
+Los ordenadores trabajan internamente con el sistema binario, que es un sistema de base dos. Solo utiliza dos digitos: cero y uno. Encendido y apagado, verdadero y falso, corriente y no corriente. Todo lo que hace un ordenador se reduce a combinaciones de ceros y unos.
 
-Los perifericos de entrada son los que meten informacion en el ordenador. Ejemplos: el teclado, con distribucion QWERTY, que es la mas comun. El raton. El escaner. La webcam. El microfono.
+Ahora las unidades de informacion. Esto es fundamental y lo voy a dar completo, unidad por unidad, con todas las equivalencias.
 
-Los perifericos de salida son los que sacan informacion. Ejemplos: el monitor, cuya unidad minima de imagen es el pixel. La impresora. Los altavoces.
+El bit, que se abrevia con una be minuscula, es la unidad minima de informacion. Solo puede ser cero o uno. El bit es la unidad teorica mas importante de la informatica.
 
-Los perifericos de entrada y salida, o E barra S, sirven para ambas cosas. Ejemplos: el disco duro, la memoria USB, la pantalla tactil.
+El nibble son cuatro bits. Cuatro bits forman un nibble. Un nibble es medio byte y representa un digito hexadecimal.
 
-Los perifericos de comunicacion sirven para conectar ordenadores entre si. La tarjeta de red o NIC. El modem. Y aqui vienen tres dispositivos que siempre confunden.
+El byte, que se abrevia con una be mayuscula, son ocho bits. Ocho bits forman un byte. Un byte almacena un caracter, es decir, una letra, un numero o un simbolo. El byte es la unidad practica mas importante. Practica con be mayuscula, teorica con be minuscula. Byte practica, bit teorica.
 
-El hub o concentrador es el mas basico. Trabaja en la capa uno. Simplemente retransmite la senial a todos los puertos. No es inteligente.
+A partir del byte, cada unidad superior multiplica por mil veinticuatro. No por mil, por mil veinticuatro, que es dos elevado a diez.
 
-El switch o conmutador trabaja en la capa dos. Dirige la senial solo al puerto correcto usando la direccion MAC. Es mas inteligente que el hub.
+Un kilobyte, KB, son mil veinticuatro bytes. Eso equivale a dos elevado a diez bytes.
 
-El router o encaminador trabaja en la capa tres. Dirige el trafico entre redes diferentes usando direcciones IP. Es el mas inteligente de los tres. Hub, switch, router, de menos a mas inteligente.
+Un megabyte, MB, son mil veinticuatro kilobytes. Eso equivale a dos elevado a veinte bytes, que en numero exacto son un millon cuarenta y ocho mil quinientos setenta y seis bytes.
 
-La comunicacion inalambrica. El Bluetooth opera en la frecuencia de dos coma cuatro gigahercios. Dos coma cuatro gigahercios, dato de examen. El WiFi puede usar dos coma cuatro y cinco gigahercios. El infrarrojo necesita linea de vision directa.
+Un gigabyte, GB, son mil veinticuatro megabytes. Equivale a dos elevado a treinta bytes.
 
-Terminamos con las impresoras. Se clasifican de varias formas.
+Un terabyte, TB, son mil veinticuatro gigabytes. Equivale a dos elevado a cuarenta bytes.
 
-Por metodo de impresion, las de impacto usan un mecanismo fisico que golpea. Ejemplos: la impresora de margarita y la impresora matricial o de agujas. Las de sin impacto no golpean. Ejemplos: la impresora de inyeccion de tinta, que usa cartuchos. La impresora laser, que usa toner y tambor. Toner mas tambor igual a laser. Y la impresora termica, que usa papel termosensible especial.
+Un petabyte, PB, son mil veinticuatro terabytes. Equivale a dos elevado a cincuenta bytes.
 
-La velocidad de las impresoras se mide en paginas por minuto, ppm.
+Un exabyte, EB, son mil veinticuatro petabytes. Equivale a dos elevado a sesenta bytes.
 
-Un detalle mas sobre la impresora laser. Funciona con un tambor fotosensible y toner, que es un polvo fino. El proceso es: carga, exposicion, revelado, transferencia y fusion. Es la mas rapida y la de mejor calidad para texto.
+Un zettabyte, ZB, son mil veinticuatro exabytes. Equivale a dos elevado a setenta bytes.
 
-Vamos a repasar los datos clave del tema once.
+Un yottabyte, YB, son mil veinticuatro zettabytes. Equivale a dos elevado a ochenta bytes.
 
-Charles Babbage: padre de la informatica.
-Mark uno: mil novecientos cuarenta y cuatro, electromecanica.
-ENIAC: mil novecientos cuarenta y cinco, electronica.
-Primer PC IBM: mil novecientos ochenta y uno.
-Bit: cero o uno, unidad teorica mas importante.
-Byte: ocho bits, unidad practica mas importante.
-Nibble: cuatro bits.
-Kilobyte: mil veinticuatro bytes. Y asi sucesivamente.
-Mb minuscula: megabits. MB mayuscula: megabytes.
-CPU: Unidad de Control mas ALU, igual a microprocesador.
-RAM: volatil, lectura y escritura.
-ROM: permanente, solo lectura, BIOS.
-Puente norte: CPU, RAM, graficos.
-Puente sur: perifericos, almacenamiento.
-PS dos: verde raton, lila teclado.
-VGA: quince pines, tres hileras.
-Paralelo LPT uno: veinticinco pines.
-Disquete: uno coma cuarenta y cuatro megabytes.
-Hub: capa uno, retransmite todo.
-Switch: capa dos, dirige por MAC.
-Router: capa tres, dirige por IP.
-Bluetooth: dos coma cuatro gigahercios.
-Laser: toner mas tambor.
-Inyeccion: cartuchos de tinta.
-Velocidad impresora: paginas por minuto.
+El orden completo de menor a mayor es: bit, nibble, byte, kilobyte, megabyte, gigabyte, terabyte, petabyte, exabyte, zettabyte, yottabyte. Aprendetelo bien.
 
-Esto ha sido el tema once. Memoriza los numeros, los colores de los conectores y las diferencias entre RAM y ROM, hub switch y router. Son puntos faciles si los tienes claros. Mucho animo.
+Ahora una diferencia fundamental que es trampa de examen: Mb con be minuscula versus MB con be mayuscula.
+
+Mb con be minuscula significa megabit, es decir, un millon de bits. Se usa para medir la velocidad de la red. Por ejemplo, cien Mbps significa cien megabits por segundo.
+
+MB con be mayuscula significa megabyte, que equivale a mil veinticuatro por mil veinticuatro bytes, es decir, un millon cuarenta y ocho mil quinientos setenta y seis bytes. Se usa para medir el tamano de archivos y la capacidad de almacenamiento.
+
+La relacion clave es: un byte son ocho bits. Por tanto, un megabyte son ocho megabits. Esto significa que si tienes una conexion de internet de cien megabits por segundo, la velocidad de descarga real sera de unos doce coma cinco megabytes por segundo. Cien dividido entre ocho, doce coma cinco. Este calculo lo preguntan.
+
+Sobre los sistemas de codificacion de caracteres. El ASCII, que son las siglas de American Standard Code for Information Interchange, usa siete bits y permite representar ciento veintiocho caracteres. El ASCII extendido usa ocho bits y permite doscientos cincuenta y seis caracteres. Siete bits, ciento veintiocho caracteres. Ocho bits, doscientos cincuenta y seis caracteres.
+
+El EBCDIC, que significa Extended Binary Coded Decimal Interchange Code, fue desarrollado por IBM.
+
+Y el Unicode, con su codificacion UTF-8, es el estandar moderno que incluye todos los caracteres de todos los idiomas del mundo.
+
+TERCERA PARTE: HARDWARE
+
+Hardware es la parte fisica y tangible del ordenador. Es todo lo que se puede tocar: circuitos, cables, carcasa, teclado, monitor, etcetera. Si lo puedes tocar, es hardware.
+
+Vamos con la placa base, tambien llamada placa madre o motherboard. Es el circuito impreso principal del ordenador. Sobre la placa base se conectan todos los demas componentes. Vamos a ver cada elemento de la placa base.
+
+El zocalo o socket es donde se inserta el microprocesador, la CPU. Las ranuras de memoria, llamadas DIMM, son donde se insertan los modulos de RAM. Los slots de expansion son ranuras para tarjetas adicionales, como PCI y PCI Express, donde van la tarjeta grafica, la de sonido o la de red. El chipset es el conjunto de chips que gestionan la comunicacion entre todos los componentes. La BIOS o UEFI es el firmware basico de arranque, que esta en un chip ROM de la placa base. Los conectores SATA y M punto dos son para conectar discos duros y unidades SSD. Los conectores de alimentacion reciben la energia de la fuente de alimentacion. Los puertos traseros incluyen USB, video, red, audio, etcetera. Y la pila o bateria CMOS es la que mantiene la configuracion de la BIOS y el reloj del sistema cuando el PC esta apagado.
+
+Ahora la CPU, la Unidad Central de Proceso, tambien llamada microprocesador. Es el cerebro del ordenador, el componente que ejecuta las instrucciones de los programas. La CPU se compone de varias partes.
+
+La Unidad de Control, la UC, es la que dirige y coordina todas las operaciones del ordenador. Interpreta las instrucciones. La Unidad Aritmetico-Logica, la ALU, tambien llamada UAL, es la que realiza los calculos matematicos y las operaciones logicas, como comparaciones, AND, OR y NOT. Los registros son la memoria interna ultra-rapida de la CPU, que almacena datos temporales. Y el bus interno son las lineas de comunicacion dentro de la propia CPU.
+
+La formula clave es: microprocesador igual a Unidad de Control mas ALU. UC mas ALU, todo en un unico chip de silicio. Esto lo preguntan mucho.
+
+La velocidad del procesador se mide en hercios, Hz. Megahercios, MHz, son millones de ciclos por segundo. Gigahercios, GHz, son miles de millones de ciclos por segundo. El reloj del sistema genera los impulsos que sincronizan todas las operaciones. A mayor frecuencia de reloj, mayor velocidad de procesamiento, en igualdad de condiciones.
+
+Los procesadores modernos tienen varios nucleos o cores. Dual-core son dos nucleos, quad-core son cuatro, octa-core son ocho. Mas nucleos significa mas capacidad de procesamiento simultaneo.
+
+Pasamos a la memoria principal. Hay dos tipos fundamentales: RAM y ROM.
+
+La RAM, Random Access Memory o Memoria de Acceso Aleatorio. Es una memoria de lectura y escritura. Es temporal y volatil, lo que significa que pierde su contenido al apagar el ordenador. La RAM almacena los datos y programas que el procesador esta usando en ese momento. A mas RAM, mayor capacidad de trabajar con varios programas a la vez. Los tipos actuales son DDR3, DDR4 y DDR5, cada generacion mas rapida que la anterior. Se mide en gigabytes, y actualmente lo tipico son ocho, dieciseis o treinta y dos gigabytes.
+
+La ROM, Read Only Memory o Memoria de Solo Lectura. Es una memoria de solo lectura, no se puede escribir en ella en condiciones normales. Es permanente y no volatil, es decir, mantiene su contenido sin corriente electrica. La ROM contiene el firmware, que es el software basico grabado de fabrica. Almacena la rutina de arranque, el POST, que significa Power-On Self Test. Cuando enciendes el ordenador, el POST comprueba que todo funciona correctamente. La BIOS, Basic Input Output System, es el programa basico de entrada y salida almacenado en ROM que permite al ordenador arrancar y comunicarse con los dispositivos. La UEFI es la version moderna que sustituye a la BIOS clasica. Las variantes de ROM son: PROM, que es programable una sola vez. EPROM, que es borrable con luz ultravioleta. EEPROM, que es borrable electricamente. Y Flash ROM.
+
+Voy a repetir la diferencia clave. RAM: lectura y escritura, temporal, volatil, almacena datos en uso. ROM: solo lectura, permanente, no volatil, contiene firmware y BIOS y la rutina de arranque POST.
+
+Ahora la memoria cache. Es una memoria ultra-rapida que esta situada entre la CPU y la RAM. Su funcion es almacenar los datos que se usan con mas frecuencia para acelerar el acceso. Tiene tres niveles: L1, que es la mas rapida y la mas pequena, y esta dentro del procesador. L2, que es intermedia. Y L3, que es la mas grande pero algo mas lenta. L1, L2, L3.
+
+El chipset. Es el conjunto de circuitos integrados que gestiona las comunicaciones entre los distintos componentes de la placa base. Se divide en dos partes.
+
+El puente norte, o northbridge, gestiona las comunicaciones de alta velocidad. Conecta con la CPU, la RAM y la tarjeta grafica, ya sea AGP o PCI Express.
+
+El puente sur, o southbridge, gestiona las comunicaciones de menor velocidad. Conecta con los perifericos, los discos duros por SATA, los puertos USB, el sonido, la red, la BIOS y los slots PCI.
+
+Un dato importante: en las arquitecturas modernas, muchas funciones del puente norte se han integrado directamente en la propia CPU.
+
+La fuente de alimentacion. Es el componente que transforma la corriente alterna de la red electrica, que son doscientos veinte o doscientos treinta voltios de corriente alterna, en corriente continua a los voltajes que necesitan los componentes: tres coma tres voltios, cinco voltios y doce voltios. Su potencia se mide en vatios.
+
+Y el bus del sistema. Es el conjunto de lineas, cables o pistas, que transportan informacion entre los componentes. Hay tres tipos de bus. El bus de datos transporta datos entre la CPU, la memoria y los perifericos. El bus de direcciones indica las posiciones de memoria a las que se accede. Y el bus de control transporta senales de control y sincronizacion. El ancho del bus es el numero de lineas o bits que puede transmitir simultaneamente: ocho, dieciseis, treinta y dos o sesenta y cuatro bits.
+
+CUARTA PARTE: ALMACENAMIENTO O MEMORIA SECUNDARIA
+
+Los dispositivos de almacenamiento guardan la informacion de forma permanente, es decir, no volatil. A diferencia de la RAM, mantienen los datos aunque no haya corriente electrica.
+
+Empezamos con el almacenamiento magnetico.
+
+El disco duro, HDD, esta compuesto por discos rigidos magneticos que giran a alta velocidad. Su organizacion interna se basa en pistas, que son circulos concentricos en la superficie del disco. Sectores, que son las divisiones de las pistas. Y cilindros, que son las pistas alineadas en la misma posicion vertical en todos los platos. Las interfaces de conexion son: IDE barra ATA, que es el antiguo con cable plano. SCSI, que se usa en servidores. Y SATA, que es la interfaz actual. La capacidad llega hasta varios terabytes.
+
+El disquete o floppy disk es un disco flexible magnetico. El de tres coma cinco pulgadas tiene una capacidad de uno coma cuarenta y cuatro megabytes, que se corresponde con la version HD, High Density. Uno coma cuarenta y cuatro megabytes, este dato es clasico de examen. El disquete esta obsoleto.
+
+La cinta magnetica es un dispositivo de almacenamiento secuencial. Su uso principal es para copias de seguridad o backup. Es lenta pero tiene gran capacidad y bajo coste. Los formatos son DAT, DLT y LTO.
+
+Ahora el almacenamiento optico.
+
+El CD-ROM tiene una capacidad de setecientos megabytes, que equivalen a ochenta minutos de musica. Usa tecnologia laser y es de solo lectura. El CD-R tambien tiene setecientos megabytes pero es grabable una sola vez. El CD-RW tiene setecientos megabytes y es regrabable, se puede escribir varias veces.
+
+El DVD tiene una capacidad de cuatro coma siete gigabytes en simple capa, y ocho coma cinco gigabytes en doble capa. Usa un laser mas fino que el CD.
+
+El Blu-ray tiene una capacidad de veinticinco gigabytes en simple capa y cincuenta gigabytes en doble capa. Usa un laser azul-violeta.
+
+Recuerda las capacidades: CD setecientos megabytes, DVD cuatro coma siete gigabytes, Blu-ray veinticinco gigabytes. Todas en simple capa.
+
+El almacenamiento de estado solido no tiene partes moviles. El SSD, Solid State Drive, usa memoria flash. Es mucho mas rapido que el disco duro mecanico, no tiene partes moviles, es silencioso y resistente a golpes. Sus interfaces son SATA, M punto dos y NVMe. La memoria USB o pendrive es memoria flash portatil con conexion USB, con multiples capacidades desde megabytes hasta terabytes. Las tarjetas de memoria, como SD, microSD y CF, se usan en camaras, moviles y tabletas.
+
+El almacenamiento magneto-optico combina tecnologia magnetica y laser. Un ejemplo son los discos MO, magneto-opticos. El disco ZIP era un disco magnetico de alta capacidad, fabricado por Iomega, con versiones de cien megabytes, doscientos cincuenta megabytes y setecientos cincuenta megabytes. Esta obsoleto. El disco JAZ era similar al ZIP pero con mayor capacidad, de uno y dos gigabytes. Tambien esta obsoleto.
+
+Sobre la estructura logica del disco duro. Una pista o track es una circunferencia concentrica en la superficie del disco. Un sector es una subdivision de una pista, y es la unidad minima de lectura y escritura, generalmente de quinientos doce bytes, o cuatro kilobytes en discos modernos. Un cilindro es el conjunto de pistas en la misma posicion vertical en todos los platos. Y un cluster es una agrupacion de sectores, que es la unidad minima de asignacion que usa el sistema operativo.
+
+QUINTA PARTE: UNIDADES DE VELOCIDAD
+
+Las unidades de velocidad varian segun el ambito, y esto lo preguntan en examen.
+
+Para el procesador, la velocidad del reloj se mide en hercios. MHz son megahercios y GHz son gigahercios, que son miles de millones de ciclos por segundo.
+
+Para la red e internet, se mide en bits por segundo: bps, kilobits por segundo, megabits por segundo y gigabits por segundo. Ojo: bits con be minuscula, no bytes.
+
+Para la impresora, la velocidad se mide en paginas por minuto, ppm. Paginas por minuto. Este dato cae siempre.
+
+Para el disco duro mecanico, la velocidad se mide en revoluciones por minuto, rpm. Los valores tipicos son cinco mil cuatrocientas, siete mil doscientas, diez mil y quince mil rpm.
+
+Para la transferencia de datos, se mide en megabytes por segundo o gigabytes por segundo. Por ejemplo, para USB o SATA.
+
+SEXTA PARTE: CONECTORES E INTERFACES
+
+Vamos con los conectores clasicos. Esto es uno de los temas estrella del examen. Cada conector tiene sus pines, su color y su uso.
+
+El PS dos, PS barra dos. Es un conector circular miniDIN de seis pines. Tiene dos colores: el verde es para el raton y el lila o morado es para el teclado. Verde raton, lila teclado. Esta en desuso, sustituido por USB. La trampa de examen es intercambiar los colores: verde es raton, lila es teclado. No al reves.
+
+El puerto paralelo, conocido como LPT1. Usa un conector DB-25 hembra con veinticinco pines. Se usaba principalmente para impresoras. La transmision es en paralelo, es decir, varios bits se envian simultaneamente. Esta obsoleto.
+
+El puerto serie, conocido como COM. Usa un conector DB-9 macho con nueve pines. Antes usaba DB-25. Se usaba para el raton antiguo y el modem. La transmision es en serie, es decir, bit a bit. Esta obsoleto para perifericos comunes, aunque aun se usa en la industria.
+
+El VGA. Usa un conector DB-15, tambien llamado HD-15, con quince pines distribuidos en tres hileras. Es para video analogico. El conector es tipicamente de color azul. Esta siendo sustituido por HDMI y DisplayPort. Recuerda: VGA, quince pines, tres hileras.
+
+El DVI. Es un conector que puede ser digital, analogico, o ambos en la variante DVI-I. Es para video digital. El conector es tipicamente blanco.
+
+El HDMI. Es un conector digital que transmite video mas audio digital. Es el estandar actual en televisores y monitores.
+
+El DisplayPort. Tambien es digital, transmite video mas audio. Se usa en el ambito profesional y en gaming.
+
+El RJ-45. Tiene ocho pines y se usa para la red Ethernet. Es el conector del cable de red, el cable de par trenzado. RJ-45, ocho pines, red Ethernet.
+
+El RJ-11. Tiene de cuatro a seis pines y se usa para el telefono y el modem. Es mas pequeno que el RJ-45.
+
+El jack de tres coma cinco milimetros es una clavija circular que se usa para audio, auriculares y microfono.
+
+Ahora el USB, Universal Serial Bus. Es el conector universal que ha sustituido a la mayoria de conectores anteriores. Permite conectar perifericos en caliente, es decir, sin apagar el ordenador. Esto se llama Plug and Play o Hot Plug. Ademas, suministra corriente electrica al dispositivo conectado.
+
+Las versiones de USB con sus velocidades maximas teoricas son las siguientes.
+
+USB uno punto cero: uno coma cinco megabits por segundo, tambien llamado Low Speed.
+USB uno punto uno: doce megabits por segundo, tambien llamado Full Speed.
+USB dos punto cero: cuatrocientos ochenta megabits por segundo, tambien llamado High Speed. El nombre comercial es Hi-Speed USB.
+USB tres punto cero: cinco gigabits por segundo, tambien llamado Super Speed. El nombre comercial es SuperSpeed USB y se reconoce por el conector azul.
+USB tres punto uno: diez gigabits por segundo. El nombre comercial es SuperSpeed USB diez Gbps.
+USB tres punto dos: veinte gigabits por segundo. El nombre comercial es SuperSpeed USB veinte Gbps.
+USB cuatro: cuarenta gigabits por segundo.
+
+Los datos que mas preguntan son USB dos punto cero, cuatrocientos ochenta megabits, y USB tres punto cero, cinco gigabits.
+
+Los tipos de conector USB son: tipo A, el rectangular clasico. Tipo B, el cuadrado que se usa para impresoras. Mini USB. Micro USB. Y USB-C, que es reversible, moderno y el estandar actual.
+
+FireWire, tambien conocido como IEEE mil trescientos noventa y cuatro. Es una conexion de alta velocidad, entre cuatrocientos y ochocientos megabits por segundo. Fue desarrollado por Apple. Se usaba para camaras de video digital y discos duros externos. Actualmente esta en desuso, sustituido por USB tres punto cero y Thunderbolt.
+
+Thunderbolt. Fue desarrollado por Intel y Apple. Las versiones Thunderbolt tres y cuatro usan el conector USB-C y alcanzan hasta cuarenta gigabits por segundo.
+
+SEPTIMA PARTE: PERIFERICOS
+
+Los perifericos se clasifican en cuatro tipos.
+
+Perifericos de entrada: su funcion es introducir datos en el ordenador. Ejemplos: teclado, raton, escaner, microfono, webcam, lector de codigos de barras y tableta digitalizadora.
+
+Perifericos de salida: el ordenador muestra o emite informacion al exterior. Ejemplos: monitor, impresora, altavoces, auriculares, plotter y proyector.
+
+Perifericos de entrada y salida, E barra S: son bidireccionales, introducen y extraen datos. Ejemplos: disco duro, USB o pendrive, pantalla tactil, modem, tarjeta de red e impresora multifuncion.
+
+Perifericos de comunicaciones: conectan el ordenador con otros ordenadores o con redes. Ejemplos: tarjeta de red o NIC, modem, hub, switch, router y punto de acceso WiFi.
+
+Vamos a detallar los perifericos de entrada.
+
+El teclado. Es el periferico de entrada mas utilizado junto con el raton. La disposicion QWERTY es la mas extendida. Se llama QWERTY por las seis primeras letras de la fila superior de letras. Fue creada por Christopher Latham Sholes en mil ochocientos setenta y tres para la maquina de escribir. Las teclas principales son: alfanumericas, que incluyen letras y numeros. Teclas de funcion, de F1 a F12. Teclas especiales, como Escape, Tabulador, Bloqueo de Mayusculas, Shift, Control, Alt, Alt Gr, Enter, Suprimir, Insert, Inicio, Fin, Retroceso de Pagina y Avance de Pagina. El teclado numerico esta a la derecha. Y las flechas de direccion. La conexion puede ser PS dos con conector lila, USB o inalambrica por Bluetooth o radiofrecuencia.
+
+El raton o mouse. Es un dispositivo apuntador. El desplazamiento del raton se mide en mickeys, dato curioso pero que pueden preguntar. Los tipos son: mecanico, el de bola, que esta obsoleto. Optico, que usa LED. Y laser. La conexion puede ser PS dos con conector verde, USB o inalambrica.
+
+El escaner. Digitaliza documentos e imagenes, es decir, los convierte a formato digital. Su resolucion se mide en puntos por pulgada, que se abrevia ppp en espanol o dpi en ingles, dots per inch. Los tipos son: plano o de sobremesa, de mano y de alimentacion automatica.
+
+Otros perifericos de entrada. La webcam captura video e imagenes. El microfono captura sonido. El lector de codigo de barras lee codigos de barras y codigos QR. La tableta digitalizadora o graficadora se usa para diseno grafico. El joystick y el gamepad se usan para juegos. Y el lector de huella dactilar para identificacion biometrica.
+
+Ahora los perifericos de salida.
+
+El monitor o pantalla. Es el dispositivo de salida visual principal. La unidad minima de imagen en pantalla es el pixel, que es un punto de luz. A mayor numero de pixeles, mayor resolucion y mayor nitidez. La resolucion se expresa como el numero de pixeles en horizontal por vertical. Por ejemplo, mil novecientos veinte por mil ochenta es Full HD. Tres mil ochocientos cuarenta por dos mil ciento sesenta es 4K UHD.
+
+Las tecnologias de pantalla son: CRT, tubo de rayos catodicos, que es el monitor antiguo y voluminoso, ya obsoleto. LCD, Liquid Crystal Display, que es la pantalla plana de cristal liquido. LED, que es una variante de LCD con retroiluminacion LED. OLED, donde los pixeles emiten luz propia, con mejor contraste. Y TFT, que es tecnologia de transistores de pelicula fina, un tipo de LCD. El tamano del monitor se mide en pulgadas de la diagonal.
+
+El plotter o trazador grafico. Es una impresora de gran formato. Se usa para planos de arquitectura e ingenieria, carteles y banners. Imprime en papel de gran tamano, generalmente en rollos.
+
+El proyector. Proyecta la imagen del ordenador sobre una superficie, como una pantalla o una pared.
+
+Los perifericos de comunicaciones. Vamos uno por uno.
+
+La NIC, Network Interface Card, o tarjeta de red. Permite conectar el ordenador a una red. Puede ser Ethernet, con cable RJ-45, o WiFi, inalambrica.
+
+El modem. Su nombre viene de MOdulador-DEModulador. Convierte la senal digital en analogica y viceversa. Se usaba para la conexion telefonica a internet. Esta en desuso para ADSL puro.
+
+El hub o concentrador. Conecta varios dispositivos en red. Envia los datos a todos los puertos, no es inteligente. Trabaja en la capa uno del modelo OSI.
+
+El switch o conmutador. Es similar al hub pero inteligente. Envia los datos solo al puerto de destino, usando las direcciones MAC. Es mas eficiente que el hub. Trabaja en la capa dos del modelo OSI.
+
+El router o encaminador. Conecta diferentes redes entre si. Enruta los paquetes de datos al destino correcto usando direcciones IP. Trabaja en la capa tres del modelo OSI. Es el que conecta la red local a internet.
+
+El punto de acceso WiFi, o AP. Proporciona conexion inalambrica WiFi.
+
+El repetidor. Amplifica la senal para cubrir mayor distancia.
+
+El firewall o cortafuegos. Filtra el trafico de red segun reglas de seguridad.
+
+Recuerda la diferencia entre los tres dispositivos de red principales. Hub: envia a todos, no inteligente, capa uno. Switch: envia al destino, usa MAC, capa dos. Router: conecta redes distintas, usa IP, capa tres. De menos a mas inteligente.
+
+La comunicacion inalambrica.
+
+Bluetooth. Tiene un alcance corto, de hasta diez a cien metros. Opera en la frecuencia de dos coma cuatro gigahercios. Se usa para perifericos como auriculares, teclado, raton y altavoz. Su estandar es IEEE ochocientos dos punto quince.
+
+Infrarrojo, IrDA. Necesita linea de vision directa y tiene un alcance muy corto. Esta obsoleto. Antes se usaba en mandos de television y moviles antiguos.
+
+WiFi. Es una red inalambrica de area local, o WLAN. Los estandares son IEEE ochocientos dos punto once, con versiones a, b, g, n, ac y ax, que es WiFi seis. Opera en frecuencias de dos coma cuatro gigahercios y cinco gigahercios.
+
+NFC, Near Field Communication. Tiene un alcance muy corto, de menos de diez centimetros. Se usa para pagos contactless y para identificacion.
+
+OCTAVA PARTE: IMPRESORAS
+
+Las impresoras se clasifican de varias formas. Primero segun el mecanismo de impresion.
+
+Las impresoras con impacto son las que golpean el papel a traves de una cinta entintada. Son ruidosas. Tienen una ventaja unica: permiten hacer copias con papel autocopiativo, el papel de calco. Los tipos son la impresora matricial, que usa agujas, y la impresora de margarita.
+
+Las impresoras sin impacto son las que no golpean el papel. Son mas silenciosas. Los tipos son la impresora de inyeccion de tinta, la impresora laser y la impresora termica.
+
+Tambien se clasifican segun la unidad de impresion. Las impresoras de caracteres imprimen caracter a caracter. El ejemplo es la impresora de margarita. Las impresoras de lineas imprimen una linea completa cada vez. Se usan a nivel industrial, como las impresoras de cadena. Las impresoras de paginas imprimen una pagina completa cada vez. El ejemplo principal es la impresora laser. La laser es de paginas, recuerdalo.
+
+Ahora vamos a ver cada tipo de impresora en detalle.
+
+La impresora de margarita. Es con impacto y de caracteres. El cabezal tiene forma de margarita, es decir, es una rueda con petalos y cada petalo tiene un caracter. Su calidad es tipo maquina de escribir, lo que se llama letter quality. Solo puede imprimir texto, no graficos. Esta obsoleta.
+
+La impresora matricial o de agujas. Es con impacto. El cabezal tiene agujas, normalmente nueve o veinticuatro pines, que golpean una cinta entintada contra el papel. Puede imprimir graficos basicos mediante una matriz de puntos. Su ventaja principal y unica es que permite imprimir en papel autocopiativo, los formularios multipart. Se usa para tickets, facturas con copia y albaranes. Es ruidosa, de baja calidad y lenta. Pero aun se usa en determinados entornos como farmacias, talleres y terminales de punto de venta antiguos.
+
+La impresora de inyeccion de tinta o inkjet. Es sin impacto. Expulsa micro-gotas de tinta liquida sobre el papel a traves de inyectores o boquillas. Usa cartuchos de tinta, normalmente cuatro: CMYK, que significa cian, magenta, amarillo y negro. Tiene buena calidad para texto, graficos y fotos. Es relativamente economica de compra. Pero tiene un coste por pagina medio-alto porque la tinta es cara. Su velocidad es media. Y tiene el riesgo de secado de cabezales si no se usa durante un tiempo.
+
+La impresora laser. Es sin impacto y de paginas. Es la impresora mas utilizada en entornos profesionales y oficinas. Usa toner, que es un polvo fino, un tambor fotoconductor, un laser y calor del fusor. El proceso es el siguiente: el laser dibuja la imagen en el tambor que esta cargado electricamente, el toner se adhiere a la imagen, se transfiere al papel y el fusor aplica calor y presion para fijar el toner. Tiene alta velocidad, muchas paginas por minuto. Tiene alta calidad de impresion. Tiene bajo coste por pagina porque el toner rinde mas que el cartucho de tinta. Es mas cara de compra que la de inyeccion. Puede ser a color o monocromo, blanco y negro.
+
+La impresora termica. Es sin impacto. Usa calor sobre papel termosensible, que es un papel especial que cambia de color con el calor. Se usa para tickets de compra en terminales de punto de venta, etiquetas y recibos de cajero automatico. No necesita tinta ni toner. Pero la impresion se desvanece con el tiempo. Hay dos tipos: la termica directa, donde el calor actua directamente sobre el papel termico, y la de transferencia termica, que usa una cinta de cera o resina que se funde sobre el papel, y es mas duradera.
+
+El plotter o trazador. Es una impresora de gran formato. Se usa para planos, carteles y dibujo tecnico. Puede ser de inyeccion de tinta o de corte.
+
+La resolucion de la impresora se mide en puntos por pulgada, ppp en espanol o dpi en ingles. A mayor ppp, mayor calidad de impresion. Los valores tipicos son: trescientos dpi para calidad basica, seiscientos dpi para buena calidad, y mil doscientos dpi o mas para alta calidad y fotos.
+
+NOVENA PARTE: SOFTWARE
+
+Software es la parte logica e intangible del ordenador. Son los programas e instrucciones que le dicen al hardware que hacer. No se puede tocar. Si el hardware es lo fisico, el software es lo logico.
+
+Los tipos de software son cuatro.
+
+El software de sistema, que es el sistema operativo. Su funcion es gestionar el hardware y proporcionar la plataforma para el software de aplicacion. Ejemplos: Windows, Linux, macOS, Android e iOS.
+
+El software de aplicacion. Son los programas para tareas especificas del usuario. Ejemplos: Word, Excel, un navegador web, el correo electronico, etcetera.
+
+El software de desarrollo. Son las herramientas para crear otros programas. Ejemplos: compiladores, editores de codigo e IDEs, que son entornos de desarrollo integrado.
+
+El firmware. Es software grabado en hardware, en la ROM. Ejemplos: la BIOS o UEFI, o el firmware de una impresora.
+
+El sistema operativo es el programa fundamental que gestiona los recursos del ordenador: la CPU, la memoria, los discos y los perifericos. Hace de intermediario entre el usuario y las aplicaciones por un lado, y el hardware por otro. Los ejemplos principales son: Windows de Microsoft, macOS de Apple, Linux que es libre y de codigo abierto, Android de Google para moviles, e iOS de Apple para iPhone. Las funciones del sistema operativo son: gestion de memoria, gestion de procesos, gestion de archivos, gestion de dispositivos e interfaz de usuario.
+
+DECIMA PARTE: RESUMEN FINAL CON DATOS CLAVE PARA EXAMEN Y PREGUNTAS TRAMPA
+
+Muy bien, vamos ahora a repasar todos los datos clave del Tema once. Son cuarenta puntos exactos, y te los voy a dar todos.
+
+Primero, historia y conceptos basicos.
+
+Dato uno. El padre de la informatica es Charles Babbage. Su invencion fue la Maquina Analitica.
+
+Dato dos. La Mark uno, de mil novecientos cuarenta y cuatro, es la primera computadora electromecanica.
+
+Dato tres. La ENIAC, de mil novecientos cuarenta y cinco, es la primera computadora electronica.
+
+Dato cuatro. El primer PC de IBM se lanzo en mil novecientos ochenta y uno. Su sistema operativo era MS-DOS, de Microsoft.
+
+Dato cinco. Informatica significa INFORmacion autoMATICA.
+
+Ahora unidades de medida.
+
+Dato seis. El bit es la unidad teorica mas importante. Solo puede ser cero o uno.
+
+Dato siete. El byte es la unidad practica mas importante. Un byte son ocho bits, y almacena un caracter.
+
+Dato ocho. Un nibble son cuatro bits.
+
+Dato nueve. Las equivalencias son: un kilobyte igual a mil veinticuatro bytes. Un megabyte igual a mil veinticuatro kilobytes. Un gigabyte igual a mil veinticuatro megabytes. Un terabyte igual a mil veinticuatro gigabytes. Un petabyte igual a mil veinticuatro terabytes.
+
+Dato diez. Mb con be minuscula, megabit, es distinto de MB con be mayuscula, megabyte. Un byte son ocho bits.
+
+Dato once. La velocidad de red se mide en megabits por segundo, Mbps. El tamano de archivos se mide en megabytes o gigabytes, MB o GB.
+
+Ahora hardware.
+
+Dato doce. CPU igual a Unidad de Control mas ALU, que es la Unidad Aritmetico-Logica. Eso forma el microprocesador.
+
+Dato trece. La velocidad de la CPU se mide en hercios: megahercios, MHz, y gigahercios, GHz.
+
+Dato catorce. La RAM es de lectura y escritura, temporal y volatil. Almacena los datos en uso.
+
+Dato quince. La ROM es de solo lectura, permanente y no volatil. Contiene el firmware, la BIOS y la rutina de arranque POST.
+
+Dato dieciseis. El chipset se divide en puente norte, que gestiona CPU, RAM y grafica, y puente sur, que gestiona perifericos, discos, USB y BIOS.
+
+Dato diecisiete. El disco duro se organiza en pistas y sectores. Las interfaces son: IDE, que es antiguo. SCSI, para servidores. Y SATA, que es la actual.
+
+Dato dieciocho. El disquete de tres coma cinco pulgadas tiene una capacidad de uno coma cuarenta y cuatro megabytes.
+
+Dato diecinueve. El CD-ROM tiene setecientos megabytes. El DVD tiene cuatro coma siete gigabytes en simple capa. El Blu-ray tiene veinticinco gigabytes en simple capa.
+
+Ahora conectores.
+
+Dato veinte. El PS dos: verde es raton, lila o morado es teclado.
+
+Dato veintiuno. El puerto paralelo LPT1 tiene veinticinco pines. Se usaba para impresoras antiguas.
+
+Dato veintidos. El puerto serie COM tiene nueve pines, con conector DB-9.
+
+Dato veintitres. El VGA tiene quince pines en tres hileras. Es para video analogico.
+
+Dato veinticuatro. El USB es universal, plug and play y hot plug. USB dos punto cero alcanza cuatrocientos ochenta megabits por segundo. USB tres punto cero alcanza cinco gigabits por segundo.
+
+Dato veinticinco. FireWire es IEEE mil trescientos noventa y cuatro. Fue desarrollado por Apple. Alcanza entre cuatrocientos y ochocientos megabits por segundo.
+
+Dato veintiseis. RJ-45 es para red Ethernet. RJ-11 es para telefono.
+
+Ahora perifericos.
+
+Dato veintisiete. El teclado QWERTY es la disposicion mas extendida. Fue creada por Sholes en mil ochocientos setenta y tres.
+
+Dato veintiocho. El pixel es la unidad minima de imagen en pantalla.
+
+Dato veintinueve. La velocidad de la impresora se mide en paginas por minuto, ppm.
+
+Dato treinta. El hub envia a todos, no es inteligente. El switch envia solo al destino, es inteligente y usa direcciones MAC. El router conecta redes distintas y usa direcciones IP.
+
+Ahora impresoras.
+
+Dato treinta y uno. Con impacto: margarita y matricial, que es la de agujas. Sin impacto: inyeccion de tinta, laser y termica.
+
+Dato treinta y dos. La impresora matricial es la unica que permite papel autocopiativo, el papel de calco. Tiene nueve o veinticuatro agujas.
+
+Dato treinta y tres. La impresora laser usa toner mas tambor mas fusor. Es de paginas. Es la mas rapida y la mas economica por pagina. Es la mas usada en oficinas.
+
+Dato treinta y cuatro. La impresora de inyeccion de tinta usa cartuchos CMYK. Es buena para fotos.
+
+Dato treinta y cinco. La impresora termica usa papel termosensible y no necesita tinta. Se usa para tickets en terminales de punto de venta.
+
+Dato treinta y seis. El Bluetooth opera a dos coma cuatro gigahercios y tiene alcance corto.
+
+Dato treinta y siete. NIC es la tarjeta de red. Modem significa MOdulador-DEModulador.
+
+Dato treinta y ocho. Hardware es la parte fisica del ordenador. Software es la parte logica.
+
+Dato treinta y nueve. El sistema operativo gestiona los recursos del ordenador y es el intermediario entre el usuario y el hardware.
+
+Dato cuarenta. ASCII es un sistema de codificacion de caracteres. Con siete bits codifica ciento veintiocho caracteres. Con ocho bits, en su version extendida, codifica doscientos cincuenta y seis caracteres.
+
+Y ahora las preguntas trampa mas habituales del examen.
+
+Primera trampa. Confundir electromecanica con electronica. Mark uno es electromecanica, mil novecientos cuarenta y cuatro. ENIAC es electronica, mil novecientos cuarenta y cinco.
+
+Segunda trampa. Confundir los colores del PS dos. Verde es raton. Lila o morado es teclado. No al reves.
+
+Tercera trampa. Confundir megabits con megabytes. Mb minuscula son megabits, se usa para velocidad de red. MB mayuscula son megabytes, se usa para tamano de archivos.
+
+Cuarta trampa. Confundir RAM y ROM. RAM es volatil y temporal, lectura y escritura. ROM es permanente y no volatil, solo lectura.
+
+Quinta trampa. Confundir hub, switch y router. El hub no es inteligente y envia a todos. El switch es inteligente y envia al destino usando MAC. El router conecta redes distintas y usa IP.
+
+Sexta trampa. Confundir las pines de los conectores. VGA tiene quince pines en tres hileras. El puerto paralelo tiene veinticinco pines. El puerto serie tiene nueve pines. No mezcles estos numeros.
+
+Septima trampa. Confundir las generaciones de ordenadores. Primera generacion, valvulas de vacio. Segunda, transistores. Tercera, circuitos integrados. Cuarta, microprocesadores. Quinta, inteligencia artificial.
+
+Octava trampa. La impresora laser es de paginas, no de caracteres ni de lineas. Y la unica que permite papel autocopiativo es la matricial, porque es de impacto.
+
+Novena trampa. La velocidad del procesador se mide en hercios, no en bits. La velocidad de la impresora se mide en paginas por minuto, no en hercios ni en bits.
+
+Decima trampa. Un kilobyte no son mil bytes, son mil veinticuatro bytes. Multiplica siempre por mil veinticuatro, no por mil.
+
+Esto ha sido el Tema once completo. Informatica de principio a fin, sin dejarnos ni un solo dato. Si repasas este tema varias veces y memorizas los numeros, las fechas, los colores de los conectores, las diferencias entre RAM y ROM, las diferencias entre hub, switch y router, y los tipos de impresora, vas a tener puntos muy faciles en el examen. Mucho animo y a por ello.

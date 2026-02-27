@@ -1,73 +1,253 @@
-Tema 8. Urgencias y ambulancias.
+Bienvenido al podcast de oposiciones de celador. Hoy vamos con el Tema 8 completo: Urgencias, actuacion del celador y transporte en ambulancias. Este es uno de los temas mas preguntados en las oposiciones porque combina teoria, clasificaciones numericas y protocolos muy concretos. Asi que concentrate bien, porque vamos a repasar absolutamente todo lo que necesitas saber, sin dejarnos ni un dato, ni una tabla, ni un numero. Vamos alla.
 
-Hola, bienvenido a un nuevo episodio de tu podcast de oposiciones para celador. Hoy vamos a repasar el Tema 8, que trata sobre urgencias y ambulancias. Este es un tema que a la gente le suele gustar porque es muy practico, pero tiene muchos datos y clasificaciones que hay que saberse bien. Asi que vamos alla.
+Empezamos por lo mas basico y lo mas importante. La diferencia entre urgencia y emergencia. Esto cae practicamente siempre en los examenes y es el concepto sobre el que se construye todo lo demas.
 
-Lo primero y mas importante de este tema es entender la diferencia entre urgencia y emergencia. Esto cae siempre en los examenes y mucha gente lo confunde.
+Una urgencia es una situacion que, en opinion del paciente, de su familia o de quien asuma la responsabilidad, requiere atencion sanitaria inmediata. Fijate bien en esto: en opinion del paciente. Eso significa que la urgencia tiene un caracter subjetivo. Es el paciente quien percibe que necesita atencion. Puede que realmente sea algo grave o puede que no, pero el paciente siente que si. Ejemplos de urgencia serian un dolor de muelas intenso, una fiebre alta o un episodio de ansiedad. La persona siente que necesita atencion inmediata, aunque objetivamente su vida puede no estar en peligro.
 
-Una urgencia es una situacion que el paciente percibe como grave y que requiere atencion sanitaria inmediata o en un plazo corto. Ojo, la clave esta en que es subjetiva. Es el paciente quien siente que necesita atencion urgente. Puede ser algo grave o puede no serlo, pero el paciente cree que si lo es.
+Una emergencia es una situacion en la que existe un peligro inmediato, real y efectivo para la vida del paciente, o riesgo de secuelas graves si no recibe atencion inmediata. Aqui la clave es que el caracter es objetivo. No hablamos de lo que siente el paciente, hablamos de un riesgo vital demostrable, medible, real. Ejemplos de emergencia serian una parada cardiorrespiratoria, un infarto agudo de miocardio, un ictus o un politraumatismo grave. Son situaciones en las que si no actuas rapido, el paciente muere o sufre secuelas irreversibles.
 
-Una emergencia es una situacion objetiva en la que existe un riesgo vital inmediato para el paciente. Aqui no hablamos de percepcion, hablamos de un riesgo real de muerte o de dano irreversible. Una parada cardiaca, un infarto, un accidente grave, eso es una emergencia.
+Y ahora la frase que tienes que grabar a fuego en tu memoria: toda emergencia es una urgencia, pero no toda urgencia es una emergencia. Repitela conmigo: toda emergencia es una urgencia, pero no toda urgencia es una emergencia. Porque si hay un riesgo vital real, logicamente se necesita atencion inmediata, asi que toda emergencia cumple la definicion de urgencia. Pero alguien que va a urgencias con dolor de garganta tiene una urgencia subjetiva, no una emergencia objetiva.
 
-Y ahora la frase clave que tienes que memorizar. Toda emergencia es una urgencia, pero no toda urgencia es una emergencia. Repitela. Toda emergencia es una urgencia, pero no toda urgencia es una emergencia. Porque toda situacion de riesgo vital logicamente necesita atencion inmediata, asi que es urgente. Pero una persona que va a urgencias con dolor de garganta tiene una urgencia subjetiva, no una emergencia.
+Hay otros conceptos relacionados que tambien pueden aparecer en el examen. La urgencia vital es una situacion que compromete inmediatamente la vida del paciente. Basicamente equivale a una emergencia. La urgencia relativa es una situacion que requiere atencion en horas, pero no supone un riesgo vital inmediato. Es decir, hay que atenderla, pero puede esperar un poco.
 
-Los hospitales se clasifican en niveles segun su capacidad para atender urgencias. Los hospitales de nivel uno son hospitales comarcales o basicos, con urgencias limitadas. Los hospitales de nivel dos son hospitales generales con mas especialidades y mas capacidad. Y los hospitales de nivel tres son los hospitales de referencia, los grandes hospitales que tienen todas las especialidades y capacidad para atender las urgencias mas complejas, como la neurocirugia, la cirugia cardiaca o las grandes quemaduras.
+Luego tenemos el concepto de catastrofe. Una catastrofe es una situacion en la que la demanda asistencial supera los recursos disponibles. Es decir, hay mas victimas y mas necesidades de las que el sistema puede atender con los medios que tiene. Y finalmente, el accidente con multiples victimas, abreviado AMV. Es una situacion intermedia en la que los recursos son insuficientes temporalmente, pero no de forma tan desbordante como en una catastrofe.
 
-Ademas de los hospitales, existen los PAC, los Puntos de Atencion Continuada. Los PAC son dispositivos de atencion primaria que funcionan fuera del horario habitual de los centros de salud, es decir, por las tardes, noches, fines de semana y festivos. Atienden urgencias que no requieren un hospital.
+Vamos ahora con las estructuras de atencion urgente. Esto es importante porque te pueden preguntar donde se atienden las urgencias y que nivel tiene cada sitio.
 
-Vamos ahora con algo que cae muchisimo, el triaje. El triaje es el sistema de clasificacion de pacientes que llegan a urgencias segun la gravedad de su situacion. El objetivo es atender primero a los mas graves, no al que llega primero. Y el sistema de triaje mas conocido y mas preguntado en las oposiciones es el triaje de Manchester, que clasifica a los pacientes en cinco niveles con un codigo de colores.
+En atencion primaria tenemos los PAC, que son los Puntos de Atencion Continuada. Los PAC atienden urgencias en horario de tarde, noche, fines de semana y festivos, dentro del ambito de atencion primaria. Es decir, cuando tu centro de salud esta cerrado, el PAC es el que cubre las urgencias basicas. En algunas comunidades autonomas se les llama SUAP, que son los Servicios de Urgencias de Atencion Primaria. Es lo mismo con otro nombre. Y luego estan los propios centros de salud, que atienden urgencias leves durante su horario de consulta habitual.
 
-Nivel uno, rojo. Prioridad inmediata. Tiempo maximo de atencion, cero minutos. Se atiende de forma inmediata. Son situaciones de emergencia vital, como una parada cardiaca, un shock o una obstruccion de la via aerea.
+En atencion hospitalaria, los hospitales se clasifican en tres niveles segun su capacidad para atender urgencias. Nivel uno: son hospitales comarcales o basicos. Tienen urgencias generales con medico general y algunas especialidades basicas. Su complejidad es baja. Nivel dos: son hospitales generales. Tienen mayor dotacion de especialidades y disponen de Unidad de Cuidados Intensivos, la UCI. Su complejidad es media. Y nivel tres, que son los hospitales de referencia. Estos tienen todas las especialidades medico-quirurgicas y servicios de alta complejidad como neurocirugia, cirugia cardiaca, unidades de grandes quemados y servicios de trasplantes. Su complejidad es alta. Recuerda: nivel tres igual a hospital de referencia igual a todas las especialidades. Esto cae mucho.
 
-Nivel dos, naranja. Muy urgente. Tiempo maximo de atencion, diez minutos. Son situaciones de alto riesgo, como un dolor toracico sugestivo de infarto, una dificultad respiratoria severa o un traumatismo craneoencefalico con perdida de conciencia.
+En cuanto a los servicios de emergencias extrahospitalarias, hay varios que debes conocer. El 112 es el telefono unico europeo de emergencias. Funciona en todos los paises de la Union Europea, es gratuito y atiende cualquier tipo de emergencia, ya sea sanitaria, de seguridad o de proteccion civil. El 061 es el telefono de emergencias sanitarias que se usa en la mayoria de comunidades autonomas espanolas. Es especifico para urgencias medicas.
 
-Nivel tres, amarillo. Urgente. Tiempo maximo de atencion, sesenta minutos, es decir, una hora. Son urgencias reales pero que pueden esperar un poco, como una fractura, un dolor abdominal intenso o una crisis asmatica moderada.
+Ademas, hay servicios de emergencias especificos por comunidades. El SAMUR, que significa Servicio de Asistencia Municipal de Urgencia y Rescate, opera en Madrid. El SUMMA 112, que es el Servicio de Urgencias Medicas de Madrid, tambien en la comunidad madrilena. El SEM es el Sistema de Emergencies Mediques de Cataluna. Y el SAMU, el Servicio de Ayuda Medica Urgente, que funciona en varias comunidades autonomas.
 
-Nivel cuatro, verde. Menos urgente o estandar. Tiempo maximo de atencion, ciento veinte minutos, es decir, dos horas. Son situaciones que requieren atencion pero sin urgencia real, como una torcedura leve, un dolor de oidos o una erupcion cutanea.
+Tambien tienes que saber que el CCU, el Centro Coordinador de Urgencias, es el que recibe las llamadas y gestiona los recursos disponibles para enviar la ayuda adecuada a cada situacion. Todos estos nombres y siglas pueden aparecer en el examen, asi que asegurate de conocerlos.
 
-Nivel cinco, azul. No urgente. Tiempo maximo de atencion, doscientos cuarenta minutos, es decir, cuatro horas. Son problemas banales que podrian atenderse en atencion primaria, como un resfriado comun o una consulta administrativa.
+Ahora vamos con uno de los bloques estrella de este tema: el triaje. El triaje cae siempre, siempre, siempre en los examenes. Asi que presta mucha atencion.
 
-Recuerda los colores y los tiempos. Rojo cero, naranja diez, amarillo sesenta, verde ciento veinte, azul doscientos cuarenta. Esto cae siempre. Un truco para recordar los tiempos es que cada nivel multiplica aproximadamente por un factor el anterior.
+La palabra triaje viene del frances trier, que significa clasificar. El triaje es el proceso de clasificacion de los pacientes que acuden a urgencias segun la gravedad y la prioridad de atencion, independientemente del orden de llegada. Esto es clave: no se atiende al que llega primero, se atiende al que esta mas grave.
 
-Ademas del Manchester, existe el SET, el Sistema Espanol de Triaje, que tambien tiene cinco niveles y se usa en muchos hospitales espanoles. Es muy similar al Manchester pero con algunas variaciones en los criterios de clasificacion.
+Hay varias cosas fundamentales que debes saber sobre el triaje. Lo realiza personal sanitario cualificado, generalmente enfermeria con formacion especifica. Su objetivo es garantizar que los pacientes mas graves sean atendidos primero. El triaje no diagnostica, solo clasifica por nivel de urgencia. Y es dinamico, lo que significa que puede cambiar si el paciente empeora o mejora mientras espera.
 
-En cuanto a las funciones del celador en urgencias, son muy variadas y muy importantes. El celador recibe a los pacientes que llegan a urgencias y los acompana a la zona correspondiente. Traslada a los pacientes en silla de ruedas o en camilla. Colabora en la inmovilizacion y movilizacion de pacientes traumaticos. Ayuda en las maniobras de reanimacion cuando se lo indican. Vigila y controla el acceso a las zonas restringidas de urgencias. Comunica a los familiares la informacion que le indique el personal sanitario, ojo, solo la que le indiquen, el celador no da informacion clinica por su cuenta. Traslada muestras biologicas al laboratorio, documentacion, aparatos de electromedicina. Y mantiene el orden en la sala de espera.
+El sistema de triaje mas utilizado en Espana y el mas preguntado en oposiciones es el Sistema de Triaje Manchester, conocido como MTS por sus siglas en ingles. Clasifica a los pacientes en cinco niveles con un codigo de colores. Vamos con cada uno de ellos, con todos los datos.
 
-Vamos ahora con un tema fundamental, la cadena de supervivencia. La cadena de supervivencia es la secuencia de acciones que hay que realizar ante una parada cardiorrespiratoria para maximizar las posibilidades de supervivencia del paciente. Tiene cuatro eslabones.
+Nivel uno, color rojo. Categoria: inmediato o reanimacion. Tiempo maximo de atencion: cero minutos, es decir, atencion inmediata en el momento. Ejemplos: parada cardiaca, shock, inconsciencia, obstruccion de la via aerea. Son las situaciones mas criticas.
 
-Primer eslabon, alerta precoz. Reconocer la situacion de emergencia y llamar al servicio de emergencias, el 112 o el 061. Es fundamental actuar rapido y avisar cuanto antes.
+Nivel dos, color naranja. Categoria: muy urgente. Tiempo maximo de atencion: diez minutos. Ejemplos: dolor toracico cardiaco, dificultad respiratoria severa, hemorragia mayor. Son situaciones de alto riesgo que necesitan atencion casi inmediata.
 
-Segundo eslabon, inicio precoz de la reanimacion cardiopulmonar o RCP basica. Empezar con las compresiones toracicas y las ventilaciones sin esperar a que llegue la ayuda profesional. Cada minuto que pasa sin RCP reduce las posibilidades de supervivencia.
+Nivel tres, color amarillo. Categoria: urgente. Tiempo maximo de atencion: sesenta minutos, es decir, una hora. Ejemplos: dolor abdominal moderado, fractura no desplazada, crisis asmatica leve a moderada. Son urgencias reales que pueden esperar un poco pero no mucho.
 
-Tercer eslabon, desfibrilacion precoz. Utilizar un DEA, un Desfibrilador Externo Automatizado, lo antes posible. El DEA es un aparato que analiza el ritmo cardiaco del paciente y, si detecta un ritmo desfibrilable, administra una descarga electrica para intentar restablecer el ritmo normal. Hoy en dia hay DEAs en muchos lugares publicos, como aeropuertos, centros comerciales, estaciones de tren.
+Nivel cuatro, color verde. Categoria: menos urgente o estandar. Tiempo maximo de atencion: ciento veinte minutos, es decir, dos horas. Ejemplos: otitis, infeccion urinaria sin fiebre alta, esguince leve. Son situaciones que requieren atencion pero sin urgencia real.
 
-Cuarto eslabon, soporte vital avanzado precoz. La llegada del equipo sanitario especializado que aplica tecnicas avanzadas de reanimacion, como la intubacion, la administracion de farmacos intravenosos y la monitorizacion continua.
+Nivel cinco, color azul. Categoria: no urgente. Tiempo maximo de atencion: doscientos cuarenta minutos, es decir, cuatro horas. Ejemplos: resfriado comun, solicitud de recetas, problemas cronicos estables. Son problemas que podrian haberse atendido perfectamente en atencion primaria.
 
-En cuanto al Soporte Vital Basico, o SVB, el protocolo actual establece una relacion de treinta compresiones toracicas por cada dos ventilaciones de rescate. Treinta a dos. Las compresiones deben ser en el centro del pecho, con una profundidad de al menos cinco centimetros y a un ritmo de cien a ciento veinte compresiones por minuto. Recuerda, treinta compresiones, dos ventilaciones. Si no sabes o no quieres hacer ventilaciones, solo compresiones continuas tambien son validas.
+Ahora, los trucos para memorizar. Para los colores puedes usar la regla mnemotecnica ROJO, NARANJA, AMARILLO, VERDE, AZUL. Puedes pensar en las siglas RNA-VA, o imaginarte un semaforo ampliado con cinco colores. Para los tiempos, la secuencia es cero, diez, sesenta, ciento veinte, doscientos cuarenta. Cero, diez, sesenta, ciento veinte, doscientos cuarenta. Repitela varias veces: cero, diez, sesenta, ciento veinte, doscientos cuarenta.
 
-El DEA, Desfibrilador Externo Automatizado, es un dispositivo que puede usar cualquier persona, no solo sanitarios. Es seguro porque el propio aparato analiza si el paciente necesita una descarga y guia al usuario con instrucciones por voz. No puede administrar una descarga si no es necesaria, asi que no hay riesgo de hacer dano.
+Ademas del Manchester, existe el SET, que es el Sistema Espanol de Triaje, tambien conocido como MAT, el Model Andorra de Triatge, porque esta basado en el sistema andorrano de triaje. Se utiliza especialmente en Cataluna y en otras comunidades autonomas. Tambien tiene cinco niveles de priorizacion, igual que el Manchester. Incluye discriminantes y escalas de gravedad, permite el re-triaje si cambia la situacion del paciente, y esta basado en categorias sintomaticas y discriminantes clave.
 
-Pasamos ahora a las ambulancias. Las ambulancias en Espana estan reguladas por el Real Decreto 836/2012. Esto cae mucho, asi que apuntatelo, Real Decreto 836/2012. Este decreto clasifica las ambulancias en varios tipos.
+Hay otros sistemas de triaje que debes conocer por si aparecen en el examen. El CTAS, Canadian Triage and Acuity Scale, es el sistema canadiense y tambien tiene cinco niveles. El ESI, Emergency Severity Index, es el sistema estadounidense y tambien tiene cinco niveles. Y el START, Simple Triage And Rapid Treatment, que es el sistema que se usa en catastrofes y accidentes con multiples victimas. Este es diferente porque clasifica en cuatro categorias, no en cinco: rojo para inmediato, amarillo para diferido, verde para leve, y negro para fallecido o irrecuperable. Ojo, el START tiene cuatro niveles, no cinco como los demas.
 
-Ambulancias no asistenciales, que son para transporte de pacientes que no necesitan asistencia sanitaria durante el traslado. Dentro de estas hay dos tipos. Las ambulancias A1 o convencionales, que son para transporte individual en camilla de pacientes cuya situacion no hace prever riesgos durante el traslado. Y las ambulancias A2 o de transporte colectivo, tambien llamadas acondicionadas, que pueden transportar a varios pacientes que no son de urgencia, por ejemplo, para ir a sesiones de dialisis o rehabilitacion.
+Pasamos ahora a un bloque fundamental: las funciones del celador en urgencias. Esto es tu pan de cada dia si trabajas en urgencias, y ademas cae mucho en el examen. Vamos a ver todas y cada una de las funciones, divididas entre el celador de puerta y el celador del interior.
 
-Ambulancias asistenciales, que son para transporte de pacientes que si necesitan asistencia sanitaria durante el traslado. Aqui tambien hay dos tipos. Las ambulancias de tipo B o de Soporte Vital Basico, que estan equipadas con material para proporcionar SVB y cuidados basicos. Y las ambulancias de tipo C o de Soporte Vital Avanzado, tambien conocidas como UVI movil. Estas llevan todo el equipamiento medico avanzado, incluido personal medico y de enfermeria, para proporcionar soporte vital avanzado completo, con monitorizacion, ventilacion mecanica, medicacion intravenosa, desfibrilador manual, etcetera.
+Empezamos con el celador de puerta, tambien llamado celador de entrada de urgencias. Este celador es el primer contacto no sanitario que tiene el paciente al llegar a urgencias. Sus funciones son las siguientes.
 
-Ojo con esto. No confundas las ambulancias no asistenciales con las asistenciales. A1 y A2 son no asistenciales, B y C son asistenciales. Y dentro de las asistenciales, la B es basica y la C es avanzada con UVI movil. Esto cae siempre.
+Primera: recepcion de pacientes. Es el primer contacto no sanitario. Ayuda al paciente a bajar del vehiculo, le proporciona silla de ruedas o camilla si es necesario. Segunda: apertura de puertas automaticas cuando no funcionan correctamente. Tercera: traslado del paciente desde la entrada hasta la zona de triaje o consulta, ya sea en silla de ruedas o en camilla. Cuarta: aviso al personal sanitario si detecta una situacion de emergencia evidente. No diagnostica, pero si ve algo grave lo comunica de inmediato. Quinta: control de accesos, que incluye la vigilancia de la puerta y la regulacion de acompanantes, controlando el numero maximo permitido. Sexta: informacion basica a familiares, como la ubicacion de las salas de espera y las normas de acompanamiento. Atencion, nunca informacion clinica. El celador no da informacion clinica. Septima: custodia de pertenencias del paciente, utilizando bolsas de pertenencias debidamente identificadas. Octava: mantenimiento del orden en la entrada y las salas de espera. Novena: regulacion del trafico de ambulancias en la zona de acceso. Y decima: atencion al telefono de la puerta de urgencias, si procede.
 
-En cuanto a los tipos de transporte sanitario, distinguimos tres tipos.
+Ahora vamos con el celador del interior de urgencias. Este celador trabaja dentro del servicio de urgencias y sus funciones son todavia mas variadas.
 
-Transporte primario es el que va desde el lugar donde se produce la emergencia hasta el hospital. Por ejemplo, desde el lugar de un accidente de trafico hasta el hospital mas cercano. Es el primer transporte.
+Primera: traslado de pacientes entre las distintas zonas de urgencias, que incluyen triaje, consultas, observacion, boxes, salas de espera, radiologia, laboratorio, quirofano, UCI y planta. Segunda: ayuda en la movilizacion de pacientes, incluyendo transferencias cama-camilla y posicionamiento. Tercera: sujecion del paciente durante exploraciones y procedimientos, siempre que se lo indique el personal sanitario. Cuarta: ayuda en inmovilizaciones bajo supervision sanitaria. Quinta: transporte de muestras biologicas al laboratorio, como sangre, orina y otras. Sexta: transporte de documentacion, que incluye peticiones de pruebas, resultados e historias clinicas. Septima: transporte de material y equipamiento necesario. Octava: recogida de cadaveres y traslado al mortuorio. Novena: amortajamiento, que consiste en vestir al fallecido, en colaboracion con enfermeria. Decima: colaboracion en la contencion mecanica de pacientes agitados, siempre bajo prescripcion medica. Undecima: reposicion de bombonas de oxigeno y otros gases medicinales. Duodecima: traslado de pacientes a planta cuando se decide su ingreso. Y decimotercera: colaboracion con fuerzas de seguridad cuando sea necesario.
 
-Transporte secundario o interhospitalario es el que va de un hospital a otro hospital. Por ejemplo, cuando un paciente ingresado en un hospital comarcal necesita ser trasladado a un hospital de referencia porque necesita una cirugia especializada que no se puede hacer en el hospital comarcal.
+Y ahora, igual de importante, lo que el celador no debe hacer en urgencias. Esto lo preguntan mucho en forma de pregunta trampa. El celador no realiza triaje, porque eso es funcion sanitaria. El celador no da informacion clinica a pacientes ni a familiares. El celador no decide la prioridad de atencion. El celador no administra medicacion ni realiza tecnicas sanitarias. El celador no toma decisiones clinicas. Y el celador no puede negarse a trasladar un paciente si se lo indica el personal sanitario, salvo que exista un riesgo para si mismo.
 
-Transporte terciario o intrahospitalario es el que se realiza dentro del propio hospital. Por ejemplo, cuando se traslada a un paciente desde urgencias hasta la planta de hospitalizacion, o desde la planta hasta el quirofano. Este es el tipo de transporte que mas realiza el celador en su trabajo diario.
+Vamos ahora con otro bloque estrella: el Soporte Vital Basico y la Cadena de Supervivencia. Este bloque esta lleno de numeros y protocolos concretos, asi que atencion maxima.
 
-Para terminar, los telefonos de emergencia. El 112 es el telefono europeo de emergencias, comun a todos los paises de la Union Europea. Funciona para cualquier tipo de emergencia, ya sea sanitaria, de seguridad o de proteccion civil. Es gratuito y funciona sin cobertura del operador habitual.
+La cadena de supervivencia es la secuencia de actuaciones que, realizadas de forma ordenada, maximizan la probabilidad de supervivencia ante una parada cardiorrespiratoria, abreviada como PCR. Tiene cuatro eslabones. Vamos con cada uno.
 
-El 061 es el telefono de emergencias sanitarias. Es especifico para urgencias y emergencias medicas, y conecta con los servicios de coordinacion sanitaria de cada comunidad autonoma.
+Primer eslabon: reconocimiento precoz y pedir ayuda. Consiste en identificar la parada cardiorrespiratoria y llamar al 112 o al 061. El responsable es el primer interviniente, que puede ser cualquier persona.
 
-No confundas el 112 con el 061. El 112 es general y europeo, el 061 es especificamente sanitario y espanol.
+Segundo eslabon: RCP precoz. Consiste en iniciar las compresiones toracicas y las ventilaciones lo antes posible. De nuevo, el responsable es el primer interviniente, cualquier persona que este presente.
 
-Vamos con el repaso final de los puntos clave. Urgencia es subjetiva, emergencia es objetiva con riesgo vital. Toda emergencia es urgencia pero no al reves. Hospitales nivel uno basicos, nivel dos generales, nivel tres de referencia. Los PAC atienden fuera de horario habitual. Triaje de Manchester con cinco niveles. Rojo inmediato cero minutos, naranja muy urgente diez minutos, amarillo urgente sesenta minutos, verde menos urgente ciento veinte minutos, azul no urgente doscientos cuarenta minutos. La cadena de supervivencia tiene cuatro eslabones. Alerta precoz, RCP precoz, desfibrilacion precoz y soporte vital avanzado precoz. SVB es treinta compresiones por dos ventilaciones. Ambulancias reguladas por Real Decreto 836/2012. A1 convencional no asistencial, A2 acondicionada no asistencial, B soporte vital basico asistencial, C soporte vital avanzado UVI movil asistencial. Transporte primario del lugar al hospital, secundario entre hospitales, terciario dentro del hospital. 112 europeo general, 061 sanitario espanol.
+Tercer eslabon: desfibrilacion precoz. Consiste en usar el DEA lo antes posible. El responsable es el primer interviniente que tenga un DEA disponible.
 
-Y hasta aqui el Tema 8. Es un tema con muchos datos pero muy agradecido porque si te los aprendes bien, son puntos seguros en el examen. Nos vemos en el siguiente episodio. Mucho animo.
+Cuarto eslabon: soporte vital avanzado precoz, abreviado SVA. Es el tratamiento definitivo por parte del equipo sanitario especializado. El responsable es el equipo sanitario, es decir, medico y enfermero.
+
+Ahora vamos con el protocolo completo de Soporte Vital Basico en adultos, segun las guias del ERC, el European Resuscitation Council. Esta es la secuencia paso a paso.
+
+Paso uno: seguridad del entorno. Lo primero es verificar que no hay peligro ni para el reanimador ni para la victima. Si hay peligro, no te acerques.
+
+Paso dos: comprobar el nivel de consciencia. Estimula a la victima sacudiendo suavemente sus hombros y preguntando en voz alta si se encuentra bien.
+
+Paso tres: si no responde, pide ayuda. Grita para que alguien te oiga y pide a alguien que llame al 112.
+
+Paso cuatro: abrir la via aerea. Se usa la maniobra frente-menton, que consiste en la extension de la cabeza y la elevacion del menton. Pero ojo, si sospechas lesion cervical, no uses la maniobra frente-menton. En ese caso se usa la traccion mandibular, tambien llamada subluxacion mandibular. Esto es una pregunta clasica de examen.
+
+Paso cinco: comprobar la respiracion. Usa la tecnica VER-OIR-SENTIR durante un maximo de diez segundos. Ver si el torax se mueve, oir si hay ruidos respiratorios y sentir el aire en tu mejilla. Muy importante: el gasping, es decir, las boqueadas agonicas, no es respiracion normal. Si la victima solo hace gasping, se considera que no respira y debes iniciar la RCP. Esto es otra pregunta trampa clasica.
+
+Paso seis: si no respira normalmente, llama al 112 si no lo has hecho ya, pide un DEA y comienza la RCP.
+
+Paso siete: compresiones toracicas. Aqui van todos los numeros que tienes que memorizar. La relacion es de treinta compresiones seguidas de dos ventilaciones, es decir, treinta a dos. La frecuencia debe ser de cien a ciento veinte compresiones por minuto. Ni menos de cien ni mas de ciento veinte. La profundidad debe ser de cinco a seis centimetros en adultos. Al menos cinco centimetros, pero no mas de seis. Debes permitir la reexpansion completa del torax entre cada compresion. Las compresiones se hacen en el centro del pecho, en la mitad inferior del esternon. Y debes minimizar las interrupciones de las compresiones, porque cada vez que paras de comprimir, se pierde presion y efectividad.
+
+Paso ocho: ventilaciones. Se hacen boca a boca o con dispositivo de barrera. Cada ventilacion debe durar un segundo y debe producir una elevacion visible del torax. Importante: si no sabes hacer ventilaciones o no quieres hacerlas, puedes hacer solo compresiones continuas. Es lo que se llama en ingles compresion-only CPR. Es mejor solo compresiones que no hacer nada.
+
+Paso nueve: continua con el ciclo treinta a dos hasta que llegue el equipo sanitario, la victima se mueva o respire, o estes agotado fisicamente y no puedas continuar.
+
+Ahora vamos con el DEA, el Desfibrilador Externo Automatico. El DEA es un dispositivo que analiza el ritmo cardiaco del paciente y, si detecta un ritmo desfibrilable, administra una descarga electrica. Puede ser usado por cualquier persona, incluso sin formacion sanitaria, porque es automatizado y da instrucciones por voz. No hay que tener miedo al DEA.
+
+Los pasos para usar el DEA son los siguientes. Primero: encender el DEA. Segundo: colocar los parches, que son los electrodos adhesivos. Uno se coloca bajo la clavicula derecha y el otro en la linea axilar media izquierda, es decir, bajo el pecho izquierdo. Tercero: seguir las instrucciones del DEA. Cuarto: si el DEA indica descarga, asegurate de que nadie toca al paciente y pulsa el boton de descarga. Quinto: inmediatamente despues de la descarga, continua con RCP treinta a dos. Y sexto: si el DEA dice que no hay descarga indicada, continua con RCP.
+
+Los ritmos desfibrilables son la Fibrilacion Ventricular, abreviada FV, y la Taquicardia Ventricular sin pulso, abreviada TVSP. Los ritmos no desfibrilables son la Asistolia y la Actividad Electrica Sin Pulso, abreviada AESP. Esto puede caer en el examen: te preguntan que ritmos son desfibrilables y la respuesta es FV y TVSP.
+
+Una aclaracion importante: existe diferencia entre DESA y DEA. El DESA es el Desfibrilador Externo Semiautomatico, que requiere que el operador pulse el boton de descarga. El DEA es totalmente automatico y administra la descarga solo sin necesidad de pulsar ningun boton.
+
+Ahora vamos con la Posicion Lateral de Seguridad, la PLS. La PLS se usa cuando el paciente esta inconsciente pero si respira normalmente. Repito: inconsciente pero si respira. Si no respira, hay que hacer RCP, no ponerlo en PLS. La posicion consiste en colocar al paciente en decubito lateral, es decir, de lado, con el brazo inferior extendido y la pierna superior flexionada. Su objetivo es mantener la via aerea abierta y prevenir la aspiracion de vomito. Y hay que vigilar constantemente la respiracion, porque si deja de respirar hay que iniciar RCP inmediatamente.
+
+Pasamos ahora a la obstruccion de la via aerea por cuerpo extrano, lo que se conoce como OVACE o atragantamiento. Hay tres escenarios posibles.
+
+Primer escenario: obstruccion leve o parcial. Los signos son que el paciente tiene tos efectiva, puede hablar y respira con dificultad. En este caso, la actuacion es animar a toser. No golpees la espalda mientras la tos sea efectiva. Simplemente anima a la persona a seguir tosiendo.
+
+Segundo escenario: obstruccion grave o completa. Los signos son que el paciente no puede toser, no puede hablar, no puede respirar y se lleva las manos al cuello, que es el signo universal de asfixia. En este caso, la actuacion es alternar cinco golpes interescapulares con cinco compresiones abdominales, que es la famosa maniobra de Heimlich. Se alternan series de cinco y cinco hasta que se resuelve la obstruccion o hasta que la victima pierde la consciencia.
+
+Tercer escenario: la victima pierde la consciencia. En este caso, se coloca en el suelo, se llama al 112 y se inicia RCP con la secuencia treinta a dos. Exactamente igual que ante una parada cardiorrespiratoria.
+
+Muy bien, vamos ahora con otro bloque fundamental: el transporte sanitario en ambulancias. Aqui hay mucha clasificacion y mucho numero, asi que no te relajes.
+
+La normativa principal que regula las ambulancias en Espana es el Real Decreto 836/2012, de 25 de mayo. Este real decreto establece las caracteristicas tecnicas, el equipamiento sanitario y la dotacion de personal de los vehiculos de transporte sanitario por carretera. Sustituye al anterior Real Decreto 619/1998. Apuntate bien: Real Decreto 836/2012, de 25 de mayo. Esto cae en el examen.
+
+Las ambulancias se clasifican en dos grandes grupos: no asistenciales y asistenciales. Vamos con cada tipo, uno por uno.
+
+Las ambulancias no asistenciales estan destinadas al traslado de pacientes en camilla que no se prevee que necesiten asistencia sanitaria durante el transporte. Dentro de las no asistenciales hay dos tipos.
+
+Tipo A1, que es la ambulancia convencional. Sirve para el transporte individual de pacientes en camilla. Tiene dotacion basica, sin equipamiento sanitario relevante. Es simplemente para llevar a un paciente de un sitio a otro cuando no se espera que necesite atencion medica durante el camino.
+
+Tipo A2, que es la ambulancia de transporte colectivo, tambien llamada acondicionada. Sirve para el transporte colectivo de pacientes no urgentes. Por ejemplo, el traslado de varios pacientes a sesiones de dialisis o de rehabilitacion. Esta acondicionada para transportar a varios pacientes, algunos sentados y otros en camilla.
+
+Las ambulancias asistenciales estan dotadas de equipamiento sanitario y personal cualificado para prestar asistencia durante el transporte. Dentro de las asistenciales hay dos tipos.
+
+Tipo B, que es la ambulancia de Soporte Vital Basico, abreviado SVB. Su dotacion de personal es de al menos dos Tecnicos en Emergencias Sanitarias, los TES. Tambien pueden ir enfermeros. Su equipamiento incluye desfibrilador, material de inmovilizacion, oxigenoterapia, material de curas y material de via aerea basica.
+
+Tipo C, que es la ambulancia de Soporte Vital Avanzado, abreviado SVA. Tambien se le llama UVI movil. Su dotacion de personal minima es un medico, un enfermero o DUE, y un TES. Su equipamiento incluye todo lo de la ambulancia tipo B mas ventilador mecanico, monitor-desfibrilador, material de intubacion, medicacion de emergencia, bombas de perfusion e incubadora para neonatos. Basicamente, equivale a una UCI portatil. Esto es importante: la ambulancia tipo C equivale a una UCI portatil.
+
+Resumiendo la clasificacion: A1 convencional no asistencial, A2 acondicionada colectiva no asistencial, B soporte vital basico asistencial, C soporte vital avanzado UVI movil asistencial. No confundas las no asistenciales, que son A1 y A2, con las asistenciales, que son B y C.
+
+Ahora los tipos de transporte sanitario. Hay tres tipos y sus nombres son muy intuitivos.
+
+Transporte primario: es el que va desde el lugar del suceso o el domicilio hasta el hospital. Por ejemplo, una ambulancia del 061 recoge a un accidentado y lo lleva al hospital. Es el primer transporte, de ahi su nombre.
+
+Transporte secundario, tambien llamado interhospitalario: es el que va de un hospital a otro hospital. Por ejemplo, un paciente critico que se traslada desde un hospital comarcal a un hospital de referencia que tiene UCI y especialidades que el comarcal no tiene.
+
+Transporte terciario, tambien llamado intrahospitalario: es el que se realiza dentro del propio hospital. Por ejemplo, trasladar a un paciente de la planta a radiologia, al quirofano o a la UCI. Este es el tipo de transporte que el celador realiza con mayor frecuencia en su trabajo diario.
+
+Tambien distinguimos entre transporte urgente y programado. El transporte urgente es el que no se puede demorar, se produce en situaciones de urgencia o emergencia y tiene prioridad de paso. El transporte programado es el que se planifica previamente, como una cita de dialisis, un traslado entre centros o una consulta programada.
+
+Las funciones del celador en relacion con las ambulancias son las siguientes. Primera: traslado del paciente desde la unidad o planta hasta la ambulancia, y viceversa. Segunda: ayuda al personal de ambulancia en la carga y descarga del paciente. Tercera: acompanamiento del paciente hasta la entrega al personal de la ambulancia. Cuarta: transporte de la documentacion que acompana al paciente, como el informe clinico y las historias. Quinta: traslado de las pertenencias del paciente. Sexta: en algunas comunidades autonomas y servicios de emergencias, el celador puede formar parte de la dotacion de ambulancias no asistenciales, las A1 y A2, actuando como conductor o ayudante. Septima: comunicacion al personal sanitario de la llegada o salida de ambulancias. Y octava: facilitacion del acceso de ambulancias a la zona de urgencias.
+
+Vamos ahora con las situaciones especiales en urgencias. Empezamos con las catastrofes y emergencias colectivas.
+
+Todo hospital debe tener un Plan de Emergencia del Hospital, que es un documento que establece la organizacion y actuacion del hospital ante situaciones de catastrofe. Dentro de este plan se distinguen dos tipos. El Plan de Emergencia Exterior, que se activa cuando llegan multiples victimas de una catastrofe externa al hospital. Y el Plan de Emergencia Interior, que se activa ante emergencias dentro del propio hospital, como un incendio o una inundacion. El celador debe conocer su papel en ambos planes.
+
+En las catastrofes se utiliza un sistema de triaje especifico: el sistema START, Simple Triage And Rapid Treatment. Este sistema clasifica en cuatro categorias. Rojo, que significa inmediato: son victimas graves pero salvables. Amarillo, que significa diferido o urgente: son victimas con lesiones serias que pueden esperar horas. Verde, que significa leve: son heridos leves que pueden caminar, los ambulantes. Y negro, que significa fallecido o expectante: son personas que han fallecido o que tienen lesiones tan graves que se consideran irrecuperables. Recuerda: el triaje START tiene cuatro niveles, a diferencia del Manchester que tiene cinco.
+
+En cuanto a la violencia de genero en urgencias, el celador tiene un papel relevante. Puede ser el primer contacto de la victima cuando llega a urgencias. Debe comunicar al personal sanitario cualquier sospecha que tenga. Debe facilitar la intimidad de la victima. Debe colaborar con las fuerzas de seguridad si es necesario. Y es importante saber que el parte judicial de lesiones es obligatorio y lo realiza el medico, no el celador.
+
+Por ultimo, en las agresiones al personal sanitario, el celador colabora en la seguridad del servicio. Ejerce el control de accesos como medida preventiva. Participa en la activacion de protocolos de alerta y seguridad. Y colabora con los vigilantes de seguridad y con las fuerzas de seguridad cuando sea necesario.
+
+Muy bien, ahora vamos con la parte final y mas importante de este episodio: el repaso completo de todos los datos clave para el examen. Voy a recorrer los treinta puntos clave uno por uno. No me voy a dejar ni uno. Alla vamos.
+
+Punto uno. Urgencia es subjetiva, la percibe el paciente. Emergencia es objetiva, hay riesgo vital real.
+
+Punto dos. Toda emergencia es una urgencia, pero no toda urgencia es una emergencia.
+
+Punto tres. El Triaje Manchester tiene cinco niveles y cinco colores. Uno, rojo, inmediato, cero minutos. Dos, naranja, muy urgente, diez minutos. Tres, amarillo, urgente, sesenta minutos. Cuatro, verde, menos urgente, ciento veinte minutos. Cinco, azul, no urgente, doscientos cuarenta minutos.
+
+Punto cuatro. Los tiempos del triaje Manchester son cero, diez, sesenta, ciento veinte, doscientos cuarenta minutos.
+
+Punto cinco. El SET, Sistema Espanol de Triaje, y el MAT, Model Andorra de Triatge, son el mismo sistema. Tambien tiene cinco niveles, como el Manchester.
+
+Punto seis. El triaje lo realiza personal sanitario, generalmente enfermeria. Nunca el celador.
+
+Punto siete. La cadena de supervivencia tiene cuatro eslabones: reconocimiento y alerta, RCP precoz, desfibrilacion precoz y SVA precoz.
+
+Punto ocho. La RCP en adulto se hace con una relacion de treinta compresiones por dos ventilaciones, treinta a dos.
+
+Punto nueve. La frecuencia de compresiones es de cien a ciento veinte por minuto.
+
+Punto diez. La profundidad de compresiones en adulto es de cinco a seis centimetros. Al menos cinco, no mas de seis.
+
+Punto once. La maniobra de apertura de la via aerea es frente-menton. Si sospechas lesion cervical, se usa traccion mandibular.
+
+Punto doce. Para comprobar la respiracion se usa la tecnica VER-OIR-SENTIR, durante un maximo de diez segundos.
+
+Punto trece. El DEA lo puede usar cualquier persona. Los ritmos desfibrilables son FV, fibrilacion ventricular, y TVSP, taquicardia ventricular sin pulso.
+
+Punto catorce. La Posicion Lateral de Seguridad, PLS, se usa en pacientes inconscientes que si respiran normalmente.
+
+Punto quince. En la obstruccion grave de via aerea, OVACE, se aplican cinco golpes interescapulares alternados con cinco compresiones abdominales, la maniobra de Heimlich.
+
+Punto dieciseis. El gasping, las boqueadas, no es respiracion normal. Si el paciente hace gasping, hay que iniciar RCP.
+
+Punto diecisiete. La ambulancia A1 es la ambulancia convencional, no asistencial, para transporte individual.
+
+Punto dieciocho. La ambulancia A2 es la ambulancia acondicionada, no asistencial, para transporte colectivo.
+
+Punto diecinueve. La ambulancia tipo B es la de Soporte Vital Basico, asistencial. Su personal son los TES.
+
+Punto veinte. La ambulancia tipo C es la de Soporte Vital Avanzado o UVI movil, asistencial. Su personal minimo es medico, enfermero y TES.
+
+Punto veintiuno. La normativa que regula las ambulancias es el Real Decreto 836/2012, de 25 de mayo.
+
+Punto veintidos. El transporte primario va del lugar del suceso al hospital.
+
+Punto veintitres. El transporte secundario va de hospital a hospital, es interhospitalario.
+
+Punto veinticuatro. El transporte terciario es dentro del propio hospital, intrahospitalario.
+
+Punto veinticinco. El celador de puerta de urgencias se encarga de la recepcion de pacientes, traslado, control de accesos, custodia de pertenencias e informacion basica, nunca clinica.
+
+Punto veintiseis. El celador del interior de urgencias se encarga de trasladar pacientes, realizar movilizaciones, transportar muestras biologicas y transportar cadaveres.
+
+Punto veintisiete. El celador no realiza triaje, no da informacion clinica y no decide la prioridad asistencial.
+
+Punto veintiocho. PAC significa Punto de Atencion Continuada y es un dispositivo de urgencias de atencion primaria.
+
+Punto veintinueve. El hospital de nivel tres es el hospital de referencia, que dispone de todas las especialidades.
+
+Punto treinta. El triaje de catastrofes START clasifica en cuatro categorias: rojo inmediato, amarillo diferido, verde leve y negro fallecido.
+
+Ahora vamos con las preguntas trampa mas habituales en los examenes sobre este tema. Presta mucha atencion porque estas preguntas estan disenadas para confundirte.
+
+Primera pregunta trampa: te preguntan si la urgencia es objetiva o subjetiva. La urgencia es subjetiva. La emergencia es la objetiva. No te confundas.
+
+Segunda pregunta trampa: te preguntan quien realiza el triaje en urgencias. El triaje lo realiza enfermeria, personal sanitario cualificado. Nunca el celador. Si te ponen como opcion el celador, es incorrecta.
+
+Tercera pregunta trampa: te cambian los colores o los tiempos del triaje Manchester. Recuerda la secuencia exacta: rojo cero, naranja diez, amarillo sesenta, verde ciento veinte, azul doscientos cuarenta. Si te ponen que el nivel tres amarillo tiene treinta minutos en vez de sesenta, es falso.
+
+Cuarta pregunta trampa: te preguntan cuantos eslabones tiene la cadena de supervivencia. Son cuatro, no tres ni cinco. Cuatro eslabones.
+
+Quinta pregunta trampa: te preguntan la relacion de compresiones y ventilaciones en la RCP de adultos. Es treinta a dos. No quince a dos, que es la relacion en lactantes con dos reanimadores. En adultos siempre treinta a dos.
+
+Sexta pregunta trampa: te preguntan la profundidad de las compresiones. Es de cinco a seis centimetros, al menos cinco y no mas de seis. Si te ponen cuatro centimetros o siete centimetros, es incorrecto.
+
+Septima pregunta trampa: te preguntan si el gasping es respiracion normal. No lo es. El gasping, las boqueadas agonicas, no es respiracion normal. Si la victima hace gasping, se inicia RCP.
+
+Octava pregunta trampa: te confunden los tipos de ambulancia. A1 y A2 son no asistenciales. B y C son asistenciales. La B es basica y la C es avanzada. Si te dicen que la A2 es asistencial, es falso. Si te dicen que la B es avanzada, es falso.
+
+Novena pregunta trampa: te cambian los tipos de transporte. Primario es del lugar al hospital. Secundario es de hospital a hospital, interhospitalario. Terciario es dentro del hospital, intrahospitalario. Si te dicen que el transporte secundario es dentro del hospital, es falso.
+
+Decima pregunta trampa: te preguntan que real decreto regula las ambulancias. Es el Real Decreto 836/2012, de 25 de mayo. No el 619/1998, que es el anterior y ya fue sustituido.
+
+Undecima pregunta trampa: te preguntan que maniobra se usa para abrir la via aerea en un paciente con sospecha de lesion cervical. No es la frente-menton, es la traccion mandibular o subluxacion mandibular. La frente-menton se usa cuando no hay sospecha de lesion cervical.
+
+Duodecima pregunta trampa: te preguntan los ritmos desfibrilables. Son la fibrilacion ventricular y la taquicardia ventricular sin pulso. La asistolia y la actividad electrica sin pulso no son desfibrilables. Si te ponen la asistolia como desfibrilable, es falso.
+
+Decimotercera pregunta trampa: te preguntan cuando se coloca al paciente en posicion lateral de seguridad. Se coloca cuando esta inconsciente pero si respira normalmente. Si no respira, no se pone en PLS, se inicia RCP.
+
+Decimocuarta pregunta trampa: te preguntan cuantos niveles tiene el triaje START de catastrofes. Son cuatro niveles, no cinco. Rojo, amarillo, verde y negro. El Manchester tiene cinco, el START tiene cuatro.
+
+Decimoquinta pregunta trampa: te preguntan si el celador puede dar informacion clinica a los familiares. No, nunca. El celador da informacion basica como la ubicacion de la sala de espera o las normas de acompanamiento, pero la informacion clinica es responsabilidad exclusiva del personal sanitario.
+
+Y hasta aqui el repaso completo del Tema 8 sobre urgencias, actuacion del celador y transporte en ambulancias. Hemos cubierto absolutamente todo: la diferencia entre urgencia y emergencia, las estructuras de atencion urgente, los PAC, los niveles hospitalarios, los servicios de emergencias extrahospitalarias, el triaje completo con el Manchester y todos sus colores y tiempos, el SET y el MAT, el sistema START, todas las funciones del celador tanto de puerta como de interior, la cadena de supervivencia con sus cuatro eslabones, todo el protocolo de soporte vital basico con sus numeros exactos, el DEA, la posicion lateral de seguridad, el atragantamiento, la clasificacion completa de ambulancias segun el Real Decreto 836/2012, los tipos de transporte, las funciones del celador con ambulancias, y las situaciones especiales como catastrofes, violencia de genero y agresiones al personal sanitario.
+
+Recuerda los datos que mas caen: urgencia subjetiva, emergencia objetiva. Triaje Manchester cinco niveles con los tiempos cero, diez, sesenta, ciento veinte, doscientos cuarenta. RCP treinta a dos, cien a ciento veinte compresiones por minuto, cinco a seis centimetros de profundidad. Ambulancias A1 y A2 no asistenciales, B y C asistenciales. Real Decreto 836/2012. Transporte primario del lugar al hospital, secundario entre hospitales, terciario dentro del hospital.
+
+Estudia bien este tema porque es de los que mas puntos te pueden dar en el examen si te lo sabes a fondo. Nos vemos en el siguiente episodio. Mucho animo y a por esa plaza.

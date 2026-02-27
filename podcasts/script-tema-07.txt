@@ -1,81 +1,479 @@
-Tema 7. Farmacia hospitalaria y esterilizacion.
+Bienvenido al podcast de oposiciones de celador. Hoy vamos con el Tema 7 completo: Farmacia hospitalaria, esterilizacion, higiene y reprografia. Es uno de los temas mas densos de toda la oposicion, con un monton de cifras, clasificaciones, nombres de leyes, metodos, indicadores biologicos y preguntas trampa que te pueden pillar. Asi que concentracion maxima, que vamos a repasarlo absolutamente todo, sin dejarnos ni un dato.
 
-Hola, bienvenido de nuevo a tu podcast de oposiciones para celador. Hoy nos enfrentamos al Tema 7, que es uno de los mas densos y con mas datos concretos que te pueden preguntar. Hablamos de farmacia hospitalaria y esterilizacion. Hay muchas cifras, muchos metodos, muchas clasificaciones, asi que estate muy atento. Empezamos.
+Empezamos por el principio, con la farmacia hospitalaria.
 
-Vamos primero con la farmacia hospitalaria. La farmacia hospitalaria es el servicio del hospital responsable de la seleccion, preparacion, control, dispensacion e informacion de medicamentos y productos sanitarios. Esta regulada por el Real Decreto Legislativo 1/2015, que aprueba el texto refundido de la Ley de garantias y uso racional de los medicamentos y productos sanitarios.
+BLOQUE UNO: FARMACIA HOSPITALARIA.
 
-Ojo con esto. El titular de la farmacia hospitalaria tiene que ser obligatoriamente un farmaceutico especialista en farmacia hospitalaria. Y como se consigue esa especialidad. Pues a traves del sistema FIR, que es el Farmaceutico Interno Residente. Es parecido al MIR de los medicos. El farmaceutico aprueba un examen nacional y luego se forma como residente durante cuatro anos en un hospital.
+Primero, el marco legal. Aqui hay cuatro normas que tienes que conocer si o si.
 
-Ahora, a nivel nacional, el organismo que regula los medicamentos es la AEMPS, la Agencia Espanola de Medicamentos y Productos Sanitarios. Esto cae mucho. La AEMPS es un organismo autonomo adscrito al Ministerio de Sanidad, y se encarga de garantizar la calidad, seguridad, eficacia y correcta informacion de los medicamentos y productos sanitarios en Espana. Es la AEMPS la que autoriza la comercializacion de medicamentos, la que retira del mercado los que tienen problemas, y la que emite alertas de seguridad.
+La primera y mas importante es el Real Decreto Legislativo 1/2015, de 24 de julio. Este decreto aprueba el Texto Refundido de la Ley de garantias y uso racional de los medicamentos y productos sanitarios. Ojo, este Real Decreto Legislativo sustituye a la anterior Ley 29/2006. Es decir, si en algun examen te preguntan por la ley vigente de medicamentos, la respuesta es el Real Decreto Legislativo 1/2015, no la Ley 29/2006, que ya fue derogada.
 
-En cuanto al personal que trabaja en la farmacia hospitalaria, ademas del farmaceutico especialista que la dirige, encontramos otros farmaceuticos adjuntos, tecnicos en farmacia, auxiliares y celadores. El celador en farmacia tiene funciones de apoyo logistico, como el transporte de medicamentos, la reposicion de los carros de medicacion, y la carga y descarga de suministros farmaceuticos.
+La segunda norma es la Ley 14/1986, la Ley General de Sanidad, tambien conocida como LGS. Esta ley establece que los hospitales deben disponer de un servicio de farmacia. Asi de claro: todo hospital necesita su farmacia.
 
-Y aqui viene un concepto fundamental, el sistema de dispensacion por dosis unitaria, tambien llamado sistema de unidosis. Este sistema consiste en que la farmacia prepara la medicacion de cada paciente de forma individualizada, para un periodo de veinticuatro horas, y la coloca en un cajon del carro de unidosis con el nombre del paciente. Asi, cada enfermera sabe exactamente que medicacion le corresponde a cada paciente. El celador es el encargado de transportar estos carros de unidosis desde la farmacia hasta las plantas de hospitalizacion. Esto cae siempre.
+La tercera norma es la Ley 44/2003, la Ley de Ordenacion de las Profesiones Sanitarias, tambien conocida por sus siglas LOPS.
 
-Las ventajas del sistema unidosis son muchas. Reduce errores de medicacion, permite un mejor control del consumo, disminuye el despilfarro y mejora la trazabilidad del medicamento desde la farmacia hasta el paciente.
+Y la cuarta norma es el Real Decreto 1718/2010, que regula la receta medica y las ordenes de dispensacion. Este decreto establece como deben hacerse las recetas y las ordenes para dispensar medicamentos en los hospitales.
 
-Otro concepto que te van a preguntar es el de medicamento generico. Un medicamento generico es aquel que tiene la misma composicion cualitativa y cuantitativa en principio activo y la misma forma farmaceutica que el medicamento de referencia, y cuya bioequivalencia ha sido demostrada. Se denomina utilizando la Denominacion Comun Internacional, que son las siglas DCI, seguido del nombre del laboratorio fabricante, y lleva las siglas EFG, que significan Equivalente Farmaceutico Generico. Por ejemplo, ibuprofeno Cinfa EFG. El principio activo es ibuprofeno, el laboratorio es Cinfa, y EFG indica que es generico.
+Ahora vamos con el concepto de farmacia hospitalaria. La farmacia hospitalaria es un servicio general clinico del hospital. Esta bajo la responsabilidad de un farmaceutico especialista en Farmacia Hospitalaria, y ese titulo se obtiene a traves del sistema FIR, que son las siglas de Farmaceutico Interno Residente. Es un sistema parecido al MIR de los medicos. El farmaceutico aprueba un examen nacional y despues se forma durante cuatro anos como residente en un hospital.
 
-Bien, ahora pasamos a la segunda gran parte de este tema, que es la esterilizacion. Y aqui es donde hay mas datos que memorizar, asi que mucha atencion.
+Las funciones de la farmacia hospitalaria son muchas, y te las voy a enumerar todas. Primera, la seleccion, adquisicion, conservacion y dispensacion de medicamentos. Segunda, la elaboracion de formulas magistrales y preparados oficinales. Tercera, la farmacovigilancia, que es la deteccion de reacciones adversas a medicamentos, lo que se conoce por las siglas RAM. Cuarta, la informacion sobre medicamentos a profesionales sanitarios y a pacientes. Quinta, los ensayos clinicos, ya que la farmacia custodia la medicacion que se usa en investigacion. Sexta, la nutricion parenteral y las mezclas intravenosas. Y septima, la atencion farmaceutica al paciente.
 
-Antes de hablar de esterilizacion, necesitamos entender cuatro conceptos fundamentales que mucha gente confunde.
+Ahora hablemos de la AEMPS. La Agencia Espanola de Medicamentos y Productos Sanitarios. Esto cae mucho en los examenes. La AEMPS es un organismo autonomo adscrito al Ministerio de Sanidad. Cuidado, no es una direccion general ni una secretaria de estado, es un organismo autonomo. Y sus funciones principales son seis. Te las leo todas.
 
-Primero, asepsia. La asepsia es la ausencia de microorganismos patogenos. Es un estado, no un proceso. Cuando decimos que un campo quirurgico es aseptico, significa que esta libre de germenes.
+Primera funcion, la autorizacion de medicamentos y productos sanitarios. Es decir, la AEMPS es quien da el visto bueno para que un medicamento pueda venderse en Espana. Segunda, la inspeccion y control de calidad de esos medicamentos. Tercera, la farmacovigilancia a nivel nacional, es decir, vigilar las reacciones adversas de los medicamentos que ya estan en el mercado. Cuarta, la lucha contra medicamentos falsificados. Quinta, la informacion a profesionales sanitarios y ciudadanos. Y sexta, el control de estupefacientes y psicotropos.
 
-Segundo, antisepsia. La antisepsia es el proceso de destruccion de microorganismos que estan sobre tejidos vivos, es decir, sobre la piel o las mucosas del paciente. Los productos que se usan se llaman antisepticos. Por ejemplo, la clorhexidina o la povidona yodada.
+Ahora vamos con los conceptos farmacologicos esenciales, que son ocho definiciones que tienes que tener clarisimas.
 
-Tercero, desinfeccion. La desinfeccion es la destruccion de microorganismos sobre superficies inertes, es decir, sobre objetos y superficies, no sobre personas. Los productos que se usan se llaman desinfectantes. Por ejemplo, la lejia.
+Primero, medicamento. Un medicamento es una sustancia que se administra para prevenir, diagnosticar, tratar, aliviar o curar enfermedades.
 
-Y cuarto, esterilizacion. La esterilizacion es la destruccion total de todos los microorganismos, incluidas las esporas. Es el nivel maximo de eliminacion microbiana. Despues de la esterilizacion no queda nada vivo.
+Segundo, principio activo. El principio activo es la sustancia responsable del efecto farmacologico. Es el componente que realmente hace efecto.
 
-No confundas antisepsia con desinfeccion. Antisepsia es sobre tejidos vivos, desinfeccion es sobre objetos. Y la esterilizacion va un paso mas alla, eliminando absolutamente todo, incluidas las esporas, que son las formas de resistencia mas dificiles de eliminar.
+Tercero, excipiente. El excipiente es la sustancia inactiva que acompana al principio activo, actua como vehiculo. No tiene efecto farmacologico, pero ayuda a que el medicamento tenga la forma adecuada.
 
-Ahora vamos con los metodos de esterilizacion. Aqui hay muchos datos, asi que toma nota mental.
+Cuarto, forma farmaceutica. Es la presentacion del medicamento: comprimido, capsula, jarabe, inyectable, parche, pomada, etcetera.
 
-Primer metodo, el autoclave, que utiliza calor humedo, concretamente vapor de agua a presion. Este es el metodo mas utilizado en los hospitales. Ojo, calor humedo, no seco. El autoclave funciona a dos combinaciones principales de temperatura y tiempo. Primera combinacion, ciento veintiun grados centigrados durante quince a veinte minutos. Segunda combinacion, ciento treinta y cuatro grados centigrados durante tres a siete minutos. A mas temperatura, menos tiempo. El indicador biologico del autoclave es el Geobacillus stearothermophilus. Este nombre te lo tienes que aprender si o si, porque lo preguntan constantemente. Geobacillus stearothermophilus para el autoclave. Recuerdalo, autoclave igual a calor humedo igual a Geobacillus stearothermophilus.
+Quinto, especialidad farmaceutica. Es un medicamento fabricado industrialmente con nombre comercial. Por ejemplo, el Nolotil.
 
-Segundo metodo, el Poupinel, que tambien se llama horno de calor seco o estufa Poupinel. Este metodo utiliza calor seco, sin vapor, solo aire caliente. Las combinaciones son, ciento setenta grados centigrados durante una hora, o ciento ochenta grados centigrados durante treinta minutos. El indicador biologico del Poupinel es el Bacillus subtilis. Ojo, no confundas los indicadores. Autoclave con calor humedo usa Geobacillus stearothermophilus. Poupinel con calor seco usa Bacillus subtilis.
+Sexto, formula magistral. Es un medicamento preparado en la farmacia para un paciente individual. Se hace a medida para ese paciente concreto.
 
-Truco para recordar. La ese de seco te lleva a subtilis. La hache de humedo te lleva a stearothermophilus, que tambien tiene hache. Es un truco un poco forzado pero funciona.
+Septimo, preparado oficinal. Es un medicamento preparado en la farmacia segun formulario, para dispensacion directa. A diferencia de la formula magistral, no es para un paciente concreto, sino que se prepara siguiendo una receta estandar.
 
-Tercer metodo, el oxido de etileno. Este es un metodo quimico que utiliza un gas toxico. Se usa para material termosensible, es decir, material que no soporta las altas temperaturas del autoclave o del Poupinel, como los plasticos, las gomas, o los dispositivos electronicos. El oxido de etileno es muy eficaz pero tiene el inconveniente de que es toxico y cancerigeno, por lo que requiere un periodo de aireacion posterior para que el material pierda los residuos del gas antes de poder usarse.
+Y octavo, medicamento generico. Aqui presta mucha atencion. Un medicamento generico tiene el mismo principio activo, la misma forma farmaceutica y la misma dosis que el medicamento de referencia, y es bioequivalente. Se identifica por la Denominacion Comun Internacional, que son las siglas DCI, seguido del nombre del laboratorio fabricante, y lleva las siglas EFG, que significan Equivalente Farmaceutico Generico. Por ejemplo, ibuprofeno Cinfa EFG. Ibuprofeno es la DCI, Cinfa es el laboratorio, y EFG indica que es generico.
 
-Cuarto metodo, STERRAD, que es el sistema de gas plasma de peroxido de hidrogeno. Este es un metodo mas moderno que tambien sirve para material termosensible. Utiliza peroxido de hidrogeno, que es agua oxigenada, que se convierte en plasma mediante radiacion electromagnetica. Es mas rapido que el oxido de etileno y no deja residuos toxicos, por lo que no necesita periodo de aireacion. Se esta imponiendo como alternativa al oxido de etileno.
+Ahora vamos con el personal del servicio de farmacia. Aqui hay seis categorias profesionales y tienes que saber que hace cada una.
 
-Ahora vamos con una clasificacion que cae siempre en los examenes, la clasificacion de Spaulding. Esta clasificacion divide el instrumental sanitario en tres categorias segun el riesgo de infeccion.
+Los farmaceuticos especialistas, tambien llamados FEA, se encargan de la direccion, gestion clinica, atencion farmaceutica e investigacion.
 
-Articulos criticos. Son los que entran en contacto con tejidos esteriles o con el sistema vascular. Ejemplos, el instrumental quirurgico, las agujas, los cateteres intravasculares, los implantes. Estos articulos requieren esterilizacion obligatoria.
+Los FIR, los Farmaceuticos Internos Residentes, estan en formacion especializada durante cuatro anos y realizan funciones asistenciales supervisadas.
 
-Articulos semicriticos. Son los que entran en contacto con mucosas o piel no intacta, pero sin penetrar en tejidos esteriles. Ejemplos, los endoscopios, los tubos endotraqueales, los termometros rectales. Estos articulos requieren al menos desinfeccion de alto nivel.
+Los DUE o enfermeros se encargan de la preparacion de mezclas intravenosas, nutricion parenteral y colaboran en la dispensacion.
 
-Articulos no criticos. Son los que solo entran en contacto con piel intacta. Ejemplos, los fonendoscopios, las cunas, los manguitos de tension, las bandejas. Estos articulos requieren limpieza y desinfeccion de nivel bajo o intermedio.
+Los TCAE, los Tecnicos en Cuidados Auxiliares de Enfermeria, preparan los carros, se ocupan del almacenamiento y de tareas auxiliares.
 
-Recuerda, critico con esterilizacion, semicritico con desinfeccion de alto nivel, no critico con limpieza. Esto cae siempre.
+Los auxiliares administrativos gestionan los pedidos, los registros y la tramitacion de documentos.
 
-La central de esterilizacion del hospital es el lugar donde se procesa todo el material. Esta central se organiza en tres zonas claramente diferenciadas con un flujo unidireccional del material.
+Y los celadores, que somos los que nos presentamos a esta oposicion, nos encargamos del transporte de medicacion, del carro de unidosis, de la carga y descarga, y de la distribucion.
 
-La zona sucia o zona de recepcion es donde llega el material contaminado y donde se realiza la limpieza y descontaminacion inicial.
+Ahora vamos en detalle con las funciones del celador en farmacia, que son ocho y las tienes que saber todas.
 
-La zona limpia o zona de preparacion es donde se inspecciona, se clasifica, se empaqueta y se prepara el material para la esterilizacion.
+Funcion numero uno: transporte de medicacion desde la farmacia a las unidades de hospitalizacion.
 
-La zona esteril o zona de almacenamiento es donde se guarda el material ya esterilizado hasta que se distribuye a los servicios.
+Funcion numero dos: distribucion del carro de unidosis. El celador lleva el carro preparado a la planta y recoge el del dia anterior.
 
-El flujo siempre va de sucio a limpio a esteril, nunca al reves. Esto evita la contaminacion cruzada.
+Funcion numero tres: transporte de hemoderivados y otros productos desde la farmacia.
 
-Para terminar este tema, vamos a hablar de la higiene de manos, que es fundamental en la lucha contra las infecciones nosocomiales. La Organizacion Mundial de la Salud, la OMS, establecio los cinco momentos para la higiene de manos.
+Funcion numero cuatro: carga y descarga de pedidos de medicamentos de los proveedores externos.
 
-Momento uno, antes del contacto con el paciente. Momento dos, antes de realizar una tecnica aseptica. Momento tres, despues del riesgo de exposicion a liquidos corporales. Momento cuatro, despues del contacto con el paciente. Y momento cinco, despues del contacto con el entorno del paciente.
+Funcion numero cinco: traslado de estupefacientes. Ojo, aqui hay una clave importantisima. El celador nunca transporta estupefacientes solo. Siempre tiene que ir acompanado de personal de farmacia. Esto es pregunta de examen fijo.
 
-Esto cae siempre. Cinco momentos, cinco. Y el celador tambien debe cumplirlos, porque tambien tiene contacto con pacientes y con su entorno.
+Funcion numero seis: recogida y transporte de citotoxicos y residuos segun protocolo.
 
-En cuanto a los tipos de lavado de manos, tenemos tres. El lavado de manos rutinario o higienico, que se hace con agua y jabon durante al menos cuarenta a sesenta segundos. El lavado de manos antiseptico, que se hace con un jabon antiseptico como la clorhexidina. Y el lavado de manos quirurgico, que es el mas exhaustivo, dura de tres a cinco minutos, se hace con jabon antiseptico y abarca hasta los codos. Este ultimo lo realizan los cirujanos y el personal que entra al quirofano.
+Funcion numero siete: colaboracion en el almacenamiento de medicamentos, pero siempre bajo las indicaciones del farmaceutico.
 
-Ademas, existe la friccion con solucion hidroalcoholica, que es una alternativa rapida y eficaz al lavado con agua y jabon cuando las manos no estan visiblemente sucias. Dura entre veinte y treinta segundos.
+Y funcion numero ocho: mantenimiento del orden en las zonas de carga y descarga.
 
-Vamos a repasar los puntos clave del tema. La farmacia hospitalaria esta regulada por el Real Decreto Legislativo 1/2015. El titular debe ser farmaceutico especialista via FIR. La AEMPS es el organismo autonomo del Ministerio de Sanidad que regula los medicamentos. El sistema de dosis unitaria prepara la medicacion individualizada por paciente para veinticuatro horas. El medicamento generico se nombra con la DCI mas el laboratorio mas EFG.
+Un apunte muy importante sobre las funciones del celador en farmacia: el celador nunca dispensa ni manipula medicamentos. Solo los transporta. Esto es una pregunta trampa clasica.
 
-En esterilizacion, asepsia es ausencia de germenes, antisepsia es sobre tejidos vivos, desinfeccion es sobre objetos, y esterilizacion elimina todo incluidas esporas. El autoclave usa calor humedo a ciento veintiun grados quince a veinte minutos o ciento treinta y cuatro grados tres a siete minutos, con indicador Geobacillus stearothermophilus. El Poupinel usa calor seco a ciento setenta grados una hora o ciento ochenta grados treinta minutos, con indicador Bacillus subtilis. El oxido de etileno es un gas toxico para material termosensible. El STERRAD usa gas plasma de peroxido de hidrogeno.
+Ahora vamos con el sistema de distribucion de medicamentos por dosis unitaria, el SDMDU. Este sistema es el mas seguro y eficiente de dispensacion intrahospitalaria. Funciona asi: la farmacia prepara la medicacion individualizada por paciente para un periodo determinado, que generalmente es de veinticuatro horas. Cada cajetin del carro esta identificado con el nombre del paciente, el numero de cama y el servicio.
 
-Clasificacion de Spaulding. Critico se esteriliza, semicritico desinfeccion de alto nivel, no critico limpieza. La central de esterilizacion tiene tres zonas, sucia, limpia y esteril. Y los cinco momentos de higiene de manos de la OMS son antes del contacto con el paciente, antes de tecnica aseptica, despues de riesgo de exposicion a fluidos, despues del contacto con el paciente, y despues del contacto con el entorno del paciente.
+Las ventajas de este sistema son cuatro. Primera, reduce errores de medicacion. Segunda, permite un mayor control del consumo de farmacos. Tercera, permite la intervencion farmaceutica, porque el farmaceutico valida las prescripciones antes de preparar la medicacion. Y cuarta, disminuye el stock de medicamentos en las plantas.
 
-Menudo tema, verdad. Pero si lo repasas con calma y asocias los datos, lo vas a clavar en el examen. Nos vemos en el proximo episodio. Animo y a seguir estudiando.
+El circuito completo del sistema de unidosis es el siguiente: prescripcion medica, despues validacion farmaceutica, luego preparacion en farmacia, a continuacion transporte por el celador, y finalmente administracion al paciente por enfermeria. Es un circuito cerrado que garantiza la seguridad.
+
+Y por ultimo en el bloque de farmacia, el almacenamiento de medicamentos. Aqui hay varias categorias segun las condiciones de conservacion.
+
+Temperatura ambiente: entre quince y veinticinco grados centigrados. Asi se almacena la mayoria de los medicamentos.
+
+Refrigeracion o nevera: entre dos y ocho grados centigrados. Aqui se guardan las vacunas, las insulinas y algunos antibioticos. Ojo, en las neveras de farmacia se hace un registro diario de la temperatura. Esto cae mucho.
+
+Congelacion: a menos veinte grados centigrados o inferior. Aqui se almacenan algunos hemoderivados y reactivos.
+
+Proteccion de la luz: los medicamentos fotosensibles se guardan en envases opacos y en armarios cerrados.
+
+Estupefacientes: se almacenan en un armario de seguridad con llave y doble cierre, y se llevan en un libro de registro oficial. Doble cierre y libro de registro. Apuntatelo.
+
+Y los citotoxicos: almacenamiento separado, bien identificado, con medidas de seguridad especificas.
+
+Muy bien, hasta aqui el bloque de farmacia hospitalaria. Ahora nos metemos con el segundo gran bloque del tema, la esterilizacion.
+
+BLOQUE DOS: ESTERILIZACION.
+
+Empezamos con los conceptos fundamentales. Hay seis definiciones que son la base de todo y que te las van a preguntar seguro. Las vemos una por una.
+
+Primera, asepsia. La asepsia es la ausencia de microorganismos patogenos. Es el conjunto de procedimientos para prevenir la contaminacion. Asepsia se refiere a prevencion, a que no lleguen los germenes. Es un estado: algo es aseptico cuando no tiene germenes.
+
+Segunda, antisepsia. La antisepsia es la destruccion de microorganismos sobre tejidos vivos, es decir, sobre la piel y las mucosas. Se utilizan productos llamados antisepticos. Por ejemplo, la clorhexidina o la povidona yodada. Recuerda, antisepsia es sobre tejido vivo.
+
+Tercera, desinfeccion. La desinfeccion es la destruccion de microorganismos sobre superficies inertes, sobre objetos. Se utilizan productos llamados desinfectantes. Por ejemplo, la lejia. Atencion, la desinfeccion no elimina esporas. Esto es clave.
+
+Cuarta, esterilizacion. La esterilizacion es la destruccion de todos los microorganismos, incluidas las esporas. Es la maxima garantia de ausencia microbiana. Despues de la esterilizacion no queda absolutamente nada vivo.
+
+Quinta, limpieza. La limpieza es la eliminacion fisica de materia organica e inorganica de las superficies. Y aqui viene un dato fundamental: la limpieza es siempre el paso previo obligatorio a la desinfeccion y a la esterilizacion. Primero se limpia, y despues se desinfecta o esteriliza. Nunca al reves, nunca te saltes la limpieza.
+
+Y sexta, contaminacion. La contaminacion es la presencia de microorganismos patogenos en un objeto o superficie.
+
+Pregunta trampa tipica: confundir antisepsia con desinfeccion. Antisepsia es sobre tejido vivo, como la piel del paciente. Desinfeccion es sobre objetos inertes, como una mesa de quirofano. No los confundas jamas.
+
+Ahora vamos con los niveles de desinfeccion segun Spaulding. Hay tres niveles.
+
+Nivel alto: elimina todos los microorganismos excepto un alto numero de esporas. Se usa para endoscopios y equipos de terapia respiratoria.
+
+Nivel intermedio: elimina bacterias vegetativas, la mayoria de virus, hongos y micobacterias, pero no elimina esporas. Se usa para termometros y superficies.
+
+Nivel bajo: elimina la mayoria de bacterias vegetativas, algunos hongos y algunos virus. Se usa para fonendoscopios y superficies no criticas.
+
+Y ahora viene la clasificacion de Spaulding del material, que es absolutamente fundamental. Spaulding clasifica el instrumental sanitario en tres categorias segun el nivel de riesgo de infeccion.
+
+Primera categoria: material critico. Es el que entra en contacto con tejidos esteriles o con el sistema vascular. Ejemplos: material quirurgico, implantes, cateteres vasculares, agujas. El procesamiento minimo que requiere es la esterilizacion. Esterilizacion obligatoria.
+
+Segunda categoria: material semicritico. Es el que entra en contacto con mucosas o con piel no intacta. Ejemplos: endoscopios, equipos respiratorios, laringoscopios. El procesamiento minimo es la desinfeccion de alto nivel.
+
+Tercera categoria: material no critico. Es el que solo entra en contacto con piel intacta. Ejemplos: fonendoscopios, esfigmomanometros, cunas, muletas. El procesamiento minimo es la desinfeccion de bajo o intermedio nivel.
+
+Recuerda la regla: critico se esteriliza, semicritico se desinfecta a alto nivel, no critico se desinfecta a bajo o intermedio nivel. Esta clasificacion cae en todos los examenes de celador.
+
+Ahora entramos en los metodos de esterilizacion, que se dividen en tres grandes grupos: metodos fisicos, metodos quimicos y metodos fisico-quimicos. Vamos con cada uno de ellos.
+
+METODOS FISICOS.
+
+Primer metodo fisico: calor humedo, es decir, el autoclave. Este es el metodo mas utilizado, el mas eficaz y el mas economico de esterilizacion en los hospitales. Tres veces el mas: el mas utilizado, el mas eficaz, el mas economico.
+
+El agente esterilizante del autoclave es el vapor de agua saturado a presion.
+
+Los parametros del autoclave son dos combinaciones principales. Primera combinacion: ciento veintiun grados centigrados, una atmosfera de sobrepresion, durante quince a veinte minutos. Esta combinacion se usa para material textil y gomas. Segunda combinacion: ciento treinta y cuatro grados centigrados, dos atmosferas de sobrepresion, durante tres a siete minutos. Esta combinacion se usa para material metalico e instrumentos quirurgicos. Fijate: a mayor temperatura, menos tiempo. Ciento veintiuno con quince a veinte minutos. Ciento treinta y cuatro con tres a siete minutos.
+
+El indicador biologico del autoclave es el Geobacillus stearothermophilus. Antes se llamaba Bacillus stearothermophilus, pero le cambiaron el nombre. Es el microorganismo mas resistente al vapor, y por eso se usa como indicador. Si el autoclave es capaz de matar al Geobacillus stearothermophilus, sabemos que ha matado a todo lo demas.
+
+Las ventajas del autoclave son cuatro: es rapido, es economico, no es toxico y tiene una alta penetracion.
+
+Y los inconvenientes son dos: no es apto para materiales termosensibles como los plasticos, y a largo plazo puede causar corrosion en los metales.
+
+Ahora, los controles del autoclave. Esto es muy importante y cae mucho. Hay cuatro tipos de controles.
+
+Controles fisicos: son los manometros, termometros y registros automaticos de presion, temperatura y tiempo.
+
+Controles quimicos: son los indicadores quimicos, como cintas y tiras, que cambian de color cuando se alcanzan los parametros de esterilizacion. Existen clases de la 1 a la 6 segun la norma ISO 11140.
+
+Controles biologicos: son ampollas que contienen esporas de Geobacillus stearothermophilus. Es la prueba mas fiable de todas. Si las esporas mueren, la esterilizacion ha sido correcta.
+
+Y el Test de Bowie-Dick. Este test merece una mencion especial. El Test de Bowie-Dick verifica la correcta penetracion del vapor y la ausencia de aire residual en los autoclaves de prevacio. Se realiza diariamente, antes del primer ciclo de esterilizacion. Solo se aplica a autoclaves de prevacio, no a todos los autoclaves. Diariamente, antes del primer ciclo, solo para prevacio. Apuntatelo.
+
+Segundo metodo fisico: calor seco, es decir, el Poupinel o estufa.
+
+El agente esterilizante es el aire caliente, sin vapor.
+
+Los parametros del Poupinel son tres combinaciones. Primera: ciento setenta grados centigrados durante una hora, es decir, sesenta minutos. Segunda: ciento ochenta grados centigrados durante treinta minutos. Y tercera: ciento sesenta grados centigrados durante dos horas, es decir, ciento veinte minutos. Fijate que aqui tambien se cumple la regla de a mayor temperatura menos tiempo. Pero los tiempos son mucho mas largos que en el autoclave.
+
+El indicador biologico del Poupinel es el Bacillus subtilis variedad niger, que ahora se llama Bacillus atrophaeus. Cuidado con esto: el indicador biologico del calor seco es diferente al del calor humedo. El autoclave usa Geobacillus stearothermophilus. El Poupinel usa Bacillus atrophaeus, antes llamado Bacillus subtilis variedad niger.
+
+El Poupinel se usa para material metalico que se corroe con la humedad, para vidrio, aceites y polvos.
+
+Las ventajas son que no corroe los metales y que es util para esterilizar polvos y aceites, que no se pueden meter en el autoclave.
+
+Los inconvenientes son que requiere mas tiempo y mas temperatura que el autoclave, que es danino para gomas y textiles, y que tiene una penetracion deficiente.
+
+En general, el Poupinel se utiliza mucho menos que el autoclave.
+
+Tercer metodo fisico: las radiaciones. Aqui hay dos tipos.
+
+Las radiaciones ionizantes, como los rayos gamma y los rayos X, se usan para la esterilizacion industrial de material de un solo uso, como jeringas y guantes. No se aplican en el ambito hospitalario.
+
+Las radiaciones ultravioleta, las UV, tienen un efecto superficial y se utilizan para la desinfeccion de agua, aire y superficies. Ojo, las radiaciones UV no son esterilizacion completa.
+
+Cuarto metodo fisico: flameado e incineracion.
+
+El flameado es el paso rapido de un objeto por una llama. Se usa de forma puntual en los laboratorios, por ejemplo con las asas de siembra.
+
+La incineracion es la destruccion total por fuego. Se usa para la eliminacion de residuos infectados.
+
+Quinto metodo fisico: la filtracion.
+
+La filtracion consiste en el paso de fluidos a traves de filtros de poro muy pequeno, de cero coma veintidos micrometros. Importante: la filtracion no destruye los microorganismos, sino que los retiene. Los retiene pero no los mata. Se usa para la esterilizacion de liquidos termosensibles y en las cabinas de flujo laminar para filtrar el aire.
+
+METODOS QUIMICOS.
+
+Primer metodo quimico: el oxido de etileno, que se abrevia como OE o EtO.
+
+Es un gas esterilizante que se utiliza para materiales termosensibles, es decir, los que no soportan las altas temperaturas del autoclave.
+
+La temperatura de trabajo es baja, entre treinta y siete y cincuenta y cinco grados centigrados.
+
+El tiempo de exposicion es de dos a cinco horas, pero ojo, despues necesita una aireacion obligatoria de ocho a doce horas para eliminar los residuos toxicos del gas. Es decir, el proceso completo puede llevar mas de un dia entre la exposicion y la aireacion.
+
+El indicador biologico del oxido de etileno es el Bacillus atrophaeus, que antes se llamaba Bacillus subtilis variedad niger. Fijate, es el mismo indicador que el del calor seco del Poupinel.
+
+Las ventajas del oxido de etileno son que es muy util para materiales que no soportan el calor, como plasticos, optica, electronica y caucho.
+
+Pero los inconvenientes son serios: es toxico, cancerigeno, mutagenico e inflamable, y requiere un tiempo prolongado por la exposicion mas la aireacion posterior. Ademas, requiere instalaciones especificas con extraccion de gases.
+
+Segundo metodo quimico: el glutaraldehido al dos por ciento.
+
+Se utiliza para la desinfeccion de alto nivel o para la esterilizacion quimica por inmersion. El tiempo de inmersion varia: para desinfeccion de alto nivel se necesitan entre veinte y cuarenta y cinco minutos, y para la esterilizacion completa se necesitan diez horas. Es toxico, por lo que requiere proteccion con guantes, mascarilla y ventilacion. Se usa sobre todo para endoscopios e instrumental termosensible.
+
+Tercer metodo quimico: el acido peracetico.
+
+Es un oxidante potente que actua a baja temperatura. Es rapido y eficaz incluso en presencia de materia organica. Su gran ventaja es que se descompone en subproductos no toxicos: agua, oxigeno y acido acetico. Se utiliza para la esterilizacion de endoscopios en sistemas automatizados, como el sistema STERIS.
+
+Cuarto metodo quimico: el formaldehido.
+
+Puede usarse en forma de gas o en solucion, como formol al dos a ocho por ciento. Su uso esta muy limitado actualmente por su alta toxicidad. Se utiliza en la esterilizacion a baja temperatura con vapor de formaldehido, lo que se conoce como LTSF.
+
+METODOS FISICO-QUIMICOS.
+
+Aqui tenemos el gas-plasma de peroxido de hidrogeno, conocido comercialmente como STERRAD.
+
+Este metodo combina el peroxido de hidrogeno vaporizado con energia de radiofrecuencia para generar plasma.
+
+La temperatura de trabajo es baja, entre cuarenta y cinco y cincuenta y cinco grados centigrados.
+
+El tiempo es de veintiocho a setenta y cinco minutos, dependiendo del modelo.
+
+No requiere aireacion posterior, porque los unicos residuos que genera son agua y oxigeno. Esto es una gran ventaja frente al oxido de etileno.
+
+El indicador biologico del STERRAD es el Geobacillus stearothermophilus, el mismo que el del autoclave.
+
+Las ventajas del STERRAD son que es rapido, no toxico, y compatible con materiales termosensibles.
+
+Los inconvenientes son que no penetra bien en lumenes estrechos y largos, y que no es apto para celulosa, polvos ni liquidos.
+
+El STERRAD esta cada vez mas utilizado como alternativa al oxido de etileno, precisamente porque no es toxico y no necesita aireacion.
+
+Ahora vamos con la central de esterilizacion del hospital.
+
+La central de esterilizacion es la unidad del hospital donde se realiza la limpieza, desinfeccion, empaquetado, esterilizacion y almacenamiento del material esteril.
+
+Tiene tres zonas claramente diferenciadas, y esto cae mucho en los examenes.
+
+La zona sucia, tambien llamada zona roja, es donde se recibe y se lava el material contaminado.
+
+La zona limpia, tambien llamada zona azul, es donde se revisa, se empaqueta y se prepara el material.
+
+Y la zona esteril, tambien llamada zona verde, es donde se esteriliza el material en los autoclaves y se almacena una vez esterilizado.
+
+El flujo del material es siempre unidireccional: de sucio a limpio a esteril. Nunca se retrocede. Nunca el material va de la zona esteril de vuelta a la zona limpia o a la sucia. Esto evita la contaminacion cruzada.
+
+Los colores son clave para el examen: roja la sucia, azul la limpia, verde la esteril. Roja, azul, verde. Sucia, limpia, esteril.
+
+El celador transporta el material entre la central de esterilizacion y los servicios, como quirofanos y plantas de hospitalizacion.
+
+Y las funciones del celador en la central de esterilizacion son cuatro.
+
+Primera: transporte de material contaminado desde los servicios y quirofanos a la central, en contenedores cerrados e identificados.
+
+Segunda: transporte de material esteril desde la central a los servicios y quirofanos.
+
+Tercera: carga y descarga de autoclaves, pero siempre bajo supervision.
+
+Y cuarta, y esto es muy importante: el celador no manipula el material esteril. Esa funcion corresponde a enfermeria y a los tecnicos. El celador transporta, pero no manipula.
+
+Muy bien, ahora pasamos al tercer gran bloque del tema.
+
+BLOQUE TRES: HIGIENE HOSPITALARIA.
+
+Empezamos con lo mas importante de todo el tema de higiene, y posiblemente uno de los datos mas importantes de toda la oposicion: el lavado de manos es la medida mas importante para prevenir las infecciones nosocomiales. Las infecciones nosocomiales son las infecciones relacionadas con la asistencia sanitaria, que se conocen por las siglas IRAS. Y la medida numero uno para prevenirlas es el lavado de manos. Punto.
+
+Hay cuatro tipos de lavado de manos, y te los voy a explicar uno por uno con todos los datos.
+
+Primer tipo: lavado rutinario o higienico. Dura entre cuarenta y sesenta segundos. Se utiliza jabon neutro y agua. Se realiza antes y despues del contacto con el paciente, antes de comer, y despues de ir al bano. Es el lavado que hacemos todos, el basico.
+
+Segundo tipo: lavado antiseptico. Tambien dura entre cuarenta y sesenta segundos, la misma duracion que el rutinario. Pero en vez de jabon neutro se utiliza jabon antiseptico, como la clorhexidina al dos a cuatro por ciento o la povidona yodada, mas agua. Se realiza antes de tecnicas invasivas, cuando hay contacto con pacientes inmunodeprimidos, o durante brotes infecciosos.
+
+Tercer tipo: lavado quirurgico. Este es el mas largo, dura entre tres y cinco minutos. Se utiliza jabon antiseptico mas agua mas un cepillo de unas esteril. Se realiza antes de intervenciones quirurgicas y procedimientos invasivos en el quirofano.
+
+Cuarto tipo: friccion con solucion hidroalcoholica, que se abrevia SHA. Dura entre veinte y treinta segundos. Se utiliza una solucion de base alcoholica. Y aqui hay un dato clave: la friccion con SHA es una alternativa al lavado cuando las manos no estan visiblemente sucias. Si las manos estan visiblemente sucias, hay que lavarlas con agua y jabon. Pero si no lo estan, la SHA es mas rapida y muy eficaz.
+
+Ahora vamos con los cinco momentos de la higiene de manos de la OMS, la Organizacion Mundial de la Salud. Los cinco momentos son:
+
+Momento uno: antes del contacto con el paciente.
+Momento dos: antes de realizar una tarea limpia o aseptica.
+Momento tres: despues del riesgo de exposicion a fluidos corporales.
+Momento cuatro: despues del contacto con el paciente.
+Momento cinco: despues del contacto con el entorno del paciente.
+
+La regla mnemotecnica es facilisima: dos antes y tres despues. Dos momentos son antes de algo, tres momentos son despues de algo. Dos antes y tres despues. Esto lo preguntan en todos los examenes.
+
+Ahora te voy a explicar la tecnica completa del lavado rutinario de manos segun la OMS, paso a paso, porque tambien lo preguntan.
+
+Paso uno: mojar las manos con agua.
+Paso dos: aplicar jabon suficiente.
+Paso tres: frotar palma contra palma.
+Paso cuatro: frotar la palma derecha sobre el dorso de la mano izquierda con los dedos entrelazados, y viceversa.
+Paso cinco: frotar palma contra palma con los dedos entrelazados.
+Paso seis: frotar el dorso de los dedos contra la palma opuesta.
+Paso siete: frotar el pulgar con un movimiento rotativo, y viceversa.
+Paso ocho: frotar las yemas de los dedos contra la palma, y viceversa.
+Paso nueve: enjuagar las manos con agua.
+Paso diez: secar con toalla de un solo uso.
+Paso once: cerrar el grifo con la toalla, sin tocar el grifo con las manos limpias.
+
+Ese ultimo paso es una pregunta trampa clasica. El grifo se cierra con la toalla, no con las manos limpias. Si tocas el grifo con las manos limpias, las contaminas.
+
+Ahora vamos con los antisepticos mas utilizados. Hay seis que tienes que conocer.
+
+Primero, la clorhexidina, en concentraciones del cero coma cinco al cuatro por ciento. Es el antiseptico de eleccion. Se usa para el lavado quirurgico y para la insercion de cateteres. Su gran ventaja es que tiene un efecto residual prolongado, es decir, sigue haciendo efecto durante horas despues de aplicarlo. Esto lo preguntan mucho: la clorhexidina tiene efecto residual.
+
+Segundo, la povidona yodada al diez por ciento. Se usa para la antisepsia cutanea y para la preparacion del campo quirurgico. Ojo, la povidona yodada no tiene efecto residual. Este es otro dato que preguntan mucho. Clorhexidina con efecto residual, povidona yodada sin efecto residual.
+
+Tercero, el alcohol etilico al setenta por ciento. Se usa para la desinfeccion de la piel sana y como componente de las soluciones hidroalcoholicas. Tiene una accion rapida, pero no tiene efecto residual.
+
+Cuarto, el alcohol isopropilico. Similar al alcohol etilico.
+
+Quinto, el agua oxigenada, es decir, el peroxido de hidrogeno al tres por ciento. Se usa para la limpieza de heridas con materia organica. Su efervescencia arrastra la suciedad de la herida.
+
+Y sexto, el mercurocromo o mertiolate. Este ya esta en desuso, pero lo mencionan a veces en los examenes.
+
+Ahora los equipos de proteccion individual, los EPIs.
+
+Los guantes pueden ser de latex, nitrilo o vinilo. Son de un solo uso y hay que cambiarlos entre pacientes.
+
+La mascarilla quirurgica ofrece proteccion basica contra las gotas.
+
+La mascarilla FFP2 o FFP3 ofrece proteccion frente a aerosoles, como en el caso de la tuberculosis o el COVID-19.
+
+La bata protege la ropa. Debe ser impermeable si hay riesgo de salpicaduras.
+
+Las gafas o la pantalla facial ofrecen proteccion ocular ante salpicaduras.
+
+El gorro se usa en las zonas quirurgicas y esteriles.
+
+Y las calzas se usan tambien en las zonas quirurgicas.
+
+Muy bien, ya hemos terminado el bloque de higiene. Ahora vamos con el cuarto y ultimo bloque del tema.
+
+BLOQUE CUATRO: SERVICIO DE REPROGRAFIA.
+
+La reprografia es el servicio encargado de la reproduccion de documentos: fotocopias, impresiones, encuadernaciones, plastificaciones, todo lo que necesita el centro sanitario en materia de documentos.
+
+Las funciones del celador en reprografia son siete.
+
+Funcion uno: realizacion de fotocopias y tareas de reproduccion de documentos.
+
+Funcion dos: encuadernacion basica de documentos.
+
+Funcion tres: plastificacion de documentos y carteles.
+
+Funcion cuatro: mantenimiento basico de las maquinas, que incluye la reposicion de papel, toner y grapas.
+
+Funcion cinco: distribucion de las copias a los servicios que las han solicitado.
+
+Funcion seis: control de registro, es decir, anotar las copias realizadas por cada servicio.
+
+Y funcion siete, y esta es fundamental: cumplimiento estricto de la confidencialidad. El celador maneja documentos que pueden contener datos de salud protegidos, y debe respetar escrupulosamente la confidencialidad.
+
+Y hablando de confidencialidad, vamos con las leyes que la regulan.
+
+La Ley Organica 3/2018, de 5 de diciembre, conocida como LOPDGDD, es la Ley de Proteccion de Datos Personales y garantia de los derechos digitales. Es la ley espanola de proteccion de datos vigente.
+
+El Reglamento General de Proteccion de Datos, el RGPD, es el Reglamento de la Union Europea 2016/679. Es la norma europea.
+
+Los documentos con datos de pacientes estan especialmente protegidos, porque los datos de salud se consideran una categoria especial de datos.
+
+El celador tiene deber de secreto profesional sobre toda la informacion a la que accede en su trabajo.
+
+El celador no debe leer, copiar ni difundir el contenido de los documentos que maneja.
+
+Y los documentos desechados que contengan datos sensibles deben destruirse utilizando una trituradora.
+
+Muy bien, ya hemos cubierto los cuatro bloques del tema. Ahora vamos con la parte mas importante de este podcast: el repaso final de datos clave para el examen y las preguntas trampa.
+
+REPASO FINAL: DATOS CLAVE PARA EXAMEN.
+
+Vamos a repasar los treinta puntos clave mas preguntados, agrupados por bloques.
+
+ESTERILIZACION, lo mas preguntado.
+
+Dato uno: autoclave es igual a calor humedo, es igual a vapor de agua a presion, y es el metodo mas utilizado de esterilizacion.
+
+Dato dos: los parametros del autoclave son ciento veintiun grados centigrados durante quince a veinte minutos, o ciento treinta y cuatro grados centigrados durante tres a siete minutos.
+
+Dato tres: el Poupinel o estufa usa calor seco, a ciento setenta grados una hora, o ciento ochenta grados treinta minutos, o ciento sesenta grados dos horas.
+
+Dato cuatro: el indicador biologico del autoclave es el Geobacillus stearothermophilus.
+
+Dato cinco: el indicador biologico del calor seco y del oxido de etileno es el Bacillus atrophaeus, que antes se llamaba Bacillus subtilis variedad niger.
+
+Dato seis: el Test de Bowie-Dick se hace diariamente, antes del primer ciclo, verifica la penetracion del vapor y la ausencia de aire. Solo se aplica a autoclaves de prevacio.
+
+Dato siete: el oxido de etileno es un gas para materiales termosensibles. Es toxico y cancerigeno. Requiere aireacion de ocho a doce horas.
+
+Dato ocho: el gas-plasma de peroxido de hidrogeno, el STERRAD, trabaja a baja temperatura, es rapido, no es toxico, y los unicos residuos que deja son agua y oxigeno. No es apto para celulosa ni para lumenes estrechos.
+
+Dato nueve: asepsia es ausencia de germenes y se refiere a prevencion. Antisepsia es destruccion de germenes en tejido vivo. Desinfeccion es destruccion de germenes en objetos inertes. Esterilizacion es destruccion de todo, incluidas las esporas.
+
+Dato diez: clasificacion de Spaulding. Critico se esteriliza. Semicritico recibe desinfeccion de alto nivel. No critico recibe desinfeccion de bajo nivel.
+
+Dato once: la central de esterilizacion tiene tres zonas. La zona sucia es la roja. La zona limpia es la azul. La zona esteril es la verde. El flujo es siempre unidireccional.
+
+Dato doce: la limpieza es siempre el paso previo a la desinfeccion y a la esterilizacion. Primero limpiar, despues desinfectar o esterilizar.
+
+HIGIENE, lo mas preguntado.
+
+Dato trece: el lavado de manos es la medida mas importante para la prevencion de las infecciones nosocomiales, las IRAS.
+
+Dato catorce: el lavado rutinario dura de cuarenta a sesenta segundos con jabon neutro.
+
+Dato quince: el lavado quirurgico dura de tres a cinco minutos con jabon antiseptico.
+
+Dato dieciseis: la friccion con solucion hidroalcoholica, la SHA, dura de veinte a treinta segundos. Es la alternativa cuando las manos no estan visiblemente sucias.
+
+Dato diecisiete: los cinco momentos de la OMS son dos antes y tres despues. Antes del contacto con el paciente, antes de una tarea aseptica, despues de la exposicion a fluidos, despues del contacto con el paciente, despues del contacto con el entorno del paciente.
+
+Dato dieciocho: la clorhexidina es el antiseptico de eleccion y tiene efecto residual prolongado.
+
+Dato diecinueve: la povidona yodada no tiene efecto residual.
+
+FARMACIA, lo mas preguntado.
+
+Dato veinte: el Real Decreto Legislativo 1/2015 es la Ley de garantias y uso racional de medicamentos y productos sanitarios.
+
+Dato veintiuno: la AEMPS es la Agencia Espanola de Medicamentos y Productos Sanitarios, un organismo autonomo adscrito al Ministerio de Sanidad.
+
+Dato veintidos: la farmacia hospitalaria es responsabilidad de un farmaceutico especialista que se forma via FIR durante cuatro anos.
+
+Dato veintitres: el sistema de dosis unitaria, el SDMDU, dispensa la medicacion individualizada por paciente para veinticuatro horas. Es el sistema mas seguro.
+
+Dato veinticuatro: el carro de unidosis lo transporta el celador desde la farmacia hasta la planta.
+
+Dato veinticinco: los estupefacientes se guardan en un armario de seguridad con doble llave y libro de registro.
+
+Dato veintiseis: los medicamentos termolabiles se conservan en nevera entre dos y ocho grados centigrados.
+
+Dato veintisiete: las funciones del celador en farmacia son el transporte de medicacion, el carro de unidosis, y la carga y descarga. El celador nunca dispensa ni manipula medicamentos.
+
+Dato veintiocho: EFG significa Equivalente Farmaceutico Generico, y es lo que identifica a un medicamento generico.
+
+Dato veintinueve: en reprografia, el celador debe respetar la confidencialidad segun la LOPDGDD y el RGPD.
+
+Dato treinta: la LOPDGDD es la Ley Organica 3/2018. El RGPD es el Reglamento de la Union Europea 2016/679. Los datos de salud son una categoria especial de datos especialmente protegidos.
+
+Y ahora las preguntas trampa que mas caen en los examenes sobre este tema.
+
+Pregunta trampa uno: te preguntan cual es el indicador biologico del autoclave y te ponen como opcion el Bacillus subtilis. No piques. El indicador del autoclave es el Geobacillus stearothermophilus. El Bacillus subtilis, ahora llamado Bacillus atrophaeus, es el indicador del calor seco y del oxido de etileno.
+
+Pregunta trampa dos: te preguntan la diferencia entre antisepsia y desinfeccion. Antisepsia es sobre tejidos vivos, desinfeccion es sobre objetos inertes. Muchos opositores los confunden.
+
+Pregunta trampa tres: te preguntan si la desinfeccion elimina esporas. No. La desinfeccion no elimina esporas. Solo la esterilizacion elimina esporas.
+
+Pregunta trampa cuatro: te preguntan si el celador puede transportar estupefacientes solo. No. El celador siempre debe ir acompanado de personal de farmacia cuando transporta estupefacientes.
+
+Pregunta trampa cinco: te preguntan si el celador dispensa medicamentos. No. El celador solo transporta medicamentos. La dispensacion corresponde al farmaceutico.
+
+Pregunta trampa seis: te preguntan si la SHA se puede usar con las manos visiblemente sucias. No. La solucion hidroalcoholica solo se usa cuando las manos no estan visiblemente sucias. Si estan sucias, hay que lavar con agua y jabon.
+
+Pregunta trampa siete: te preguntan si el Test de Bowie-Dick se hace semanalmente. No. Se hace diariamente, antes del primer ciclo de esterilizacion, y solo en autoclaves de prevacio.
+
+Pregunta trampa ocho: te preguntan si el STERRAD necesita aireacion. No. El STERRAD no necesita aireacion. Los unicos residuos son agua y oxigeno. El que necesita aireacion de ocho a doce horas es el oxido de etileno.
+
+Pregunta trampa nueve: te preguntan si el flujo de la central de esterilizacion puede ser bidireccional. No. El flujo es siempre unidireccional: de sucio a limpio a esteril. Nunca se retrocede.
+
+Pregunta trampa diez: te preguntan si la clorhexidina o la povidona yodada tiene efecto residual. La clorhexidina si tiene efecto residual prolongado. La povidona yodada no tiene efecto residual. Cuidado con no confundirlas.
+
+Pregunta trampa once: te preguntan que paso es previo obligatorio a la desinfeccion y esterilizacion. La respuesta es la limpieza. Siempre se limpia antes de desinfectar o esterilizar.
+
+Pregunta trampa doce: te dicen que la ley vigente de medicamentos es la Ley 29/2006. Falso. La Ley 29/2006 fue sustituida por el Real Decreto Legislativo 1/2015.
+
+Y con esto hemos terminado el repaso completo del Tema 7 de oposiciones de celador. Hemos cubierto absolutamente todo: la farmacia hospitalaria con su marco legal, la AEMPS, los conceptos farmacologicos, el personal, las funciones del celador, el sistema de dosis unitaria y el almacenamiento de medicamentos. Hemos cubierto la esterilizacion con todos sus conceptos, la clasificacion de Spaulding, todos los metodos fisicos, quimicos y fisico-quimicos con sus parametros, indicadores biologicos y controles. Hemos cubierto la higiene hospitalaria con los tipos de lavado de manos, los cinco momentos de la OMS, la tecnica del lavado, los antisepticos y los EPIs. Y hemos cubierto la reprografia con las funciones del celador y la legislacion de proteccion de datos.
+
+Repasa este tema varias veces, porque los datos de esterilizacion, los parametros del autoclave, los indicadores biologicos, la clasificacion de Spaulding y los cinco momentos de la higiene de manos son preguntas fijas en todos los examenes de celador.
+
+Mucho animo y nos vemos en el proximo episodio. A seguir estudiando, que lo vas a conseguir.
