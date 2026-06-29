@@ -13,8 +13,22 @@ El **suministro** es el proceso de aprovisionamiento de materiales, productos y 
 | **Externo** | Proveedores externos | Almacen del hospital | Compra de material quirurgico a empresa |
 | **Interno** | Almacen del hospital | Servicios/unidades | Distribucion de guantes a planta |
 
-- **Suministro externo:** relacion hospital-proveedor. Regulado por la Ley de Contratos del Sector Publico. Incluye licitaciones, concursos y adjudicaciones.
-- **Suministro interno:** relacion almacen-servicio. Se gestiona mediante vales de pedido internos.
+- **Suministro externo:** relacion hospital-proveedor (de fuera del centro hacia el centro). Regulado por la Ley de Contratos del Sector Publico. Incluye licitaciones, concursos y adjudicaciones. La mercancia llega con **albaran**.
+- **Suministro interno:** relacion almacen-servicio (entre servicios/unidades del propio centro). Se gestiona mediante **vales de pedido internos**. No interviene proveedor externo.
+
+> **CLAVE:** Externo = ENTRA al centro desde fuera (proveedor). Interno = se MUEVE dentro del centro (almacen -> planta). El celador participa en AMBOS: descarga lo externo y distribuye lo interno.
+
+### 1.2. El ciclo logistico del suministro
+
+El aprovisionamiento sigue siempre el mismo circuito ordenado:
+
+1. **Prevision / planificacion** de necesidades (plan de necesidades, pactos de consumo).
+2. **Peticion / pedido** (nota de pedido al proveedor o vale interno al almacen).
+3. **Recepcion y control** (descarga, cotejo del albaran, verificacion).
+4. **Almacenamiento** (clasificacion, ubicacion, rotacion de stock).
+5. **Distribucion** (entrega al servicio solicitante).
+
+Regla mnemotecnica: **P**revision -> **P**edido -> **R**ecepcion -> **A**lmacenamiento -> **D**istribucion.
 
 ---
 
@@ -125,6 +139,8 @@ Documento que recoge las **previsiones de consumo** de materiales para un period
 6. **Registro de entrada:** anotacion en el sistema informatico de gestion de almacen.
 7. **Ubicacion:** colocacion del material en su lugar correspondiente segun la organizacion del almacen.
 
+> **Las 3 verificaciones clave al recibir (memoriza):** **CANTIDAD** (que el numero de bultos/unidades coincide con el albaran y el pedido), **CADUCIDAD** (que la fecha de caducidad es adecuada, no caducado ni de caducidad demasiado corta) y **ESTADO** (que el embalaje esta integro: no roto, no mojado, precintos intactos, sin signos de manipulacion). Si algo falla -> se rechaza la mercancia o se anota la incidencia en el albaran antes de firmar.
+
 ### 5.2. Documentos implicados
 
 | Documento | Emitido por | Funcion |
@@ -175,9 +191,20 @@ Documento que recoge las **previsiones de consumo** de materiales para un period
 
 #### FEFO (First Expired, First Out) - El primero en caducar es el primero en salir
 
-- Variante del FIFO aplicada especificamente a **productos con fecha de caducidad**.
-- Se prioriza la salida del producto que antes caduca, independientemente de cuando entro.
-- **Muy utilizado en farmacia hospitalaria.**
+- Variante/perfeccionamiento del FIFO aplicada especificamente a **productos con fecha de caducidad** (PCPS: Primero en Caducar, Primero en Salir).
+- Se prioriza la salida del producto que antes caduca, **independientemente de cuando entro** (un producto que entro despues pero caduca antes, sale primero).
+- **Muy utilizado en farmacia hospitalaria** y con perecederos (medicamentos, sueros, reactivos, suturas/sedas).
+- A igualdad de caducidad, se aplica FIFO (sale el mas antiguo).
+
+#### Tabla comparativa FIFO vs FEFO vs LIFO
+
+| Sistema | Significado | Criterio de salida | Uso en sanidad | Apto para caducidad |
+|---------|-------------|--------------------|----------------|---------------------|
+| **FIFO** | First In, First Out (1.o en entrar, 1.o en salir) | Sale el que ENTRO antes (mas antiguo) | El MAS UTILIZADO en general | Si (productos sin caducidad muy dispar) |
+| **FEFO** | First Expired, First Out (1.o en caducar, 1.o en salir) | Sale el que CADUCA antes | El MAS SEGURO con perecederos; farmacia | SI (es el ideal con caducidades) |
+| **LIFO** | Last In, First Out (ultimo en entrar, 1.o en salir) | Sale el que ENTRO ultimo (mas reciente) | Practicamente NO se usa en sanidad | NO (deja caducar lo antiguo) |
+
+> **Por que importan FIFO/FEFO con caducidades:** evitan que un producto caduque olvidado al fondo de la estanteria. Si no se rota, el material antiguo se queda atras, caduca y hay que destruirlo = perdida economica y riesgo asistencial (usar un producto caducado). Por eso lo NUEVO se coloca DETRAS/ABAJO y lo ANTIGUO DELANTE/ARRIBA (al alcance de la mano).
 
 ### 6.3. Condiciones ambientales
 
@@ -188,6 +215,15 @@ Documento que recoge las **previsiones de consumo** de materiales para un period
 | **Iluminacion** | Suficiente para trabajo, proteger productos fotosensibles de luz directa |
 | **Ventilacion** | Adecuada para evitar acumulacion de gases/olores |
 | **Limpieza** | Programa de limpieza periodico, libre de plagas |
+
+#### Reglas de colocacion y seguridad (muy preguntadas)
+
+- **Separacion del suelo:** el material NO se deposita directamente en el suelo; se usan **palets, tarimas o estanterias** (evita humedad, suciedad, plagas y facilita la limpieza).
+- **No mezclar limpio y sucio:** el material limpio/esteril se almacena separado del sucio/contaminado. Circuitos diferenciados.
+- **No mezclar alimentos con productos quimicos/de limpieza.**
+- **Productos inflamables y peligrosos:** zona especifica, ventilada, separada, senalizada y alejada de focos de calor (gases medicinales, alcoholes, etc.).
+- **Pesos:** lo mas pesado abajo y lo ligero arriba; no sobrecargar estanterias.
+- **Senalizacion y orden:** cada producto en su ubicacion, pasillos despejados, salidas de emergencia libres.
 
 ### 6.4. Sistemas de ubicacion
 
@@ -251,10 +287,20 @@ La distribucion interna se realiza mediante un circuito establecido:
 
 ### 8.3. Sistemas de distribucion
 
-- **Sistema de peticion individualizada:** cada servicio solicita segun sus necesidades puntuales. Mas flexible pero genera mas trabajo administrativo.
-- **Sistema de reposicion por niveles (doble cajetin/PAR):** cada servicio tiene un stock fijo asignado (nivel PAR). El almacen repone hasta ese nivel de forma periodica. Reduce peticiones y simplifica gestion.
+- **Sistema de peticion individualizada (bajo pedido):** cada servicio solicita segun sus necesidades puntuales mediante vale. Mas flexible pero genera mas trabajo administrativo.
+- **Sistema de reposicion por niveles (PAR / stock pactado):** cada servicio tiene un stock fijo asignado (nivel PAR). El almacen repone hasta ese nivel de forma periodica, sin que el servicio pida. Reduce peticiones y simplifica gestion. Se basa en los **pactos de consumo**.
+- **Sistema de doble cajon (kanban):** cada articulo tiene DOS cajetines/cestas con la misma cantidad. Se consume del primero; **cuando se vacia el primer cajon, esa es la senal (kanban) de que hay que reponer**, mientras se sigue consumiendo del segundo (que actua como stock de seguridad). El cajon vacio (o su tarjeta/etiqueta kanban) dispara el pedido automatico. Es un sistema de gestion visual "lean" muy extendido en hospitales.
 - **Sistema de intercambio de carros:** carros completos preparados en almacen se intercambian por los vacios/usados del servicio.
 - **Sistema de dosis unitaria (farmacia):** medicacion dispensada de forma individualizada por paciente y toma.
+
+#### Sistemas de reposicion: comparativa rapida
+
+| Sistema | Quien dispara la reposicion | Idea clave |
+|---------|-----------------------------|-----------|
+| **Punto de pedido** | Al llegar el stock a un nivel calculado | Se pide cuando stock = stock seguridad + (consumo diario x plazo entrega) |
+| **Doble cajon / kanban** | Al vaciarse el primer cajon | Senal VISUAL; se sigue consumiendo del 2.o cajon (seguridad) |
+| **Niveles PAR / pacto de consumo** | Periodicamente (el almacen repone hasta el nivel fijado) | Stock pactado fijo por servicio |
+| **Peticion individualizada** | Cuando el servicio lo solicita (vale) | A demanda |
 
 ### 8.4. Frecuencia de distribucion
 
@@ -367,3 +413,39 @@ Segun el **Estatuto de Personal No Sanitario** (Orden de 5 de julio de 1971) y l
 - "El inventario rotativo se caracteriza por..." -> recuento parcial por zonas de forma escalonada.
 - "En sanidad, el sistema de rotacion de stock mas utilizado es..." -> FIFO.
 - "El punto de pedido se calcula..." -> Stock seguridad + (Consumo medio diario x Plazo entrega).
+
+---
+
+## 13. PREGUNTAS TRAMPA
+
+Errores en los que la oposicion suele hacer caer. Lee cada par con atencion.
+
+1. **FIFO no es lo mismo que FEFO.** FIFO = sale el que ENTRO antes. FEFO = sale el que CADUCA antes. Con caducidades el ideal es **FEFO**. Cuidado: muchos enunciados dicen "para productos con caducidad se usa..." esperando FEFO, no FIFO.
+
+2. **LIFO** (ultimo en entrar, primero en salir) **NO se usa con productos caducables** y apenas en sanidad. Si una pregunta sugiere LIFO para medicamentos -> FALSO.
+
+3. **Lo NUEVO va DETRAS/ABAJO**, lo antiguo delante/al alcance. Es facil marcar lo contrario por intuicion. La logica: lo que primero debe salir tiene que estar mas accesible.
+
+4. **Albaran vs Factura vs Vale de pedido:** Albaran = lo emite el PROVEEDOR y acompana la mercancia. Factura = documento de PAGO. Vale de pedido = solicitud INTERNA del servicio al almacen. No los confundas.
+
+5. **Suministro interno vs externo:** Interno = dentro del centro (almacen->planta). Externo = desde el proveedor. El error tipico es asociar "interno" con "dentro del propio servicio" solo: es entre servicios del centro.
+
+6. **El celador NO firma la conformidad del albaran** (lo hace el responsable de almacen), pero SI realiza la descarga y la verificacion fisica de bultos. Distingue verificacion fisica de firma de conformidad.
+
+7. **El celador NO gestiona administrativamente** (no decide compras, cantidades, ni negocia con proveedores, ni valora el stock economicamente). Su papel es FISICO: cargar, descargar, trasladar, ubicar, distribuir.
+
+8. **Carretilla elevadora SI, pero con formacion y autorizacion** especifica. La transpaleta manual no exige esa autorizacion. Cuidado con enunciados absolutos del tipo "el celador nunca puede usar carretilla".
+
+9. **Stock minimo vs stock de seguridad vs punto de pedido:** no son sinonimos. Minimo = umbral de riesgo. Seguridad = colchon para imprevistos. Punto de pedido = nivel que dispara un nuevo pedido (= seguridad + consumo x plazo).
+
+10. **Inventario periodico vs perpetuo/permanente:** Periodico = recuento total en una fecha (anual). Permanente/perpetuo = continuo e informatizado en tiempo real. Rotativo/ciclico = parcial por zonas escalonado. No confundas "periodico" con "perpetuo".
+
+11. **Stock maximo** se puede SUPERAR conceptualmente, pero NO debe (genera sobrecoste y caducidades). La trampa: "el stock nunca puede superar el maximo" -> no debe, no que sea imposible.
+
+12. **Doble cajon / kanban:** la senal de reposicion es **vaciar el PRIMER cajon**, no quedarse sin nada. Mientras se repone se consume del segundo cajon (seguridad). El error es pensar que se pide cuando se acaba TODO.
+
+13. **Cadena de frio: 2-8 grados C** para termolabiles (nevera). No confundir con congelado (-20 grados C) ni con temperatura ambiente del almacen (15-25 grados C).
+
+14. **Clasificacion ABC:** la categoria **A** es POCOS articulos (20%) pero MUCHO valor (80%). La trampa invierte los porcentajes o asocia A con "muchos articulos".
+
+15. **No mezclar limpio y sucio, ni alimentos con productos quimicos/inflamables.** El material sucio/contaminado se almacena separado del limpio. Inflamables en zona especifica, ventilada, separada y senalizada.

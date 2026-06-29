@@ -1,54 +1,56 @@
-# TEMA 5: ACTUACION DEL CELADOR CON PACIENTES FALLECIDOS. MORTUORIO. SANIDAD MORTUORIA
+# TEMA ESPECÍFICO 5: ACTUACIÓN DEL/DE LA CELADOR/A EN RELACIÓN CON LOS PACIENTES FALLECIDOS. ACTUACIÓN EN LAS SALAS DE AUTOPSIAS Y LOS MORTUORIOS
+
+> **AVISO NORMATIVO CLAVE (Galicia):** La sanidad mortuoria en Galicia se rige ACTUALMENTE por el **Decreto 129/2023, de 31 de agosto, de sanidad mortuoria de Galicia** (DOG nº 177, de 18/09/2023), que **DEROGÓ** al anterior **Decreto 151/2014, de 20 de noviembre**. Estudia los datos del 129/2023; el 151/2014 solo se cita para distinguir, porque algún temario antiguo aún lo recoge. **El cambio más importante: el plazo mínimo de inhumación/incineración pasó de 24 horas (151/2014) a 12 horas (129/2023), y la clasificación de cadáveres pasó de 2 a 3 grupos.**
 
 ---
 
 ## 1. ENFERMEDAD TERMINAL
 
-### 1.1 Definicion segun la OMS
+### 1.1 Definición según la OMS
 
 La OMS define la enfermedad terminal como aquella que es:
 
 - **Muy avanzada**
 - **Activa**
 - **Progresiva e incurable**
-- Con **pronostico de vida limitado**
-- Sin posibilidades razonables de respuesta a tratamiento especifico
+- Con **pronóstico de vida limitado**
+- Sin posibilidades razonables de respuesta a tratamiento específico
 
-Se caracteriza por la presencia de numerosos problemas o sintomas intensos, multiples, multifactoriales y cambiantes, que producen un **gran impacto emocional** en el paciente, la familia y el equipo terapeutico.
+Se caracteriza por la presencia de numerosos problemas o síntomas intensos, múltiples, multifactoriales y cambiantes, que producen un **gran impacto emocional** en el paciente, la familia y el equipo terapéutico.
 
-### 1.2 Definicion segun la SECPAL (Sociedad Espanola de Cuidados Paliativos)
+### 1.2 Definición según la SECPAL (Sociedad Española de Cuidados Paliativos)
 
-La SECPAL establece que se considera enfermedad terminal aquella con un **pronostico de vida inferior a 6 meses**.
+La SECPAL establece que se considera enfermedad terminal aquella con un **pronóstico de vida inferior a 6 meses**.
 
-Criterios de la SECPAL para enfermedad terminal:
+Criterios de la SECPAL:
 
 1. Enfermedad avanzada, progresiva e incurable
-2. Falta de posibilidades razonables de respuesta al tratamiento especifico
-3. Presencia de numerosos problemas o sintomas intensos, multiples, multifactoriales y cambiantes
-4. Gran impacto emocional en paciente, familia y equipo terapeutico
-5. **Pronostico de vida inferior a 6 meses**
+2. Falta de posibilidades razonables de respuesta al tratamiento específico
+3. Presencia de numerosos problemas o síntomas intensos, múltiples, multifactoriales y cambiantes
+4. Gran impacto emocional en paciente, familia y equipo terapéutico
+5. **Pronóstico de vida inferior a 6 meses**
 
 ### 1.3 Cuidados Paliativos / Cuidados de Confort
 
-Los cuidados paliativos son los cuidados que se proporcionan cuando la enfermedad **no responde a tratamiento curativo**. Su objetivo NO es curar sino:
+Cuidados que se proporcionan cuando la enfermedad **no responde a tratamiento curativo**. Su objetivo NO es curar sino:
 
-- **Controlar los sintomas** (dolor, nauseas, disnea, ansiedad...)
-- **Calmar el dolor**: tratamiento del dolor como prioridad absoluta
-- **Proporcionar bienestar** y calidad de vida al paciente
-- **Apoyo integral a la familia**: emocional, psicologico y social
-- **Atender las necesidades espirituales** del paciente
+- **Controlar los síntomas** (dolor, náuseas, disnea, ansiedad...)
+- **Calmar el dolor** (prioridad absoluta)
+- **Proporcionar bienestar** y calidad de vida
+- **Apoyo integral a la familia** (emocional, psicológico y social)
+- **Atender las necesidades espirituales**
 - **Ni acelerar ni retrasar la muerte**
 
 Principios fundamentales:
 
-- Afirman la vida y consideran la muerte como un proceso natural
+- Afirman la vida y consideran la muerte como un **proceso natural**
 - No aceleran ni retrasan la muerte
-- Proporcionan alivio del dolor y otros sintomas
-- Integran los aspectos psicologicos y espirituales del cuidado
-- Ofrecen un sistema de apoyo para que el paciente viva tan activamente como sea posible
-- Ofrecen un sistema de apoyo a la familia durante la enfermedad y el duelo
+- Proporcionan alivio del dolor y otros síntomas
+- Integran los aspectos psicológicos y espirituales
+- Ofrecen apoyo para que el paciente viva tan activamente como sea posible
+- Ofrecen apoyo a la familia durante la enfermedad y el **duelo**
 
-**El celador** en cuidados paliativos: colabora en el bienestar del paciente, atiende con especial sensibilidad, facilita intimidad, acompana en traslados y respeta la dignidad del enfermo en todo momento.
+**El/la celador/a en cuidados paliativos:** colabora en el bienestar del paciente, atiende con especial sensibilidad, facilita la intimidad, acompaña en traslados y respeta la dignidad del enfermo en todo momento.
 
 ---
 
@@ -56,682 +58,399 @@ Principios fundamentales:
 
 ### 2.1 Eutanasia
 
-Etimologicamente: del griego **"eu"** (bueno/bien) y **"thanatos"** (muerte) = **buena muerte**.
+Etimológicamente: del griego **"eu"** (bueno/bien) y **"thánatos"** (muerte) = **buena muerte**.
 
 #### 2.1.1 Eutanasia Directa
 
-Accion deliberada encaminada a provocar la muerte del paciente.
-
 **a) Eutanasia Directa ACTIVA:**
-- Se **procura la muerte de forma planificada** mediante una accion positiva
-- Administracion de sustancias letales al paciente
-- Es una accion directa e intencionada para causar la muerte
-- Ejemplo: inyeccion letal administrada por un medico
+- Se **procura la muerte de forma planificada** mediante una **acción positiva**
+- Administración de sustancias letales al paciente
+- Ejemplo: inyección letal administrada por un médico
 
 **b) Eutanasia Directa PASIVA:**
-- Se provoca la muerte mediante la **suspension o no inicio del tratamiento, alimentacion o hidratacion**
-- Omision de medidas terapeuticas que mantienen con vida al paciente
-- Se deja de hacer algo que mantenia vivo al paciente
-- Ejemplo: retirar la ventilacion mecanica, no iniciar alimentacion artificial
+- Se provoca la muerte mediante la **suspensión o no inicio del tratamiento, alimentación o hidratación**
+- Se **deja de hacer** algo que mantenía vivo al paciente
+- Ejemplo: retirar la ventilación mecánica
 
 #### 2.1.2 Eutanasia INDIRECTA
 
-- Administracion de **medicamentos para paliar el dolor** que, como efecto secundario no deseado, **aceleran o causan la muerte**
-- La intencion primaria es aliviar el sufrimiento, NO matar
-- La muerte es una consecuencia no buscada del tratamiento paliativo
-- Ejemplo: dosis elevadas de morfina para controlar dolor que deprimen el centro respiratorio
+- Administración de **medicamentos para paliar el dolor** que, como **efecto secundario no deseado**, aceleran o causan la muerte
+- La intención primaria es aliviar el sufrimiento, NO matar
 - Se ampara en el **principio del doble efecto**
+- Ejemplo: dosis elevadas de morfina que deprimen el centro respiratorio
 
 ### 2.2 Otros Conceptos Relacionados
 
-#### DISTANASIA (Encarnizamiento terapeutico)
-- Muerte en **malas condiciones**, con sufrimiento
-- **Sin calidad de vida**, prolongando artificialmente la vida
-- Uso desproporcionado de medios tecnicos para alargar la vida
-- Tambien llamada **obstinacion terapeutica** o **ensanamiento terapeutico**
-- Se prolonga la agonia sin beneficio real para el paciente
-
-#### ORTOTANASIA
-- Muerte **correcta y digna**
-- Respeta el **proceso natural** de la muerte
-- Se permite morir dignamente sin intervenciones desproporcionadas
-- Ni se acelera ni se retrasa la muerte
-- Se aplican los cuidados paliativos necesarios
-- Es la postura defendida por la mayoria de bioeticistas
-
-#### CACOTANASIA
-- Muerte **sin asistencia medica**
-- Del griego "kakos" (malo) + "thanatos" (muerte) = mala muerte
-- El paciente muere sin atencion sanitaria adecuada
-
-#### ADISTANASIA
-- Muerte **sin emplear medios extraordinarios** o desproporcionados
-- Se suspenden los medios extraordinarios de mantenimiento de la vida
-- Se mantienen solo las medidas ordinarias de confort
-
-#### SUICIDIO ASISTIDO
-- El paciente se **autoadministra** la sustancia letal
-- El profesional sanitario solo **proporciona los medios** necesarios
-- La diferencia con la eutanasia activa es que en esta el medico administra; en el suicidio asistido, el paciente se lo administra a si mismo
+| Concepto | Significado |
+|----------|-------------|
+| **DISTANASIA** | **Encarnizamiento / obstinación terapéutica.** Prolongar artificialmente la vida con sufrimiento y **sin calidad de vida** |
+| **ORTOTANASIA** | Muerte **correcta y digna**, respeta el proceso natural. Ni acelera ni retrasa. La postura ética mayoritaria |
+| **CACOTANASIA** | Muerte **SIN asistencia médica** ("kakos" = malo) |
+| **ADISTANASIA** | Muerte **SIN emplear medios extraordinarios** (se suspenden los desproporcionados) |
+| **SUICIDIO ASISTIDO** | El paciente se **autoadministra** la sustancia letal; el profesional solo **proporciona los medios** |
 
 ### 2.3 Testamento Vital / Instrucciones Previas / Voluntades Anticipadas
 
-**Documento de instrucciones previas** (tambien llamado testamento vital o documento de voluntades anticipadas):
+Documento por el que una persona mayor de edad, capaz y libre, manifiesta **anticipadamente** su voluntad sobre los cuidados y el tratamiento de su salud, para cuando **no pueda expresarla personalmente**. Puede designar un **representante**.
 
-- Documento mediante el cual una persona mayor de edad, capaz y libre, manifiesta anticipadamente su voluntad sobre los cuidados y tratamiento de su salud
-- Se aplica cuando el paciente **no sea capaz de expresar su voluntad personalmente**
-- Regula que tratamientos desea o rechaza recibir
-- Puede designar un **representante** que sirva de interlocutor con el equipo sanitario
+Regulación:
+- **Ley 41/2002, de 14 de noviembre** (autonomía del paciente, art. 11)
+- **Real Decreto 124/2007**: Registro Nacional de Instrucciones Previas
+- En Galicia: **Ley 3/2001** reguladora del consentimiento informado y de la historia clínica (modificada por la Ley 3/2005), que regula las voluntades anticipadas y su registro autonómico
 
-Contenido posible:
-- Aceptacion o rechazo de determinados tratamientos
-- Decision sobre donacion de organos
-- Destino del cuerpo tras el fallecimiento
-- Designacion de representante
+### 2.4 Ley Orgánica 3/2021, de 24 de marzo, de Regulación de la Eutanasia (LORE)
 
-Regulacion:
-- **Ley 41/2002, de 14 de noviembre**, basica reguladora de la autonomia del paciente (articulo 11)
-- Cada Comunidad Autonoma tiene su propia regulacion complementaria
-- Existe un **Registro Nacional de Instrucciones Previas** (Real Decreto 124/2007)
+- Regula el **derecho a solicitar y recibir ayuda para morir** en España
+- Entrada en vigor: **25 de junio de 2021**
 
-### 2.4 Ley Organica 3/2021, de 24 de marzo, de Regulacion de la Eutanasia (LORE)
-
-Aspectos clave:
-
-- Regula el **derecho a solicitar y recibir ayuda para morir** en Espana
-- Entrada en vigor: **25 de junio de 2021** (3 meses tras publicacion en BOE)
-- Despenaliza la eutanasia y el suicidio asistido en determinados supuestos
-
-**Requisitos para solicitar la prestacion de ayuda para morir:**
-
-1. Tener **nacionalidad espanola**, residencia legal o certificado de empadronamiento que acredite permanencia superior a **12 meses**
+**Requisitos:**
+1. Nacionalidad española, residencia legal o empadronamiento que acredite permanencia > **12 meses**
 2. Ser **mayor de edad** y capaz
-3. Disponer por escrito de la **informacion** sobre su proceso, alternativas y posibilidades de actuacion, incluido el acceso a cuidados paliativos
-4. Haber formulado **2 solicitudes de manera voluntaria y por escrito** (o por otro medio que permita dejar constancia), con una separacion de al menos **15 dias naturales** entre ambas
-5. Sufrir una **enfermedad grave e incurable** o un **padecimiento grave, cronico e imposibilitante** certificado por el medico responsable
-6. Prestar **consentimiento informado** previamente a recibir la prestacion
+3. Disponer por escrito de la **información** sobre proceso y alternativas (incluidos cuidados paliativos)
+4. **2 solicitudes** voluntarias y por escrito, separadas al menos **15 días naturales**
+5. Sufrir **enfermedad grave e incurable** o **padecimiento grave, crónico e imposibilitante**
+6. Prestar **consentimiento informado**
 
-**Procedimiento:**
-- El medico responsable realiza un **proceso deliberativo** con el paciente
-- Se requiere la consulta a un **medico consultor** (independiente)
-- Intervencion de la **Comision de Garantia y Evaluacion** de cada Comunidad Autonoma
-- La prestacion puede realizarse mediante:
-  - **Administracion directa** por el profesional sanitario (eutanasia)
-  - **Prescripcion o suministro** de sustancia para autoadministracion (suicidio asistido)
-
-- Los profesionales sanitarios tienen **derecho a la objecion de conciencia** (debe manifestarse anticipadamente y por escrito)
+Procedimiento: médico responsable + **médico consultor** independiente + **Comisión de Garantía y Evaluación** de cada CCAA. Los profesionales tienen derecho a la **objeción de conciencia** (por escrito y anticipada).
 
 ---
 
 ## 3. SIGNOS DE MUERTE
 
-### 3.1 Signos Inmediatos de Muerte
+### 3.1 Signos Inmediatos (aparecen en el momento del fallecimiento)
 
-Aparecen en el **momento del fallecimiento** o inmediatamente despues:
-
-| Signo | Descripcion |
+| Signo | Descripción |
 |-------|-------------|
-| **Perdida de consciencia** | El paciente no responde a ningun estimulo verbal, tactil o doloroso |
-| **Ausencia de movimiento** | Inmovilidad total, ausencia de reflejos, atonia muscular |
-| **Parada cardiorrespiratoria** | Cese de latido cardiaco (asistolia) y cese de respiracion (apnea) |
-| **Midriasis bilateral** | Pupilas dilatadas y fijas, sin reaccion a la luz |
-| **Relajacion de esfinteres** | Puede producirse liberacion de orina y heces |
-| **Palidez cadaverica** | La piel adquiere un color palido cereo |
+| **Pérdida de consciencia** | No responde a estímulos verbales, táctiles ni dolorosos |
+| **Ausencia de movimiento** | Inmovilidad total, atonía muscular, arreflexia |
+| **Parada cardiorrespiratoria** | Asistolia (cese del latido) + apnea (cese de la respiración) |
+| **Midriasis bilateral** | Pupilas dilatadas y fijas, sin reacción a la luz |
+| **Relajación de esfínteres** | Liberación de orina y heces |
+| **Palidez cadavérica** | Piel pálida cérea |
 
-### 3.2 Signos Tardios de Muerte (Fenomenos Cadavericos)
+### 3.2 Signos Tardíos (Fenómenos Cadavéricos)
 
-Aparecen de forma **progresiva** tras el fallecimiento:
+#### a) RIGIDEZ CADAVÉRICA (Rigor Mortis)
+- **Inicio:** **2-4 horas** tras la muerte
+- **Máxima rigidez:** **12-15 horas**
+- **Desaparición:** **24-36 horas** (al comenzar la putrefacción)
+- **Orden (Ley de Nysten):** mandíbula → cuello → miembros superiores → tronco → miembros inferiores
+- Causa: desnaturalización de actina y miosina + falta de ATP
 
-#### a) RIGIDEZ CADAVERICA (Rigor Mortis)
-- **Inicio**: a las **2-4 horas** tras la muerte
-- **Maxima rigidez**: a las **12-15 horas** (algunos textos: 24 horas)
-- **Desaparicion**: a las **24-36 horas** (comienza la putrefaccion)
-- **Orden de aparicion** (Ley de Nysten): mandibula > cuello > miembros superiores > tronco > miembros inferiores
-- Causada por la **desnaturalizacion de las proteinas musculares** (actina y miosina) y la falta de ATP
+#### b) LIVIDECES CADAVÉRICAS (Livor Mortis)
+- Manchas **violáceas/rojo oscuro** en zonas declives (por depósito de la sangre por gravedad)
+- **Aparecen:** **2-4 horas** | **Se fijan:** **12-15 horas**
+- Indican si el cadáver ha sido movido
 
-#### b) LIVIDECES CADAVERICAS (Livor Mortis)
-- Manchas de color **violaceo/rojo oscuro** en las zonas declives del cuerpo
-- Se producen por el deposito de la sangre por gravedad en las partes mas bajas
-- **Aparecen**: a las **2-4 horas** tras la muerte
-- **Se fijan** (no desaparecen con presion): a las **12-15 horas**
-- Permiten determinar si el cadaver ha sido movido de posicion
+#### c) ENFRIAMIENTO CADAVÉRICO (Algor Mortis)
+- Descenso de la temperatura ≈ **1 ºC/hora** hasta igualar la temperatura ambiente
 
-#### c) ENFRIAMIENTO CADAVERICO (Algor Mortis)
-- **Descenso progresivo** de la temperatura corporal
-- El cuerpo pierde calor a razon de aproximadamente **1 grado C por hora** (depende de condiciones ambientales)
-- Hasta alcanzar la **temperatura ambiente**
-- La temperatura rectal se utiliza para estimar la hora de la muerte
+#### d) DESHIDRATACIÓN CADAVÉRICA
+- **Opacidad corneal** (mancha de Sommer-Larcher), desecación de mucosas, apergaminamiento de la piel, hundimiento ocular
 
-#### d) DESHIDRATACION CADAVERICA
-- Perdida de liquidos corporales por evaporacion
-- Signos visibles:
-  - **Opacidad corneal** (mancha negra esclerotical o signo de Sommer-Larcher)
-  - **Desecacion** de mucosas (labios, lengua)
-  - **Apergaminamiento** de la piel
-  - Hundimiento de globos oculares
+#### e) PUTREFACCIÓN
+- **Mancha verde abdominal** en fosa ilíaca derecha: **24-36 horas**; después distensión gaseosa y licuefacción
 
-#### e) PUTREFACCION
-- Descomposicion del cadaver por accion de bacterias
-- **Mancha verde abdominal** en fosa iliaca derecha: a las **24-36 horas**
-- Progresa con distension gaseosa, licuefaccion...
+> **MUERTE CIERTA / SIGNOS POSITIVOS DE MUERTE:** los fenómenos cadavéricos (rigidez, livideces, putrefacción) son los **signos seguros de muerte real**. La certificación, no obstante, **siempre la hace el médico**.
 
 ---
 
-## 4. ACTUACION DEL CELADOR CON PACIENTES FALLECIDOS
+## 4. ACTUACIÓN DEL/DE LA CELADOR/A CON PACIENTES FALLECIDOS
 
 ### 4.1 Base Legal: Estatuto de Personal No Sanitario (Orden de 5 de julio de 1971)
 
-**FUNCION 19:**
-> "Ayudaran, asimismo, a las enfermeras y ayudantes de planta al movimiento y traslado de enfermos encamados que requieran un trato especial en razon de sus dolencias para ser llevados a las salas de exploracion y curas... **Ayudaran igualmente en la practica de autopsias y en el amortajamiento** de enfermos fallecidos, asi como al **traslado de cadaveres al mortuorio**."
+**FUNCIÓN 19:**
+> "...Ayudarán igualmente a las Enfermeras y Ayudantes de planta al movimiento y traslado de los enfermos... **Ayudarán, asimismo, a las enfermeras o personas encargadas a amortajar a los enfermos fallecidos, corriendo a su cargo el traslado de los cadáveres al mortuorio.**"
 
-**FUNCION 20:**
-> "Tendran a su cargo el traslado de las comunicaciones verbales, documentos, correspondencia u objetos que les sean confiados por sus superiores, asi como **auxiliar en aquellas labores propias de los celadores en las autopsias, quirofanos, paritorios y laboratorios**, sin utilizar instrumental alguno sobre el cadaver."
+**FUNCIÓN 14 (autopsias):**
+> "...auxiliarán en las salas de autopsias y mortuorios... **sin que en ningún caso puedan utilizar instrumental alguno sobre el cadáver.**"
 
-### 4.2 Procedimiento tras el Fallecimiento del Paciente
+**Punto clave:** el celador **AYUDA** (no realiza solo) el amortajamiento, y **TRASLADA** el cadáver al mortuorio (función propia y exclusiva del celador, no compartida).
 
-#### Fase 1: Certificacion de la Muerte
-- La muerte debe ser **certificada por el medico**
-- El medico extiende el **certificado de defuncion**
-- El celador **NUNCA certifica la muerte** ni determina el fallecimiento
+### 4.2 Procedimiento tras el Fallecimiento
 
-#### Fase 2: Comunicacion y Documentacion
-- Se comunica a la familia
-- Se comunica al servicio de admision
-- Se registra en la historia clinica
-- Se notifica al servicio de mortuorio
+#### Fase 1 — Certificación de la muerte
+- La muerte la **certifica SIEMPRE el médico** (extiende el **certificado médico de defunción**).
+- El celador **NUNCA** certifica ni diagnostica la muerte.
 
-#### Fase 3: Amortajamiento
+#### Fase 2 — Comunicación
+- El celador **NUNCA informa del fallecimiento a la familia.** Esa función corresponde al personal facultativo / jefe de personal subalterno. El celador **NO da información clínica** de ningún tipo.
+- Se comunica al servicio de admisión, se registra en la historia clínica y se notifica al mortuorio.
 
-El amortajamiento es la **preparacion y acondicionamiento del cadaver** para su traslado al mortuorio. El celador **ayuda** al personal de enfermeria (NO lo realiza solo).
+#### Fase 3 — Amortajamiento (el celador AYUDA a enfermería)
 
-**Procedimiento de amortajamiento (orden):**
+Preparación y acondicionamiento del cadáver. Orden habitual:
 
-1. **Colocar el cadaver en decubito supino** (boca arriba), con los brazos a los lados o cruzados sobre el pecho
-2. **Cerrar los ojos** del fallecido (presionando suavemente los parpados)
-3. **Cerrar la boca** (puede colocarse un vendaje mentonero o una toalla enrollada bajo el menton)
-4. **Retirar sondas, vias, drenajes y cateteres** (salvo indicacion medica o judicial en contrario)
-5. **Taponar los orificios naturales** (nariz, boca, oidos, recto, vagina) con algodon o gasa para evitar la salida de fluidos corporales
-6. **Colocar las protesis dentales** si las tenia (mejora la apariencia y facilita la identificacion)
-7. **Retirar joyas y objetos personales**: se entregan a la familia o se inventarian y custodian
-8. **Lavar el cadaver** si es necesario (higiene basica)
-9. **Atar manos y pies**: se sujetan con vendas o tiras
-   - Manos: atadas sobre el abdomen o cruzadas sobre el pecho
-   - Pies: atados juntos a la altura de los tobillos
-10. **Colocar el sudario** (sabana o mortaja) envolviendo el cuerpo
-11. **Identificar al cadaver**: colocar una etiqueta con los datos del fallecido (nombre, apellidos, numero de historia clinica, fecha y hora del fallecimiento, planta y cama)
-    - La etiqueta se coloca generalmente en el **pie o muneca** y otra en el **exterior del sudario**
+1. **Decúbito supino**, brazos a los lados o cruzados sobre el pecho
+2. **Cerrar los ojos** (presionando suavemente los párpados)
+3. **Cerrar la boca** (vendaje mentonero o toalla enrollada bajo el mentón)
+4. **Retirar sondas, vías, drenajes y catéteres** (SALVO indicación médica o judicial en contrario)
+5. **Taponar los orificios naturales** (boca, nariz, oídos, recto, vagina) con algodón/gasa para evitar la salida de fluidos
+6. **Colocar las prótesis dentales** (SÍ se colocan: mejora la apariencia y la identificación)
+7. **Retirar joyas y objetos personales** → se inventarían y entregan a la familia con recibo
+8. **Lavar el cadáver** si es necesario (higiene básica)
+9. **Sujetar manos y pies** con vendas (manos sobre el abdomen; pies juntos por los tobillos)
+10. **Colocar el sudario / mortaja** envolviendo el cuerpo
+11. **IDENTIFICAR el cadáver**: etiqueta/pulsera con nombre, apellidos, nº de historia clínica, fecha y hora de fallecimiento, unidad y cama. Se coloca en la **muñeca** (o tobillo) y otra en el **exterior del sudario**.
 
-**IMPORTANTE para examen:**
-- Se colocan las **protesis dentales** (SI se colocan)
-- Se **retiran** sondas y vias (salvo orden medica/judicial)
-- Se **taponan** todos los orificios naturales
-- Se **atan** manos y pies
-- Se **identifica** el cadaver con etiqueta
+#### Fase 4 — Permanencia en planta
+- El cadáver permanece en la unidad un **mínimo orientativo de 2 horas** antes del traslado (permite confirmar la muerte por el inicio del rigor mortis).
+- Se mantiene la **intimidad** (biombo/cortina) y se facilita la despedida de los familiares.
 
-#### Fase 4: Permanencia en Planta
+#### Fase 5 — Traslado al mortuorio (FUNCIÓN PROPIA DEL CELADOR)
 
-- El cadaver debe permanecer en la planta un **minimo de 2 horas** antes de ser trasladado al mortuorio
-- Esta espera permite la aparicion del **rigor mortis** (confirmacion de muerte)
-- Durante este tiempo se mantiene la **intimidad** del paciente fallecido
-- Se coloca un biombo o se cierra la cortina para separar de otros pacientes
-- Se facilita la despedida de los familiares si lo desean
-
-#### Fase 5: Traslado al Mortuorio
-
-**Normas de traslado:**
-
-- Lo realiza el **celador** (funcion propia)
-- Se realiza con **maxima discrecion y respeto**
-- Se utiliza una **camilla especial para cadaveres** (cerrada) o la cama tapada con sabana
-- Se usa el **ascensor de servicio** (NUNCA el de publico)
-- Se evitan las **zonas de paso publico** y las horas de mayor afluencia
-- Se evita **coincidir con otros pacientes** y familiares
-- El cadaver va cubierto y **siempre identificado**
-- Se acompana de la **documentacion**: hoja de exitus, historia clinica, certificado de defuncion
-- En el mortuorio se registra la entrada del cadaver en el **libro de registro del mortuorio**
-
-**Objetos personales del fallecido:**
-- Se inventarian y recogen
-- Se entregan a la familia previa firma de recibo
-- Si no hay familia presente, se custodian y se entregan posteriormente
+- Lo realiza el **celador** del servicio donde se produjo el fallecimiento, **acompañado de otro celador** (habitualmente dos).
+- Con **máxima discreción y respeto**, en **camilla cerrada para cadáveres** o cama tapada.
+- Por el **ascensor de servicio** (NUNCA el de público) y por **circuitos/pasillos NO concurridos**, evitando coincidir con pacientes y visitantes y las horas de mayor afluencia.
+- **EN NINGÚN CASO acompañado por los familiares.**
+- El cadáver va **cubierto y siempre identificado**, con la documentación (hoja de éxitus/historia).
+- En el mortuorio se registra la entrada en el **libro de registro**.
 
 ---
 
 ## 5. EL MORTUORIO / TANATORIO HOSPITALARIO
 
-### 5.1 Definicion
+### 5.1 Definición
+Dependencia hospitalaria destinada a la **conservación, custodia e identificación de cadáveres** hasta su retirada por los servicios funerarios o para la realización de autopsias.
 
-El mortuorio es la dependencia hospitalaria destinada a la **conservacion, custodia e identificacion de los cadaveres** hasta su retirada por los servicios funerarios o para la realizacion de autopsias.
+### 5.2 Dependencias
 
-### 5.2 Dependencias del Mortuorio
+| Dependencia | Características |
+|-------------|----------------|
+| **Sala de autopsias / necropsias** | Mesa de autopsias de **acero inoxidable** con drenaje; instrumental; buena iluminación; ventilación y extracción de olores; agua fría/caliente; suelo y paredes **impermeables y lavables** |
+| **Cámaras frigoríficas** | Conservación a baja temperatura. En el ámbito sanitario gallego, refrigeración **entre -2 ºC y 5 ºC** (Decreto 129/2023). Cierre/apertura interior por seguridad |
+| **Sala de duelos / despedida** | Espacio de **intimidad y recogimiento** para los familiares. Puede tener espacio multiconfesional |
+| **Otras** | Sala de espera, despacho administrativo, almacén, vestuarios/aseos, zona de recepción y entrega |
 
-#### a) Sala de Autopsias / Sala de Necropsias
-- Destinada a la realizacion de autopsias clinicas y judiciales
-- Debe disponer de:
-  - **Mesa de autopsias** (acero inoxidable, con sistema de drenaje)
-  - **Instrumental** para la realizacion de autopsias
-  - Buena **iluminacion** (natural y artificial)
-  - Sistema de **ventilacion y extraccion de olores**
-  - Toma de agua corriente fria y caliente
-  - Suelo y paredes de materiales **impermeables y lavables**
+### 5.3 Funciones del/de la celador/a en el mortuorio
 
-#### b) Camaras Frigorificas
-- Para la **conservacion de cadaveres** a baja temperatura
-- **Temperatura: entre 2 y 4 grados C** (temperatura de refrigeracion)
-- Retrasan los procesos de descomposicion
-- Cada camara tiene capacidad individual para un cadaver
-- Disponen de sistema de cierre y apertura interior (por seguridad)
-
-#### c) Sala de Duelos / Sala de Despedida
-- Espacio destinado a los **familiares** para la despedida del fallecido
-- Debe ofrecer condiciones de intimidad y recogimiento
-- Mobiliario sobrio y adecuado (sillas, bancos)
-- Puede disponer de capilla o espacio multiconfesional
-
-#### d) Otras dependencias
-- **Sala de espera** para familiares
-- **Despacho administrativo** (registro, documentacion)
-- **Almacen** de material funerario
-- **Vestuarios y aseos** para personal
-- **Zona de recepcion y entrega** de cadaveres
-
-### 5.3 Funciones del Celador en el Mortuorio
-
-1. **Recepcion de cadaveres**: comprobar documentacion e identificacion
-2. **Registro de entrada y salida** en el libro del mortuorio
-3. **Introduccion en camaras frigorificas**: colocar correctamente el cadaver
-4. **Custodia**: vigilar el acceso al mortuorio
-5. **Control de temperatura** de las camaras frigorificas
-6. **Entrega del cadaver**: a familiares o servicios funerarios, verificando documentacion (autorizacion de enterramiento)
-7. **Auxiliar en autopsias**: preparar la sala, ayudar al patologo sin usar instrumental sobre el cadaver, limpiar la mesa y sala de autopsias tras la autopsia
-8. **Mantenimiento del orden y limpieza** de las instalaciones del mortuorio
-9. **Atencion a familiares**: orientar e informar sobre tramites (sin dar informacion clinica)
-10. **Control de acceso**: regular la entrada de personas al recinto
+1. **Recepción** de cadáveres: comprobar documentación e identificación
+2. **Registro** de entrada y salida (libro del mortuorio)
+3. **Introducción en cámaras frigoríficas**
+4. **Custodia y control de acceso** al recinto
+5. **Entrega** del cadáver a familiares o funerarias, verificando la documentación (licencia de enterramiento)
+6. **Auxiliar en autopsias** (sin usar instrumental sobre el cadáver) y limpiar la mesa y la sala
+7. **Orden, limpieza y mantenimiento** de las instalaciones
+8. **Atención a familiares** orientando sobre trámites administrativos (**nunca información clínica**)
 
 ---
 
 ## 6. AUTOPSIAS / NECROPSIAS
 
-### 6.1 Definicion
+### 6.1 Definición
+Examen **postmortem** del cadáver con apertura de cavidades y estudio de órganos y tejidos. *Autopsia* (auto = uno mismo, opsis = ver) = *necropsia* (nekros = muerto).
 
-La autopsia (del griego "auto" = uno mismo, "opsis" = ver) o necropsia (del griego "nekros" = muerto, "opsis" = ver) es el **examen postmortem** del cadaver que incluye la apertura de cavidades corporales y el estudio de organos y tejidos.
+### 6.2 Tipos
 
-### 6.2 Tipos de Autopsias
+#### a) Autopsia CLÍNICA (anatomopatológica)
+- **Finalidad:** determinar la causa de la muerte, confirmar diagnósticos, docencia e investigación
+- **Quién la solicita:** el médico que atendió al paciente
+- **Autorización:** **SÍ** necesita la de la familia (puede negarse)
+- **Quién la realiza:** el **médico anatomopatólogo**
+- **Regulación:** Ley 29/1980, de 21 de junio, de autopsias clínicas; RD 2230/1982
 
-#### a) Autopsia CLINICA (Anatomopatologica)
+#### b) Autopsia JUDICIAL / Médico-Legal
+- **Finalidad:** muertes violentas, súbitas, sospechosas o sin asistencia médica (indicios de criminalidad)
+- **Quién la ordena:** el **Juez de Instrucción**
+- **Autorización:** **NO** necesita la de la familia (es obligatoria)
+- **Quién la realiza:** el **médico forense**
+- **Dónde:** Instituto de Medicina Legal (IMELGA en Galicia) o donde disponga el juez
 
-- **Finalidad**: determinar la **causa exacta de la muerte**, confirmar o descartar diagnosticos, estudiar la enfermedad, fines docentes e investigadores
-- **Quien la solicita**: el medico que atendio al paciente
-- **Autorizacion**: **SI necesita autorizacion de la familia** (consentimiento de los familiares mas proximos)
-- **Quien la realiza**: el medico **anatomopatologo**
-- **Donde**: en la sala de autopsias del hospital
-- **Regulacion**: Ley 29/1980, de 21 de junio, de autopsias clinicas; Real Decreto 2230/1982
-- La familia puede **negarse** a autorizar la autopsia clinica
+### 6.3 Diferencias Clave
 
-#### b) Autopsia JUDICIAL / Medico-Legal
+| Aspecto | CLÍNICA | JUDICIAL |
+|---------|---------|----------|
+| **Ordena** | Médico | **Juez de Instrucción** |
+| **Autorización familiar** | **SÍ** | **NO** |
+| **Realiza** | Anatomopatólogo | **Médico forense** |
+| **Obligatoriedad** | Voluntaria (familia puede negarse) | Obligatoria |
 
-- **Finalidad**: determinar la causa de la muerte cuando existen **indicios de criminalidad**, muerte violenta o sospechosa
-- **Quien la ordena**: el **Juez de Instruccion** (autoridad judicial)
-- **Autorizacion**: **NO necesita autorizacion de la familia** (es obligatoria por orden judicial)
-- **Quien la realiza**: el **medico forense** (bajo la autoridad del juez)
-- **Donde**: en el **Instituto de Medicina Legal** o en el hospital si asi lo dispone el juez
-- **Casos en que procede** (muerte sospechosa):
-  - Muerte violenta (homicidio, suicidio, accidente)
-  - Muerte subita e inesperada
-  - Muerte sin asistencia medica
-  - Muerte en custodia policial o en prision
-  - Muerte relacionada con accidente laboral
-  - Cadaveres no identificados
-  - Cualquier caso en que el juez lo considere necesario
+### 6.4 Papel del/de la celador/a en las autopsias
 
-### 6.3 Diferencias Clave entre Autopsia Clinica y Judicial
+**PUEDE:** preparar la sala; **trasladar** el cadáver desde la cámara a la mesa; **auxiliar** al patólogo/forense; **colocar y mover** el cuerpo según indicaciones; **limpiar** mesa, sala e instrumental; **etiquetar** muestras según le indiquen; devolver el cadáver a la cámara.
 
-| Aspecto | Autopsia CLINICA | Autopsia JUDICIAL |
-|---------|-----------------|-------------------|
-| **Finalidad** | Diagnostica/Cientifica | Legal/Investigacion criminal |
-| **Quien ordena** | Medico | Juez de Instruccion |
-| **Autorizacion familiar** | **SI necesaria** | **NO necesaria** |
-| **Quien realiza** | Anatomopatologo | Medico Forense |
-| **Obligatoriedad** | Voluntaria (familia puede negarse) | Obligatoria (orden judicial) |
-
-### 6.4 Papel del Celador en las Autopsias
-
-Segun la **Funcion 19 y 20** del Estatuto:
-
-**El celador PUEDE hacer:**
-- Preparar y acondicionar la **sala de autopsias** antes del procedimiento
-- **Trasladar** el cadaver desde la camara frigorifica a la mesa de autopsias
-- **Auxiliar** al medico (patologo o forense) en lo que necesite
-- **Colocar** y **mover** el cadaver segun indicaciones del medico
-- **Limpiar la mesa de autopsias** y la sala tras el procedimiento
-- **Recoger y limpiar** el instrumental utilizado
-- **Etiquetar** muestras segun indicaciones del medico
-- Devolver el cadaver a la camara frigorifica
-
-**El celador NO PUEDE hacer:**
-- **NUNCA utilizar instrumental alguno sobre el cadaver**
-- NUNCA realizar cortes, incisiones ni manipulaciones con instrumental
-- NUNCA determinar la causa de la muerte
-- NUNCA emitir informes ni opiniones sobre los hallazgos
+**NO PUEDE (NUNCA):** **utilizar instrumental alguno sobre el cadáver**; realizar cortes o incisiones; **realizar la autopsia**; determinar la causa de la muerte; emitir informes u opiniones sobre los hallazgos.
 
 ---
 
-## 7. DECRETO 151/2014, DE 20 DE NOVIEMBRE, DE SANIDAD MORTUORIA DE GALICIA
+## 7. DECRETO 129/2023, DE 31 DE AGOSTO, DE SANIDAD MORTUORIA DE GALICIA *(NORMATIVA VIGENTE)*
 
-### 7.1 Objeto y Ambito
+> Derogó al **Decreto 151/2014, de 20 de noviembre**. Incorpora la **Guía de consenso sobre sanidad mortuoria** y la **nueva clasificación de cadáveres en 3 grupos** según riesgo sanitario.
 
-- **Objeto**: regular las condiciones sanitarias de las **practicas sobre cadaveres y restos cadavericos**, asi como de las **instalaciones y servicios funerarios** en el ambito de la Comunidad Autonoma de Galicia
-- **Ambito**: todo el territorio de la Comunidad Autonoma de Galicia
+### 7.1 Objeto y ámbito
+Regula las condiciones sanitarias de las **prácticas sobre cadáveres y restos cadavéricos** y de las **instalaciones y servicios funerarios** en la Comunidad Autónoma de Galicia.
 
-### 7.2 Definiciones Clave
+### 7.2 Definiciones clave
 
-| Termino | Definicion |
+| Término | Definición |
 |---------|-----------|
-| **Cadaver** | Cuerpo humano durante los **5 primeros anos** siguientes a la muerte |
-| **Restos cadavericos** | Lo que queda del cuerpo humano **transcurridos 5 anos** desde la muerte |
-| **Restos humanos** | Partes del cuerpo humano de entidad suficiente procedentes de abortos, intervenciones quirurgicas, mutilaciones, asi como los que no tuvieran la consideracion de cadaver ni de restos cadavericos |
-| **Embalsamamiento** | Tecnica de conservacion del cadaver mediante la introduccion de sustancias quimicas (formaldehido) en el sistema vascular |
-| **Tanatopraxia** | Conjunto de practicas de caracter higienico-sanitario realizadas sobre el cadaver para su **conservacion temporal**, presentacion y reconstruccion |
-| **Tanatoestética** | Conjunto de tecnicas cosmeticas aplicadas al cadaver para mejorar su **aspecto estetico** exterior |
+| **Cadáver** | Cuerpo humano durante los **5 primeros años** siguientes a la muerte |
+| **Restos cadavéricos** | Lo que queda **transcurridos 5 años**, acabada la destrucción de tejidos blandos sin completar la esqueletización |
+| **Refrigeración** | Descenso de temperatura **entre -2 ºC y 5 ºC** |
+| **Congelación** | Temperatura de **al menos -18 ºC** |
+| **Conservación transitoria** | Métodos que **retrasan la putrefacción** mediante químicos o reducción térmica, durante un tiempo limitado |
+| **Embalsamamiento / conservación definitiva** | Método **químico** que **impide** la aparición de los fenómenos de putrefacción |
+| **Tanatopraxia** | Prácticas higiénico-sanitarias de conservación, presentación y reconstrucción del cadáver |
+| **Tanatoestética** | Técnicas **cosméticas** para mejorar el aspecto exterior |
+| **Tanatoplastia** | Técnicas de **restauración/reconstrucción** de cadáveres dañados |
 
-**REGLA MNEMOTECNICA para examen:**
-- **Cadaver = 5 anos** (los 5 primeros anos tras la muerte)
-- **Restos cadavericos = despues de 5 anos**
+> **Mnemotecnia:** **Cadáver = 5 años** → después, **restos cadavéricos**.
 
-### 7.3 Certificado Medico de Defuncion
+### 7.3 CLASIFICACIÓN SANITARIA DE LOS CADÁVERES (3 grupos — art. 4)
 
-- Es obligatorio para todo fallecimiento
-- Lo emite el **medico que certifica la muerte**
-- Es requisito imprescindible para la **inscripcion en el Registro Civil**
-- Sin el certificado de defuncion no se puede proceder a ningun destino del cadaver (inhumacion, cremacion, etc.)
-- Debe contener: datos del fallecido, fecha/hora/lugar de defuncion, causa de muerte
+| Grupo | Riesgo | Contenido |
+|-------|--------|-----------|
+| **GRUPO I** | **Infeccioso** | Cadáveres de personas fallecidas por una **enfermedad infecciosa** del **Anexo I** del decreto (cólera, fiebres hemorrágicas víricas —p. ej. Ébola—, peste, carbunco/ántrax, rabia, y otras transmisibles por agentes patógenos) |
+| **GRUPO II** | **Radiológico** | Cadáveres que presentan **riesgo radiológico** por contener sustancias o productos radiactivos |
+| **GRUPO III** | **Sin riesgo** | Todos los demás cadáveres (sin riesgo infeccioso ni radiológico) |
 
-### 7.4 Destino de los Cadaveres
+> **TRAMPA DE EXAMEN:** el viejo Decreto 151/2014 hablaba de **2 grupos (I y II)**; el **vigente 129/2023 establece 3 grupos (I infeccioso, II radiológico, III sin riesgo)**.
+>
+> Para los **grupos I y II** se adoptan **medidas especiales**: se comunica a la **autoridad sanitaria** y se procede a la **inhumación o incineración tan pronto como sea posible**; se **restringen o prohíben** determinadas prácticas (tanatopraxia/tanatoestética/exposición) y manipulaciones según el riesgo.
 
-Los cadaveres pueden tener los siguientes destinos:
+### 7.4 Clasificación tradicional (Decreto 151/2014, DEROGADO — solo a efectos comparativos)
 
-#### a) INHUMACION (Enterramiento)
-- Deposito del cadaver en **sepultura, nicho o panteon** de un cementerio autorizado
-- Requiere autorizacion administrativa (licencia de enterramiento)
+| Grupo (151/2014) | Contenido |
+|------------------|-----------|
+| **Grupo I** | Cadáveres con **riesgo sanitario** por enfermedad infecto-contagiosa del anexo |
+| **Grupo II** | Cadáveres **sin riesgo** sanitario (el resto) |
 
-#### b) CREMACION (Incineracion)
-- Reduccion del cadaver a **cenizas** mediante calor en un horno crematorio autorizado
-- Requiere autorizacion del Registro Civil y, en su caso, autorizacion judicial
-- Las cenizas se entregan a la familia en una **urna cineraria**
+### 7.5 Prácticas de sanidad mortuoria admitidas
 
-#### c) DONACION
-- Entrega del cadaver a **instituciones docentes o de investigacion** (facultades de medicina)
-- Requiere la voluntad expresa del fallecido (en vida) o autorizacion de los familiares
-- No procede si se ha realizado autopsia judicial
+| Práctica | En qué consiste |
+|----------|-----------------|
+| **Refrigeración** | Mantener el cadáver entre **-2 ºC y 5 ºC** (cámara). Conservación de corta duración |
+| **Conservación transitoria** | Retrasar la putrefacción un tiempo limitado (productos químicos / reducción térmica). Obligatoria en ciertos traslados y demoras |
+| **Congelación** | Al menos **-18 ºC** |
+| **Embalsamamiento (conservación definitiva)** | Método químico que **impide** la putrefacción. Por personal cualificado. Obligatorio para traslados internacionales y de larga duración |
+| **Tanatopraxia** | Higiene, conservación, presentación y reconstrucción |
+| **Tanatoestética** | Cosmética (maquillaje, peinado, vestido) |
+| **Tanatoplastia** | Restauración de cadáveres deteriorados |
 
-### 7.5 Practicas sobre Cadaveres
+### 7.6 PLAZOS de inhumación / incineración (art. 19) — **DATO ESTRELLA**
 
-#### Embalsamamiento
-- Tecnica de **conservacion definitiva** o de larga duracion del cadaver
-- Se realiza mediante la introduccion de **sustancias quimicas** (formaldehido/formol) en el sistema circulatorio
-- Debe ser realizado por **personal cualificado** (medico o titulado en tanatopraxia)
-- Es **obligatorio** cuando:
-  - El cadaver va a ser trasladado a **distancias superiores** a las establecidas sin refrigeracion
-  - Van a transcurrir mas de **48 horas** desde la muerte hasta el enterramiento/cremacion (sin refrigeracion)
-  - Lo disponga la autoridad sanitaria
+| Plazo | Decreto 129/2023 (VIGENTE) | Decreto 151/2014 (derogado) |
+|-------|---------------------------|------------------------------|
+| **MÍNIMO** | **12 horas** desde el fallecimiento | 24 horas |
+| **MÁXIMO** (sin medidas de conservación) | **48 horas** | 48 horas |
 
-#### Tanatopraxia
-- Tecnicas de **conservacion temporal** del cadaver
-- Incluye: drenaje de fluidos, inyeccion de liquidos conservantes, reconstruccion
-- Es menos invasiva que el embalsamamiento
+**Excepciones / matices:**
+- El **mínimo de 12 horas** no rige cuando media **autopsia** u **obtención de órganos para trasplante**, o por **orden de la autoridad sanitaria/judicial**.
+- En cadáveres de **grupo I o II**: inhumación/incineración **tan pronto como sea posible** (no se espera al máximo).
+- Con **refrigeración** (cámara a -2/5 ºC): el cadáver puede conservarse hasta **72 horas** desde el fallecimiento; la inhumación/incineración se hará **antes de 12 horas** tras retirarlo de la cámara.
+- Para demoras o traslados mayores: **conservación transitoria** o **embalsamamiento**.
 
-#### Tanatoestética
-- Tecnicas **cosmeticas** sobre el cadaver
-- Maquillaje, peinado, vestido del cadaver
-- Mejora del aspecto exterior para la exposicion
+### 7.7 Féretros: tipos
 
-### 7.6 Plazos de Enterramiento / Cremacion
+| Tipo | Uso / materiales |
+|------|------------------|
+| **Común / ordinario** | Inhumaciones ordinarias; madera u otros materiales **biodegradables**; resistente |
+| **Especial de traslado** | Traslados de **larga distancia**; **doble caja**: exterior de madera + interior de **zinc/plomo** hermético e impermeable, sellado |
+| **De incineración** | Materiales **combustibles** (madera, cartón especial); sin metales |
+| **De restos** | Para restos cadavéricos en reducciones/traslados |
 
-**PLAZOS FUNDAMENTALES (pregunta habitual de examen):**
+### 7.8 Destino final de los cadáveres (art. 5)
 
-| Plazo | Tiempo |
-|-------|--------|
-| **Plazo MINIMO** para enterramiento/cremacion | **24 horas** desde el fallecimiento |
-| **Plazo MAXIMO** para enterramiento/cremacion | **48 horas** desde el fallecimiento (sin medidas de conservacion) |
+- **INHUMACIÓN** (enterramiento en cementerio autorizado) — requiere licencia de enterramiento.
+- **INCINERACIÓN / CREMACIÓN** (reducción a cenizas; urna cineraria a la familia).
+- **DONACIÓN** a instituciones docentes/investigación (voluntad del fallecido o de los familiares; no si hubo autopsia judicial pendiente).
 
-**Excepciones al plazo minimo de 24 horas:**
-- Cuando exista riesgo para la **salud publica** (epidemias, enfermedades transmisibles)
-- Por **orden de la autoridad sanitaria** en casos justificados
-- Cuando asi lo disponga la **autoridad judicial**
-
-**Excepciones al plazo maximo de 48 horas:**
-- Cuando se apliquen **tecnicas de conservacion** (embalsamamiento, refrigeracion en camaras entre 2-4 grados C)
-- Por **orden judicial** (cadaveres en investigacion)
-- El plazo puede ampliarse si el cadaver esta en **camaras frigorificas** a 2-4 grados C
-
-### 7.7 Feretros: Tipos y Materiales
-
-Los feretros deben cumplir determinadas condiciones segun el destino del cadaver:
-
-#### Feretro comun / ordinario
-- Para inhumaciones en el **mismo municipio** o distancias cortas
-- Materiales: **madera u otros materiales biodegradables**
-- Debe ser **resistente** y hermetico
-
-#### Feretro especial / de traslado
-- Para **traslados a larga distancia** (fuera del municipio, entre comunidades autonomas o internacional)
-- Debe ser de **doble caja**:
-  - **Caja exterior**: madera resistente
-  - **Caja interior**: zinc, plomo u otro material hermetico e impermeable
-- Sellado hermetico para evitar emanaciones y filtraciones
-
-#### Feretro para cremacion
-- Debe ser de materiales **combustibles** (madera, carton especial)
-- No puede contener materiales metalicos que dificulten la combustion
-- Sin elementos contaminantes
-
-### 7.8 Cementerios: Requisitos Tecnico-Sanitarios
-
-Condiciones que deben cumplir los cementerios:
-
-- Estar situados a una **distancia adecuada** de las poblaciones
-- Terreno con buenas condiciones de **drenaje**
-- Disponer de **abastecimiento de agua potable** y red de saneamiento
-- Contar con **deposito de cadaveres** (para custodia temporal)
-- Disponer de **sala de autopsias** o de tanatopraxia
-- Vias de acceso y circulacion interior adecuadas
-- Servicios sanitarios (aseos) para el publico
-- Zona destinada a la **inhumacion de restos procedentes de abortos y restos humanos**
-- Las **sepulturas** deben tener la profundidad establecida reglamentariamente
-- Los **nichos** deben estar construidos con materiales impermeables y sellados hermeticamente
-- Debe llevarse un **registro de enterramientos** (libro registro)
-- **Registro de exhumaciones** actualizado
+> El **certificado médico de defunción** es **imprescindible** para cualquier destino y para la **inscripción en el Registro Civil**.
 
 ### 7.9 Exhumaciones
 
-La exhumacion es la **extraccion de un cadaver o restos cadavericos** de su lugar de enterramiento.
+| Tipo | Plazo | Autorización |
+|------|-------|--------------|
+| **Ordinaria** | Después de **5 años** desde la inhumación | **Administrativa** |
+| **Extraordinaria** | **Antes de 5 años** | **Judicial** (o autoridad sanitaria por riesgo de salud pública) |
 
-#### Exhumaciones ORDINARIAS
-- Se realizan transcurridos **5 anos como minimo** desde la inhumacion
-- Finalidad: **traslado de restos** a otro lugar, reduccion de restos, renovacion de sepultura
-- Requieren autorizacion **administrativa** (del ayuntamiento o autoridad sanitaria)
-- Se realizan cumpliendo condiciones higienico-sanitarias
-
-#### Exhumaciones EXTRAORDINARIAS
-- Se realizan **antes de los 5 anos** desde la inhumacion
-- Requieren **orden judicial** (generalmente por investigacion criminal)
-- Tambien pueden ser autorizadas por la **autoridad sanitaria** en casos de riesgo para la salud publica
-- No hay plazo minimo cuando lo ordena un juez
-
-| Tipo | Plazo | Autorizacion |
-|------|-------|-------------|
-| **Ordinaria** | Despues de **5 anos** | Administrativa |
-| **Extraordinaria** | Antes de **5 anos** | **Judicial** o autoridad sanitaria |
-
-### 7.10 Transporte de Cadaveres
-
-- Debe realizarse en **vehiculos especialmente acondicionados** y autorizados
-- Los vehiculos deben cumplir condiciones higienico-sanitarias
-- **Compartimento** para el feretro separado del conductor
-- Materiales interiores **impermeables y lavables**
-- Sistema de **refrigeracion** para traslados largos
-- Identificacion exterior del vehiculo segun normativa
-
-### 7.11 Inspeccion y Control
-
-- Las **autoridades sanitarias** tienen competencia para la inspeccion de:
-  - Empresas funerarias
-  - Tanatorios y velatorios
-  - Cementerios
-  - Vehiculos de transporte funerario
-  - Hornos crematorios
-- Se verificara el cumplimiento de las condiciones sanitarias establecidas
-- Pueden adoptarse medidas cautelares en caso de riesgo para la salud publica
+### 7.10 Transporte funerario
+Vehículos **autorizados y acondicionados**: compartimento del féretro **separado** del conductor; interior **impermeable, lavable y desinfectable**; **fijación** del féretro; ventilación; **refrigeración** en traslados largos; servicio **24 horas**.
 
 ---
 
-## 8. EMPRESAS FUNERARIAS
+## 8. DUELO, TRATO A LA FAMILIA Y RESPETO A LAS CREENCIAS
 
-### 8.1 Requisitos Generales
-
-Las empresas funerarias deben:
-
-- Disponer de **autorizacion administrativa** para el ejercicio de la actividad
-- Estar inscritas en el **Registro** correspondiente
-- Contar con **personal cualificado** para las distintas funciones
-- Disponer de **instalaciones** adecuadas
-- Tener al menos **un vehiculo funerario** autorizado
-- Cumplir la normativa sanitaria vigente
-- Disponer de servicio de atencion permanente (**24 horas**)
-
-### 8.2 Vehiculos de Transporte Funerario
-
-Requisitos de los vehiculos:
-
-- **Autorizacion sanitaria** de funcionamiento
-- Compartimento del feretro **separado** e **independiente** de la cabina del conductor
-- Materiales interiores del habitaculo de carga **impermeables, lavables y desinfectables**
-- Dispositivo de **fijacion del feretro** (evitar movimientos durante el transporte)
-- Sistema de **ventilacion** del habitaculo
-- Sistema de **refrigeracion** para traslados largos o cuando la temperatura lo requiera
-- **Revision tecnica** periodica
-- Identificacion exterior conforme a normativa
-- No pueden transportar nada ajeno al servicio funerario simultaneamente
-
-### 8.3 Tanatorios y Velatorios
-
-#### Tanatorio
-- Edificio o instalacion destinada a la **preparacion, conservacion y exposicion** de cadaveres
-- Debe disponer de:
-  - **Salas de velatorio** individuales con condiciones de ventilacion, iluminacion y confort
-  - **Camaras frigorificas** (temperatura **2-4 grados C**)
-  - **Sala de tanatopraxia** y tanatoestética
-  - **Zona de recepcion** de cadaveres (acceso restringido)
-  - **Sala de despedida/duelos**
-  - **Sala de espera** para familiares
-  - **Aseos y servicios** para el publico
-  - **Despachos** administrativos
-  - **Aparcamiento** de vehiculos funerarios
-  - Cumplir normativa de accesibilidad
-
-#### Velatorio
-- Sala o dependencia destinada a la **exposicion publica del cadaver** para despedida
-- Puede estar integrado en un tanatorio o ser independiente (iglesias, domicilios)
-- Condiciones:
-  - Adecuada **ventilacion**
-  - **Iluminacion** apropiada
-  - **Temperatura** que favorezca la conservacion del cadaver
-  - Condiciones de **higiene** y salubridad
-  - Acceso para personas con movilidad reducida
+- **Duelo:** reacción natural ante la pérdida. El/la celador/a mantiene una actitud de **respeto, discreción, empatía y prudencia**.
+- **Trato a la familia:** acompañar, facilitar la intimidad para la despedida, orientar sobre **trámites administrativos**. **NUNCA** dar información clínica ni sobre la causa o las circunstancias de la muerte (no le compete).
+- **Respeto a las creencias religiosas y culturales:** facilitar la asistencia religiosa que solicite la familia, respetar ritos y costumbres (orientación del cuerpo, abstención de manipulaciones según la confesión, etc.) siempre que no contravengan la normativa sanitaria. Trato **igual y digno** a todo fallecido con independencia de su religión, origen o condición.
+- **Confidencialidad:** se mantiene también tras el fallecimiento (Ley 41/2002).
 
 ---
 
 ## DATOS CLAVE PARA EXAMEN
 
-### Numeros y Plazos Imprescindibles
+### Normativa gallega (lo más preguntable)
 
 | Dato | Valor |
 |------|-------|
-| Pronostico vida enfermedad terminal (SECPAL) | **< 6 meses** |
-| Ley regulacion eutanasia | **LO 3/2021, de 24 de marzo** |
-| Entrada en vigor LORE | **25 de junio de 2021** |
-| Solicitudes de eutanasia necesarias | **2 solicitudes** separadas **15 dias naturales** |
-| Residencia minima para solicitar eutanasia | **12 meses** |
-| Tiempo permanencia cadaver en planta | **Minimo 2 horas** (rigor mortis) |
-| Inicio rigor mortis | **2-4 horas** tras la muerte |
-| Maxima rigidez cadaverica | **12-15 horas** |
-| Desaparicion rigidez | **24-36 horas** |
-| Livideces aparecen | **2-4 horas** |
-| Livideces se fijan | **12-15 horas** |
-| Enfriamiento | Aprox. **1 grado C/hora** |
-| Mancha verde abdominal | **24-36 horas** |
-| Temperatura camaras frigorificas | **2-4 grados C** |
-| Cadaver (definicion temporal) | **5 primeros anos** tras muerte |
-| Restos cadavericos | **Despues de 5 anos** |
-| Plazo MINIMO enterramiento | **24 horas** |
-| Plazo MAXIMO enterramiento (sin conservacion) | **48 horas** |
-| Exhumacion ordinaria | **Despues de 5 anos** |
-| Exhumacion extraordinaria | **Antes de 5 anos** (orden judicial) |
+| **Decreto VIGENTE de sanidad mortuoria de Galicia** | **129/2023, de 31 de agosto** |
+| Decreto **derogado** (anterior) | 151/2014, de 20 de noviembre |
+| Clasificación de cadáveres (129/2023) | **3 grupos**: I infeccioso · II radiológico · III sin riesgo |
+| Grupo I | **Riesgo infeccioso** (enfermedades del Anexo I) |
+| Grupo II | **Riesgo radiológico** |
+| Grupo III | **Sin riesgo** |
+| Cadáver (definición temporal) | **5 primeros años** tras la muerte |
+| Restos cadavéricos | **Después de 5 años** |
+| **Plazo MÍNIMO** inhumación/incineración (129/2023) | **12 horas** |
+| Plazo MÁXIMO sin conservación | **48 horas** |
+| Refrigeración (temperatura) | **-2 ºC a 5 ºC** |
+| Conservación máxima en cámara (refrigeración) | **72 horas** desde el fallecimiento |
+| Congelación | **al menos -18 ºC** |
+| Exhumación ordinaria | **> 5 años**, autorización administrativa |
+| Exhumación extraordinaria | **< 5 años**, orden judicial |
+| Féretro de traslado largo | **Doble caja** (exterior madera + interior zinc/plomo) |
 
-### Funciones del Celador - Claves
-
-| Pregunta tipica | Respuesta |
-|----------------|-----------|
-| Quien certifica la muerte? | El **MEDICO** (nunca el celador) |
-| Funcion del celador en amortajamiento? | **AYUDAR** al personal de enfermeria |
-| Puede el celador usar instrumental en autopsia? | **NO, NUNCA** sobre el cadaver |
-| Que limpia el celador tras autopsia? | La **mesa** y la **sala** de autopsias |
-| Ascensor para trasladar cadaver? | **De servicio** (nunca el de publico) |
-| Quien realiza el amortajamiento? | **Enfermeria con ayuda del celador** |
-| Se colocan las protesis dentales? | **SI** |
-| Se retiran sondas y vias? | **SI** (salvo indicacion medica/judicial) |
-| Se taponan orificios? | **SI**, todos los naturales |
-
-### Autopsias - Diferencias Clave
-
-| Pregunta | Clinica | Judicial |
-|----------|---------|----------|
-| Autorizacion familiar | **SI** | **NO** |
-| Quien ordena | Medico | **Juez** |
-| Quien realiza | Anatomopatologo | **Medico Forense** |
-| Se puede negar la familia | **SI** | **NO** |
-
-### Conceptos Eutanasia - Resumen Rapido
-
-| Concepto | Clave para recordar |
-|----------|-------------------|
-| Eutanasia activa | Se **HACE** algo para causar la muerte |
-| Eutanasia pasiva | Se **DEJA DE HACER** (suspender tratamiento) |
-| Eutanasia indirecta | Medicamentos para dolor que **como efecto secundario** causan muerte |
-| Distanasia | **Encarnizamiento** terapeutico (prolongar sin calidad de vida) |
-| Ortotanasia | Muerte **digna y natural** (la correcta) |
-| Cacotanasia | **Sin** asistencia medica |
-| Adistanasia | **Sin** medios extraordinarios |
-
-### Decreto 151/2014 Galicia - Datos Clave
+### Números clínicos imprescindibles
 
 | Dato | Valor |
 |------|-------|
-| Decreto sanidad mortuoria Galicia | **151/2014, de 20 de noviembre** |
-| Cadaver: periodo temporal | **5 primeros anos** |
-| Restos cadavericos: a partir de | **5 anos** |
-| Plazo minimo enterramiento | **24 horas** |
-| Plazo maximo sin conservacion | **48 horas** |
-| Temperatura camaras | **2-4 grados C** |
-| Exhumacion ordinaria | **>5 anos**, autorizacion administrativa |
-| Exhumacion extraordinaria | **<5 anos**, orden judicial |
-| Feretro traslado larga distancia | **Doble caja** (exterior madera + interior zinc/plomo) |
-| Embalsamamiento obligatorio | Traslado largo sin refrigeracion o >48h sin refrigeracion |
+| Pronóstico terminal (SECPAL) | **< 6 meses** |
+| LORE | **LO 3/2021, de 24 de marzo** (vigor 25/06/2021) |
+| Solicitudes de eutanasia | **2**, separadas **15 días naturales** |
+| Permanencia orientativa en planta | **mín. 2 horas** (rigor mortis) |
+| Rigor mortis: inicio / máximo / desaparición | **2-4 h / 12-15 h / 24-36 h** |
+| Livideces: aparecen / se fijan | **2-4 h / 12-15 h** |
+| Enfriamiento | ≈ **1 ºC/hora** |
+| Mancha verde abdominal | **24-36 h** |
 
-### Preguntas Trampa Frecuentes
+### Funciones del/de la celador/a — claves
 
-1. **El celador NO certifica la muerte** -> lo hace el medico
-2. **El celador NO realiza el amortajamiento solo** -> AYUDA a enfermeria
-3. **El celador NO usa instrumental sobre el cadaver** en autopsias
-4. **La autopsia judicial NO necesita autorizacion familiar** -> la clinica SI
-5. **La autopsia judicial la ordena el JUEZ** -> la clinica la solicita el medico
-6. **La autopsia judicial la realiza el MEDICO FORENSE** -> la clinica el anatomopatologo
-7. **Cadaver = 5 anos** (no 10, no 3) -> despues son restos cadavericos
-8. **Plazo minimo enterramiento = 24 horas** (no 12, no 48)
-9. **Plazo maximo sin conservacion = 48 horas** (no 24, no 72)
-10. **Las protesis dentales SI se colocan** en el amortajamiento
-11. **Temperatura camaras = 2-4 grados C** (no 0, no -18)
-12. **Exhumacion ordinaria >5 anos** / Extraordinaria <5 anos (judicial)
-13. **Distanasia = encarnizamiento** (NO es muerte digna, esa es la ortotanasia)
-14. **2 solicitudes de eutanasia separadas 15 dias** (no 1, no 30 dias)
-15. **El ascensor para trasladar cadaveres es el de SERVICIO** (nunca el publico)
+| Pregunta típica | Respuesta |
+|-----------------|-----------|
+| ¿Quién certifica la muerte? | El **MÉDICO** (nunca el celador) |
+| ¿Función en el amortajamiento? | **AYUDAR** a enfermería (no lo hace solo) |
+| ¿Puede usar instrumental sobre el cadáver? | **NO, NUNCA** |
+| ¿Realiza la autopsia? | **NO**; auxilia al patólogo/forense |
+| ¿Qué limpia tras la autopsia? | La **mesa**, la **sala** y el **instrumental** |
+| ¿Qué ascensor usa para el traslado? | El **de servicio** (nunca el de público) |
+| ¿Por dónde traslada el cadáver? | Por **circuitos no concurridos**, evitando público/pacientes |
+| ¿Acompaña la familia el traslado al mortuorio? | **NO, en ningún caso** |
+| ¿Informa del fallecimiento a la familia? | **NO** (no da información clínica) |
+| ¿Se colocan las prótesis dentales? | **SÍ** |
+| ¿Se retiran sondas y vías? | **SÍ** (salvo orden médica/judicial) |
+| ¿Se taponan los orificios naturales? | **SÍ**, todos |
+| ¿Dónde se coloca la identificación? | **Muñeca/tobillo** + exterior del sudario |
+
+---
+
+## PREGUNTAS TRAMPA
+
+1. **El decreto VIGENTE de Galicia es el 129/2023**, NO el 151/2014 (este está **derogado**). Si la pregunta cita el 151/2014 como vigente, es incorrecta.
+2. **Plazo MÍNIMO de inhumación/incineración en Galicia = 12 horas** (Decreto 129/2023). El "24 horas" es el dato **antiguo** (151/2014) → trampa frecuente.
+3. **La clasificación gallega tiene 3 GRUPOS** (I infeccioso, II radiológico, III sin riesgo). Decir "2 grupos" remite a la norma derogada.
+4. **Grupo I = infeccioso; Grupo II = radiológico.** No confundir el orden.
+5. **El celador NO certifica la muerte** → la certifica el médico.
+6. **El celador NO realiza el amortajamiento solo** → AYUDA a enfermería.
+7. **El celador NO usa instrumental sobre el cadáver** ni **realiza** la autopsia (Estatuto 1971).
+8. **El celador NO informa del fallecimiento a la familia** ni da información clínica.
+9. **La familia NO acompaña el traslado** del cadáver al mortuorio. Y se hace por **ascensor de servicio** y **circuitos no concurridos**.
+10. **Las prótesis dentales SÍ se colocan** en el amortajamiento.
+11. **La autopsia JUDICIAL NO necesita autorización familiar**; la **CLÍNICA SÍ**.
+12. **La autopsia judicial la ordena el JUEZ y la realiza el MÉDICO FORENSE**; la clínica la solicita el médico y la realiza el **anatomopatólogo**.
+13. **Cadáver = 5 años** (no 10, no 3) → después, restos cadavéricos.
+14. **Refrigeración = -2 ºC a 5 ºC** (Decreto 129/2023), conservable hasta **72 horas**. Cuidado con respuestas tipo "2-4 ºC" (eran datos genéricos del temario antiguo).
+15. **Distanasia = encarnizamiento** terapéutico (NO es la muerte digna; esa es la **ortotanasia**).
+16. **Exhumación ordinaria > 5 años** (administrativa) / **extraordinaria < 5 años** (judicial).
+17. **2 solicitudes de eutanasia separadas 15 días naturales** (no 1, no 30).
+18. **El celador respeta las creencias religiosas** del fallecido, pero **dentro de la normativa sanitaria** (no puede saltarse plazos ni clasificaciones por motivo religioso).

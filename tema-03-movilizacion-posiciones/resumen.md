@@ -347,7 +347,30 @@ Estas son las REGLAS FUNDAMENTALES que el celador debe aplicar en TODA movilizac
 
 ---
 
-### 3.3. TABLA RESUMEN DE TODAS LAS POSICIONES
+### 3.3. TABLA MAESTRA: NOMBRE / DESCRIPCION / INDICACION
+
+> La tabla mas importante del tema. Si memorizas SOLO esto, ya respondes la mayoria de preguntas.
+
+| Posicion (y sinonimos) | Descripcion (como se coloca) | Indicacion principal |
+|------------------------|------------------------------|----------------------|
+| **Decubito supino** (dorsal) | Boca arriba, piernas extendidas, brazos al costado | Exploracion anterior (torax/abdomen), postoperatorio, RCP, palpacion de mamas |
+| **Decubito prono** (ventral) | Boca abajo, cabeza ladeada | Exploracion/cirugia de espalda y gluteos, UPP sacras, distres respiratorio (pronacion) |
+| **Decubito lateral** (izq./der.) | De lado; pierna superior flexionada y adelantada | Higiene de espalda, cambios posturales, hacer la cama ocupada |
+| **Fowler** (semisentado) | Respaldo a **45 grados**, rodillas semiflexionadas | Problemas **cardiacos y respiratorios**, alimentar, SNG |
+| **Semi-Fowler** | Respaldo a **30 grados** | Alternativa suave a Fowler, descanso |
+| **Fowler alta** | Respaldo a **90 grados** (sentado) | Comer en cama, disnea grave |
+| **Sims** (semiprona, inglesa, de seguridad) | Intermedia lateral-prono, sobre lado **izq.**; pierna superior flexionada | **Enemas**, exploracion/medicacion rectal, embarazadas, posicion lateral de seguridad |
+| **Trendelenburg** | Plano inclinado **45 grados**, **pies arriba / cabeza abajo** | **Shock, lipotimia, hipotension**, drenaje postural, retorno venoso |
+| **Anti-Trendelenburg** (Morestin, Trend. inverso) | Plano inclinado, **cabeza arriba / pies abajo** | **Hernia de hiato/reflujo**, dificultad respiratoria, cirugia de vesicula |
+| **Roser** (Proetz, Rose) | Supino con la **cabeza colgando** fuera del borde (cuello en hiperextension) | **Intubacion**, **lavado de pelo** encamado, cirugia de bocio, exploracion de faringe |
+| **Litotomia** (ginecologica, talla vesical) | Supino, piernas elevadas y separadas en **estribos/perneras**, gluteos al borde | **Parto**, exploracion ginecologica, sondaje vesical mujer, cirugia perineal |
+| **Genupectoral** (mahometana, de plegaria) | Apoyo sobre **rodillas y pecho**, caderas elevadas | **Exploraciones rectales**, sigmoidoscopia, tacto rectal |
+| **Kraske** (navaja, jackknife) | Prono con la mesa **plegada en angulo** a la altura de las caderas | Cirugia **rectal y de coxis**, hemorroides, sinus pilonidal |
+| **De rinon** (lumbotomia) | Decubito lateral, **lado enfermo arriba**, rodillo bajo el flanco | **Cirugia renal** (nefrectomia), via urinaria alta |
+
+---
+
+### 3.4. TABLA RESUMEN (vista rapida por base de apoyo)
 
 | Posicion | Base | Caracteristica clave | Indicacion principal |
 |----------|------|---------------------|---------------------|
@@ -519,6 +542,24 @@ La grua es un dispositivo mecanico para levantar y trasladar pacientes con movil
 - Frenar las ruedas de la grua antes de subir/bajar al paciente.
 
 > CLAVE EXAMEN: La grua se usa en pacientes con MOVILIDAD NULA o MUY REDUCIDA. Siempre verificar el arnes antes de elevar.
+
+---
+
+### 4.5. AYUDAS TECNICAS Y DISPOSITIVOS DE MOVILIZACION
+
+| Dispositivo | Para que sirve | Clave de examen |
+|-------------|----------------|-----------------|
+| **Sabana entremetida (travesera)** | Doblada bajo el paciente (de hombros a muslos). Se enrolla por los lados para subir hacia el cabecero, girar o pasar a camilla | Reduce friccion y esfuerzo; evita arrastrar la piel (previene UPP) |
+| **Sabana/superficie de deslizamiento (transfer slide)** | Material deslizante de baja friccion para pasar al paciente de cama a camilla casi sin levantarlo | Para transferencias horizontales con el paciente tumbado |
+| **Tabla de transferencia** | Tabla rigida que hace de puente entre cama y silla/camilla a la misma altura | Para pacientes que colaboran poco; el paciente se desliza sobre ella |
+| **Disco giratorio (de transferencia)** | Plataforma que gira sobre su eje | Cambia la orientacion del paciente de pie (cama-silla) sin que pivote con los pies |
+| **Grua** | Eleva mecanicamente al paciente con arnes/eslinga | Movilidad nula o muy reducida; no colabora |
+| **Camilla de palas o de cuchara** | Dos mitades simetricas que se separan, se introducen bajo el paciente por ambos lados y se cierran SIN tener que levantarlo | **SOLO para RECOGER/MOVILIZAR** (recoger del suelo, pasar a la camilla de transporte). **NUNCA para traslado largo** |
+| **Camilla de tijera** | Variante articulada de la de palas | Mismo uso que la de palas: **solo movilizacion, no transporte** |
+| **Tablero espinal (camilla rigida)** | Superficie rigida con inmovilizadores | Sospecha de lesion de columna; mantiene el eje cabeza-cuello-tronco |
+| **Andador / muletas / baston** | Apoyo en la deambulacion del paciente | Ayudas para movilizacion activa asistida |
+
+> CLAVE EXAMEN: La **camilla de palas (o de tijera)** se usa **UNICAMENTE para movilizar/recoger** al paciente y pasarlo a la camilla de transporte, **NUNCA para trasladarlo** en distancias largas. Su ventaja es que se introduce por los dos lados sin necesidad de levantar al paciente, respetando el eje longitudinal del cuerpo (util ante sospecha de lesion vertebral).
 
 ---
 
@@ -751,18 +792,30 @@ Las UPP son lesiones de la piel y tejidos subyacentes producidas por una **presi
 | Sims | Semiprona | Inglesa / Seguridad |
 | Fowler | Semi-sentado | - |
 
-### Preguntas trampa habituales
+---
 
-1. **Trendelenburg vs. Roser**: En Trendelenburg se inclina TODO el cuerpo. En Roser solo CUELGA la cabeza.
-2. **Supinacion vs. Pronacion**: Supinacion = palmas ARRIBA. Pronacion = palmas ABAJO.
-3. **Abduccion vs. Aduccion**: AbDuccion = separar (con D de Distancia). ADuccion = aproximar (con D de aDentro).
-4. **Sims para embarazadas**: Siempre sobre el lado IZQUIERDO (proteger vena cava inferior que esta a la derecha).
-5. **Entrar al ascensor con camilla**: Es la EXCEPCION, se entra con la CABEZA por delante (en pasillos van los pies por delante).
-6. **Enemas**: Decubito lateral IZQUIERDO (el colon sigmoide y el recto estan en el lado izquierdo).
-7. **Circunduccion**: NO es rotacion. Es la combinacion de 4 movimientos (flexion, extension, abduccion, aduccion).
-8. **Plano sagital**: Divide en derecha e izquierda (NO en anterior y posterior, eso es el plano frontal/coronal).
-9. **Centro de gravedad**: En la pelvis, a la altura de S2 (2.a sacra), NO en el ombligo.
-10. **Minimo de personas cama-camilla**: 3 personas (NO 2).
+## 9. PREGUNTAS TRAMPA
+
+Errores tipicos que el examen SERGAS explota una y otra vez. Lee la columna "OJO" antes de marcar.
+
+1. **Trendelenburg vs. Roser**: En Trendelenburg se inclina TODO el cuerpo (pies arriba). En Roser solo CUELGA la cabeza fuera del borde. OJO: si la pregunta dice "para intubacion" -> Roser, no Trendelenburg.
+2. **Anti-Trendelenburg = Morestin**: Es el sinonimo que mas confunde. Cabeza arriba, pies abajo. Para HERNIA DE HIATO.
+3. **Supinacion vs. Pronacion**: Supinacion = palmas ARRIBA (SUPlicar). Pronacion = palmas ABAJO (PROno).
+4. **Abduccion vs. Aduccion**: AbDuccion = separar (D de Distancia). ADuccion = aproximar (a-Dentro).
+5. **Sims para embarazadas**: Siempre lado IZQUIERDO (descomprimir la vena cava inferior, que va por la DERECHA).
+6. **Enemas**: Decubito lateral IZQUIERDO o Sims izquierdo (recto-sigma a la izquierda). Cuidado con opciones que dicen "derecho".
+7. **Entrar al ascensor con camilla**: EXCEPCION -> CABEZA por delante. En pasillos van los PIES por delante. No los confundas.
+8. **Rampa de bajada en SILLA de ruedas**: el celador va DELANTE, de frente al paciente, silla de espaldas (que no caiga hacia delante).
+9. **Camilla de palas/tijera**: SOLO para movilizar/recoger, NUNCA para trasladar largo recorrido. Opcion-trampa: "se usa para transportar al paciente" = FALSA.
+10. **Minimo de personas cama-camilla**: **3** personas (no 2). El "2" es para empujar la camilla por el pasillo, no para la transferencia.
+11. **Circunduccion**: NO es rotacion; es la suma de flexion + extension + abduccion + aduccion.
+12. **Plano sagital**: divide en DERECHA e IZQUIERDA. El que divide en anterior/posterior es el FRONTAL/CORONAL.
+13. **Centro de gravedad**: en la pelvis, a la altura de **S2** (2.a vertebra sacra), NO en el ombligo.
+14. **En los giros**: se TIRA del paciente hacia el celador, NUNCA se empuja (riesgo de caida por el lado contrario).
+15. **Fowler estandar = 45 grados**; Semi-Fowler = 30; Fowler alta = 90. No mezcles las cifras.
+16. **En UCI**: el celador moviliza SOLO con autorizacion/indicacion de enfermeria; NUNCA toca ni desconecta monitores, vias o ventiladores por su cuenta.
+17. **Para sentar al paciente**: dejarlo unos minutos en el borde antes de levantarlo (evitar HIPOTENSION ORTOSTATICA).
+18. **Genupectoral = mahometana**, NO es lo mismo que litotomia. Genupectoral -> rectal; litotomia -> ginecologica/parto.
 
 ---
 

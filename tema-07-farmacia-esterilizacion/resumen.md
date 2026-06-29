@@ -92,9 +92,43 @@ Servicio general clinico del hospital, bajo la responsabilidad de un **farmaceut
 
 ---
 
-## 2. ESTERILIZACION
+## 2. EL TRASLADO DE DOCUMENTOS Y OBJETOS
 
-### 2.1. Conceptos fundamentales
+### 2.1. Marco general
+
+El celador, segun el **Estatuto de Personal No Sanitario (Orden de 5 de julio de 1971)**, debe **"hacerse cargo sin tardanza" de las comunicaciones verbales, documentos, correspondencia u objetos** que le sean confiados por sus superiores, asi como trasladar de unos servicios a otros los aparatos o mobiliario que se requiera.
+
+> Clave: el celador es el responsable del **transporte interno** del documento/objeto, garantizando que llegue **a su destino, sin dano y al destinatario autorizado**. No abre, no lee, no copia, no decide sobre el contenido.
+
+### 2.2. Tipos de documentos y objetos que traslada el celador
+
+| Tipo | Ejemplos | Cuidado especial |
+|------|----------|------------------|
+| **Documentacion clinica** | Historias clinicas (HC), peticiones de pruebas, informes, resultados de laboratorio, radiografias/ecografias | Confidencialidad, sobre cerrado, entrega a personal autorizado |
+| **Correspondencia** | Cartas, impresos, revistas, correo interno y externo, valija | Reparto a cada servicio/destinatario |
+| **Muestras biologicas** | Sangre, orina, biopsias, muestras a laboratorio/anatomia patologica | Contenedor cerrado, posicion correcta, sin derrames, identificadas |
+| **Objetos y enseres** | Aparataje, mobiliario, lenceria, pedidos de almacen, material esteril | Sin danos, vias adecuadas (montacargas) |
+| **Valores y objetos del paciente** | Pertenencias, objetos de valor (al ingreso/exitus) | Inventario y entrega documentada |
+
+### 2.3. La historia clinica (HC) y la confidencialidad
+
+- La HC se traslada **siempre cerrada/en sobre o funda** y se entrega **en mano a personal autorizado** (nunca se deja desatendida en pasillos ni en zonas de paso).
+- El celador tiene **deber de secreto y discrecion** sobre todo lo que conozca por razon de su trabajo (**Ley 41/2002** basica reguladora de autonomia del paciente y derechos en materia de informacion y documentacion clinica).
+- Solo puede acceder a los **datos imprescindibles** para su funcion (nombre del paciente, habitacion, cama, servicio destino). **NO** debe leer el contenido clinico.
+- En el SERGAS la historia clinica electronica es el sistema **IANUS**; el acceso esta auditado y limitado por perfiles.
+- Marco normativo de proteccion de datos: **LOPDGDD (LO 3/2018)** y **RGPD (Reglamento UE 2016/679)**. Los datos de salud son **categoria especial** (especialmente protegidos).
+
+### 2.4. Traslado de muestras biologicas
+
+- Se transportan en **contenedores cerrados, estancos e identificados**, en posicion vertical y evitando golpes/derrames.
+- El celador **no manipula ni abre** la muestra; solo la traslada del punto de extraccion al laboratorio.
+- Ante un derrame, avisar y actuar segun protocolo de bioseguridad (las muestras son material biologico potencialmente infeccioso).
+
+---
+
+## 3. ESTERILIZACION
+
+### 3.1. Conceptos fundamentales
 
 | Concepto | Definicion |
 |----------|-----------|
@@ -105,7 +139,20 @@ Servicio general clinico del hospital, bajo la responsabilidad de un **farmaceut
 | **Limpieza** | Eliminacion fisica de materia organica e inorganica de superficies. Paso PREVIO obligatorio a desinfeccion y esterilizacion |
 | **Contaminacion** | Presencia de microorganismos patogenos en un objeto o superficie |
 
-### 2.2. Niveles de desinfeccion (Spaulding)
+### 3.1.bis LIMPIEZA vs DESINFECCION vs ESTERILIZACION (tabla comparativa)
+
+| Caracteristica | LIMPIEZA | DESINFECCION | ESTERILIZACION |
+|----------------|----------|--------------|----------------|
+| **Que hace** | Elimina suciedad y materia organica (fisicamente) | Destruye microorganismos patogenos | Destruye TODOS los microorganismos |
+| **Esporas** | NO las elimina | NO elimina esporas (salvo alto nivel parcialmente) | SI elimina esporas (incluso las mas resistentes) |
+| **Donde** | Superficies y objetos | Objetos inertes y superficies | Material critico (instrumental, implantes) |
+| **Agente** | Agua + detergente + accion mecanica | Desinfectantes quimicos | Calor, gas, quimicos, radiaciones |
+| **Orden** | PASO 1 (siempre el primero) | PASO 2 | PASO 3 (maxima garantia) |
+| **Grado** | Reduce carga | Reduce a niveles seguros | Ausencia TOTAL de vida microbiana |
+
+> Regla de oro: **NO se puede desinfectar ni esterilizar lo que esta sucio.** La limpieza es SIEMPRE el paso previo obligatorio.
+
+### 3.2. Niveles de desinfeccion (Spaulding)
 
 | Nivel | Elimina | Ejemplo de uso |
 |-------|---------|----------------|
@@ -113,7 +160,7 @@ Servicio general clinico del hospital, bajo la responsabilidad de un **farmaceut
 | **Intermedio** | Bacterias vegetativas, mayoria virus, hongos, micobacterias. NO esporas | Termometros, superficies |
 | **Bajo** | Mayoria de bacterias vegetativas, algunos hongos y virus | Fonendoscopios, superficies no criticas |
 
-### 2.3. Clasificacion de Spaulding del material
+### 3.3. Clasificacion de Spaulding del material
 
 | Categoria | Contacto con | Procesamiento minimo | Ejemplos |
 |-----------|-------------|---------------------|----------|
@@ -121,7 +168,20 @@ Servicio general clinico del hospital, bajo la responsabilidad de un **farmaceut
 | **Semicritico** | Mucosas o piel no intacta | **Desinfeccion de alto nivel** | Endoscopios, equipos respiratorios, laringoscopios |
 | **No critico** | Piel intacta | **Desinfeccion de bajo/intermedio nivel** | Fonendoscopios, esfigmomanometros, cunas, muletas |
 
-### 2.4. Metodos de esterilizacion
+### 3.4. Metodos de esterilizacion
+
+#### TABLA RESUMEN DE METODOS (metodo / agente / parametros / uso)
+
+| Metodo | Tipo | Agente | Parametros | Indicador biologico | Uso principal |
+|--------|------|--------|-----------|---------------------|---------------|
+| **Autoclave (vapor)** | Fisico (calor humedo) | Vapor de agua saturado a presion | 121 C / 15-20 min  o  134 C / 3-7 min | *Geobacillus stearothermophilus* | Material metalico, textil, gomas, vidrio. EL MAS USADO |
+| **Poupinel / Estufa** | Fisico (calor seco) | Aire caliente | 170 C / 1h  o  180 C / 30 min  o  160 C / 2h | *Bacillus atrophaeus* (subtilis) | Vidrio, aceites, polvos, metal que se corroe |
+| **Oxido de etileno (OE)** | Quimico (gas) | Gas oxido de etileno | 37-55 C / 2-5 h + aireacion 8-12 h | *Bacillus atrophaeus* | Material termosensible (plasticos, optica). TOXICO/cancerigeno |
+| **Gas-plasma H2O2 (STERRAD)** | Fisico-quimico | Peroxido de hidrogeno + plasma | 45-55 C / 28-75 min, SIN aireacion | *Geobacillus stearothermophilus* | Termosensible, rapido, NO toxico. No celulosa ni lumenes largos |
+| **Glutaraldehido 2%** | Quimico (inmersion) | Glutaraldehido | 20-45 min (DAN) / 10 h (esteril.) | -- | Endoscopios, instrumental termosensible |
+| **Acido peracetico** | Quimico (inmersion) | Acido peracetico | Baja Tª, automatizado (STERIS) | -- | Endoscopios |
+| **Radiaciones gamma** | Fisico | Radiacion ionizante | Industrial | -- | Material de un solo uso (jeringas, guantes) |
+| **Filtracion** | Fisico (mecanico) | Filtro 0,22 micras | -- | -- | Liquidos termosensibles, aire (flujo laminar) |
 
 #### A) METODOS FISICOS
 
@@ -215,7 +275,26 @@ Servicio general clinico del hospital, bajo la responsabilidad de un **farmaceut
 - **Inconvenientes:** no penetra en lumenes estrechos y largos, no apto para celulosa, polvos ni liquidos.
 - **Cada vez mas utilizado** como alternativa al oxido de etileno.
 
-### 2.5. Central de esterilizacion
+### 3.5. Controles de esterilizacion (resumen)
+
+| Tipo de control | Que verifica | Ejemplos |
+|-----------------|--------------|----------|
+| **Fisicos** | Que el aparato alcanza los parametros (Tª, presion, tiempo) | Manometros, termometros, graficas/registros automaticos |
+| **Quimicos** | Que el material se ha expuesto al agente esterilizante (cambio de color) | Cintas/tiras, **test de Bowie-Dick** (penetracion del vapor, autoclave de prevacio, DIARIO antes del 1er ciclo), integradores |
+| **Biologicos** | Que se han destruido microorganismos reales (LO MAS FIABLE) | Ampollas con esporas (*G. stearothermophilus* / *B. atrophaeus*); incubacion ~24-48 h |
+
+> El **test de Bowie-Dick NO es un control biologico**: es un control fisico-quimico de penetracion del vapor y eliminacion de aire, exclusivo de autoclaves de prevacio, realizado a diario en el primer ciclo.
+
+### 3.6. Empaquetado y caducidad del material esteril
+
+- **Objetivo del empaquetado:** mantener la esterilidad hasta el momento de uso y permitir una apertura aseptica.
+- **Materiales de empaquetado:** papel crepado/grado medico, bolsas mixtas (papel-plastico con viraje), contenedores rigidos, tela (en desuso).
+- Cada paquete debe ir **identificado:** contenido, fecha de esterilizacion, **fecha de caducidad**, numero de lote/ciclo y control quimico externo (viraje de color).
+- **Caducidad:** depende del **tipo de envoltorio y de las condiciones de almacenamiento** (no de una fecha fija universal). Sistema de **caducidad relacionada con el evento** (se considera esteril mientras el envase este integro, seco y limpio) frente al sistema clasico de fecha fija.
+- Causas de **perdida de esterilidad:** envase roto, humedo, mojado, abierto, manchado, caido al suelo o caducado. Ante la duda, se considera **NO esteril**.
+- **Almacenamiento:** zona limpia/seca, protegido del polvo y la humedad, en estanterias (no en el suelo), rotacion **FEFO** (primero en caducar, primero en salir).
+
+### 3.7. Central de esterilizacion
 
 - Unidad del hospital donde se realiza la limpieza, desinfeccion, empaquetado, esterilizacion y almacenamiento del material esteril.
 - **Zonas diferenciadas:**
@@ -225,7 +304,7 @@ Servicio general clinico del hospital, bajo la responsabilidad de un **farmaceut
 - **Flujo unidireccional** del material: sucio -> limpio -> esteril (nunca retroceso).
 - El celador transporta el material entre la central y los servicios (quirofanos, plantas).
 
-### 2.6. Funciones del celador en esterilizacion
+### 3.8. Funciones del celador en esterilizacion
 
 1. **Transporte de material contaminado** desde servicios/quirofanos a la central de esterilizacion (en contenedores cerrados e identificados).
 2. **Transporte de material esteril** desde la central a servicios/quirofanos.
@@ -234,9 +313,23 @@ Servicio general clinico del hospital, bajo la responsabilidad de un **farmaceut
 
 ---
 
-## 3. HIGIENE HOSPITALARIA
+## 4. HIGIENE DE LOS/LAS PACIENTES E HIGIENE HOSPITALARIA
 
-### 3.1. Lavado de manos
+### 4.0. Higiene del paciente y papel del celador
+
+La higiene del paciente (aseo, bano, cambio de ropa) es una **competencia del personal de enfermeria y, sobre todo, del/la TCAE (Auxiliar de Enfermeria)**. El celador **NO realiza el aseo del paciente**, pero **colabora y ayuda** cuando se le requiere.
+
+- **Tipos de aseo del paciente:**
+  - **Ducha/bano en banera:** paciente que se vale por si mismo o con ayuda minima.
+  - **Bano en cama (aseo en cama):** paciente encamado, dependiente o inmovilizado. Lo realiza el/la TCAE.
+- **Funcion del celador en la higiene del paciente:**
+  - **Movilizar, levantar, girar y sujetar** al paciente para que el/la TCAE pueda asearlo (especialmente pacientes pesados, dependientes o agitados).
+  - **Trasladar** al paciente a la ducha/bano (silla de ruedas, grua).
+  - **Ayudar en los cambios posturales** y en la prevencion de ulceras por presion (UPP).
+  - Aportar y retirar material/lenceria cuando se le indique.
+- **El celador NO desnuda, lava ni realiza por su cuenta el aseo del paciente**; actua bajo indicacion y como apoyo del personal sanitario, respetando siempre la **intimidad y dignidad** del paciente.
+
+### 4.1. Lavado de manos
 
 El lavado de manos es la **MEDIDA MAS IMPORTANTE** para prevenir las infecciones nosocomiales (infecciones relacionadas con la asistencia sanitaria - IRAS).
 
@@ -249,7 +342,7 @@ El lavado de manos es la **MEDIDA MAS IMPORTANTE** para prevenir las infecciones
 | **Lavado quirurgico** | 3-5 minutos | Jabon antiseptico + agua + cepillo de unas esteril | Antes de intervenciones quirurgicas, procedimientos invasivos en quirofano |
 | **Friccion con solucion hidroalcoholica (SHA)** | 20-30 segundos | Solucion de base alcoholica | Alternativa al lavado cuando las manos no estan visiblemente sucias. Rapido y eficaz |
 
-### 3.2. Los 5 momentos de la higiene de manos (OMS)
+### 4.2. Los 5 momentos de la higiene de manos (OMS)
 
 La **Organizacion Mundial de la Salud (OMS)** establecio los 5 momentos clave:
 
@@ -261,7 +354,7 @@ La **Organizacion Mundial de la Salud (OMS)** establecio los 5 momentos clave:
 
 > Regla mnemotecnica: "2 ANTES y 3 DESPUES"
 
-### 3.3. Tecnica de lavado de manos (OMS)
+### 4.3. Tecnica de lavado de manos (OMS)
 
 Pasos del lavado rutinario:
 1. Mojar manos con agua.
@@ -276,7 +369,7 @@ Pasos del lavado rutinario:
 10. Secar con toalla de un solo uso.
 11. Cerrar el grifo con la toalla (no tocar con manos limpias).
 
-### 3.4. Antisepticos mas utilizados
+### 4.4. Antisepticos mas utilizados
 
 | Antiseptico | Uso principal |
 |-------------|---------------|
@@ -287,7 +380,7 @@ Pasos del lavado rutinario:
 | **Agua oxigenada (peroxido hidrogeno 3%)** | Limpieza heridas con materia organica. Efervescencia arrastra suciedad |
 | **Mercurocromo/mertiolate** | En desuso |
 
-### 3.5. Equipos de proteccion individual (EPIs)
+### 4.5. Equipos de proteccion individual (EPIs)
 
 - **Guantes:** latex, nitrilo, vinilo. Un solo uso. Cambiar entre pacientes.
 - **Mascarilla quirurgica:** proteccion basica de gotas.
@@ -299,13 +392,13 @@ Pasos del lavado rutinario:
 
 ---
 
-## 4. SERVICIO DE REPROGRAFIA
+## 5. SERVICIO DE REPROGRAFIA
 
-### 4.1. Concepto
+### 5.1. Concepto
 
 Servicio encargado de la **reproduccion de documentos** (fotocopias, impresiones, encuadernaciones, plastificaciones) para las necesidades del centro sanitario.
 
-### 4.2. Funciones del celador en reprografia
+### 5.2. Funciones del celador en reprografia
 
 1. **Realizacion de fotocopias** y tareas de reproduccion de documentos.
 2. **Encuadernacion basica** de documentos.
@@ -315,7 +408,7 @@ Servicio encargado de la **reproduccion de documentos** (fotocopias, impresiones
 6. **Control de registro:** anotar las copias realizadas por cada servicio.
 7. **Cumplimiento estricto de la confidencialidad:** el celador maneja documentos que pueden contener datos de salud protegidos.
 
-### 4.3. Confidencialidad
+### 5.3. Confidencialidad
 
 - **Ley Organica 3/2018, de 5 de diciembre** (LOPDGDD): Proteccion de Datos Personales y garantia de los derechos digitales.
 - **Reglamento General de Proteccion de Datos (RGPD)** - Reglamento UE 2016/679.
@@ -326,7 +419,7 @@ Servicio encargado de la **reproduccion de documentos** (fotocopias, impresiones
 
 ---
 
-## 5. DATOS CLAVE PARA EXAMEN
+## DATOS CLAVE PARA EXAMEN
 
 ### Esterilizacion - Lo mas preguntado
 
@@ -366,3 +459,50 @@ Servicio encargado de la **reproduccion de documentos** (fotocopias, impresiones
 28. **EFG** = Equivalente Farmaceutico Generico (medicamento generico).
 29. **Reprografia:** celador debe respetar confidencialidad (LOPDGDD y RGPD).
 30. **LOPDGDD:** Ley Organica 3/2018. **RGPD:** Reglamento UE 2016/679. Datos de salud = categoria especial.
+
+### Traslado de documentos / higiene del paciente - Lo mas preguntado
+
+31. **Traslado de documentos:** el celador debe "hacerse cargo sin tardanza" de comunicaciones, documentos, correspondencia u objetos confiados por sus superiores.
+32. **Historia clinica:** se traslada cerrada y se entrega EN MANO a personal autorizado. El celador NO la lee ni la deja desatendida.
+33. **Ley 41/2002:** autonomia del paciente y documentacion clinica; impone deber de secreto. En SERGAS la HC electronica es **IANUS**.
+34. **Muestras biologicas:** contenedor cerrado, estanco e identificado; el celador no las abre ni manipula.
+35. **Higiene del paciente:** la realiza el/la **TCAE/enfermeria**, NO el celador. El celador **ayuda** movilizando/sujetando al paciente.
+36. **Bano en cama:** para paciente encamado/dependiente. El celador colabora levantando, girando y sujetando, respetando intimidad y dignidad.
+37. **Material esteril:** se considera NO esteril si el envase esta roto, humedo, abierto, manchado, caido al suelo o caducado. Ante la duda, NO esteril.
+38. **Caducidad del material esteril:** depende del envoltorio y las condiciones de almacenamiento; rotacion FEFO (primero en caducar, primero en salir).
+
+---
+
+## PREGUNTAS TRAMPA
+
+> Errores tipicos que el SERGAS introduce como distractores. Apréndelos para no caer.
+
+1. **"El celador dispensa/administra la medicacion"** -> FALSO. El celador SOLO **transporta** medicacion y el carro de unidosis. Dispensa el farmaceutico; administra enfermeria.
+
+2. **"El celador traslada los estupefacientes solo / sin control"** -> FALSO. Los estupefacientes van bajo control: armario de seguridad con doble llave y libro de registro; el celador no los maneja libremente.
+
+3. **"El autoclave usa calor seco"** -> FALSO. El **autoclave = calor HUMEDO (vapor de agua a presion)**. El **calor SECO** es el **Poupinel/estufa**.
+
+4. **"El Poupinel esteriliza a 121 C / 15 min"** -> FALSO. Esos son los parametros del **autoclave**. El Poupinel: 170 C/1h, 180 C/30 min o 160 C/2h.
+
+5. **"El test de Bowie-Dick es un control biologico"** -> FALSO. Es un control **fisico-quimico** de penetracion del vapor (autoclaves de prevacio), se hace **a diario antes del primer ciclo**. El control biologico usa esporas (*G. stearothermophilus*).
+
+6. **"El oxido de etileno no necesita aireacion"** -> FALSO. El OE es **toxico/cancerigeno** y exige **aireacion obligatoria (8-12 h)**. El que NO necesita aireacion es el **gas-plasma de peroxido de hidrogeno (STERRAD)**.
+
+7. **"La esterilizacion elimina todo MENOS las esporas"** -> FALSO. La **ESTERILIZACION elimina TODO, incluidas las esporas**. La que NO elimina esporas es la **desinfeccion**.
+
+8. **"Se puede esterilizar directamente el material sucio"** -> FALSO. La **LIMPIEZA es siempre el paso PREVIO** obligatorio a desinfeccion y esterilizacion.
+
+9. **"Antisepsia y desinfeccion son lo mismo"** -> FALSO. **Antisepsia = tejido VIVO** (piel/mucosas); **desinfeccion = objetos INERTES/superficies**.
+
+10. **"La povidona yodada tiene efecto residual prolongado"** -> FALSO. La que tiene **efecto residual** es la **clorhexidina**. La povidona yodada NO.
+
+11. **"El lavado quirurgico dura 40-60 segundos"** -> FALSO. Eso es el lavado rutinario/higienico. El **quirurgico dura 3-5 minutos** con cepillo y antiseptico.
+
+12. **"El celador realiza el aseo/bano del paciente"** -> FALSO. Lo hace el/la **TCAE/enfermeria**; el celador **ayuda** movilizando y sujetando al paciente.
+
+13. **"El celador puede leer la historia clinica que traslada"** -> FALSO. Solo accede a datos imprescindibles (nombre, cama, servicio); tiene **deber de secreto** y la entrega cerrada a personal autorizado.
+
+14. **"El flujo en la central de esterilizacion es bidireccional"** -> FALSO. Es **UNIDIRECCIONAL**: sucio (roja) -> limpio (azul) -> esteril (verde). Nunca hay retroceso.
+
+15. **"Material caido al suelo o con envase humedo sigue siendo esteril"** -> FALSO. Se considera **NO esteril**.

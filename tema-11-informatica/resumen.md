@@ -482,9 +482,321 @@ Dispositivos que almacenan informacion de forma **permanente** (no volatil). A d
 - **Ejemplos:** Windows (Microsoft), macOS (Apple), Linux (libre/open source), Android (Google, para moviles), iOS (Apple, para iPhone).
 - **Funciones:** gestion de memoria, gestion de procesos, gestion de archivos, gestion de dispositivos, interfaz de usuario.
 
+#### Sistemas operativos mas habituales
+
+| SO | Fabricante / Tipo | Caracteristicas |
+|----|------------------|-----------------|
+| **Windows** | Microsoft. **Propietario** (de pago) | El mas extendido en PC de oficina. Versiones: XP, 7, 8, 10, 11. Entorno grafico de ventanas. Es el SO habitual en los puestos del **SERGAS** |
+| **Linux** | Comunidad / **Software libre** (gratuito, codigo abierto) | Multiples distribuciones (Ubuntu, Debian, Fedora, Red Hat). Muy usado en servidores. Seguro y estable |
+| **macOS** | Apple. Propietario | Solo en ordenadores Apple (Mac) |
+| **Android** | Google. Basado en Linux | Para moviles y tabletas. El mas usado en moviles |
+| **iOS** | Apple. Propietario | Para iPhone y iPad |
+
+> **Software libre / Software propietario:** el software **libre** (Linux, LibreOffice, OpenOffice) permite usarlo, copiarlo, modificarlo y distribuirlo libremente y suele ser gratuito. El software **propietario** (Windows, Microsoft Office) es de pago y su codigo es cerrado (requiere licencia).
+
 ---
 
-## 10. DATOS CLAVE PARA EXAMEN
+## 10. OFIMATICA (SISTEMAS OFIMATICOS)
+
+### 10.1. Concepto
+
+**Ofimatica** = **OFI**cina + infor**MATICA**. Conjunto de tecnicas, aplicaciones y herramientas informaticas que se utilizan para crear, procesar, almacenar y transmitir informacion en una oficina (trabajo de oficina automatizado).
+
+- **Suites ofimaticas:** paquetes que agrupan varias aplicaciones de oficina.
+
+| Suite | Fabricante / Tipo | Aplicaciones tipicas |
+|-------|-------------------|---------------------|
+| **Microsoft Office** | Microsoft. **Propietario (de pago)** | **Word** (texto), **Excel** (hoja calculo), **PowerPoint** (presentaciones), **Access** (BBDD), **Outlook** (correo) |
+| **LibreOffice** | The Document Foundation. **Software libre (gratuito)** | **Writer** (texto), **Calc** (hoja calculo), **Impress** (presentaciones), **Base** (BBDD) |
+| **Apache OpenOffice** | Apache. Software libre | Writer, Calc, Impress, Base |
+| **Google Workspace** | Google. En la nube | Documentos, Hojas de calculo, Presentaciones, Gmail |
+
+### 10.2. Procesador de textos
+
+Aplicacion para **crear, editar, dar formato e imprimir documentos de texto** (cartas, informes, oficios).
+
+- **Microsoft Word** (propietario): extensiones **.docx** (actual) y **.doc** (antiguo).
+- **LibreOffice Writer** (libre): extension nativa **.odt** (Open Document Text).
+- **Funciones tipicas:** escribir y editar texto, formato de fuente (negrita, cursiva, subrayado, tamano, color), alineacion (izquierda, derecha, centrado, justificado), interlineado, sangrias, vinetas y numeracion, insertar tablas/imagenes, encabezados y pies de pagina, numeracion de paginas, corrector ortografico, buscar y reemplazar, combinacion de correspondencia (mailing).
+
+### 10.3. Hoja de calculo
+
+Aplicacion para realizar **calculos, operaciones matematicas, tablas numericas y graficos** con datos organizados en una cuadricula.
+
+- **Microsoft Excel** (propietario): extension **.xlsx** (actual) y **.xls** (antiguo).
+- **LibreOffice Calc** (libre): extension nativa **.ods** (Open Document Spreadsheet).
+
+#### Estructura de una hoja de calculo
+
+| Elemento | Definicion |
+|----------|-----------|
+| **Libro** | El archivo completo. Puede contener varias hojas |
+| **Hoja** | Cada una de las cuadriculas (pestanas inferiores) |
+| **Columna** | Division **vertical**. Se identifica con **LETRAS** (A, B, C... Z, AA, AB...) |
+| **Fila** | Division **horizontal**. Se identifica con **NUMEROS** (1, 2, 3...) |
+| **Celda** | Interseccion de una columna y una fila. Es la **unidad minima** de la hoja. Su nombre/referencia es la letra de columna + numero de fila (ej: **A1**, B5, C12) |
+| **Rango** | Conjunto de celdas contiguas (ej: A1:B10) |
+
+#### Formulas y funciones
+
+- Toda **formula** empieza por el signo **igual ( = )**. Ej: `=A1+A2`.
+- Operadores: + (suma), - (resta), * (multiplicacion), / (division), ^ (potencia).
+- **Funciones** predefinidas mas habituales:
+
+| Funcion | Que hace |
+|---------|----------|
+| **=SUMA(rango)** | Suma los valores de un rango. Ej: =SUMA(A1:A10) |
+| **=PROMEDIO(rango)** | Calcula la media aritmetica |
+| **=MAX / =MIN** | Valor maximo / minimo de un rango |
+| **=CONTAR** | Cuenta cuantas celdas contienen numeros |
+| **=SI(condicion;valor_si;valor_no)** | Funcion logica condicional |
+
+> Cuidado: en Excel los argumentos se separan normalmente con **punto y coma ( ; )** en la configuracion espanola.
+
+### 10.4. Programa de presentaciones
+
+Aplicacion para crear **diapositivas** (presentaciones visuales con texto, imagenes, graficos, animaciones y transiciones).
+
+- **Microsoft PowerPoint** (propietario): extension **.pptx** / .ppt.
+- **LibreOffice Impress** (libre): extension nativa **.odp**.
+
+### 10.5. Base de datos
+
+Aplicacion para **almacenar, organizar y gestionar grandes cantidades de datos** estructurados en tablas (registros y campos), permitiendo consultas, formularios e informes.
+
+- **Microsoft Access** (propietario): extension **.accdb** / .mdb.
+- **LibreOffice Base** (libre): extension .odb.
+- **Conceptos:** **Tabla** (conjunto de datos), **Registro** (cada fila/ficha completa), **Campo** (cada columna/dato concreto), **Consulta** (query), **Formulario**, **Informe**.
+
+### 10.6. Resumen de extensiones de archivo ofimaticas
+
+| Extension | Tipo de archivo |
+|-----------|----------------|
+| **.docx / .doc / .odt** | Documento de texto |
+| **.xlsx / .xls / .ods** | Hoja de calculo |
+| **.pptx / .ppt / .odp** | Presentacion |
+| **.accdb / .mdb / .odb** | Base de datos |
+| **.pdf** | Documento portatil (Portable Document Format). No editable facilmente, lo lee todo el mundo |
+| **.txt** | Texto plano (sin formato) |
+| **.rtf** | Texto enriquecido (formato basico compatible) |
+| **.jpg / .png / .gif** | Imagen |
+| **.mp3 / .mp4** | Audio / Video |
+| **.zip / .rar** | Archivo comprimido |
+
+---
+
+## 11. INTERNET
+
+### 11.1. Concepto
+
+**Internet** = **red de redes** mundial. Conjunto descentralizado de redes de ordenadores interconectadas a escala mundial que comparten informacion y servicios mediante protocolos comunes (principalmente **TCP/IP**).
+
+- Origen: **ARPANET** (1969, EE.UU., Departamento de Defesa - DARPA). Es el antecesor de Internet.
+- No tiene un dueno unico ni un servidor central; es una red distribuida.
+
+### 11.2. Conceptos clave de Internet
+
+| Termino | Definicion |
+|---------|-----------|
+| **WWW (World Wide Web)** | La "telarana mundial". Sistema de documentos de **hipertexto** (paginas web) enlazados entre si accesibles por Internet. **OJO: la WWW NO es lo mismo que Internet** (la web es solo UNO de los servicios que funcionan sobre Internet). Creada por **Tim Berners-Lee** (1989-1991, en el CERN) |
+| **Pagina web** | Documento electronico (texto, imagenes, video, enlaces) accesible por Internet |
+| **Sitio web (website)** | Conjunto de paginas web relacionadas bajo un mismo dominio |
+| **Navegador (browser)** | Programa para acceder y visualizar paginas web. Ej: **Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera** |
+| **Buscador** | Pagina web que localiza informacion en Internet a partir de palabras clave. Ej: **Google, Bing, Yahoo, DuckDuckGo**. OJO: un buscador NO es un navegador (Google buscador != Chrome navegador) |
+| **Hipertexto / Hipervinculo / Enlace (link)** | Texto o elemento que, al pulsarlo, lleva a otra pagina o recurso |
+| **Servidor** | Ordenador que ofrece/aloja servicios o paginas web |
+| **Cliente** | El ordenador del usuario que solicita la informacion |
+| **ISP (Proveedor de Servicios de Internet)** | Empresa que da acceso a Internet (Movistar, Vodafone, Orange...) |
+| **Cookie** | Pequeno archivo que un sitio web guarda en tu navegador para recordar informacion del usuario |
+| **Descargar (download) / Subir (upload)** | Bajar datos de Internet al equipo / enviar datos del equipo a Internet |
+
+### 11.3. La direccion web: URL
+
+**URL (Uniform Resource Locator)** = direccion unica que identifica un recurso en Internet. Estructura:
+
+```
+https://www.sergas.gal/contacto/index.html
+  |       |     |        |        |
+protocolo  www  dominio  ruta    archivo
+```
+
+| Parte | Ejemplo | Significado |
+|-------|---------|-------------|
+| **Protocolo** | https:// | Como se comunica (http, https, ftp) |
+| **Subdominio** | www | World Wide Web (opcional) |
+| **Dominio** | sergas.gal | Nombre del sitio |
+| **Dominio de nivel superior (TLD)** | .gal, .es, .com, .org, .gob, .edu | Tipo/pais del sitio |
+| **Ruta / archivo** | /contacto/index.html | Ubicacion del recurso dentro del sitio |
+
+### 11.4. Protocolos de Internet
+
+| Protocolo | Funcion |
+|-----------|---------|
+| **TCP/IP** | Protocolo BASICO de Internet. Permite que los ordenadores se comuniquen (divide la informacion en paquetes y los reensambla) |
+| **HTTP** (HyperText Transfer Protocol) | Transferencia de paginas web (hipertexto). **NO cifrado** |
+| **HTTPS** (HTTP Secure) | Igual que HTTP pero **SEGURO/CIFRADO** (candado en el navegador). Usa SSL/TLS. **Obligatorio en banca, sanidad, datos personales** |
+| **FTP** (File Transfer Protocol) | Transferencia de archivos |
+| **SMTP** | Envio de correo electronico (salida) |
+| **POP3 / IMAP** | Recepcion de correo electronico (entrada). IMAP mantiene el correo en el servidor; POP3 lo descarga |
+| **DNS** (Domain Name System) | "Guia telefonica" de Internet: traduce nombres de dominio (www.sergas.gal) a direcciones IP numericas |
+
+### 11.5. Direccion IP
+
+- **IP (Internet Protocol):** numero que identifica de forma unica a cada dispositivo conectado a una red.
+- **IPv4:** cuatro numeros de 0 a 255 separados por puntos. Ej: **192.168.1.1**.
+- **IPv6:** version moderna, mas larga (mas direcciones disponibles).
+
+### 11.6. Tipos de redes segun extension e Internet/Intranet/Extranet
+
+| Concepto | Definicion |
+|----------|-----------|
+| **LAN (Local Area Network)** | Red de area **local** (un edificio, una oficina, un hospital) |
+| **MAN (Metropolitan)** | Red de area metropolitana (una ciudad) |
+| **WAN (Wide Area Network)** | Red de area amplia (gran extension; **Internet es la mayor WAN**) |
+| **Internet** | Red publica mundial, accesible por todos |
+| **Intranet** | Red **PRIVADA interna** de una organizacion que usa la tecnologia de Internet, accesible **solo** para sus miembros (ej: la intranet del SERGAS para sus profesionales) |
+| **Extranet** | Extension de la intranet que da acceso **controlado a usuarios externos** autorizados (proveedores, colaboradores) |
+| **VPN** | Red privada virtual: conexion segura y cifrada a traves de Internet (teletrabajo) |
+
+### 11.7. La nube (Cloud Computing)
+
+- Almacenamiento y servicios informaticos a traves de Internet (en servidores remotos), no en el equipo local.
+- Permite acceder a archivos desde cualquier lugar y dispositivo.
+- Ejemplos: **Google Drive, Dropbox, OneDrive, iCloud**.
+
+---
+
+## 12. CORREO ELECTRONICO (E-MAIL)
+
+### 12.1. Concepto
+
+**Correo electronico (e-mail, correo-e):** servicio de Internet que permite **enviar y recibir mensajes** (con texto y archivos adjuntos) entre usuarios de forma rapida a traves de la red.
+
+### 12.2. Estructura de una direccion de correo
+
+Una direccion de correo tiene SIEMPRE el formato **usuario@dominio**:
+
+```
+nombre.apellido @ sergas.gal
+     |           |     |
+   usuario      @    dominio
+  (buzon)   (arroba)  (servidor)
+```
+
+| Parte | Ejemplo | Significado |
+|-------|---------|-------------|
+| **Usuario** (parte local) | nombre.apellido | Identifica el buzon concreto. Va ANTES de la arroba |
+| **@ (arroba)** | @ | Simbolo OBLIGATORIO que **separa** usuario y dominio. Significa "en" (at). Toda direccion lleva una sola arroba |
+| **Dominio** | sergas.gal | Identifica el servidor/proveedor de correo. Va DESPUES de la arroba |
+
+> Sin la **@** no es una direccion de correo valida. Ejemplos de dominios: gmail.com, hotmail.com, outlook.com, yahoo.es, sergas.gal.
+
+### 12.3. Campos al redactar un correo
+
+| Campo | Funcion |
+|-------|---------|
+| **Para (To)** | Destinatario(s) **principal(es)**. Todos ven quien lo recibe |
+| **CC (Copia de Carbon)** | Destinatarios en copia. Es **PUBLICA**: todos los destinatarios VEN quien esta en CC |
+| **CCO / BCC (Copia de Carbon Oculta)** | Destinatarios en copia **OCULTA**: nadie ve quien esta en CCO. **Protege la privacidad** en envios masivos (RGPD/LOPD) y evita revelar direcciones de terceros |
+| **Asunto (Subject)** | Tema/titulo del mensaje |
+| **Cuerpo del mensaje** | El texto del correo |
+| **Adjuntos (attachments)** | Archivos que se envian junto al mensaje (documentos, imagenes). Suele simbolizarse con un **clip** |
+
+> **PREGUNTA TIPICA:** para enviar un correo masivo SIN que los destinatarios vean las direcciones de los demas (proteger datos), se usa el campo **CCO**, NUNCA el CC.
+
+### 12.4. Carpetas / Bandejas tipicas
+
+| Carpeta | Contenido |
+|---------|-----------|
+| **Bandeja de entrada (Inbox)** | Correos recibidos |
+| **Bandeja de salida** | Correos pendientes de enviar |
+| **Enviados** | Correos ya enviados |
+| **Borradores** | Mensajes redactados sin enviar |
+| **Spam / Correo no deseado** | Correo basura, publicidad no solicitada, posibles fraudes |
+| **Papelera / Eliminados** | Correos borrados |
+
+### 12.5. Conceptos asociados
+
+- **Webmail:** acceso al correo desde un navegador web (Gmail, Outlook.com), sin instalar programa.
+- **Cliente de correo:** programa instalado para gestionar el correo (Microsoft Outlook, Mozilla Thunderbird).
+- **Responder / Responder a todos / Reenviar:** responder solo al remitente / a todos los destinatarios / enviar el correo a un tercero.
+- **Spam:** correo masivo no deseado.
+
+---
+
+## 13. SEGURIDAD INFORMATICA
+
+### 13.1. Conceptos basicos
+
+- **Seguridad informatica:** proteccion de los sistemas y la informacion frente a accesos no autorizados, danos o perdidas.
+- Pilares: **confidencialidad** (solo accede quien debe), **integridad** (la informacion no se altera) y **disponibilidad** (la informacion esta accesible cuando se necesita).
+
+### 13.2. Software malicioso (Malware) y amenazas
+
+| Amenaza | Que es |
+|---------|--------|
+| **Virus** | Programa malicioso que se introduce en el ordenador, se ejecuta sin permiso, se **replica** e infecta archivos, causando danos. Necesita la accion del usuario para propagarse |
+| **Gusano (Worm)** | Se replica y propaga solo por la red, SIN necesidad de intervencion del usuario |
+| **Troyano (Trojan)** | Se disfraza de programa legitimo; abre una "puerta trasera" para el atacante |
+| **Spyware** | Espia la actividad del usuario y roba informacion |
+| **Ransomware** | "Secuestra"/cifra los datos del equipo y pide un **rescate** economico |
+| **Phishing** | **Suplantacion de identidad**: correos/webs falsos que imitan a entidades de confianza (banco, SERGAS, Hacienda) para **robar datos personales, contrasenas o bancarios**. Es un fraude por **ingenieria social** |
+| **Spam** | Correo masivo no deseado (publicidad, fraudes) |
+| **Hoax (bulo)** | Noticia falsa que se difunde en cadena |
+
+### 13.3. Medidas de proteccion
+
+| Medida | Funcion |
+|--------|---------|
+| **Antivirus** | Programa que **detecta, bloquea y elimina** virus y malware. Debe estar **actualizado** |
+| **Firewall (Cortafuegos)** | Filtra el trafico de red y bloquea accesos no autorizados |
+| **Contrasenas seguras** | Largas, combinando mayusculas, minusculas, numeros y simbolos. **No compartirlas, no anotarlas, cambiarlas periodicamente, no usar datos personales obvios** |
+| **Verificacion en dos pasos (2FA)** | Anade un segundo factor (codigo al movil) ademas de la contrasena |
+| **Copias de seguridad (Backup)** | Duplicado de la informacion para recuperarla ante perdida o ataque |
+| **Actualizaciones** | Mantener el SO y los programas actualizados (parchea fallos de seguridad) |
+| **Cifrado (encriptacion)** | Codifica la informacion para que solo el autorizado la lea (HTTPS, datos sanitarios) |
+| **Sentido comun** | No abrir adjuntos ni enlaces de remitentes desconocidos; desconfiar de correos que piden datos o urgen a actuar (phishing) |
+
+> **Phishing en el ambito sanitario:** un celador NUNCA debe facilitar contrasenas ni datos de pacientes por correo/telefono ante peticiones sospechosas, ni pinchar enlaces de correos no verificados.
+
+---
+
+## 14. CONFIDENCIALIDAD Y PROTECCION DE DATOS EN SANIDAD (SERGAS)
+
+### 14.1. Marco legal
+
+| Norma | Contenido |
+|-------|-----------|
+| **RGPD** (Reglamento (UE) 2016/679 General de Proteccion de Datos) | Norma europea de proteccion de datos personales |
+| **LOPDGDD** (Ley Organica 3/2018, de Proteccion de Datos Personales y Garantia de los Derechos Digitales) | Ley espanola que adapta el RGPD |
+| **Ley 41/2002** basica de autonomia del paciente | Regula la **historia clinica**, la confidencialidad y el acceso a la informacion clinica |
+
+- Los **datos de salud** son **datos de categoria especial** (datos "sensibles"): tienen **proteccion REFORZADA**. Su tratamiento esta especialmente restringido.
+- **Deber de SECRETO/confidencialidad:** TODO el personal (incluido el **celador**) que accede a datos de pacientes esta obligado a guardar secreto, **incluso despues** de finalizar su relacion laboral.
+
+### 14.2. El celador y la confidencialidad
+
+- El celador, por su trabajo, accede a informacion de pacientes (nombres, ubicacion, traslados, documentacion). Debe:
+  - **No divulgar** datos de pacientes a terceros no autorizados.
+  - **No comentar** casos fuera del ambito profesional.
+  - **No acceder** a historias clinicas ni datos para los que no esta autorizado (acceso solo "por necesidad de conocer").
+  - Custodiar adecuadamente la documentacion clinica que transporta.
+  - Usar correctamente las contrasenas y NO compartirlas.
+
+### 14.3. IANUS: la historia clinica electronica del SERGAS
+
+- **IANUS** es el sistema corporativo de **historia clinica electronica UNICA** del Servizo Galego de Saude (SERGAS).
+- **Acronimo:** **I**ntegracion de informacion, **A**plicacions e **N**ucleo **U**nico de **S**istemas.
+- **Implantado** progresivamente (2005-2007) en todos los hospitales y centros de salud de Galicia.
+- **Funcion:** centraliza e integra TODA la informacion clinica del paciente (consultas, pruebas, intervenciones, prescripciones) de modo que cualquier profesional autorizado pueda acceder a ella desde **cualquier centro** del SERGAS.
+- **Seguridad y trazabilidad:** el acceso es **personal, con usuario y contrasena**, y queda **REGISTRADO** (trazabilidad/auditoria): se sabe quien accede, cuando y a que. El acceso indebido a una historia clinica constituye una **infraccion** y puede tener consecuencias disciplinarias y legales.
+- Version actual: **IANUS 5** (videoconsultas, carpeta personal de salud, conectividad con dispositivos).
+
+> **CLAVE:** acceder a la historia clinica de un paciente por **curiosidad** (familiar, conocido, famoso) SIN motivo asistencial es una vulneracion grave de la confidencialidad, aunque tengas usuario valido.
+
+---
+
+## 15. DATOS CLAVE PARA EXAMEN
 
 ### Historia y conceptos basicos
 
@@ -543,3 +855,89 @@ Dispositivos que almacenan informacion de forma **permanente** (no volatil). A d
 38. **Hardware:** parte FISICA. **Software:** parte LOGICA.
 39. **Sistema operativo:** gestiona recursos, intermediario entre usuario y hardware.
 40. **ASCII:** codificacion de caracteres, 7 bits = 128 caracteres, extendido 8 bits = 256 caracteres.
+
+### Sistemas operativos y software libre
+
+41. **Windows** (Microsoft) = **propietario/de pago**; es el SO habitual del SERGAS. **Linux** = **software libre/gratuito** (Ubuntu, Debian, Red Hat).
+42. **Software libre:** se puede usar, copiar, modificar y distribuir (Linux, LibreOffice). **Propietario:** licencia de pago, codigo cerrado (Windows, MS Office).
+
+### Ofimatica
+
+43. **Ofimatica** = OFIcina + inforMATICA.
+44. **Procesador de textos:** Word (.docx) / Writer (.odt). **Hoja de calculo:** Excel (.xlsx) / Calc (.ods). **Presentaciones:** PowerPoint (.pptx) / Impress (.odp). **Base de datos:** Access / Base.
+45. **Hoja de calculo:** **columnas = LETRAS** (vertical), **filas = NUMEROS** (horizontal), **celda** = interseccion (unidad minima, ej. A1).
+46. Toda **formula** empieza por el signo **= (igual)**. Funciones: =SUMA, =PROMEDIO, =MAX, =MIN, =SI.
+47. **.pdf** = documento portatil, no editable facilmente, universal.
+
+### Internet
+
+48. **Internet** = red de redes mundial (protocolo TCP/IP). Antecesor: **ARPANET** (1969).
+49. **WWW (World Wide Web)** NO es lo mismo que Internet: es solo un servicio. Creada por **Tim Berners-Lee** (CERN).
+50. **Navegador** (Chrome, Firefox, Edge, Safari) != **Buscador** (Google, Bing). Uno visualiza, otro localiza informacion.
+51. **URL:** direccion de una pagina web. **HTTP** = sin cifrar; **HTTPS** = SEGURO/cifrado (candado), obligatorio en sanidad y banca.
+52. **IP:** identifica cada dispositivo. **DNS:** traduce nombre de dominio a IP.
+53. **Intranet:** red PRIVADA interna de una organizacion (ej. SERGAS). **Internet:** red publica mundial.
+
+### Correo electronico
+
+54. **Direccion de correo:** **usuario@dominio**. La **@ (arroba)** separa usuario (antes) y dominio (despues). Sin arroba no es valida.
+55. **CC** = copia PUBLICA (todos la ven). **CCO** = copia OCULTA (nadie ve los destinatarios). Para envios masivos protegiendo datos: **CCO**.
+56. **Adjuntos:** archivos enviados con el mensaje (simbolo clip). **Bandeja de entrada** = recibidos.
+57. **SMTP** = envio de correo; **POP3/IMAP** = recepcion.
+
+### Seguridad y proteccion de datos
+
+58. **Virus:** se replica e infecta (necesita al usuario). **Gusano:** se propaga solo por red. **Troyano:** se disfraza.
+59. **Phishing:** suplantacion de identidad por correo/web falsos para robar datos/contrasenas (fraude). **Ransomware:** secuestra datos y pide rescate.
+60. **Antivirus:** detecta y elimina malware (debe estar actualizado). **Firewall:** filtra el trafico de red.
+61. **Datos de salud = categoria especial (sensibles)**, proteccion reforzada. **RGPD + LOPDGDD (Ley 3/2018)**.
+62. **Deber de secreto:** el celador guarda confidencialidad de datos de pacientes, INCLUSO tras finalizar su relacion laboral.
+63. **IANUS:** historia clinica electronica UNICA del SERGAS. Acceso personal con usuario/contrasena y REGISTRADO (trazabilidad). Acceso por curiosidad = infraccion grave.
+
+---
+
+## 16. PREGUNTAS TRAMPA
+
+1. **RAM vs ROM.** La **RAM** es VOLATIL (se borra al apagar) y de lectura/escritura; la **ROM** es NO volatil (permanente) y de solo lectura. TRAMPA: invierten las definiciones o dicen que la RAM conserva los datos al apagar (FALSO).
+
+2. **Memoria que NO pierde datos al apagar.** Es la **ROM** (y el almacenamiento secundario: disco, USB). La RAM SI los pierde. TRAMPA frecuente.
+
+3. **Bit vs Byte.** **1 Byte = 8 bits** (no 4, ni 2, ni 16). El **bit** es la unidad minima; el **byte** equivale a un caracter. TRAMPA: "1 byte = 8 bits" vs "8 bytes = 1 bit" (esto ultimo es FALSO).
+
+4. **Mb vs MB.** **Mb (megabit)** = velocidad de red (Mbps); **MB (megabyte)** = tamano de archivo. 1 MB = 8 Mb. TRAMPA: confundir velocidad de internet (Mbps) con tamano descargado (MB).
+
+5. **Hardware vs Software.** **Hardware** = FISICO (se toca: teclado, CPU, RAM). **Software** = LOGICO (programas, no se toca). TRAMPA: meter "Windows" o "Word" como hardware (son software), o decir que la RAM es software (es hardware).
+
+6. **CPU = UC + ALU.** El microprocesador se compone de Unidad de **Control** + Unidad **Aritmetico-Logica**. TRAMPA: decir que la ALU dirige/coordina (lo hace la UC) o que la UC hace los calculos (los hace la ALU).
+
+7. **Velocidad de la CPU.** Se mide en **Hz (MHz/GHz)**, NO en bytes ni en bits. TRAMPA: ofrecer "GB" como velocidad de procesador.
+
+8. **Columnas vs filas en hoja de calculo.** **Columnas = LETRAS** (A, B, C... verticales); **filas = NUMEROS** (1, 2, 3... horizontales). TRAMPA: invertirlo (columnas con numeros).
+
+9. **Inicio de formula.** Toda formula en Excel/Calc empieza por **= (igual)**, NO por + ni por el nombre de la funcion sin igual. TRAMPA.
+
+10. **Word vs Excel.** **Word/Writer** = procesador de TEXTOS; **Excel/Calc** = hoja de CALCULO. TRAMPA: atribuir las celdas y formulas a Word, o decir que Excel es un procesador de textos.
+
+11. **WWW NO es Internet.** La **World Wide Web** es solo UN servicio que funciona sobre Internet (que es la red de redes). TRAMPA: "Internet y la WWW son lo mismo" (FALSO).
+
+12. **Navegador vs Buscador.** **Navegador** (Chrome, Firefox, Edge, Safari) = programa para ver webs. **Buscador** (Google, Bing) = pagina que localiza informacion. TRAMPA: "Google es un navegador" (FALSO, es buscador) o "Chrome es un buscador" (FALSO, es navegador).
+
+13. **HTTP vs HTTPS.** **HTTPS** es el SEGURO/cifrado (candado), el obligatorio en sanidad y banca. **HTTP** NO esta cifrado. TRAMPA: decir que HTTP es el seguro.
+
+14. **La arroba (@).** Separa **usuario@dominio**. Sin @ no es una direccion de correo valida; lleva una sola arroba. TRAMPA: direcciones sin @ o con extension de archivo.
+
+15. **CC vs CCO.** Para enviar un correo a varias personas SIN que vean las direcciones de las demas (proteger datos), se usa **CCO** (oculta), NO CC (publica). TRAMPA muy frecuente: ofrecer "CC" como respuesta a la privacidad.
+
+16. **Virus vs gusano.** El **virus** necesita la accion del usuario y se adhiere a archivos; el **gusano** se propaga solo por la red. TRAMPA: intercambiar definiciones.
+
+17. **Phishing.** Es **suplantacion de identidad** para robar datos (no es un tipo de antivirus ni un hardware). TRAMPA: definirlo como "programa de proteccion".
+
+18. **El antivirus.** Sirve para detectar/eliminar malware y **debe estar actualizado**; un antivirus desactualizado pierde eficacia. TRAMPA: "el antivirus no necesita actualizarse".
+
+19. **Software libre vs gratuito.** No es exactamente lo mismo, pero a efectos de examen: **Linux/LibreOffice = libre y gratuito**; **Windows/MS Office = propietario, de pago**. TRAMPA: decir que Windows es software libre.
+
+20. **Confidencialidad del celador.** El deber de secreto se mantiene **INCLUSO tras finalizar el contrato**. Acceder a una historia clinica (IANUS) por **curiosidad**, aunque tengas usuario valido, es infraccion grave porque los accesos quedan REGISTRADOS. TRAMPA: "si tengo usuario puedo consultar cualquier historia".
+
+21. **Datos de salud.** Son datos de **categoria especial (sensibles)** con proteccion REFORZADA por el RGPD/LOPDGDD, no datos "ordinarios". TRAMPA.
+
+22. **IANUS.** Es la historia clinica electronica del **SERGAS (Galicia)**, no un programa de ofimatica ni un antivirus. TRAMPA: confundirlo con un sistema operativo.

@@ -1,4 +1,8 @@
-# TEMA 2: UNIDAD DEL PACIENTE, MOBILIARIO Y APARATAJE SANITARIO
+# TEMA 2: CONOCIMIENTOS BASICOS DE LOS UTENSILIOS, MOBILIARIO Y OBJETOS DE LAS INSTITUCIONES SANITARIAS: CUIDADOS Y CONSERVACION
+
+> **Enunciado oficial SERGAS (Parte Especifica, Tema 2):** "Conocimientos basicos de los utensilios, mobiliario y objetos de las instituciones sanitarias: cuidados y conservacion."
+>
+> **Clave del tema:** ademas de *conocer* el mobiliario y aparataje, el examen insiste en **cuidados, limpieza, conservacion y almacenamiento**, y en delimitar **que es funcion del celador y que NO** (p. ej., el celador **no** ausculta ni toma la tension; **si** monta la cama ortopedica/Judet).
 
 ---
 
@@ -93,28 +97,39 @@ La **unidad del paciente** es el conjunto formado por el **espacio fisico** (hab
 
 ---
 
-## 3. MOBILIARIO HOSPITALARIO
+## 3. MOBILIARIO HOSPITALARIO (CLINICO)
 
-### 3.1 Mesilla de noche
+### 3.1 Tabla comparativa del mobiliario clinico
 
-- **Extensible** y **regulable en altura**.
-- Permite guardar objetos personales del paciente.
-- Suele tener cajon superior y compartimento inferior.
+> Memoriza **para que sirve, donde esta y rasgo distintivo**. El examen mezcla mesas (de noche / auxiliar-de cama / de Mayo / de exploracion) como distractores.
 
-### 3.2 Armario ropero
+| Mueble | Funcion principal | Rasgo distintivo / dato clave |
+|--------|-------------------|-------------------------------|
+| **Mesilla / mesa de noche** | Guardar objetos personales del paciente | Junto al cabecero. Cajon + compartimento, regulable |
+| **Mesa de cama / auxiliar (mesa-puente)** | Comer y actividades estando encamado | Tablero **regulable en altura**, se monta **sobre la cama** (a horcajadas), con ruedas |
+| **Mesa de Mayo (mesa de ciguena)** | Soporte del **instrumental quirurgico esteril** | Bandeja metalica sobre **un solo pie** con ruedas; quirofano/curas |
+| **Mesa de exploracion / reconocimiento** | Explorar al paciente en consulta | Fija o con respaldo reclinable; suele llevar rollo de papel desechable |
+| **Mesa de instrumental (auxiliar de quirofano)** | Reserva de material esteril durante la cirugia | Mayor que la de Mayo, 4 patas; cerca de la mesa de operaciones |
+| **Carro de curas** | Transportar material para curas y tecnicas | **Acero inoxidable**, cajones; cubeta superior limpia / inferior sucio |
+| **Carro de paradas (RCP)** | Soporte vital avanzado | Sellado/precintado, revision periodica (ver 11.4) |
+| **Carro de medicacion (unidosis)** | Medicacion individualizada por paciente | Cajones nominativos; sistema de dosis unitaria |
+| **Biombo** | Preservar la **intimidad** del paciente | Pantalla movil con ruedas, plegable; aisla visualmente, no acusticamente |
+| **Pie de gotero / soporte de suero** | Sostener sueros, bombas y bolsas | **Regulable en altura**, con ruedas o fijo a la cama; ganchos en la parte superior |
+| **Escalerilla / escabel / banqueta** | Ayudar a **subir o bajar de la cama / camilla** | 1-2 peldanos, base **antideslizante**; se retira tras su uso |
+| **Sillon de descanso** | Sedestacion del paciente | Reclinable, con reposabrazos |
+| **Armario ropero** | Ropa y enseres del paciente | Perchas + **manta de repuesto** |
+| **Papelera** | Residuos | Con **tapa y pedal** (no se toca con la mano) |
+| **Lampara de cabecero** | Iluminacion individual | **Fijada a la pared**, luz dirigida |
 
-- Con **perchas** para la ropa del paciente.
-- Debe contener una **manta de repuesto**.
-- Generalmente de una sola puerta, integrado en la unidad.
+### 3.2 Detalle de muebles que mas pregunta el SERGAS
 
-### 3.3 Papelera
-
-- Con **tapa** y **pedal** de apertura.
-
-### 3.4 Lampara
-
-- **Fijada a la pared** (cabecero de la cama).
-- Permite iluminacion individual sin molestar a otros pacientes.
+- **Mesilla de noche:** extensible y **regulable en altura**; guarda objetos personales. Es de la unidad del paciente.
+- **Mesa de cama / auxiliar (mesa-puente):** tablero **regulable**, se coloca **sobre la cama** para que el paciente coma o lea encamado. **No confundir** con la mesilla de noche.
+- **Mesa de Mayo:** bandeja metalica sobre **un pie** con ruedas para el **instrumental quirurgico** esteril; tambien llamada "mesa de ciguena".
+- **Carro de curas:** de **acero inoxidable** (facil limpieza/desinfeccion), con cajones o compartimentos; debe estar **siempre limpio, repuesto y completo**. Organizacion limpio-arriba / sucio-abajo.
+- **Biombo:** elemento **movil** para garantizar la **intimidad** del paciente durante tecnicas o aseo. Aisla la vista, no el ruido.
+- **Pie de gotero:** soporte **regulable en altura**, con ruedas (movil) o anclable a la cama; la **bolsa de suero va por encima** del paciente y la **bolsa de diuresis por debajo** de la vejiga.
+- **Escalerilla / escabel:** taburete-escalon **antideslizante** para acceder a la cama o a la mesa de exploracion; se **retira** despues para evitar tropiezos.
 
 ---
 
@@ -250,13 +265,15 @@ La **unidad del paciente** es el conjunto formado por el **espacio fisico** (hab
 
 ## 8. APARATAJE SANITARIO
 
+> **TRAMPA RECURRENTE:** el celador **NO maneja aparataje de exploracion ni diagnostico** (no ausculta con el fonendoscopio, no toma la tension con el esfigmomanometro, no usa pulsioximetro). Su funcion es **transportar, ubicar, custodiar y mantener limpio** el aparataje, no utilizarlo clinicamente. El **fonendoscopio** y el **esfigmomanometro** son de **uso sanitario** (medico/enfermeria).
+
 ### 8.1 Aparatos de exploracion y diagnostico
 
 | Aparato | Funcion |
 |---------|---------|
-| **Estetoscopio (fonendoscopio)** | Auscultacion de sonidos corporales (corazon, pulmones, abdomen) |
+| **Estetoscopio (fonendoscopio)** | Auscultacion de sonidos corporales (corazon, pulmones, abdomen). **Uso sanitario, NO del celador.** Partes: olivas, tubo, campana y membrana |
 | **Estetoscopio de Pinard** | Auscultacion del **latido fetal** (trompetilla obstetrica) |
-| **Esfigmomanometro** | Medicion de la **presion arterial** (tension arterial) |
+| **Esfigmomanometro (tensiometro)** | Medicion de la **presion/tension arterial**. **Uso sanitario, NO del celador.** Tipos: de **mercurio**, **aneroide** (manometro de aguja) y **digital/electronico**. Componentes: manguito (brazalete), pera de insuflacion, valvula y manometro |
 | **Otoscopio** | Exploracion del **oido** (conducto auditivo externo y timpano) |
 | **Rinoscopio** | Exploracion de las **fosas nasales** |
 | **Pelvimetro** | Medicion de los **diametros de la pelvis** (obstetricia) |
@@ -304,6 +321,50 @@ La **unidad del paciente** es el conjunto formado por el **espacio fisico** (hab
 | **ECG / EKG** | Electrocardiograma |
 | **EEG** | Electroencefalograma |
 | **TA** | Tension arterial (esfigmomanometro) |
+
+---
+
+## 8.bis CUIDADOS, CONSERVACION, LIMPIEZA Y ALMACENAMIENTO
+
+> Este es el **nucleo del enunciado del tema**. El mobiliario y los utensilios son **bienes publicos** del patrimonio del SERGAS: su buen uso es una obligacion tecnica y etica del celador.
+
+### 8.bis.1 Principios generales de conservacion
+
+- Mantener todo el material **limpio, funcional y en buen estado**, evitando un uso indebido que cause desgaste o averias.
+- **Verificar antes de usar:** frenos, ruedas, tornilleria, integridad de estructuras (camas, camillas, sillas, gruas).
+- Si un equipo esta **averiado o deteriorado** (p. ej., rueda rota de una mesa auxiliar): **retirarlo del uso, senalizarlo y comunicarlo a mantenimiento**. El celador **no repara** averias tecnicas.
+- **No sobrecargar** los equipos por encima de su carga maxima (camas, gruas, camillas, sillas).
+- **Frenar siempre** camas, camillas y sillas durante transferencias y cuando esten estacionadas.
+
+### 8.bis.2 Limpieza segun el material
+
+| Material / equipo | Pauta de limpieza |
+|-------------------|-------------------|
+| **Acero inoxidable** (carros, mesa de Mayo) | Agua tibia + **detergente neutro**, desinfectante compatible y **secado** (evita cal/corrosion) |
+| **Superficies metalicas pintadas / plastico** | Pano humedo con detergente; secar despues |
+| **Colchones, fundas, gomas** | Funda impermeable lavable; limpieza/desinfeccion entre pacientes |
+| **Material de un solo uso (lancetas, depresores...)** | **No se reutiliza:** se desecha en el contenedor adecuado |
+| **Camas / camillas / sillas** | Limpieza y desinfeccion **al alta del paciente** y entre usos |
+
+- Sentido de limpieza: **de lo mas limpio a lo mas sucio** y **de arriba hacia abajo**.
+- En carros: **parte alta = material limpio**, **parte baja = material sucio/residuos**.
+
+### 8.bis.3 Almacenamiento y ubicacion
+
+- Guardar los equipos en su **lugar asignado**, despejando pasillos y vias de evacuacion (no obstaculizar).
+- **No bloquear** salidas, extintores ni tomas de oxigeno/vacio.
+- Material esteril y de un solo uso: **lugar limpio y seco**, respetando caducidades y rotacion de stock (**lo que antes caduca, antes se usa**).
+- El **carro de paradas** se almacena **precintado, completo y accesible**, revisado periodicamente (ver 11.4).
+
+### 8.bis.4 Que SI / que NO hace el celador con el aparataje
+
+| El celador SI | El celador NO |
+|----------------|----------------|
+| Transportar y ubicar el aparataje | Auscultar (fonendoscopio) |
+| Custodiar y vigilar su estado | Tomar la tension (esfigmomanometro) |
+| Mantenerlo limpio y ordenado | Usar pulsioximetro / monitor / ECG |
+| Comunicar averias a mantenimiento | Reparar o calibrar equipos |
+| Montar la cama ortopedica/Judet | Administrar oxigeno o medicacion |
 
 ---
 
@@ -470,6 +531,16 @@ La **unidad del paciente** es el conjunto formado por el **espacio fisico** (hab
 18. **Paredes:** color **BLANCO MATE** (no blanco brillo).
 19. **Ruedas:** de **GOMA**, doble frenado.
 20. **Roto Rest:** giro **CONSTANTE** (prevencion UPP).
+21. **Mesa de Mayo:** soporte del **INSTRUMENTAL QUIRURGICO** esteril, sobre **UN** pie (no es la mesa de comer).
+22. **Mesa de cama / auxiliar:** la que se monta **SOBRE LA CAMA** para comer encamado (no es la mesilla de noche).
+23. **Carro de curas:** de **ACERO INOXIDABLE**; limpio-arriba / sucio-abajo.
+24. **Biombo:** garantiza la **INTIMIDAD** (visual), es **MOVIL**; no aisla el ruido.
+25. **Escalerilla/escabel:** base **ANTIDESLIZANTE**; se **RETIRA** tras su uso.
+26. **Fonendoscopio y esfigmomanometro:** uso **SANITARIO**, el **celador NO los usa**.
+27. **Averia de un equipo:** el celador **lo retira y avisa a mantenimiento**, NO lo repara.
+28. **Limpieza:** de lo **LIMPIO a lo SUCIO** y de **ARRIBA a ABAJO**.
+29. **Material de un solo uso:** NO se reutiliza, se **desecha**.
+30. **Pie de gotero:** suero **POR ENCIMA**; bolsa de diuresis **POR DEBAJO** de la vejiga.
 
 ### Orden de ropa de cama (regla mnemotecnica: "Co-Ba-Hu-En-Enci-Man-Col-Al")
 
@@ -515,5 +586,37 @@ La **unidad del paciente** es el conjunto formado por el **espacio fisico** (hab
 
 ---
 
-*Documento de estudio para oposiciones de Celador - Tema 2*
-*Elaborado para preparacion de examen tipo test*
+## PREGUNTAS TRAMPA
+
+> Las trampas tipicas del SERGAS en este tema confunden **muebles parecidos**, atribuyen al celador **funciones sanitarias** que no le corresponden, o cambian un **numero clave**. Repasa estas confusiones de pares:
+
+| Te preguntan por... | Respuesta correcta | Distractor clasico |
+|---------------------|--------------------|--------------------|
+| Mesa para comer encamado | **Mesa de cama / auxiliar** (sobre la cama) | Mesilla de noche |
+| Soporte del instrumental quirurgico | **Mesa de Mayo** (un pie) | Mesa de exploracion |
+| Quien toma la tension / ausculta | **Personal sanitario** | El celador |
+| Quien monta la cama de Judet | **El CELADOR** | Auxiliar / enfermera |
+| Camilla de palas/tijera | Solo **MOVILIZAR** | Trasladar |
+| Aparato que mide la humedad | **Higrometro** | Termometro / barometro |
+| Cama de psiquiatria | **Rigida** (no Fowler) | Articulada |
+| Cama de grandes quemados | **Clinitron / Electrocircular** | Roto Rest |
+| Cabecero en una RCP | **Extraible/desmontable** | Fijo |
+| Equipo averiado | **Retirar y avisar a mantenimiento** | Repararlo el celador |
+| Sentido de la limpieza | **Limpio→sucio, arriba→abajo** | Al reves |
+| Temperatura de la habitacion | **20-22 C** | 24-26 C |
+| Humedad relativa optima | **40-60 %** | 10-20 % (eso es para resp.) |
+| Ventilacion natural | **10-15 min/dia** | Con ventanas abiertas todo el dia |
+
+### Errores conceptuales a evitar
+
+1. La **unidad del paciente** es el conjunto de espacio + mobiliario + material de **una sola** cama: hay **tantas unidades como camas**.
+2. El **biombo** da intimidad **visual**, NO acustica, y es un elemento **movil**.
+3. El **fonendoscopio** y el **esfigmomanometro** los maneja el **personal sanitario**: el celador solo los **transporta y conserva**.
+4. El **material de un solo uso** (lancetas, depresores) **no se reutiliza** jamas.
+5. La **cama ortopedica/Judet** es la unica cuyo **montaje** es funcion especifica del celador.
+6. El **carro de paradas** se guarda **precintado, completo y accesible**, no abierto ni a medio reponer.
+
+---
+
+*Documento de estudio para oposiciones de Celador SERGAS - Tema Especifico 2*
+*Elaborado para preparacion de examen tipo test (50 teoricas + 50 supuestos practicos)*

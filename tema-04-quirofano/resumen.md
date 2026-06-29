@@ -1,4 +1,8 @@
-# TEMA 4: EL AREA QUIRURGICA. NORMAS DE ACTUACION. CELADOR DE QUIROFANO
+# TEMA 4 (ESPECIFICO): AREA QUIRURGICA, NORMAS DE HIGIENE. UNIDADES DE HOSPITALIZACION, ESTANCIAS COMUNES Y UNIDADES DE SALUD MENTAL
+
+> Enunciado oficial: "Area quirurgica: actuacion y normas de higiene. Actuacion en las unidades de hospitalizacion, estancias comunes y unidades de salud mental."
+>
+> ESTRUCTURA DEL TEMA: bloque A = QUIROFANO (apartados 1-12), bloque B = UNIDADES DE HOSPITALIZACION Y ESTANCIAS COMUNES (apartado 13), bloque C = UNIDADES DE SALUD MENTAL (apartado 14, resumen del tema-09). Para el desarrollo completo de psiquiatria ver `tema-09-psiquiatria/resumen.md`.
 
 ---
 
@@ -554,6 +558,83 @@ Es el lavado que realiza el equipo quirurgico (cirujano, ayudantes, instrumentis
 
 ---
 
+## 13. ACTUACION EN LAS UNIDADES DE HOSPITALIZACION Y ESTANCIAS COMUNES
+
+### 13.1 La unidad de hospitalizacion (UH)
+
+- Es el conjunto de **habitaciones** (boxes) destinadas al ingreso de pacientes, con sus zonas de apoyo: **control de enfermeria**, office, almacenes de ropa/material, sala de curas, oficio de limpio y oficio de sucio, sala de estar, despacho medico y aseos.
+- El **control de enfermeria** es el nucleo de la unidad: punto desde el que se vigila y coordina. Suele situarse en zona central para minimizar recorridos.
+- Las habitaciones pueden ser **individuales** o **dobles** (en SERGAS se tiende a la individualizacion). El **aislamiento** (de contacto, gota o aereo) se hace en habitacion individual.
+- El celador esta **adscrito a la planta/unidad** y depende funcionalmente del personal de enfermeria (supervisor/a de la unidad).
+
+### 13.2 Funciones del celador en la unidad de hospitalizacion
+
+1. **Traslado de pacientes** dentro y fuera de la unidad (a pruebas, consultas, quirofano, alta) en cama, camilla o silla de ruedas, siempre **acompanado de la documentacion** que corresponda.
+2. **Movilizacion del paciente encamado**: ayudar a enfermeria a girar, incorporar, sentar o cambiar de cama al paciente. El celador **moviliza** pero NO realiza cuidados de enfermeria (no cambia panales/sondas, eso es del TCAE/enfermeria; colabora en la sujecion y el peso).
+3. **Acompanamiento de pacientes y visitas**: orientar e informar de la ubicacion, acompanar a familiares.
+4. **Transporte de material, documentacion, muestras y aparataje**: llevar peticiones, historias, sueros, balas de oxigeno, sillas, camas, etc. Trasladar muestras al laboratorio y piezas a anatomia patologica.
+5. **Reparto y recogida de comidas** colaborando con la cocina/pinche cuando el centro asi lo organice (segun el Estatuto, ayuda al reparto pero no manipula los alimentos como funcion sanitaria).
+6. **Amortajamiento y traslado de cadaveres al mortuorio**: el celador, junto con el personal correspondiente, amortaja al fallecido y lo traslada al deposito; nadie mas debe realizar esta funcion (funcion clasica del celador segun el Estatuto de 1971, art. 14.2).
+7. **Control de orden y silencio** en la unidad: vigilar que se respete el descanso, el regimen de visitas y que no accedan personas no autorizadas.
+8. **Hacer guardar el debido respeto y compostura** a enfermos y visitantes (funcion del Estatuto).
+9. **Vigilancia de accesos y puertas**, evitar aglomeraciones, y avisar al personal sanitario ante cualquier incidencia.
+
+### 13.3 Normas de higiene en la planta
+
+- **Higiene de manos** del celador antes y despues de movilizar a cada paciente (lavado higienico o solucion hidroalcoholica). Es la medida mas eficaz para prevenir la **infeccion nosocomial** (asociada a la asistencia sanitaria, IAAS).
+- Respetar las **medidas de aislamiento** (cartel en la puerta): colocarse los EPI indicados (bata, guantes, mascarilla) antes de entrar y retirarlos correctamente al salir.
+- **Camas, camillas y sillas** se limpian/desinfectan entre pacientes.
+- Separacion estricta de **circuito limpio y circuito sucio**; los residuos se segregan por colores segun el tipo (Grupo I asimilables a urbanos, Grupo II biosanitarios, Grupo III especiales/citotoxicos, Grupo IV radiactivos).
+
+### 13.4 Estancias comunes
+
+Son las zonas de uso compartido por pacientes, visitantes y personal fuera de las habitaciones: **pasillos, salas de espera, vestibulos, ascensores y montacamas, escaleras, comedores, salas de estar, capilla, cafeteria, aseos comunes**.
+
+Actuacion del celador en estancias comunes:
+
+- **Vigilancia y control de orden**: evitar aglomeraciones, ruidos y comportamientos inadecuados.
+- **Informacion y orientacion** al publico sobre ubicaciones del centro.
+- **Control de accesos**: impedir el paso a zonas restringidas y fuera del horario de visitas.
+- **Uso correcto de ascensores y montacamas**: prioridad para camas/camillas con pacientes; el celador maneja el montacargas/montacamas.
+- **Mantener despejadas las vias de evacuacion** (importante en plan de autoproteccion/incendios).
+- Trasladar mobiliario, aparatos y enseres entre dependencias.
+
+---
+
+## 14. ACTUACION EN LAS UNIDADES DE SALUD MENTAL (resumen; desarrollo en tema 9)
+
+> Desarrollo completo en `tema-09-psiquiatria/resumen.md`. Aqui solo lo imprescindible para este tema especifico.
+
+### 14.1 Marco y caracteristicas de la unidad
+
+- Tras la **Ley General de Sanidad 14/1986 (art. 20)**, el enfermo mental se equipara al resto de enfermos y la hospitalizacion se realiza en **unidades psiquiatricas de hospitales generales** (no manicomios). Modelo de atencion **comunitario**, con la hospitalizacion como ultimo recurso.
+- La **Unidad de Hospitalizacion Breve / de Agudos** es de **puertas cerradas** (acceso controlado con llave o clave). Se usan **camas rigidas (sin articulaciones)** por seguridad.
+- El **internamiento involuntario** (art. 763 LEC): autorizacion judicial PREVIA como regla; en urgencia se comunica al juzgado en **24 h** y se ratifica en **72 h**.
+
+### 14.2 Trato y actitud del celador con el enfermo mental
+
+- **Empatia, escucha activa, respeto, calma y serenidad**; firmeza sin autoritarismo.
+- **No confrontar** al paciente delirante: ni dar la razon al delirio ni negarlo frontalmente.
+- Comunicacion clara y sencilla; no prometer lo que no se puede cumplir.
+- El celador **NUNCA toma decisiones clinicas**, **no diagnostica**, **no administra medicacion** y **no da informacion clinica** a familiares.
+
+### 14.3 Funciones de seguridad del celador
+
+- **Vigilancia continua** (autolesion, suicidio, heteroagresividad) y **prevencion de fugas** (control de accesos, recuento periodico de pacientes, atencion en cambios de turno y visitas).
+- **Control de objetos peligrosos**: impedir cinturones, cordones, cortantes/punzantes, cristal, mecheros, medicacion no prescrita; **recuento de cubiertos** tras cada comida; vigilancia de banos y ventanas.
+- **Riesgo de suicidio**: vigilancia estrecha, retirar todo objeto lesivo, no dejar solo al paciente, y especial atencion ante la **"mejoria aparente"** subita.
+
+### 14.4 Contencion mecanica: papel del celador
+
+- Es una medida **EXCEPCIONAL, TEMPORAL y de ULTIMO RECURSO** (escalada: verbal/ambiental -> farmacologica -> mecanica -> aislamiento).
+- La **INDICA el FACULTATIVO (medico)** por prescripcion; en emergencia extrema puede iniciarla enfermeria con comunicacion inmediata al medico. **El celador NUNCA la decide ni la aplica a solas: AYUDA bajo supervision** del personal sanitario.
+- **Personal: minimo 5 personas** (1 por cada extremidad + 1 que coordina/sujeta la cabeza). El celador participa por su fuerza fisica.
+- **Puntos de sujecion**: sistema de **5 puntos** (cinturon abdominal + 4 extremidades) en la contencion completa; la **parcial** sujeta tronco + 2 extremidades **en diagonal** (un brazo y la pierna contraria). Existen tambien sujeciones de 2 o 3 puntos segun protocolo.
+- **Tecnica**: informar al paciente; **decubito SUPINO**; sujeciones fijadas a las **partes FIJAS de la cama** (marco), NO a barandillas moviles; debe caber **un dedo** entre la sujecion y la piel; colocar las extremidades en diagonal.
+- **Vigilancia posterior cada 15-30 minutos** por enfermeria; **registro obligatorio** en la historia clinica (indicacion, hora inicio/fin, incidencias). Retirada progresiva, de una sujecion en una.
+
+---
+
 ## DATOS CLAVE PARA EXAMEN
 
 ### Datos numericos y cuantitativos:
@@ -569,6 +650,8 @@ Es el lavado que realiza el equipo quirurgico (cirujano, ayudantes, instrumentis
 - Autoclave: **121 grados C / 15-20 min** o **134 grados C / 3-7 min**
 - Check-list OMS: **3 fases** (Sign In, Time Out, Sign Out)
 - Ayunas prequirurgicas: **6-8 horas** solidos, **2 horas** liquidos claros
+- Contencion mecanica: minimo **5 personas**; **5 puntos** de sujecion (cinturon + 4 extremidades); revision cada **15-30 min**; **un dedo** entre sujecion y piel
+- Internamiento involuntario urgente: comunicar al juzgado en **24 h**, ratificar en **72 h**
 
 ### Colores de las zonas:
 
@@ -639,6 +722,44 @@ Es el lavado que realiza el equipo quirurgico (cirujano, ayudantes, instrumentis
 - **Sin hospitalizacion nocturna**
 - Pacientes de bajo riesgo (ASA I-II)
 
+### Hospitalizacion y estancias comunes:
+
+- **Control de enfermeria** = nucleo de la unidad, situado en zona central
+- **Aislamiento** = habitacion individual; respetar EPI del cartel de la puerta
+- **Higiene de manos** = principal medida contra la infeccion nosocomial (IAAS)
+- **Amortajamiento y traslado al mortuorio** = funcion clasica del celador
+- **Estancias comunes** = pasillos, salas de espera, ascensores, comedores; el celador vigila orden, controla accesos y maneja el montacamas
+- Residuos: **Grupo I** (urbanos), **Grupo II** (biosanitarios), **Grupo III** (especiales/citotoxicos), **Grupo IV** (radiactivos)
+
+### Salud mental (resumen):
+
+- Hospitalizacion en **unidades de hospitales generales** (LGS 14/1986, art. 20), NO manicomios
+- Unidad de agudos = **puertas cerradas** + **camas rigidas (sin articulaciones)**
+- **Contencion mecanica**: la INDICA el medico; el celador AYUDA bajo supervision, NUNCA decide ni la aplica solo
+- **5 personas** minimo, **5 puntos** (cinturon + 4 extremidades en diagonal), decubito **SUPINO**, a partes **fijas** de la cama, **un dedo** de holgura, revision **15-30 min**
+- El celador NO administra medicacion, NO diagnostica, NO da informacion clinica
+
 ---
 
-*Documento de estudio para oposiciones de Celador. Tema 4: Area Quirurgica.*
+## PREGUNTAS TRAMPA
+
+1. "El bloque quirurgico incluye la sala de endoscopias y la de partos" -> **FALSO**. El BQ NO incluye endoscopias, cirugia menor ambulatoria, hemodinamica ni partos.
+2. "La zona NEGRA es la zona esteril del quirofano" -> **FALSO**. NEGRA = sucia/acceso general (vestuarios); BLANCA = esteril (quirofanos). No confundir colores.
+3. "La presion del aire en el quirofano es negativa" -> **FALSO**. Es POSITIVA (el aire SALE al abrir la puerta), salvo aislamiento aereo en planta que si es negativa.
+4. "El celador realiza el lavado quirurgico de manos y entra en el campo esteril" -> **FALSO**. El celador NO se lava quirurgicamente ni entra en campo esteril; es personal circulante (no esteril).
+5. "El celador decide la posicion quirurgica del paciente" -> **FALSO**. La indica el cirujano; el celador AYUDA a movilizar y posicionar en equipo.
+6. "Ante la duda sobre si un material esta esteril, se utiliza igualmente" -> **FALSO**. Ante la duda -> CONTAMINADO; se desecha.
+7. "El celador toca la mesa de Mayo para acercar el instrumental" -> **FALSO**. La mesa de Mayo es esteril (la controla la instrumentista); el celador no la toca.
+8. "La transferencia del paciente a la mesa quirurgica la hace el celador solo" -> **FALSO**. Se hace en equipo, con cama/dispositivo de transfer, bajo indicacion del personal sanitario.
+9. "El celador administra la medicacion al enfermo mental agitado que se niega" -> **FALSO**. La administra enfermeria; el celador solo SUJETA/colabora bajo indicacion.
+10. "La contencion mecanica la decide el celador cuando ve al paciente agitado" -> **FALSO**. La INDICA el medico (facultativo); el celador ayuda bajo supervision.
+11. "En la contencion mecanica las sujeciones se atan a las barandillas de la cama" -> **FALSO**. Se fijan a las partes FIJAS de la cama (marco), nunca a barandillas moviles.
+12. "El paciente en contencion se coloca en decubito prono" -> **FALSO**. Se coloca en decubito SUPINO (boca arriba).
+13. "Basta con 2 personas para una contencion mecanica completa" -> **FALSO**. Minimo 5 (una por extremidad + coordinador/cabeza).
+14. "La sujecion debe quedar muy apretada para que no se suelte" -> **FALSO**. Debe caber UN DEDO entre la sujecion y la piel.
+15. "El celador puede dar informacion clinica a la familia del paciente psiquiatrico" -> **FALSO**. Nunca; tampoco diagnostica ni toma decisiones clinicas.
+16. "Tras la Ley General de Sanidad el enfermo mental ingresa en hospitales psiquiatricos (manicomios)" -> **FALSO**. Ingresa en unidades psiquiatricas de hospitales GENERALES; modelo comunitario.
+
+---
+
+*Documento de estudio para oposiciones de Celador SERGAS. Tema 4 (especifico): Area quirurgica, hospitalizacion, estancias comunes y salud mental.*
